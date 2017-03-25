@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="HNDSDY1A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+      <Teacher name="Ged"></Teacher><Subject name="JAVA"></Subject><Activity_Tag name="VLAN"></Activity_Tag><Activity_Tag name="STB"></Activity_Tag><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="Ged"></Teacher><Subject name="JAVA"></Subject><Activity_Tag name="VLAN"></Activity_Tag><Activity_Tag name="STB"></Activity_Tag><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="Ged"></Teacher><Subject name="JAVA"></Subject><Activity_Tag name="VLAN"></Activity_Tag><Activity_Tag name="STB"></Activity_Tag><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="Ged"></Teacher><Subject name="JAVA"></Subject><Activity_Tag name="VLAN"></Activity_Tag><Activity_Tag name="STB"></Activity_Tag><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HNDSDY1B Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
