@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<Activities_Timetable>
-<Activity>
-	<Id>1</Id>
-	<Day>Monday</Day>
-	<Hour>09:00</Hour>
-	<Room>BF45A</Room>
-</Activity>
-</Activities_Timetable>
