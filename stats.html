@@ -125,3 +125,137 @@ Course Stats
 | NCCDM6_HF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp B | HALBEATH |        1 |          9 |
 | NCCDM6_HF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp B | HALBEATH |        2 |          9 |
 +---------------+------------------------------------------------------------------------------------------------------+----------+----------+------------+
+Room Stats
+Lecturer Stats
+Course Stats
++---------------------+
+| Tables_in_timetable |
++---------------------+
+| timetable           |
++---------------------+
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| course       | varchar(100) | YES  |     | NULL    |       |
+| course_desc  | varchar(100) | YES  |     | NULL    |       |
+| campus       | varchar(100) | YES  |     | NULL    |       |
+| unit         | varchar(100) | YES  |     | NULL    |       |
+| unit_desc    | varchar(100) | YES  |     | NULL    |       |
+| hours        | int(11)      | YES  |     | NULL    |       |
+| semester     | int(11)      | YES  |     | NULL    |       |
+| room         | varchar(100) | YES  |     | NULL    |       |
+| lecturer     | varchar(100) | YES  |     | NULL    |       |
+| alternatives | varchar(100) | YES  |     | NULL    |       |
+| dummy1       | varchar(100) | YES  |     | NULL    |       |
+| dummy2       | varchar(100) | YES  |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+
++----------+
+| COUNT(*) |
++----------+
+|      270 |
++----------+
++----------+-------+----------+------------+
+| campus   | room  | semester | SUM(hours) |
++----------+-------+----------+------------+
+| HALBEATH | HA    |        1 |         52 |
+| HALBEATH | HA    |        2 |         32 |
+| HALBEATH | HV    |        1 |         10 |
+| HALBEATH | HV    |        2 |         28 |
+| STB      | CISCO |        1 |         33 |
+| STB      | CISCO |        2 |         45 |
+| STB      | StBA  |        1 |        142 |
+| STB      | StBA  |        2 |         92 |
+| STB      | StBV  |        1 |         44 |
+| STB      | StBV  |        2 |         74 |
+| STENTON  | SA    |        1 |         12 |
+| STENTON  | SA    |        2 |          8 |
+| STENTON  | SV    |        1 |          2 |
+| STENTON  | SV    |        2 |          6 |
++----------+-------+----------+------------+
++----------+----------+------------+
+| lecturer | semester | SUM(hours) |
++----------+----------+------------+
+| Anne     |        1 |          2 |
+| Anne     |        2 |          3 |
+| Arthur   |        1 |         23 |
+| Arthur   |        2 |         22 |
+| Aurelien |        1 |         24 |
+| Aurelien |        2 |         23 |
+| Fiona    |        1 |         20 |
+| Fiona    |        2 |         20 |
+| Ged      |        1 |         16 |
+| Ged      |        2 |         14 |
+| Gillian  |        1 |         24 |
+| Gillian  |        2 |         23 |
+| Jim      |        1 |         20 |
+| Jim      |        2 |         20 |
+| Julie    |        1 |         13 |
+| Julie    |        2 |         12 |
+| Kerry    |        1 |          8 |
+| Kerry    |        2 |          8 |
+| Lorna    |        1 |         23 |
+| Lorna    |        2 |         22 |
+| Mark     |        1 |         24 |
+| Mark     |        2 |         23 |
+| Norman   |        1 |         20 |
+| Norman   |        2 |         18 |
+| Perri    |        1 |         24 |
+| Perri    |        2 |         24 |
+| Peter    |        1 |         16 |
+| Peter    |        2 |         16 |
+| Sharon   |        1 |          4 |
+| Sharon   |        2 |          4 |
+| Stewart  |        1 |         14 |
+| Stewart  |        2 |         14 |
+| Terry    |        1 |         20 |
+| Terry    |        2 |         19 |
++----------+----------+------------+
++---------------+------------------------------------------------------------------------------------------------------+----------+----------+------------+
+| course        | course_desc                                                                                          | campus   | semester | SUM(hours) |
++---------------+------------------------------------------------------------------------------------------------------+----------+----------+------------+
+| BSAPN_BF117A  | BSc Applied Networking Technologies SCQF Level 9 - Yr1 Grp A                                         | STB      |        1 |          9 |
+| BSAPN_BF117A  | BSc Applied Networking Technologies SCQF Level 9 - Yr1 Grp A                                         | STB      |        2 |          9 |
+| HDCON_BF117A  | HND Computing: Networking SCQF Level 8 - Yr1 Grp A                                                   | STB      |        1 |         15 |
+| HDCON_BF117A  | HND Computing: Networking SCQF Level 8 - Yr1 Grp A                                                   | STB      |        2 |         15 |
+| HDCON_BF117B  | HND Computing: Networking SCQF Level 8 - Yr1 Grp B                                                   | STB      |        1 |         15 |
+| HDCON_BF117B  | HND Computing: Networking SCQF Level 8 - Yr1 Grp B                                                   | STB      |        2 |         15 |
+| HDCON_BF217A  | HND Computing: Networking SCQF Level 8 - Yr2 Grp A                                                   | STB      |        1 |         16 |
+| HDCON_BF217A  | HND Computing: Networking SCQF Level 8 - Yr2 Grp A                                                   | STB      |        2 |         14 |
+| HDCSD_BF117A  | HND Computing: Software Development SCQF Level 8 - Yr1 Grp A                                         | STB      |        1 |         15 |
+| HDCSD_BF117A  | HND Computing: Software Development SCQF Level 8 - Yr1 Grp A                                         | STB      |        2 |         15 |
+| HDCSD_BF117B  | HND Computing: Software Development SCQF Level 8 - Yr1 Grp A                                         | STB      |        1 |         13 |
+| HDCSD_BF117B  | HND Computing: Software Development SCQF Level 8 - Yr1 Grp A                                         | STB      |        2 |         13 |
+| HDCSD_BF117B  | HND Computing: Software Development SCQF Level 8 - Yr1 Grp B                                         | STB      |        1 |          2 |
+| HDCSD_BF117B  | HND Computing: Software Development SCQF Level 8 - Yr1 Grp B                                         | STB      |        2 |          2 |
+| HDCSD_BF217A  | HND Computing: Software Development SCQF Level 8 - Yr2 Grp A                                         | STB      |        1 |         30 |
+| HDCSD_BF217A  | HND Computing: Software Development SCQF Level 8 - Yr2 Grp A                                         | STB      |        2 |         30 |
+| HDCTS_BF117A  |  HND Computing: Technical Support SCQF Level 8 - Yr1 Grp A                                           | STB      |        1 |         15 |
+| HDCTS_BF117A  |  HND Computing: Technical Support SCQF Level 8 - Yr1 Grp A                                           | STB      |        2 |         14 |
+| HDCTS_BF117B  |  HND Computing: Technical Support SCQF Level 8 - Yr1 Grp B                                           | STB      |        1 |         15 |
+| HDCTS_BF117B  |  HND Computing: Technical Support SCQF Level 8 - Yr1 Grp B                                           | STB      |        2 |         14 |
+| HDCTS_BF217A  |  HND Computing: Technical Support SCQF Level 8 - Yr2 Grp A                                           | STB      |        1 |         16 |
+| HDCTS_BF217A  |  HND Computing: Technical Support SCQF Level 8 - Yr2 Grp A                                           | STB      |        2 |         14 |
+| NCCDM5_BF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support -Yr1 Grp A | STB      |        1 |         14 |
+| NCCDM5_BF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support -Yr1 Grp A | STB      |        2 |         14 |
+| NCCDM5_BF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support - Yr1 GrpA | HALBEATH |        1 |          1 |
+| NCCDM5_BF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support - Yr1 GrpB | STB      |        1 |         14 |
+| NCCDM5_BF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support - Yr1 GrpB | STB      |        2 |         14 |
+| NCCDM5_HF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support - Yr1 GrpA | HALBEATH |        1 |         13 |
+| NCCDM5_HF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support - Yr1 GrpA | HALBEATH |        2 |         14 |
+| NCCDM5_HF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support Yr1 Grp B  | HALBEATH |        1 |         14 |
+| NCCDM5_HF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support Yr1 Grp B  | HALBEATH |        2 |         14 |
+| NCCDM5_SF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support -Yr1 Grp A | STENTON  |        1 |         14 |
+| NCCDM5_SF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support -Yr1 Grp A | STENTON  |        2 |         14 |
+| NCCDM6_BF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp A | STB      |        1 |         15 |
+| NCCDM6_BF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp A | STB      |        2 |         14 |
+| NCCDM6_BF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp B | STB      |        1 |         15 |
+| NCCDM6_BF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp B | STB      |        2 |         14 |
+| NCCDM6_HF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp A | HALBEATH |        1 |         15 |
+| NCCDM6_HF117A | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp A | HALBEATH |        2 |         14 |
+| NCCDM6_HF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp B | HALBEATH |        1 |         15 |
+| NCCDM6_HF117B | NC Computing (Software Development, Mobile Development, Cyber Security, Technical Support) Yr1 Grp B | HALBEATH |        2 |         14 |
+| ONCYS5_HP117A | NPA in Cyber Security SCQF Level 5 - Yr1 Grp A                                                       | HALBEATH |        1 |          2 |
+| ONCYS5_HP117A | NPA in Cyber Security SCQF Level 5 - Yr1 Grp A                                                       | HALBEATH |        2 |          2 |
+| ONCYS6_HP117A | NPA in Cyber Security SCQF Level 6 - Yr1 Grp A                                                       | HALBEATH |        1 |          2 |
+| ONCYS6_HP117A | NPA in Cyber Security SCQF Level 6 - Yr1 Grp A                                                       | HALBEATH |        2 |          2 |
++---------------+------------------------------------------------------------------------------------------------------+----------+----------+------------+
