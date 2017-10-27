@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.28.6">
+
+<Institution_Name>Fife College</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+</Day>
+<Day>
+	<Name>Friday</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>8</Number_of_Hours>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:00</Name>
+</Hour>
+<Hour>
+	<Name>14:00</Name>
+</Hour>
+<Hour>
+	<Name>15:00</Name>
+</Hour>
+<Hour>
+	<Name>16:00</Name>
+</Hour>
+</Hours_List>
+
+
+<Students_List>
+<Year><Name>NCCDM5_HF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM5_HF117B</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM5_SF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM6_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM6_BF117B</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM6_HF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM6_HF117B</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM5_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>BSAPN_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCON_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCON_BF117B</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCON_BF217A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCSD_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCSD_BF117B</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCSD_BF217A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCSD_BF217B</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCTS_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>HDCTS_BF217A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NPPSD_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM4_BF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+<Year><Name>NCCDM4_LF117A</Name><Number_of_Students>0</Number_of_Students></Year>
+</Students_List>
+<Teachers_List>
+<Teacher><Name>NLR</Name></Teacher>
+<Teacher><Name>Arthur</Name></Teacher>
+<Teacher><Name>Terry</Name></Teacher>
+<Teacher><Name>Peter</Name></Teacher>
+<Teacher><Name>Aurelien</Name></Teacher>
+<Teacher><Name>Lorna</Name></Teacher>
+<Teacher><Name>Norman</Name></Teacher>
+<Teacher><Name>Mark</Name></Teacher>
+<Teacher><Name>Jim</Name></Teacher>
+<Teacher><Name>Sharon</Name></Teacher>
+<Teacher><Name>Kerry</Name></Teacher>
+<Teacher><Name>Fiona</Name></Teacher>
+<Teacher><Name>Stewart</Name></Teacher>
+<Teacher><Name>Ged</Name></Teacher>
+<Teacher><Name>DUMMY</Name></Teacher>
+<Teacher><Name>Gillian</Name></Teacher>
+<Teacher><Name>Perri</Name></Teacher>
+<Teacher><Name>ANO1</Name></Teacher>
+<Teacher><Name>Anne</Name></Teacher>
+<Teacher><Name>ANO2</Name></Teacher>
+</Teachers_List>
+<Subjects_List>
+<Subject><Name>CSCOMMCoreSkillsComms</Name></Subject>
+<Subject><Name>CSNUMCoreSkillsNumeracy</Name></Subject>
+<Subject><Name>CMP394CyberSecurity</Name></Subject>
+<Subject><Name>CMP391CloudComputing+Virtualisati</Name></Subject>
+<Subject><Name>CMP392ComputerForensics</Name></Subject>
+<Subject><Name>CMP393ComputerNetworkGroupProject</Name></Subject>
+<Subject><Name>CMP395ManagingComputerNetworkProj</Name></Subject>
+<Subject><Name>CMP396NetworkTechnologies</Name></Subject>
+<Subject><Name>CMPIL1IndependentLearningS1</Name></Subject>
+<Subject><Name>CMPIL2IndependentLearningS2</Name></Subject>
+<Subject><Name>H17334DevelopingSoftware:Introduct</Name></Subject>
+<Subject><Name>H17534ComputerSystemsFundamentals</Name></Subject>
+<Subject><Name>H17734TroubleshootingComputerProbl</Name></Subject>
+<Subject><Name>H17834TeamWorkinginComputing</Name></Subject>
+<Subject><Name>H17934CloudComputing</Name></Subject>
+<Subject><Name>H17E34Computing:PCHardwareandOpe</Name></Subject>
+<Subject><Name>H17F34Computing:PCHardwareandOpe</Name></Subject>
+<Subject><Name>H1F734ProfessionalismandEthicsin</Name></Subject>
+<Subject><Name>FR2435NetworkingTechnology</Name></Subject>
+<Subject><Name>H17S34NetworkConcepts</Name></Subject>
+<Subject><Name>FR2235RoutingTechnology</Name></Subject>
+<Subject><Name>FR2236RoutingTechnology</Name></Subject>
+<Subject><Name>H1J834Computing:GradedUnit1</Name></Subject>
+<Subject><Name>F1W034ProjectManagementforIT</Name></Subject>
+<Subject><Name>H17M34IntrusionPreventionSystems</Name></Subject>
+<Subject><Name>H8N535PrivateCloudVirtualisation</Name></Subject>
+<Subject><Name>H1EM34ClientOperatingSystems</Name></Subject>
+<Subject><Name>FR2335SwitchingTechnology</Name></Subject>
+<Subject><Name>FR2535InternetworkingTechnology</Name></Subject>
+<Subject><Name>H16X35ServerAdministration</Name></Subject>
+<Subject><Name>H17V34SecurityConcepts</Name></Subject>
+<Subject><Name>H17V34+H16X35SecurityConcepts+ServerAdm</Name></Subject>
+<Subject><Name>H48V35Computing:Networking:Graded</Name></Subject>
+<Subject><Name>F1VV34InteractiveMedia:UserInterf</Name></Subject>
+<Subject><Name>H17X34SoftwareDevelopment:Programm</Name></Subject>
+<Subject><Name>H18034SystemsDevelopment:Introduct</Name></Subject>
+<Subject><Name>H18134SystemsDevelopment:TestingS</Name></Subject>
+<Subject><Name>H1J834Computing:GradedUnit1</Name></Subject>
+<Subject><Name>H16W35RelationalDatabaseManagement</Name></Subject>
+<Subject><Name>H17W34SoftwareDevelopment:Developi</Name></Subject>
+<Subject><Name>H17R35MobileTechnology</Name></Subject>
+<Subject><Name>F6C235WebDevelopment:DynamicallyG</Name></Subject>
+<Subject><Name>H16Y35SoftwareDevelopment:DataStr</Name></Subject>
+<Subject><Name>H17135SoftwareDevelopment:ObjectO</Name></Subject>
+<Subject><Name>H17235SystemsDevelopment:ObjectOr</Name></Subject>
+<Subject><Name>H48W35Computing:SoftwareDevelopmen</Name></Subject>
+<Subject><Name>HL9X35SoftwareDevelopment:ObjectO</Name></Subject>
+<Subject><Name>HL9W35SoftwareDevelopment:WebDeve</Name></Subject>
+<Subject><Name>HL9V35SoftwareDevelopment:Programm</Name></Subject>
+<Subject><Name>HL9T35SoftwareDevelopment:DataStr</Name></Subject>
+<Subject><Name>H1J835Computing:GradedUnit1</Name></Subject>
+<Subject><Name>H17C34ComputerNetworks:BuildingLo</Name></Subject>
+<Subject><Name>H17C35ComputerNetworks:BuildingLo</Name></Subject>
+<Subject><Name>HG1K34ProfessionalCareerDevelopmen</Name></Subject>
+<Subject><Name>H1EP34EthicalHackingFundamentals</Name></Subject>
+<Subject><Name>DM2X35ComputerOperatingSystems2</Name></Subject>
+<Subject><Name>H18C35OpenSourceOperatingSystems:</Name></Subject>
+<Subject><Name>H1EN34ComputerForensics:Fundamenta</Name></Subject>
+<Subject><Name>H1EM35ClientOperatingSystems</Name></Subject>
+<Subject><Name>H3LN35ProvidingTechnicalSupportto</Name></Subject>
+<Subject><Name>H16T35NetworkServerOperatingSyste</Name></Subject>
+<Subject><Name>H16V35NetworkTechnologyandDataCo</Name></Subject>
+<Subject><Name>H48X35Computing:TechnicalSupport:</Name></Subject>
+<Subject><Name>F18211Computing:WebsiteDesignand</Name></Subject>
+<Subject><Name>F1FC11PCPassport:ITSoftware-Wor</Name></Subject>
+<Subject><Name>F1KB11Computing:AnimationFundament</Name></Subject>
+<Subject><Name>F1KH11Computing:ComputerNetworking</Name></Subject>
+<Subject><Name>F1KR11Computing:ComputerHardwarea</Name></Subject>
+<Subject><Name>F1KS11Computing:DigitalMediaEleme</Name></Subject>
+<Subject><Name>H6S945Computing:ApplicationsDevelo</Name></Subject>
+<Subject><Name>SHTML5HTML5Coding</Name></Subject>
+<Subject><Name>H22375SoftwareDesignandDevelopmen</Name></Subject>
+<Subject><Name>H22675InformationSystemDesignand</Name></Subject>
+<Subject><Name>H6S745Computing:Project</Name></Subject>
+<Subject><Name>SENCH5EnhancedCurriculumLevel5</Name></Subject>
+<Subject><Name>SENHC5EnhancedCurriculumLevel5</Name></Subject>
+<Subject><Name>F18011Computing:InteractiveMultime</Name></Subject>
+<Subject><Name>F3SY12Computing:ComputerHardwarea</Name></Subject>
+<Subject><Name>F3T212Computing:AuthoringaWebsite</Name></Subject>
+<Subject><Name>H2TM12ProgrammingforMobileDevices</Name></Subject>
+<Subject><Name>H60C46Computing:AcademicSkills</Name></Subject>
+<Subject><Name>H6S946Computing:ApplicationsDevelo</Name></Subject>
+<Subject><Name>H7EA46NetworkLiteracy</Name></Subject>
+<Subject><Name>H9E246DataSecurity</Name></Subject>
+<Subject><Name>H9J046DigitalForensics</Name></Subject>
+<Subject><Name>SAPPFGAppsforGood</Name></Subject>
+<Subject><Name>H22376SoftwareDesignandDevelopmen</Name></Subject>
+<Subject><Name>H6S746Computing:Project(Software)</Name></Subject>
+<Subject><Name>SENCH6EnhancedCurriculumLevel6</Name></Subject>
+<Subject><Name>H2N612NetworkFundamentals</Name></Subject>
+<Subject><Name>H2N712ServerAdministrationFundamen</Name></Subject>
+<Subject><Name>H6S746Computing:Project(Networking</Name></Subject>
+<Subject><Name>H6S746Computing:Project</Name></Subject>
+<Subject><Name>NPPSD(Tues)FoundationApprenticeship</Name></Subject>
+<Subject><Name>NPPSD(Thurs)FoundationApprenticeship</Name></Subject>
+<Subject><Name>H7E944/H7EB44/H22674InformationLiteracy/SocialMe</Name></Subject>
+<Subject><Name>H6S844Computing:Creating+Evaluati</Name></Subject>
+<Subject><Name>F1K210/H7EA44Computing:ComputerHardware+</Name></Subject>
+<Subject><Name>F1JM10/H61345Computing:DigitalMediaEleme</Name></Subject>
+<Subject><Name>H6S744/F3GC10ComputingProject/EnhanceCurr</Name></Subject>
+<Subject><Name>H1T010MobileTechnologySystems</Name></Subject>
+<Subject><Name>H9J044DigitalForensics</Name></Subject>
+</Subjects_List>
+<Activity_Tags_List>
+<Activity_Tag>
+	<Name>A</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>V</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BF45A</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>CISCO</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>STB</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>STENTON</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>HALBEATH</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>LEVEN</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BS50</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BF47</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>S3.12</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>L1</Name>
+</Activity_Tag>
+</Activity_Tags_List>
+
+<Activities_List>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>3</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>4</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>5</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>6</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>7</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>8</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CSCOMMCoreSkillsComms</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>9</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>CMP394CyberSecurity</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF45A</Activity_Tag><Students>BSAPN_BF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>20</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>CMP395ManagingComputerNetworkProj</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF45A</Activity_Tag><Students>BSAPN_BF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>24</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>CMP396NetworkTechnologies</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF45A</Activity_Tag><Students>BSAPN_BF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>25</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>CMPIL1IndependentLearningS1</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF45A</Activity_Tag><Students>BSAPN_BF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>26</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H17334DevelopingSoftware:Introduct</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCON_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>42</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H17534ComputerSystemsFundamentals</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCON_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>43</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>H17734TroubleshootingComputerProbl</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCON_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>44</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H17E34Computing:PCHardwareandOpe</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>47</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>H1F734ProfessionalismandEthicsin</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCON_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>49</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>FR2435NetworkingTechnology</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>50</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>FR2435NetworkingTechnology</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>51</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H1J834Computing:GradedUnit1</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCON_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>55</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H17334DevelopingSoftware:Introduct</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCON_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>58</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H17534ComputerSystemsFundamentals</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCON_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>59</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H17734TroubleshootingComputerProbl</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCON_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>60</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H17E34Computing:PCHardwareandOpe</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>63</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>H1F734ProfessionalismandEthicsin</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCON_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>65</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>FR2435NetworkingTechnology</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF117B</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>66</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>FR2435NetworkingTechnology</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF117B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>67</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H1J834Computing:GradedUnit1</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCON_BF117B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>71</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>F1W034ProjectManagementforIT</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCON_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>74</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>H1EM34ClientOperatingSystems</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCON_BF217A</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>77</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Sharon</Teacher><Subject>FR2335SwitchingTechnology</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF217A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>78</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>FR2335SwitchingTechnology</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCON_BF217A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>79</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H16X35ServerAdministration</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCON_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>82</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H17V34SecurityConcepts</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCON_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>83</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H48V35Computing:Networking:Graded</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCON_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>85</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>H17334DevelopingSoftware:Introduct</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>89</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H17534ComputerSystemsFundamentals</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>90</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>H17734TroubleshootingComputerProbl</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>91</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>H18134SystemsDevelopment:TestingS</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>95</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>H1F734ProfessionalismandEthicsin</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>96</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>H1J834Computing:GradedUnit1</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>97</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H16W35RelationalDatabaseManagement</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>100</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H17W34SoftwareDevelopment:Developi</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>102</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H17334DevelopingSoftware:Introduct</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>106</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>H17534ComputerSystemsFundamentals</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>107</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H17734TroubleshootingComputerProbl</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>108</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H18134SystemsDevelopment:TestingS</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>112</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H1F734ProfessionalismandEthicsin</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>113</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>H1J834Computing:GradedUnit1</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>114</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>H16W35RelationalDatabaseManagement</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>117</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H17W34SoftwareDevelopment:Developi</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>119</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>F6C235WebDevelopment:DynamicallyG</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>140</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Stewart</Teacher><Subject>H17135SoftwareDevelopment:ObjectO</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF217A</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>143</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Stewart</Teacher><Subject>H17235SystemsDevelopment:ObjectOr</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF217A</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>144</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Stewart</Teacher><Subject>HL9X35SoftwareDevelopment:ObjectO</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>146</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>HL9W35SoftwareDevelopment:WebDeve</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF217A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>147</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>HL9V35SoftwareDevelopment:Programm</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCSD_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>149</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Stewart</Teacher><Subject>F6C235WebDevelopment:DynamicallyG</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF217B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>153</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>H17135SoftwareDevelopment:ObjectO</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF217B</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>156</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>H17235SystemsDevelopment:ObjectOr</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF217B</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>157</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Ged</Teacher><Subject>HL9X35SoftwareDevelopment:ObjectO</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BF47</Activity_Tag><Students>HDCSD_BF217B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>159</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Stewart</Teacher><Subject>HL9W35SoftwareDevelopment:WebDeve</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCSD_BF217B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>160</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Peter</Teacher><Subject>HL9V35SoftwareDevelopment:Programm</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCSD_BF217B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>162</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H17334DevelopingSoftware:Introduct</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>165</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H17534ComputerSystemsFundamentals</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>166</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>H17734TroubleshootingComputerProbl</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>167</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H17E34Computing:PCHardwareandOpe</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>170</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H1F734ProfessionalismandEthicsin</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>172</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H1J834Computing:GradedUnit1</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>173</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H17C34ComputerNetworks:BuildingLo</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>CISCO</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>176</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>HG1K34ProfessionalCareerDevelopmen</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>HDCTS_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>178</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>DM2X35ComputerOperatingSystems2</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>181</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F1W034ProjectManagementforIT</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>182</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>H1EN34ComputerForensics:Fundamenta</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>185</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Arthur</Teacher><Subject>H8N535PrivateCloudVirtualisation</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>188</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>H16T35NetworkServerOperatingSyste</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>189</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>H16V35NetworkTechnologyandDataCo</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>191</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H17V34SecurityConcepts</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>HDCTS_BF217A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>192</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>F1FC11PCPassport:ITSoftware-Wor</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>200</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F1KB11Computing:AnimationFundament</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>201</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>F1KR11Computing:ComputerHardwarea</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>203</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>H6S945Computing:ApplicationsDevelo</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>210</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Kerry</Teacher><Subject>SHTML5HTML5Coding</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>211</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>H22675InformationSystemDesignand</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>213</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>SENCH5EnhancedCurriculumLevel5</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>215</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>ANO1</Teacher><Subject>F1FC11PCPassport:ITSoftware-Wor</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>242</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F1KB11Computing:AnimationFundament</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>243</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>F1KR11Computing:ComputerHardwarea</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>245</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H6S945Computing:ApplicationsDevelo</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>252</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>SHTML5HTML5Coding</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>253</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H22675InformationSystemDesignand</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>255</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>SENHC5EnhancedCurriculumLevel5</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>257</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>ANO1</Teacher><Subject>F1FC11PCPassport:ITSoftware-Wor</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>263</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F1KB11Computing:AnimationFundament</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>264</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>F1KR11Computing:ComputerHardwarea</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>266</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H6S945Computing:ApplicationsDevelo</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>273</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>SHTML5HTML5Coding</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>274</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>ANO1</Teacher><Subject>H22675InformationSystemDesignand</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>276</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>SENCH5EnhancedCurriculumLevel5</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM5_HF117B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>278</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>F1FC11PCPassport:ITSoftware-Wor</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>284</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>F1KB11Computing:AnimationFundament</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>285</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>F1KR11Computing:ComputerHardwarea</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>287</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Anne</Teacher><Subject>H6S945Computing:ApplicationsDevelo</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>294</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>ANO1</Teacher><Subject>SHTML5HTML5Coding</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>295</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>H22675InformationSystemDesignand</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>3</Duration><Total_Duration>3</Total_Duration><Id>297</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>SENCH5EnhancedCurriculumLevel5</Subject><Activity_Tag>STENTON</Activity_Tag><Activity_Tag>S3.12</Activity_Tag><Students>NCCDM5_SF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>299</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>F3SY12Computing:ComputerHardwarea</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>309</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F3T212Computing:AuthoringaWebsite</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>310</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Norman</Teacher><Subject>H60C46Computing:AcademicSkills</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>312</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>H6S946Computing:ApplicationsDevelo</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>313</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>H7EA46NetworkLiteracy</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>314</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>H9E246DataSecurity</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>315</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>SAPPFGAppsforGood</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>317</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>SENCH6EnhancedCurriculumLevel6</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>321</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Mark</Teacher><Subject>F3SY12Computing:ComputerHardwarea</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>331</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Kerry</Teacher><Subject>F3T212Computing:AuthoringaWebsite</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>332</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Kerry</Teacher><Subject>H60C46Computing:AcademicSkills</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>335</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H6S946Computing:ApplicationsDevelo</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>336</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>H7EA46NetworkLiteracy</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>337</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Gillian</Teacher><Subject>H9E246DataSecurity</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>338</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>SAPPFGAppsforGood</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>340</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Fiona</Teacher><Subject>SENCH6EnhancedCurriculumLevel6</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_BF117B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>344</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>F3SY12Computing:ComputerHardwarea</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>353</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F3T212Computing:AuthoringaWebsite</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>354</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>ANO2</Teacher><Subject>H60C46Computing:AcademicSkills</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>356</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H6S946Computing:ApplicationsDevelo</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>357</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>H7EA46NetworkLiteracy</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>358</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>H9E246DataSecurity</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>359</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>SAPPFGAppsforGood</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>361</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>SENCH6EnhancedCurriculumLevel6</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>366</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Jim</Teacher><Subject>F3SY12Computing:ComputerHardwarea</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>V</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>375</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>F3T212Computing:AuthoringaWebsite</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>376</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>ANO1</Teacher><Subject>H60C46Computing:AcademicSkills</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>379</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>H6S946Computing:ApplicationsDevelo</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>380</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>H7EA46NetworkLiteracy</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>381</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Terry</Teacher><Subject>H9E246DataSecurity</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>382</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Lorna</Teacher><Subject>SAPPFGAppsforGood</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>2</Duration><Total_Duration>2</Total_Duration><Id>384</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Perri</Teacher><Subject>SENCH6EnhancedCurriculumLevel6</Subject><Activity_Tag>HALBEATH</Activity_Tag><Activity_Tag>A</Activity_Tag><Students>NCCDM6_HF117B</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>388</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Teacher>Aurelien</Teacher><Subject>NPPSD(Tues)FoundationApprenticeship</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>NPPSD_BF117A</Students><Duration>1</Duration><Total_Duration>1</Total_Duration><Id>390</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+<Activity><Subject>NPPSD(Thurs)FoundationApprenticeship</Subject><Activity_Tag>STB</Activity_Tag><Activity_Tag>BS50</Activity_Tag><Students>NPPSD_BF117A</Students><Duration>4</Duration><Total_Duration>4</Total_Duration><Id>393</Id><Activity_Group_Id>0</Activity_Group_Id><Active>true</Active><Comments></Comments></Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>STB</Name>
+</Building>
+<Building>
+	<Name>STENTON</Name>
+</Building>
+<Building>
+	<Name>HALBEATH</Name>
+</Building>
+<Building>
+	<Name>LEVEN</Name>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>L1</Name>
+	<Building>LEVEN</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF44</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF44A</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF45</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF45A</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF47</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BS54</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H1.08</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H1.04A</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>S3.12</Name>
+	<Building>STENTON</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BS50</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>ANO1</Teacher_Name>
+	<Max_Days_Per_Week>4</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>ANO2</Teacher_Name>
+	<Max_Days_Per_Week>4</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Ged</Teacher_Name>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeachersMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxHoursContinuously>
+<ConstraintStudentsMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxHoursContinuously>
+<ConstraintStudentsMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxDaysPerWeek>
+<ConstraintStudentsMinHoursDaily>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Minimum_Hours_Daily>2</Minimum_Hours_Daily>
+	<Allow_Empty_Days>true</Allow_Empty_Days>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMinHoursDaily>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Peter</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Norman</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Kerry</Teacher>
+	<Number_of_Not_Available_Times>29</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Kerry</Teacher_Name>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Terry</Teacher_Name>
+	<Max_Days_Per_Week>4</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Anne</Teacher_Name>
+	<Max_Days_Per_Week>1</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Stewart</Teacher>
+	<Number_of_Not_Available_Times>22</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Fiona</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Anne</Teacher>
+	<Number_of_Not_Available_Times>26</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Aurelien</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>DUMMY</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Ged</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Mark</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Perri</Teacher>
+	<Number_of_Not_Available_Times>9</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Sharon</Teacher>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Arthur</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Gillian</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Lorna</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintStudentsMaxGapsPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Gaps>2</Max_Gaps>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxGapsPerDay>
+
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Jim</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Terry</Teacher>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>3</Activity_Id><Preferred_Day>Tuesday</Preferred_Day><Preferred_Hour>11:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>4</Activity_Id><Preferred_Day>Wednesday</Preferred_Day><Preferred_Hour>11:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>5</Activity_Id><Preferred_Day>Tuesday</Preferred_Day><Preferred_Hour>09:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>6</Activity_Id><Preferred_Day>Wednesday</Preferred_Day><Preferred_Hour>11:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>7</Activity_Id><Preferred_Day>Thursday</Preferred_Day><Preferred_Hour>11:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>8</Activity_Id><Preferred_Day>Wednesday</Preferred_Day><Preferred_Hour>09:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>9</Activity_Id><Preferred_Day>Thursday</Preferred_Day><Preferred_Hour>09:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>336</Activity_Id><Preferred_Day>Thursday</Preferred_Day><Preferred_Hour>14:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>390</Activity_Id><Preferred_Day>Tuesday</Preferred_Day><Preferred_Hour>13:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime><Weight_Percentage>100</Weight_Percentage><Activity_Id>393</Activity_Id><Preferred_Day>Thursday</Preferred_Day><Preferred_Hour>13:00</Preferred_Hour><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintTeachersMaxBuildingChangesPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Building_Changes_Per_Day>0</Max_Building_Changes_Per_Day>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxBuildingChangesPerDay>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>V</Activity_Tag>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Preferred_Room>BFS54</Preferred_Room>
+	<Preferred_Room>S2.12</Preferred_Room>
+	<Preferred_Room>H1.04A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>CISCO</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BS50</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BS50</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BF45A</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>H1.08</Room>
+	<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>S2.12</Room>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>BF44</Room>
+	<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>S2.DUMMY</Room>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>STB</Activity_Tag>
+	<Number_of_Preferred_Rooms>7</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44</Preferred_Room>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Preferred_Room>BF45</Preferred_Room>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Preferred_Room>BF47</Preferred_Room>
+	<Preferred_Room>BFS54</Preferred_Room>
+	<Preferred_Room>BS50</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>A</Activity_Tag>
+	<Number_of_Preferred_Rooms>9</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44</Preferred_Room>
+	<Preferred_Room>BF45</Preferred_Room>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Preferred_Room>BF47</Preferred_Room>
+	<Preferred_Room>BFS54</Preferred_Room>
+	<Preferred_Room>H1.08</Preferred_Room>
+	<Preferred_Room>H1.04A</Preferred_Room>
+	<Preferred_Room>S2.12</Preferred_Room>
+	<Preferred_Room>S2.DUMMY</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>STENTON</Activity_Tag>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>S2.12</Preferred_Room>
+	<Preferred_Room>S2.DUMMY</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>H1.08</Preferred_Room>
+	<Preferred_Room>H1.04A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BF47</Activity_Tag>
+	<Room>BF47</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRoom>
+<ConstraintActivityTagPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>S2.12</Activity_Tag>
+	<Room>S2.12</Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRoom>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>BS50</Room>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>12:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>13:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>14:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Tuesday</Day>
+	<Hour>09:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Tuesday</Day>
+	<Hour>10:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>09:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>13:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>14:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>15:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>16:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>10:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Friday</Day>
+	<Hour>09:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BS50</Room>
+<Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Friday</Day>
+	<Hour>11:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>BF47</Room>
+<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>10:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>11:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>H1.08</Room>
+<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>14:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>15:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>H1.08</Room>
+<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>13:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>14:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Wednesday</Day>
+	<Hour>15:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>S3.12</Room>
+<Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>11:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Monday</Day>
+	<Hour>12:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+<Weight_Percentage>100</Weight_Percentage>
+<Room>S3.12</Room>
+<Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>09:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>10:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>11:00</Hour>
+</Not_Available_Time>
+<Not_Available_Time>
+	<Day>Thursday</Day>
+	<Hour>12:00</Hour>
+</Not_Available_Time>
+<Active>true</Active>
+<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>3</Activity_Id><Room>H1.08</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>4</Activity_Id><Room>H1.08</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>5</Activity_Id><Room>S3.12</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>6</Activity_Id><Room>BF45</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>7</Activity_Id><Room>BF45</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>8</Activity_Id><Room>H1.08</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>9</Activity_Id><Room>H1.08</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>336</Activity_Id><Room>BF45</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>390</Activity_Id><Room>BS50</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>393</Activity_Id><Room>BS50</Room><Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+</fet>
