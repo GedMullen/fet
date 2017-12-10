@@ -1,0 +1,40 @@
++-------------+----------+------------+
+| lecturer    | semester | SUM(hours) |
++-------------+----------+------------+
+| AWHITE      |        1 |         26 |
+| AWHITE      |        2 |         14 |
+| AWILLIAMSON |        1 |         11 |
+| AWILLIAMSON |        2 |         35 |
+| CFAHERTY    |        1 |         11 |
+| CFAHERTY    |        2 |         13 |
+| CROBSON     |        1 |         27 |
+| CROBSON     |        2 |         21 |
+| DCAMPBELL   |        2 |         26 |
+| DTRIMBLE    |        1 |          6 |
+| DTRIMBLE    |        2 |         14 |
+| DUMMY       |        1 |         83 |
+| DUMMY       |        2 |         39 |
+| ECORNFORTH  |        1 |         12 |
+| ECORNFORTH  |        2 |         16 |
+| EMMASMITH   |        1 |          8 |
+| EMMASMITH   |        2 |          8 |
+| FHOGWOOD    |        1 |          6 |
+| FHOGWOOD    |        2 |          4 |
+| FMCLEOD     |        1 |         22 |
+| FMCLEOD     |        2 |         20 |
+| JMILLER     |        1 |         16 |
+| JMILLER     |        2 |         16 |
+| KDYCE       |        1 |         24 |
+| KDYCE       |        2 |         17 |
+| NKERR       |        1 |          4 |
+| NKERR       |        2 |          5 |
+| NLR         |        2 |          4 |
+| SFINLAY     |        1 |         21 |
+| SFINLAY     |        2 |         19 |
+| SMACK       |        1 |          8 |
+| SMACK       |        2 |         21 |
+| SMCDONALD   |        1 |          2 |
+| SMCDONALD   |        2 |          2 |
+| TBC         |        1 |         10 |
+| TBC         |        2 |         14 |
++-------------+----------+------------+
