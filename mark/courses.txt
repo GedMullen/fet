@@ -1,0 +1,23 @@
++---------------+---------+----------+------------+
+| course        | campus  | semester | SUM(hours) |
++---------------+---------+----------+------------+
+| HCCDS_BF117A  | STB     |        1 |         30 |
+| HCCDS_BF117B  | STB     |        1 |         30 |
+| HCFHE_BF117A  | STB     |        1 |         35 |
+| HCFHE_BF117B  | STB     |        1 |         35 |
+| HDCDS_BF217A  | STB     |        1 |         30 |
+| HDFHE_BF117A  | STB     |        1 |         31 |
+| HDFHE_BF217A  | STB     |        1 |         33 |
+| NCSFH6_BF117A | STB     |        1 |         42 |
+| NCSFH6_BF117B | STB     |        1 |         34 |
+| NCSFH6_BF117C | STB     |        1 |         34 |
+| NCSPF5_BF117A | STB     |        1 |         34 |
+| NCSPF5_BF117B | STB     |        1 |         34 |
+| NCSPF5_SF117A | STENTON |        1 |         36 |
+| NPTSP5_SP117A | STENTON |        1 |          8 |
+| NQSPF4_BF117A | STB     |        1 |         42 |
+| NQSPL4_SS117A | STENTON |        1 |         24 |
+| ONAPC4_SS117A | STENTON |        1 |         28 |
+| ONAPC4_SS217A | STENTON |        1 |         28 |
+| ONSCS4_BF117A | STB     |        1 |         36 |
++---------------+---------+----------+------------+
