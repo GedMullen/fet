@@ -1,9 +1,0 @@
-﻿Soft conflicts of sem1.fet
-Generated with FET 5.28.6 on 5/15/17 1:28 PM
-
-Total soft conflicts: 0
-
-Soft conflicts list (in decreasing order):
-
-
-End of file.
