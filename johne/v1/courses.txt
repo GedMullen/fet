@@ -1,0 +1,31 @@
++---------------+----------+----------+------------+
+| course        | campus   | semester | SUM(hours) |
++---------------+----------+----------+------------+
+| HCAIT-HF118A  | HALBEATH | 1        |         14 |
+| HCAIT-HF118A  | HALBEATH | 2        |         14 |
+| HCAIT-HF118A  | STB      | 2        |          2 |
+| HCAIT_BF118A  | STB      | 1        |         14 |
+| HCAIT_BF118A  | STB      | 2        |         14 |
+| HDAIT-BF118A  | STB      | 1        |         14 |
+| HDAIT-BF118A  | STB      | 2        |         12 |
+| HDAIT-HF118A  | HALBEATH | 1        |         14 |
+| HDAIT-HF118A  | HALBEATH | 2        |         14 |
+| HDAIT_BF218A  | STB      | 1        |         14 |
+| HDAIT_BF218A  | STB      | 2        |         14 |
+| HDAIT_HF218A  | HALBEATH | 1        |         14 |
+| HDAIT_HF218A  | HALBEATH | 2        |         14 |
+| NCADM5_BF118A | STB      | 1        |         16 |
+| NCADM5_BF118A | STB      | 2        |         14 |
+| NCADM5_BF118B | STB      | 1        |         16 |
+| NCADM5_BF118B | STB      | 2        |         14 |
+| NCADM5_HF118A | HALBEATH | 1        |         16 |
+| NCADM5_HF118A | HALBEATH | 2        |         14 |
+| NCBUS5_BF118A | STB      | 1        |         15 |
+| NCBUS5_BF118A | STB      | 2        |         15 |
+| NCBUS5_BF118B | STB      | 1        |         15 |
+| NCBUS5_BF118B | STB      | 2        |         15 |
+| NCBUS5_HF118B | HALBEATH | 1        |         15 |
+| NCBUS5_HF118B | HALBEATH | 2        |         15 |
+| NQABH4_BF118A | STB      | 1        |         15 |
+| NQABH4_BF118A | STB      | 2        |         15 |
++---------------+----------+----------+------------+

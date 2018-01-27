@@ -1,0 +1,38 @@
++----------+----------+------------+
+| lecturer | semester | SUM(hours) |
++----------+----------+------------+
+| APREC    | 1        |          9 |
+| APREC    | 2        |         15 |
+| BMCAR    | 1        |         21 |
+| BMCAR    | 2        |         14 |
+| DORRO    | 1        |         12 |
+| DORRO    | 2        |         20 |
+| DSCOT    | 1        |         15 |
+| DSCOT    | 2        |         15 |
+| EBROA    | 1        |          8 |
+| EBROA    | 2        |         13 |
+| ESMIT    | 1        |         20 |
+| ESMIT    | 2        |         20 |
+| JABBI    | 1        |         23 |
+| JABBI    | 2        |         14 |
+| JELLI    | 1        |          2 |
+| JELLI    | 2        |          2 |
+| LECHRI   | 1        |         18 |
+| LECHRI   | 2        |         21 |
+| LTELF    | 1        |         23 |
+| LTELF    | 2        |         12 |
+| NLR      | 1        |          4 |
+| SERVBCUA | 1        |          2 |
+| SERVBCUA | 2        |          2 |
+| SERVBMLE | 1        |         10 |
+| SERVBMLE | 2        |          8 |
+| SERVBTER | 1        |          2 |
+| SERVBTER | 2        |          2 |
+| SERVCS   | 1        |          2 |
+| SERVCS   | 2        |          2 |
+| SMCDO    | 1        |         10 |
+| SMCDO    | 2        |         17 |
+| TBC      | 2        |          2 |
+| TMCAL    | 1        |         11 |
+| TMCAL    | 2        |          7 |
++----------+----------+------------+
