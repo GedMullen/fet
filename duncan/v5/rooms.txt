@@ -1,0 +1,39 @@
++---------+-----------+----------+------------+
+| campus  | room      | semester | SUM(hours) |
++---------+-----------+----------+------------+
+| LEVEN   | ANY       | 1        |         32 |
+| LEVEN   | ANY       | 2        |         40 |
+| LEVEN   | L2.28     | 1        |         20 |
+| LEVEN   | L2.28     | 2        |         22 |
+| LEVEN   | LCOMP     | 1        |          3 |
+| LEVEN   | LCOMP     | 2        |          3 |
+| LEVEN   | LDUMMY1   | 1        |          5 |
+| LEVEN   | LDUMMY1   | 2        |          3 |
+| STB     | ANY       | 1        |         89 |
+| STB     | ANY       | 2        |         93 |
+| STB     | BCOMP     | 1        |          7 |
+| STB     | BCOMP     | 2        |         11 |
+| STB     | BDUMMY1   | 2        |          3 |
+| STB     | BDUMMY3   | 1        |          2 |
+| STB     | BF16      | 1        |          4 |
+| STB     | BF16      | 2        |         12 |
+| STB     | BG26      | 1        |          4 |
+| STB     | BG26      | 2        |          4 |
+| STB     | BS01      | 1        |         26 |
+| STB     | BS01      | 2        |         19 |
+| STB     | BS45      | 1        |         14 |
+| STB     | BS45      | 2        |         12 |
+| STENTON | ANY       | 1        |          2 |
+| STENTON | S2.11     | 1        |          2 |
+| STENTON | S3.6      | 1        |         17 |
+| STENTON | S3.6      | 2        |         20 |
+| STENTON | SCOMP     | 1        |          2 |
+| STENTON | SCOMP     | 2        |          2 |
+| STENTON | SDUMMY1   | 1        |          2 |
+| STENTON | V2.4+V2.3 | 1        |         16 |
+| STENTON | V2.4+V2.3 | 2        |          6 |
+| STENTON | V2.5      | 1        |         17 |
+| STENTON | V2.5      | 2        |         24 |
+| WADE    | WDUMMY    | 1        |         12 |
+| WADE    | WDUMMY    | 2        |         12 |
++---------+-----------+----------+------------+

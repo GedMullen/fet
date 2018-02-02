@@ -1,0 +1,735 @@
+Opened file version matched by regexp: major=5, minor=28, revision=6, additional text=.
+FET version matched by regexp: major=5, minor=28, revision=6, additional text=.
+Title: FET warning
+Message: Duplicate subject SLNCHK+SLRBKKLearntoCheckIn+Book found - ignoring
+
+Progress title: Computing internal structure
+Progress label: Processing internally the activities ... please wait
+Progress range: 0..126
+Progress setModal(true)
+Progress label: Processing internally the time constraints ... please wait
+Progress range: 0..28
+28 time constraints after first pass (after removing inactive ones)
+  28 time constraints after second pass (after removing wrong ones)
+Progress label: Processing internally the space constraints ... please wait
+Progress range: 0..31
+31 space constraints after first pass (after removing inactive ones)
+  31 space constraints after second pass (after removing wrong ones)
+Title: FET warning
+Message: Optimization tip: There are 3 subgroups (from the total of 26 subgroups) which have the same activities as other subgroups. They are listed below. If the constraints relating to these subgroups are also the same, you can make the generation (directly proportional) faster by completely removing the subgroups which are equivalent to other subgroups (leaving only one representant for each equivalence set). (The generation algorithm will not completely remove the equivalent subgroups automatically.)
+
+If you did not add all the activities yet or if the number of equivalent subgroups compared to the total number of subgroups is small, probably you can safely ignore this message.
+
+You can deactivate this message from the 'Settings' menu.
+
+Subgroup HDFDB_SF117A+HDFDC_SF117A Automatic Group Automatic Subgroup has the same activities as subgroup HDEVM_BF217A+HDTRT_BF217A Automatic Group Automatic Subgroup.
+Subgroup HDFDB_SF217A+HDFDC_SF217A Automatic Group Automatic Subgroup has the same activities as subgroup HDFDB_SF117A+HDFDC_SF117A Automatic Group Automatic Subgroup.
+Subgroup NCCM+NCFDM5SF Automatic Group Automatic Subgroup has the same activities as subgroup HDFDB_SF217A+HDFDC_SF217A Automatic Group Automatic Subgroup.
+
+Progress title: Precomputing
+Progress label: Precomputing ... please wait
+Progress range: 0..42
+Progress setModal(true)
+The order of activities (id-s):
+No: 1, id=199, teachers: KDYCE, subject: F33H11Retailing:Storing,Replenishin, activity tags: STB ANY, students: NQRET5_BP117A, nIncompatible[permutation[i]]=2000000002
+No: 2, id=244, teachers: CFAHERTY, subject: F19J10+F19K10+F38W10Hospitality:WorkingFrontof, activity tags: STB BG26, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 3, id=269, teachers: SMACK, subject: D36N10+F3K10+SATTEN+F3GB10+F3GF10+D36J10EnterpriseActivity+Events+At, activity tags: WADE WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000002
+No: 4, id=272, teachers: SMACK, subject: F78610+F78710+F78810+F78910+STOURD+SWRKHR+SWRKCCEmploymentFirstSteps+Tourist, activity tags: WADE WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000002
+No: 5, id=137, teachers: , subject: F3GF10Numeracy, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=2000000001
+No: 6, id=260, teachers: , subject: F3GF10Numeracy, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=2000000001
+No: 7, id=270, teachers: , subject: F3GC10+H1NS10+H1N610+H1YW74+H18P44IT+AdminActivities+Business, activity tags: WADE WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000001
+No: 8, id=72, teachers: SFINLAY, subject: F18D34Clothing:Production,Trimming, activity tags: STENTON V2.5, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=460
+No: 9, id=10, teachers: FMCLEOD, subject: F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=416
+No: 10, id=57, teachers: AWHITE, subject: H7V534+H91G34+DK0235PreparingaFormalBusinessPl, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=375
+No: 11, id=177, teachers: SFINLAY, subject: F78610+F78710++F78910+D36N10+SPDEVP+SHEASAEmploymentFirstSteps+Enter, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=342
+No: 12, id=165, teachers: KDYCE, subject: F78610+F78710+F78810+F78910+H18P44+F3GB10EmploymentFirstSteps+PSD+C, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=330
+No: 13, id=131, teachers: KDYCE, subject: D36N11+H18P45+SATTEN+F33K11EnterpriseActivity+PSD+Attend, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=324
+No: 14, id=112, teachers: SFINLAY, subject: FH6211+FP4X11+ZS4809TheCreativeProcess+Garment, activity tags: STENTON V2.5, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=321
+No: 15, id=168, teachers: FHOGWOOD, subject: SWRKCC+SWRKHRWorkingasAirCabinCrew+Ho, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=318
+No: 16, id=210, teachers: AWHITE, subject: F38X11SkillsforCustomerCare, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=315
+No: 17, id=90, teachers: CROBSON, subject: HJ3T35+SATTENStoreDesignandLayout+Atte, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=303
+No: 18, id=160, teachers: SMACK, subject: D36N10+F3K10+SATTENEnterpriseActivity+Events+At, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=303
+No: 19, id=183, teachers: , subject: SWRKEPWorkExperience, activity tags: LEVEN ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=300
+No: 20, id=11, teachers: FMCLEOD, subject: F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=291
+No: 21, id=226, teachers: AWHITE, subject: F38X11SkillsforCustomerCare, activity tags: STB BDUMMY1, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=291
+No: 22, id=29, teachers: AWHITE, subject: H1F034+H7TK34CreatingaCultureofCustomer, activity tags: STB BS45, students: HCTRT_BF117A, nIncompatible[permutation[i]]=288
+No: 23, id=196, teachers: CFAHERTY, subject: FP6211+F3PN12+SATTEN+FP611+FP6311+D3VA11ContributetoanEvent+Event, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=282
+No: 24, id=216, teachers: RSTIRLING, subject: H0BD12ActivityTourismandSpecialI, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=282
+No: 25, id=221, teachers: RSTIRLING, subject: SPRTB2PortfolioBuilding2, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=282
+No: 26, id=222, teachers: RSTIRLING, subject: SPRTB3PortfolioBuilding3, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=282
+No: 27, id=232, teachers: RSTIRLING, subject: H0BD12ActivityTourismandSpecialI, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=282
+No: 28, id=237, teachers: RSTIRLING, subject: SPRTB2PortfolioBuilding2, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=282
+No: 29, id=238, teachers: RSTIRLING, subject: SPRTB3PortfolioBuilding3, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=282
+No: 30, id=262, teachers: ECORNFORTH, subject: F3PM11+SVOCEXWorkingasAirCabinCrew:An, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=258
+No: 31, id=249, teachers: ECORNFORTH, subject: F3PM11+SVOCEXWorkingasAirCabinCrew:An, activity tags: STB BS45, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=255
+No: 32, id=120, teachers: AWILLIAMSON, subject: SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative, activity tags: STENTON V2.4+V2.3, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=252
+No: 33, id=167, teachers: SMACK, subject: SFOOPRFoodProduction, activity tags: LEVEN LDUMMY1, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=252
+No: 34, id=99, teachers: CROBSON, subject: F2EK35Fashion:DesignandProduction, activity tags: STENTON S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=243
+No: 35, id=161, teachers: , subject: F3GC10+H1NS10+H1N610+H1YW74IT+AdminActivities+Business, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=228
+No: 36, id=62, teachers: FMCLEOD, subject: H91R35EventsManagementGradedUnit, activity tags: STB BF16, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=224
+No: 37, id=136, teachers: , subject: CommunicationinAdmin+ITSolutionsforAdmin+MarketResearchPracticeCommunicationinAdmin+ITSo, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=222
+No: 38, id=61, teachers: FMCLEOD, subject: H91M35ManaginganEvent, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=218
+No: 39, id=178, teachers: FHOGWOOD, subject: SASSTR+SPBSPP+SRETME+SSTKCT+F78810AssertivenessTraining+Public, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=212
+No: 40, id=102, teachers: SFINLAY, subject: H91M35ManaginganEvent, activity tags: STENTON V2.5, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=210
+No: 41, id=182, teachers: KDYCE, subject: SATTEN+SWORETAttendance+WorkingwithOthers, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=208
+No: 42, id=145, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12+SATTENBusinessFormation:AnIntrodu, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=207
+No: 43, id=171, teachers: CROBSON, subject: D0SN10IntroductiontoDisplay, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=206
+No: 44, id=103, teachers: SFINLAY, subject: H91M35ManaginganEvent, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=202
+No: 45, id=132, teachers: FHOGWOOD, subject: F33G11+F33J11+F57F11Retailing:WorkinginRetail+, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=200
+No: 46, id=39, teachers: JMILLER, subject: DK0E34ApplyingMarketingPrinciples, activity tags: STB BS01, students: HCTRT_BF117B, nIncompatible[permutation[i]]=196
+No: 47, id=188, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G14BusinessFormation:AnIntrodu, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=195
+No: 48, id=66, teachers: JMILLER, subject: DJ9P35TourOperations, activity tags: STB BS01, students: HDTRT_BF217A, nIncompatible[permutation[i]]=194
+No: 49, id=4, teachers: JMILLER, subject: DR0T35+H1F034+H7TK35EntrepreneurshipintheCreati, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=192
+No: 50, id=14, teachers: CFAHERTY, subject: H91L34EventLegislationSafetyandL, activity tags: STB BF16, students: HCEVE_BF117A, nIncompatible[permutation[i]]=192
+No: 51, id=185, teachers: KDYCE, subject: SWRKEPWorkExperience, activity tags: LEVEN ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=192
+No: 52, id=45, teachers: AWHITE, subject: H1F034+H7TK34CreatingaCultureofCustomer, activity tags: STB BS01, students: HCTRT_BF117B, nIncompatible[permutation[i]]=190
+No: 53, id=217, teachers: KDYCE, subject: H23475EconomicsoftheMarket, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=190
+No: 54, id=225, teachers: FHOGWOOD, subject: D36N11+F57F11+H18P45+SATTENEnterpriseActivity+Prepforw, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=190
+No: 55, id=233, teachers: KDYCE, subject: H23475EconomicsoftheMarket, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=190
+No: 56, id=141, teachers: SMACK, subject: SPRTB3PortfolioBuilding-RetailBu, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=188
+No: 57, id=23, teachers: JMILLER, subject: DK0E34ApplyingMarketingPrinciples, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=186
+No: 58, id=58, teachers: DTRIMBLE, subject: H91H35Events:ContemporaryIssues+, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=186
+No: 59, id=81, teachers: AWILLIAMSON, subject: HJ3M34FashionMerchandising, activity tags: STENTON S3.6, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=186
+No: 60, id=95, teachers: CROBSON, subject: F18E34ProductionProcessesintheCl, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=186
+No: 61, id=96, teachers: CROBSON, subject: F1F435DesigningandProducingFashio, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=186
+No: 62, id=209, teachers: CFAHERTY, subject: D36N11+F57F11+H18P45+SATTENEnterpriseActivity+Prepforw, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=186
+No: 63, id=150, teachers: CROBSON, subject: FP7212FashionMerchandising:AnInt, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=184
+No: 64, id=36, teachers: AWHITE, subject: DJ9W34StructureoftheTravelandTo, activity tags: STB BF16, students: HCTRT_BF117B, nIncompatible[permutation[i]]=182
+No: 65, id=28, teachers: CFAHERTY, subject: H0RC34+HJ4W34PreparationforEmploymentin, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=180
+No: 66, id=243, teachers: JMILLER, subject: DV3C10UnderstandingTourismintheL, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=180
+No: 67, id=256, teachers: JMILLER, subject: DV3C10UnderstandingTourismintheL, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=180
+No: 68, id=12, teachers: FMCLEOD, subject: F3J434+H91N34LivePerformanceEvents+F+B, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=178
+No: 69, id=15, teachers: FMCLEOD, subject: H91P34EventsGradedUnit1, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=178
+No: 70, id=170, teachers: NKERR, subject: D0SF11SellingSkills, activity tags: LEVEN ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=178
+No: 71, id=242, teachers: DTRIMBLE, subject: DM4E10HolidayPlanning, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=178
+No: 72, id=254, teachers: FHOGWOOD, subject: D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=178
+No: 73, id=255, teachers: DTRIMBLE, subject: DM4E10HolidayPlanning, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=178
+No: 74, id=19, teachers: AWHITE, subject: DJ9W34StructureoftheTravelandTo, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=176
+No: 75, id=31, teachers: AWHITE, subject: H1J634TravelandTourism:GradedUni, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=176
+No: 76, id=44, teachers: CFAHERTY, subject: H0RC34+HJ4W34PreparationforEmploymentin, activity tags: STB ANY, students: HCTRT_BF117B, nIncompatible[permutation[i]]=176
+No: 77, id=47, teachers: AWHITE, subject: H1J634TravelandTourism:GradedUni, activity tags: STB ANY, students: HCTRT_BF117B, nIncompatible[permutation[i]]=176
+No: 78, id=138, teachers: NKERR, subject: F3PJ11SellingSkills, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=176
+No: 79, id=139, teachers: NKERR, subject: F4T111DistributionandStorageofGo, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=176
+No: 80, id=140, teachers: NKERR, subject: H1SF11RetailMixandEffectiveMerch, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=176
+No: 81, id=263, teachers: FMCLEOD, subject: SHFOFSHospitalityFrontOfficeSkill, activity tags: STB BF16, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=176
+No: 82, id=52, teachers: DCAMPBELL, subject: DL3A35ManagingFinancialResourcesi, activity tags: STB BS01, students: HDEVM_BF217A, nIncompatible[permutation[i]]=174
+No: 83, id=69, teachers: CFAHERTY, subject: H94234*Conferences:AnIntroduction, activity tags: STB ANY, students: HDTRT_BF217A, nIncompatible[permutation[i]]=174
+No: 84, id=197, teachers: CFAHERTY, subject: FP6211+F3PN12+SATTEN+FP611+FP6311+D3VA12ContributetoanEvent+Event, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=172
+No: 85, id=108, teachers: AWILLIAMSON, subject: F2EK35Fashion:DesignandProduction, activity tags: STENTON V2.5, students: HDFDC_SF217A, nIncompatible[permutation[i]]=170
+No: 86, id=152, teachers: NKERR, subject: H1SD11+H1SF11ConsumerStudies+RetailMix, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=168
+No: 87, id=155, teachers: NKERR, subject: SRETLW+SSTOCORetailLaw+StockControl, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=168
+No: 88, id=105, teachers: SFINLAY, subject: F1PC35DesignandManufactureaBrida, activity tags: STENTON V2.5, students: HDFDC_SF217A, nIncompatible[permutation[i]]=166
+No: 89, id=241, teachers: CFAHERTY, subject: D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=166
+No: 90, id=100, teachers: AWILLIAMSON, subject: H7V534PreparingaFormalBusinessPl, activity tags: STENTON S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=164
+No: 91, id=214, teachers: DCAMPBELL, subject: FN3A11EventsCosting, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=164
+No: 92, id=230, teachers: DCAMPBELL, subject: FN3A11EventsCosting, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=164
+No: 93, id=32, teachers: ECORNFORTH, subject: H29734AirlineandAirportOperations, activity tags: STB BS45, students: HCTRT_BF117A, nIncompatible[permutation[i]]=162
+No: 94, id=123, teachers: SFINLAY, subject: FP5F12PatternConstruction:WaistSu, activity tags: STENTON V2.5, students: NCCM, nIncompatible[permutation[i]]=160
+No: 95, id=48, teachers: ECORNFORTH, subject: H29734AirlineandAirportOperations, activity tags: STB BS45, students: HCTRT_BF117B, nIncompatible[permutation[i]]=158
+No: 96, id=87, teachers: AWILLIAMSON, subject: F1F634ConceptGarmentDesign:AnInt, activity tags: STENTON V2.5, students: HDFDC_SF117A, nIncompatible[permutation[i]]=158
+No: 97, id=122, teachers: AWILLIAMSON, subject: FP5H12SewingSkills:WaistSuspended, activity tags: STENTON V2.5, students: NCCM, nIncompatible[permutation[i]]=158
+No: 98, id=126, teachers: AWILLIAMSON, subject: FP7212FashionMerchandising:AnIntr, activity tags: STENTON V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=156
+No: 99, id=193, teachers: DCAMPBELL, subject: FN3A11EventsCosting:AnIntroductio, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=156
+No: 100, id=118, teachers: SFINLAY, subject: FP5012+F3GC11DigitalFashionIllustration:, activity tags: STENTON SCOMP, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=154
+No: 101, id=74, teachers: CROBSON, subject: F18W34Fashion:CommercialDesign, activity tags: STENTON V2.4+V2.3, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=150
+No: 102, id=78, teachers: CROBSON, subject: F7BX34Marketing:AnIntroduction, activity tags: STENTON S3.6, students: HDFDB_SF117A, nIncompatible[permutation[i]]=146
+No: 103, id=142, teachers: , subject: H61445Computing:WebsiteGraphics, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=140
+No: 104, id=192, teachers: , subject: H1YY76+H1YW76+D0XS13CommunicationinAdmin+ITSo, activity tags: STB BCOMP, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=138
+No: 105, id=53, teachers: , subject: F35T34EventLegislation:Contractsa, activity tags: STB BF16, students: HDEVM_BF217A, nIncompatible[permutation[i]]=132
+No: 106, id=9, teachers: , subject: DR0T35+H1F034+H7TK34EntrepreneurshipintheCreati, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=130
+No: 107, id=146, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12+SATTENBusinessFormation:AnIntrodu, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=130
+No: 108, id=189, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G15BusinessFormation:AnIntrodu, activity tags: STB BF16, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=128
+No: 109, id=50, teachers: , subject: D7M834+HC2P34PublicRelations1:Functions, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=126
+No: 110, id=55, teachers: , subject: H1VL34ManagementofHumanResources, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=126
+No: 111, id=67, teachers: , subject: H7V634*\nDevelopingEntrepreneurialSki, activity tags: STB BS45, students: HDTRT_BF217A, nIncompatible[permutation[i]]=118
+No: 112, id=149, teachers: , subject: H1YY76+H1YW76+D0XS12CommunicationinAdmin+ITSo, activity tags: LEVEN LCOMP, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=114
+No: 113, id=2, teachers: , subject: D75X34InformationTechnology:Applic, activity tags: STB BCOMP, students: HCEVE_BF117A, nIncompatible[permutation[i]]=94
+No: 114, id=179, teachers: NKERR, subject: SMKRETMarketinginaRetailEnvironm, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=89
+No: 115, id=17, teachers: , subject: D85F34UsingSoftwareApplicationPac, activity tags: STB BCOMP, students: HCTRT_BF117A, nIncompatible[permutation[i]]=88
+No: 116, id=85, teachers: AWILLIAMSON, subject: SATTENAttendance, activity tags: STENTON S3.6, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=85
+No: 117, id=34, teachers: , subject: D85F34UsingSoftwareApplicationPac, activity tags: STB BCOMP, students: HCTRT_BF117B, nIncompatible[permutation[i]]=84
+No: 118, id=21, teachers: AWHITE, subject: DK0134PracticalTravelandTourismV, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=79
+No: 119, id=154, teachers: NKERR, subject: SENTRE/SHBTREntrepreneurship/Attendance, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=76
+No: 120, id=101, teachers: AWILLIAMSON, subject: H7V535PreparingaFormalBusinessPl, activity tags: STENTON S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=74
+No: 121, id=127, teachers: SFINLAY, subject: D0SN10IntroductiontoDisplay, activity tags: STENTON V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=72
+No: 122, id=121, teachers: AWILLIAMSON, subject: F9VK11ArtandDesign:SurfaceDecora, activity tags: STENTON V2.5, students: NCCM, nIncompatible[permutation[i]]=71
+No: 123, id=125, teachers: AWILLIAMSON, subject: FP2111Fashion:AnIntroduction, activity tags: STENTON V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=70
+No: 124, id=77, teachers: CROBSON, subject: F2EJ34Fashion:DesignandProduction, activity tags: STENTON V2.4+V2.3, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=66
+No: 125, id=213, teachers: , subject: F1FC11+F1FB11PCPassport-WorkingwithIT, activity tags: STB BCOMP, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=44
+No: 126, id=229, teachers: , subject: FIFC11+FIFB11PCPassport-WorkingwithIT, activity tags: STB BCOMP, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=44
+End - the order of activities (id-s):
+Title: FET warning
+Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.
+
+These constraints are good, but they are not perfectly optimized for speed. You may obtain a long generation time or even impossible timetables. It is recommended to use such constraints with caution.
+
+Are you sure you want to continue?
+Button 0 text: Yes
+Button 1 text: No
+Default button: 0
+Escape button: 1
+Pressing default button 0
+
+Title: FET warning
+Message: Your data contains constraints students min hours daily which allow empty days.
+
+These constraints are nonstandard. They are recommended only if the students can have free days and a solution with free days for students exists. Otherwise the solution might be impossible for FET to find. It is recommended to use such constraints with caution.
+
+Are you sure you want to continue?
+Button 0 text: Yes
+Button 1 text: No
+Default button: 0
+Escape button: 1
+Pressing default button 0
+
+Starting timetable generation...
+secondsLimit==2000000000
+
+Trying to place activity number added_act==0
+with id==199, from nInternalActivities==126
+
+Trying to place activity number added_act==1
+with id==244, from nInternalActivities==126
+
+Trying to place activity number added_act==2
+with id==269, from nInternalActivities==126
+
+Trying to place activity number added_act==3
+with id==272, from nInternalActivities==126
+
+Trying to place activity number added_act==4
+with id==137, from nInternalActivities==126
+
+Trying to place activity number added_act==5
+with id==260, from nInternalActivities==126
+
+Trying to place activity number added_act==6
+with id==270, from nInternalActivities==126
+
+Trying to place activity number added_act==7
+with id==72, from nInternalActivities==126
+
+Trying to place activity number added_act==8
+with id==10, from nInternalActivities==126
+
+Trying to place activity number added_act==9
+with id==57, from nInternalActivities==126
+
+Trying to place activity number added_act==10
+with id==177, from nInternalActivities==126
+
+Trying to place activity number added_act==11
+with id==165, from nInternalActivities==126
+
+Trying to place activity number added_act==12
+with id==131, from nInternalActivities==126
+
+Trying to place activity number added_act==13
+with id==112, from nInternalActivities==126
+
+Trying to place activity number added_act==14
+with id==168, from nInternalActivities==126
+
+Trying to place activity number added_act==15
+with id==210, from nInternalActivities==126
+
+Trying to place activity number added_act==16
+with id==90, from nInternalActivities==126
+
+Trying to place activity number added_act==17
+with id==160, from nInternalActivities==126
+
+Trying to place activity number added_act==18
+with id==183, from nInternalActivities==126
+
+Trying to place activity number added_act==19
+with id==11, from nInternalActivities==126
+
+Trying to place activity number added_act==20
+with id==226, from nInternalActivities==126
+
+Trying to place activity number added_act==21
+with id==29, from nInternalActivities==126
+
+Trying to place activity number added_act==22
+with id==196, from nInternalActivities==126
+
+Trying to place activity number added_act==23
+with id==216, from nInternalActivities==126
+
+Trying to place activity number added_act==24
+with id==221, from nInternalActivities==126
+
+Trying to place activity number added_act==25
+with id==222, from nInternalActivities==126
+
+Trying to place activity number added_act==26
+with id==232, from nInternalActivities==126
+
+Trying to place activity number added_act==27
+with id==237, from nInternalActivities==126
+
+Trying to place activity number added_act==28
+with id==238, from nInternalActivities==126
+
+Trying to place activity number added_act==29
+with id==262, from nInternalActivities==126
+
+Trying to place activity number added_act==30
+with id==249, from nInternalActivities==126
+
+Trying to place activity number added_act==31
+with id==120, from nInternalActivities==126
+
+Trying to place activity number added_act==32
+with id==167, from nInternalActivities==126
+
+Trying to place activity number added_act==33
+with id==99, from nInternalActivities==126
+
+Trying to place activity number added_act==34
+with id==161, from nInternalActivities==126
+
+Trying to place activity number added_act==35
+with id==62, from nInternalActivities==126
+
+Trying to place activity number added_act==36
+with id==136, from nInternalActivities==126
+
+Trying to place activity number added_act==37
+with id==61, from nInternalActivities==126
+
+Trying to place activity number added_act==38
+with id==178, from nInternalActivities==126
+
+Trying to place activity number added_act==39
+with id==102, from nInternalActivities==126
+
+Trying to place activity number added_act==40
+with id==182, from nInternalActivities==126
+
+Trying to place activity number added_act==41
+with id==145, from nInternalActivities==126
+
+Trying to place activity number added_act==42
+with id==171, from nInternalActivities==126
+
+Trying to place activity number added_act==43
+with id==103, from nInternalActivities==126
+
+Trying to place activity number added_act==44
+with id==132, from nInternalActivities==126
+
+Trying to place activity number added_act==45
+with id==39, from nInternalActivities==126
+
+Trying to place activity number added_act==46
+with id==188, from nInternalActivities==126
+
+Trying to place activity number added_act==47
+with id==66, from nInternalActivities==126
+
+Trying to place activity number added_act==48
+with id==4, from nInternalActivities==126
+
+Trying to place activity number added_act==49
+with id==14, from nInternalActivities==126
+
+Trying to place activity number added_act==50
+with id==185, from nInternalActivities==126
+
+Trying to place activity number added_act==51
+with id==45, from nInternalActivities==126
+
+Trying to place activity number added_act==52
+with id==217, from nInternalActivities==126
+
+Trying to place activity number added_act==53
+with id==225, from nInternalActivities==126
+
+Trying to place activity number added_act==54
+with id==233, from nInternalActivities==126
+
+Trying to place activity number added_act==55
+with id==141, from nInternalActivities==126
+
+Trying to place activity number added_act==56
+with id==23, from nInternalActivities==126
+
+Trying to place activity number added_act==57
+with id==58, from nInternalActivities==126
+
+Trying to place activity number added_act==58
+with id==81, from nInternalActivities==126
+
+Trying to place activity number added_act==59
+with id==95, from nInternalActivities==126
+
+Trying to place activity number added_act==60
+with id==96, from nInternalActivities==126
+
+Trying to place activity number added_act==61
+with id==209, from nInternalActivities==126
+
+Trying to place activity number added_act==62
+with id==150, from nInternalActivities==126
+
+Trying to place activity number added_act==63
+with id==36, from nInternalActivities==126
+
+Trying to place activity number added_act==64
+with id==28, from nInternalActivities==126
+
+Trying to place activity number added_act==65
+with id==243, from nInternalActivities==126
+
+Trying to place activity number added_act==66
+with id==256, from nInternalActivities==126
+
+Trying to place activity number added_act==67
+with id==12, from nInternalActivities==126
+
+Trying to place activity number added_act==68
+with id==15, from nInternalActivities==126
+
+Trying to place activity number added_act==69
+with id==170, from nInternalActivities==126
+
+Trying to place activity number added_act==70
+with id==242, from nInternalActivities==126
+
+Trying to place activity number added_act==71
+with id==254, from nInternalActivities==126
+
+Trying to place activity number added_act==72
+with id==255, from nInternalActivities==126
+
+Trying to place activity number added_act==73
+with id==19, from nInternalActivities==126
+
+Trying to place activity number added_act==74
+with id==31, from nInternalActivities==126
+
+Trying to place activity number added_act==75
+with id==44, from nInternalActivities==126
+
+Trying to place activity number added_act==76
+with id==47, from nInternalActivities==126
+
+Trying to place activity number added_act==77
+with id==138, from nInternalActivities==126
+
+Trying to place activity number added_act==78
+with id==139, from nInternalActivities==126
+
+Trying to place activity number added_act==79
+with id==140, from nInternalActivities==126
+
+Trying to place activity number added_act==80
+with id==263, from nInternalActivities==126
+
+Trying to place activity number added_act==81
+with id==52, from nInternalActivities==126
+
+Trying to place activity number added_act==82
+with id==69, from nInternalActivities==126
+
+Trying to place activity number added_act==83
+with id==197, from nInternalActivities==126
+
+Trying to place activity number added_act==84
+with id==108, from nInternalActivities==126
+
+Trying to place activity number added_act==85
+with id==152, from nInternalActivities==126
+
+Trying to place activity number added_act==86
+with id==155, from nInternalActivities==126
+
+Trying to place activity number added_act==87
+with id==105, from nInternalActivities==126
+nDifficultActivities==88
+conflActivitiesTimeSlot.count()==1
+Confl activity id:72 time of this activity:20 room of this activity:V2.5
+timeSlot==20
+roomSlot==V2.5
+id of permutation[j==86]==105
+conflicting:
+id of permutation[j==87]==72
+tmp represents activity with id==105 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==87
+with id==72, from nInternalActivities==126
+
+Trying to place activity number added_act==88
+with id==241, from nInternalActivities==126
+
+Trying to place activity number added_act==89
+with id==100, from nInternalActivities==126
+
+Trying to place activity number added_act==90
+with id==214, from nInternalActivities==126
+nDifficultActivities==91
+conflActivitiesTimeSlot.count()==1
+Confl activity id:210 time of this activity:29 room of this activity:BDUMMY2
+timeSlot==29
+roomSlot==BDUMMY1
+id of permutation[j==89]==214
+conflicting:
+id of permutation[j==90]==210
+tmp represents activity with id==214 initial time: 2100 final time: 29
+
+Trying to place activity number added_act==90
+with id==210, from nInternalActivities==126
+
+Trying to place activity number added_act==91
+with id==230, from nInternalActivities==126
+nDifficultActivities==92
+conflActivitiesTimeSlot.count()==1
+Confl activity id:226 time of this activity:7 room of this activity:BDUMMY1
+timeSlot==7
+roomSlot==BDUMMY1
+id of permutation[j==90]==230
+conflicting:
+id of permutation[j==91]==226
+tmp represents activity with id==230 initial time: 2100 final time: 7
+
+Trying to place activity number added_act==91
+with id==226, from nInternalActivities==126
+
+Trying to place activity number added_act==92
+with id==32, from nInternalActivities==126
+
+Trying to place activity number added_act==93
+with id==123, from nInternalActivities==126
+
+Trying to place activity number added_act==94
+with id==48, from nInternalActivities==126
+
+Trying to place activity number added_act==95
+with id==87, from nInternalActivities==126
+
+Trying to place activity number added_act==96
+with id==122, from nInternalActivities==126
+
+Trying to place activity number added_act==97
+with id==126, from nInternalActivities==126
+
+Trying to place activity number added_act==98
+with id==193, from nInternalActivities==126
+
+Trying to place activity number added_act==99
+with id==118, from nInternalActivities==126
+
+Trying to place activity number added_act==100
+with id==74, from nInternalActivities==126
+
+Trying to place activity number added_act==101
+with id==78, from nInternalActivities==126
+
+Trying to place activity number added_act==102
+with id==142, from nInternalActivities==126
+nDifficultActivities==103
+conflActivitiesTimeSlot.count()==1
+Confl activity id:131 time of this activity:25 room of this activity:LDUMMY1
+timeSlot==25
+roomSlot==LDUMMY1
+id of permutation[j==101]==142
+conflicting:
+id of permutation[j==102]==131
+tmp represents activity with id==142 initial time: 2100 final time: 25
+
+Trying to place activity number added_act==102
+with id==131, from nInternalActivities==126
+
+Trying to place activity number added_act==103
+with id==192, from nInternalActivities==126
+
+Trying to place activity number added_act==104
+with id==53, from nInternalActivities==126
+
+Trying to place activity number added_act==105
+with id==9, from nInternalActivities==126
+
+Trying to place activity number added_act==106
+with id==146, from nInternalActivities==126
+
+Trying to place activity number added_act==107
+with id==189, from nInternalActivities==126
+
+Trying to place activity number added_act==108
+with id==50, from nInternalActivities==126
+
+Trying to place activity number added_act==109
+with id==55, from nInternalActivities==126
+
+Trying to place activity number added_act==110
+with id==67, from nInternalActivities==126
+nDifficultActivities==111
+conflActivitiesTimeSlot.count()==1
+Confl activity id:57 time of this activity:1 room of this activity:BS45
+timeSlot==6
+roomSlot==BS45
+id of permutation[j==109]==67
+conflicting:
+id of permutation[j==110]==57
+tmp represents activity with id==67 initial time: 2100 final time: 6
+
+Trying to place activity number added_act==110
+with id==57, from nInternalActivities==126
+
+Trying to place activity number added_act==111
+with id==149, from nInternalActivities==126
+
+Trying to place activity number added_act==112
+with id==2, from nInternalActivities==126
+
+Trying to place activity number added_act==113
+with id==179, from nInternalActivities==126
+
+Trying to place activity number added_act==114
+with id==17, from nInternalActivities==126
+
+Trying to place activity number added_act==115
+with id==85, from nInternalActivities==126
+
+Trying to place activity number added_act==116
+with id==34, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:45 time of this activity:10 room of this activity:BS01
+timeSlot==15
+roomSlot==BCOMP
+id of permutation[j==115]==34
+conflicting:
+id of permutation[j==116]==45
+tmp represents activity with id==34 initial time: 2100 final time: 15
+
+Trying to place activity number added_act==116
+with id==45, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:39 time of this activity:4 room of this activity:BS01
+timeSlot==4
+roomSlot==BS01
+id of permutation[j==115]==45
+conflicting:
+id of permutation[j==116]==39
+tmp represents activity with id==45 initial time: 2100 final time: 4
+
+Trying to place activity number added_act==116
+with id==39, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:45 time of this activity:4 room of this activity:BS01
+timeSlot==4
+roomSlot==BS01
+id of permutation[j==115]==39
+conflicting:
+id of permutation[j==116]==45
+tmp represents activity with id==39 initial time: 2100 final time: 4
+
+Trying to place activity number added_act==116
+with id==45, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:48 time of this activity:34 room of this activity:BS45
+timeSlot==34
+roomSlot==BS01
+id of permutation[j==115]==45
+conflicting:
+id of permutation[j==116]==48
+tmp represents activity with id==45 initial time: 2100 final time: 34
+
+Trying to place activity number added_act==116
+with id==48, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:45 time of this activity:34 room of this activity:BS01
+timeSlot==34
+roomSlot==BS45
+id of permutation[j==115]==48
+conflicting:
+id of permutation[j==116]==45
+tmp represents activity with id==48 initial time: 2100 final time: 34
+
+Trying to place activity number added_act==116
+with id==45, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:34 time of this activity:15 room of this activity:BCOMP
+timeSlot==10
+roomSlot==BS01
+id of permutation[j==115]==45
+conflicting:
+id of permutation[j==116]==34
+tmp represents activity with id==45 initial time: 2100 final time: 10
+
+Trying to place activity number added_act==116
+with id==34, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:36 time of this activity:33 room of this activity:BF16
+timeSlot==28
+roomSlot==BCOMP
+id of permutation[j==115]==34
+conflicting:
+id of permutation[j==116]==36
+tmp represents activity with id==34 initial time: 2100 final time: 28
+
+Trying to place activity number added_act==116
+with id==36, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:34 time of this activity:28 room of this activity:BCOMP
+timeSlot==33
+roomSlot==BF16
+id of permutation[j==115]==36
+conflicting:
+id of permutation[j==116]==34
+tmp represents activity with id==36 initial time: 2100 final time: 33
+
+Trying to place activity number added_act==116
+with id==34, from nInternalActivities==126
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:44 time of this activity:30 room of this activity:BDUMMY2
+timeSlot==20
+roomSlot==BCOMP
+id of permutation[j==115]==34
+conflicting:
+id of permutation[j==116]==44
+tmp represents activity with id==34 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==116
+with id==44, from nInternalActivities==126
+
+Trying to place activity number added_act==117
+with id==21, from nInternalActivities==126
+
+Trying to place activity number added_act==118
+with id==154, from nInternalActivities==126
+
+Trying to place activity number added_act==119
+with id==101, from nInternalActivities==126
+
+Trying to place activity number added_act==120
+with id==127, from nInternalActivities==126
+
+Trying to place activity number added_act==121
+with id==121, from nInternalActivities==126
+
+Trying to place activity number added_act==122
+with id==125, from nInternalActivities==126
+
+Trying to place activity number added_act==123
+with id==77, from nInternalActivities==126
+
+Trying to place activity number added_act==124
+with id==213, from nInternalActivities==126
+
+Trying to place activity number added_act==125
+with id==229, from nInternalActivities==126
+Total searching time (seconds): 1
+Simulation successful
+Since simulation is complete, FET will write also the timetable data file
