@@ -9,16 +9,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -29,28 +29,28 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+      <Teacher name="DSCOT"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+      <Teacher name="DSCOT"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="SMCDO"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="H1F034/H7TK34/F7JA34CreatingaCultureofCustomer"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -61,10 +61,10 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -73,10 +73,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -93,16 +93,16 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -113,38 +113,38 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="JABBI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="JABBI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="H1F034/H7TK34/F7JA34CreatingaCultureofCustomer"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="HCAIT-HF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -164,13 +164,13 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="DORRO"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="DORRO"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="JELLI"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -179,18 +179,18 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="11:00">
       <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
@@ -202,21 +202,21 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="H1F034/H7TK34/F7JA34CreatingaCultureofCustomer"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-     
+      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -225,16 +225,16 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="DORRO"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="DORRO"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -242,16 +242,16 @@
      
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="JELLI"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="H1F034/H7TK34/F7JA34CreatingaCultureofCustomer"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="14:00">
      
@@ -293,16 +293,42 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="JABBI"></Teacher><Subject name="HH8535PresentationSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="JABBI"></Teacher><Subject name="HH8535PresentationSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="LECHRI"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="LECHRI"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="LECHRI"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="LECHRI"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="JABBI"></Teacher><Subject name="F87034DevelopingtheIndividualwith"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -317,18 +343,44 @@
      
     </Hour>
    </Day>
-   <Day name="Wednesday">
+   <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F87034DevelopingtheIndividualwith"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="JABBI"></Teacher><Subject name="HH8535PresentationSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="JABBI"></Teacher><Subject name="HH8535PresentationSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -337,72 +389,46 @@
       <Teacher name="APREC"></Teacher><Subject name="F60A34ResearchSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="APREC"></Teacher><Subject name="F84935ITinBusiness:AdvancedSprea"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
-    </Hour>
-   </Day>
-   <Day name="Thursday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
-    </Hour>
-    <Hour name="12:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
-    </Hour>
-    <Hour name="13:00">
-      <Teacher name="APREC"></Teacher><Subject name="F84935ITinBusiness:AdvancedSprea"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
-    </Hour>
-    <Hour name="14:00">
-      <Teacher name="APREC"></Teacher><Subject name="F84935ITinBusiness:AdvancedSprea"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
-    </Hour>
-    <Hour name="15:00">
-     
-    </Hour>
-    <Hour name="16:00">
-     
-    </Hour>
-   </Day>
-   <Day name="Friday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:00">
-     
-    </Hour>
-    <Hour name="14:00">
-     
-    </Hour>
-    <Hour name="15:00">
-     
-    </Hour>
-    <Hour name="16:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="F84935ITinBusiness:AdvancedSprea"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="HDAIT_HF218A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     
+      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="10:00">
+      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="DORRO"></Teacher><Subject name="F87034DevelopingtheIndividualwith"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+    </Hour>
+    <Hour name="12:00">
      
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="LTELF"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="LTELF"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+      <Teacher name="DORRO"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="DORRO"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="11:00">
       <Teacher name="DORRO"></Teacher><Subject name="F60A34ResearchSkills"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
@@ -411,42 +437,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="DORRO"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
-    </Hour>
-    <Hour name="14:00">
-      <Teacher name="DORRO"></Teacher><Subject name="F84D35OfficeManagement"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
-    </Hour>
-    <Hour name="15:00">
-     
-    </Hour>
-    <Hour name="16:00">
-      <Teacher name="DORRO"></Teacher><Subject name="F87034DevelopingtheIndividualwith"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
-    </Hour>
-   </Day>
-   <Day name="Tuesday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
-    </Hour>
-    <Hour name="12:00">
-      <Teacher name="SERVBMLE"></Teacher><Subject name="F7J735BusinessCultureandStrategy"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
-    </Hour>
-    <Hour name="13:00">
       <Teacher name="APREC"></Teacher><Subject name="F84935ITinBusiness:AdvancedSprea"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="14:00">
       <Teacher name="APREC"></Teacher><Subject name="F84935ITinBusiness:AdvancedSprea"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -506,19 +506,19 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8735InformationandCommunication"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F84A35ITinBusiness:AdvancedWord"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -546,21 +546,21 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="H1F034/H7TK34/F7JA34CreatingaCultureofCustomer"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -569,50 +569,50 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="H1F034/H7TK34/F7JA34CreatingaCultureofCustomer"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="HH8334ITinBusiness:Spreadsheets"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="JABBI"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="JABBI"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -621,13 +621,13 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="JABBI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -635,16 +635,16 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="F7JA34OfficeAdministration"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -663,16 +663,16 @@
   <Subgroup name="HDAIT-HF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
-    </Hour>
-    <Hour name="10:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
-    </Hour>
-    <Hour name="11:00">
      
     </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+    </Hour>
     <Hour name="12:00">
-      <Teacher name="TBC"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="HH8133RecordingFinancialTransactio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -681,7 +681,7 @@
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -733,10 +733,10 @@
       <Teacher name="ESMIT"></Teacher><Subject name="H1F034/H7TK34CreatingaCultureofCustomer"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -753,16 +753,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="DORRO"></Teacher><Subject name="FG6233AdministrativeProcedures"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
@@ -779,44 +779,44 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="HH8434ITinBusiness:WordProcessin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="LECHRI"></Teacher><Subject name="H1XK34Recruitment,SelectionandInd"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="NCADM5_BF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -833,36 +833,36 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
     </Hour>
     <Hour name="16:00">
-      <Teacher name="JABBI"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="11:00">
      
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="JABBI"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -873,16 +873,16 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="DSCOT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="DSCOT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -891,10 +891,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -927,42 +927,42 @@
   <Subgroup name="NCADM5_BF118B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     
+      <Teacher name="APREC"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="APREC"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1005,48 +1005,48 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="APREC"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="APREC"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="JABBI"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="JABBI"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -1059,36 +1059,36 @@
   <Subgroup name="NCADM5_HF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="11:00">
      
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1097,10 +1097,10 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1123,56 +1123,56 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LTELF"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59P11FrontofOfficeSkills"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+     
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F5A011ResearchingandPreparingPres"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -1181,10 +1181,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="LTELF"></Teacher><Subject name="F59L11WordProcessing"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -1217,22 +1217,22 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="SGUIDAGuidance/StudySupport"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1243,28 +1243,28 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="SGUIDAGuidance/StudySupport"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -1295,10 +1295,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1307,44 +1307,44 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="TBC"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="NCBUS5_BF118B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BCOMP"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="SMCDO"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="SMCDO"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -1355,16 +1355,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="JABBI"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="BMCAR"></Teacher><Subject name="SGUIDAGuidance/StudySupport"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="JABBI"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
-    </Hour>
-    <Hour name="13:00">
      
     </Hour>
+    <Hour name="13:00">
+      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+    </Hour>
     <Hour name="14:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="SGUIDAGuidance/StudySupport"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="15:00">
       <Teacher name="BMCAR"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
@@ -1433,44 +1433,44 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="JABBI"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="NCBUS5_HF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="EBROA"></Teacher><Subject name="SGUIDAGuidance/StudySupport"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="EBROA"></Teacher><Subject name="FF7F11PromotingaBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="15:00">
       <Teacher name="BMCAR"></Teacher><Subject name="FN1411RecordingCashTransactions"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
@@ -1484,33 +1484,33 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="EBROA"></Teacher><Subject name="HJ3045Marketing:BasicPrinciplesan"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="ESMIT"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="EBROA"></Teacher><Subject name="SGUIDAGuidance/StudySupport"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
+      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="HDUMMY"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="H1YW75ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1519,10 +1519,10 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="LTELF"></Teacher><Subject name="H1YY75CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1571,41 +1571,41 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="D36N11/F57F11/H18P45EnterpriseActivity+Employab"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="ESMIT"></Teacher><Subject name="F59W11HandlingBusinessDocuments"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="NQABH4_BF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="F5G210Marketing:AnIntroduction"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="H1N610PrepareBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="F5G210Marketing:AnIntroduction"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="TMCAL"></Teacher><Subject name="H1N610PrepareBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="SGUIDA/STUDYGuidance/StudySkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="SGUIDA/STUDYGuidance/StudySkills"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+      <Teacher name="SERVBTER"></Teacher><Subject name="STOURDTouristDestinations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
     </Hour>
     <Hour name="14:00">
       <Teacher name="SERVBTER"></Teacher><Subject name="STOURDTouristDestinations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="SERVBTER"></Teacher><Subject name="STOURDTouristDestinations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -1613,10 +1613,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="F5G710/F5G810/F5G910/F5G710BusinessUnitsF5G710/F5G810/"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LECHRI"></Teacher><Subject name="F5G710/F5G810/F5G910/F5G710BusinessUnitsF5G710/F5G810/"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
@@ -1625,16 +1625,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="SERVBCUA"></Teacher><Subject name="F19E10Hospitality:WorkingintheHo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SERVBCUA"></Teacher><Subject name="F19E10Hospitality:WorkingintheHo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1N610PrepareBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1N610PrepareBusinessDocuments"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BCOMP"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1671,19 +1671,19 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="SERVCS"></Teacher><Subject name="F3GB10Communication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
+      <Teacher name="LECHRI"></Teacher><Subject name="F5G710/F5G810/F5G910/F5G710BusinessUnitsF5G710/F5G810/"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="SERVCS"></Teacher><Subject name="F3GB10Communication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
+      <Teacher name="LECHRI"></Teacher><Subject name="F5G710/F5G810/F5G910/F5G710BusinessUnitsF5G710/F5G810/"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1N510AdministrativeActivities"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1N510AdministrativeActivities"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+      <Teacher name="SERVBCUA"></Teacher><Subject name="F19E10Hospitality:WorkingintheHo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="SERVBCUA"></Teacher><Subject name="F19E10Hospitality:WorkingintheHo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -1691,10 +1691,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="F5G210Marketing:AnIntroduction"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="F5G210Marketing:AnIntroduction"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1703,26 +1703,26 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1N510AdministrativeActivities"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1N510AdministrativeActivities"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="SERVCS"></Teacher><Subject name="F3GB10Communication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="SERVCS"></Teacher><Subject name="F3GB10Communication"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="DUMMY"></Activity_Tag><Room name="BDUMMY"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="NQBES6-BF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="FJ3F12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="FJ3F12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1731,42 +1731,42 @@
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="DSCOT"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="SGUIDGuidance"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="DSCOT"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1774,19 +1774,19 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="FJ3F12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="FJ3F12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SMCDO"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19B"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -1800,51 +1800,51 @@
      
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="TMCAL"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="BMCAR"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="TMCAL"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="BF19C"></Room>
+     
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="SMCDO"></Teacher><Subject name="SGUIDGuidance"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19C"></Room>
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="BMCAR"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF19A"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -1863,42 +1863,42 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="EBROA"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="EBROA"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="LTELF"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="LTELF"></Teacher><Subject name="H1YY76CommunicationinAdministratio"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="SERVBMLE"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="SERVBMLE"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="EBROA"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="SERVBMLE"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="LTELF"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="SERVBMLE"></Teacher><Subject name="H1YR76PreparingManagementAccountin"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="LTELF"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H4.19"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1929,10 +1929,10 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="LTELF"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="LTELF"></Teacher><Subject name="H4KB76AdministrativeTheoryandPrac"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
+      <Teacher name="LTELF"></Teacher><Subject name="H1YW76ITSolutionsforAdministrator"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="PC"></Activity_Tag><Room name="H1.11"></Room>
     </Hour>
     <Hour name="11:00">
       <Teacher name="ESMIT"></Teacher><Subject name="SGUIDGuidance"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H1.11"></Room>
@@ -1958,10 +1958,10 @@
      
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="EBROA"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="EBROA"></Teacher><Subject name="H20R76UnderstandingBusiness"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1970,10 +1970,10 @@
      
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="EBROA"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="EBROA"></Teacher><Subject name="FJ3J12BusinessSkillsandBehaviours"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="H4.13"></Room>
     </Hour>
     <Hour name="16:00">
      
