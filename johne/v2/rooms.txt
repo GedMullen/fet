@@ -1,0 +1,15 @@
++----------+-------+----------+------------+
+| campus   | room  | semester | SUM(hours) |
++----------+-------+----------+------------+
+| HALBEATH | ANY   | 1        |         44 |
+| HALBEATH | ANY   | 2        |         49 |
+| HALBEATH | PC    | 1        |         39 |
+| HALBEATH | PC    | 2        |         40 |
+| STB      | ANY   | 1        |         67 |
+| STB      | ANY   | 2        |         79 |
+| STB      | BF19A | 2        |          4 |
+| STB      | DUMMY | 1        |          6 |
+| STB      | DUMMY | 2        |          6 |
+| STB      | PC    | 1        |         59 |
+| STB      | PC    | 2        |         42 |
++----------+-------+----------+------------+

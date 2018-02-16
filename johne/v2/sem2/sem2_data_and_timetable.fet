@@ -1,0 +1,5172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.28.6">
+
+<Institution_Name>Fife College</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+</Day>
+<Day>
+	<Name>Friday</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>8</Number_of_Hours>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:00</Name>
+</Hour>
+<Hour>
+	<Name>14:00</Name>
+</Hour>
+<Hour>
+	<Name>15:00</Name>
+</Hour>
+<Hour>
+	<Name>16:00</Name>
+</Hour>
+</Hours_List>
+
+<Students_List>
+<Year>
+	<Name>HCAIT_BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HCAIT-HF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDAIT_BF218A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDAIT_HF218A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDAIT-BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDAIT-HF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCADM5_BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCADM5_BF118B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCADM5_HF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCBUS5_BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCBUS5_BF118B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCBUS5_HF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NQABH4_BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NQBES6-BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NQBES6-HF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+</Students_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>APREC</Name>
+</Teacher>
+<Teacher>
+	<Name>BMCAR</Name>
+</Teacher>
+<Teacher>
+	<Name>DSCOT</Name>
+</Teacher>
+<Teacher>
+	<Name>SMCDO</Name>
+</Teacher>
+<Teacher>
+	<Name>JABBI</Name>
+</Teacher>
+<Teacher>
+	<Name>LECHRI</Name>
+</Teacher>
+<Teacher>
+	<Name>TMCAL</Name>
+</Teacher>
+<Teacher>
+	<Name>DORRO</Name>
+</Teacher>
+<Teacher>
+	<Name>JELLI</Name>
+</Teacher>
+<Teacher>
+	<Name>LTELF</Name>
+</Teacher>
+<Teacher>
+	<Name>SERVBMLE</Name>
+</Teacher>
+<Teacher>
+	<Name>TBC</Name>
+</Teacher>
+<Teacher>
+	<Name>ESMIT</Name>
+</Teacher>
+<Teacher>
+	<Name>EBROA</Name>
+</Teacher>
+<Teacher>
+	<Name>SERVBCUA</Name>
+</Teacher>
+<Teacher>
+	<Name>SERVBTER</Name>
+</Teacher>
+<Teacher>
+	<Name>SERVCS</Name>
+</Teacher>
+</Teachers_List>
+
+<Subjects_List>
+<Subject>
+	<Name>HH8234DigitalTechnologiesforAdmin</Name>
+</Subject>
+<Subject>
+	<Name>HH8334ITinBusiness:Spreadsheets</Name>
+</Subject>
+<Subject>
+	<Name>HH8133RecordingFinancialTransactio</Name>
+</Subject>
+<Subject>
+	<Name>F1A334LegalSecretarialPractice</Name>
+</Subject>
+<Subject>
+	<Name>FG6233AdministrativeProcedures</Name>
+</Subject>
+<Subject>
+	<Name>DE3R34PersonalDevelopmentPlanning</Name>
+</Subject>
+<Subject>
+	<Name>H1XK34Recruitment,SelectionandInd</Name>
+</Subject>
+<Subject>
+	<Name>HH8434ITinBusiness:WordProcessin</Name>
+</Subject>
+<Subject>
+	<Name>H1F034/H7TK34/F7JA34CreatingaCultureofCustomer</Name>
+</Subject>
+<Subject>
+	<Name>HH9M34AdministrationandInformation</Name>
+</Subject>
+<Subject>
+	<Name>F7BX34Marketing:AnIntroduction</Name>
+</Subject>
+<Subject>
+	<Name>F84X34ITinBusiness:Databases</Name>
+</Subject>
+<Subject>
+	<Name>F7JA34OfficeAdministration</Name>
+</Subject>
+<Subject>
+	<Name>F60A34ResearchSkills</Name>
+</Subject>
+<Subject>
+	<Name>F84L35StatisticsforBusiness</Name>
+</Subject>
+<Subject>
+	<Name>HH8735InformationandCommunication</Name>
+</Subject>
+<Subject>
+	<Name>HH9R35AdministrationandInformation</Name>
+</Subject>
+<Subject>
+	<Name>F84835ITinBusiness:AdvancedDatab</Name>
+</Subject>
+<Subject>
+	<Name>F84935ITinBusiness:AdvancedSprea</Name>
+</Subject>
+<Subject>
+	<Name>F84D35OfficeManagement</Name>
+</Subject>
+<Subject>
+	<Name>HH8535PresentationSkills</Name>
+</Subject>
+<Subject>
+	<Name>F87034DevelopingtheIndividualwith</Name>
+</Subject>
+<Subject>
+	<Name>HH9N35AdministrationandInformation</Name>
+</Subject>
+<Subject>
+	<Name>F84A35ITinBusiness:AdvancedWord</Name>
+</Subject>
+<Subject>
+	<Name>F7J735BusinessCultureandStrategy</Name>
+</Subject>
+<Subject>
+	<Name>H1F034/H7TK34CreatingaCultureofCustomer</Name>
+</Subject>
+<Subject>
+	<Name>H1YY75CommunicationinAdministratio</Name>
+</Subject>
+<Subject>
+	<Name>F5A512SpreadsheetsforAdministrator</Name>
+</Subject>
+<Subject>
+	<Name>F5AD10Audio:AnIntroduction</Name>
+</Subject>
+<Subject>
+	<Name>H1YW75ITSolutionsforAdministrator</Name>
+</Subject>
+<Subject>
+	<Name>F59P11FrontofOfficeSkills</Name>
+</Subject>
+<Subject>
+	<Name>F59S11CentralServices</Name>
+</Subject>
+<Subject>
+	<Name>F59L11WordProcessing</Name>
+</Subject>
+<Subject>
+	<Name>F59W11HandlingBusinessDocuments</Name>
+</Subject>
+<Subject>
+	<Name>F5AG12HumanResources:Administratio</Name>
+</Subject>
+<Subject>
+	<Name>FN1711HandlingWagesandSalaries</Name>
+</Subject>
+<Subject>
+	<Name>SGUIDAGuidance</Name>
+</Subject>
+<Subject>
+	<Name>F38X11SkillsforCustomerCare</Name>
+</Subject>
+<Subject>
+	<Name>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Name>
+</Subject>
+<Subject>
+	<Name>F5A011ResearchingandPreparingPres</Name>
+</Subject>
+<Subject>
+	<Name>FN1411RecordingCashTransactions</Name>
+</Subject>
+<Subject>
+	<Name>SGUIDAGuidance/StudySupport</Name>
+</Subject>
+<Subject>
+	<Name>F39412FinancialAccounting:AnIntro</Name>
+</Subject>
+<Subject>
+	<Name>F39512ManagementAccounting:AnIntr</Name>
+</Subject>
+<Subject>
+	<Name>FF7F11PromotingaBusiness</Name>
+</Subject>
+<Subject>
+	<Name>F39211ContractLaw:AnIntroduction</Name>
+</Subject>
+<Subject>
+	<Name>HJ3045Marketing:BasicPrinciplesan</Name>
+</Subject>
+<Subject>
+	<Name>H20V75ManagementofMarketingandOp</Name>
+</Subject>
+<Subject>
+	<Name>H20R75UnderstandingBusiness</Name>
+</Subject>
+<Subject>
+	<Name>FN5112CrimeinSociety</Name>
+</Subject>
+<Subject>
+	<Name>H20S76ManagementofPeopleandFinan</Name>
+</Subject>
+<Subject>
+	<Name>F5G710/F5G810/F5G910/F5G710BusinessUnitsF5G710/F5G810/</Name>
+</Subject>
+<Subject>
+	<Name>D28611FoodsoftheWorld</Name>
+</Subject>
+<Subject>
+	<Name>F19E10Hospitality:WorkingintheHo</Name>
+</Subject>
+<Subject>
+	<Name>STOURDTouristDestinations</Name>
+</Subject>
+<Subject>
+	<Name>SWRKHRWorkingasaHolidayRepresent</Name>
+</Subject>
+<Subject>
+	<Name>F3GB10Communication</Name>
+</Subject>
+<Subject>
+	<Name>F3GF10Numeracy</Name>
+</Subject>
+<Subject>
+	<Name>F5G210Marketing:AnIntroduction</Name>
+</Subject>
+<Subject>
+	<Name>H28074BusinessinAction</Name>
+</Subject>
+<Subject>
+	<Name>F78610,F78710,F78810/D36N10EmployabilityUnitsF78610,F7</Name>
+</Subject>
+<Subject>
+	<Name>H18P44PersonalDevelopment:Selfand</Name>
+</Subject>
+<Subject>
+	<Name>H1N510AdministrativeActivities</Name>
+</Subject>
+<Subject>
+	<Name>H1N610PrepareBusinessDocuments</Name>
+</Subject>
+<Subject>
+	<Name>H1YW74ITSolutionsforAdministrator</Name>
+</Subject>
+<Subject>
+	<Name>SGUIDA/STUDYGuidance/StudySkills</Name>
+</Subject>
+<Subject>
+	<Name>H1YY76CommunicationinAdministratio</Name>
+</Subject>
+<Subject>
+	<Name>H1YW76ITSolutionsforAdministrator</Name>
+</Subject>
+<Subject>
+	<Name>FG6933ITinBusiness:WordProcessin</Name>
+</Subject>
+<Subject>
+	<Name>H4KB76AdministrativeTheoryandPrac</Name>
+</Subject>
+<Subject>
+	<Name>H20R76UnderstandingBusiness</Name>
+</Subject>
+<Subject>
+	<Name>D0XS12MarketResearchPractice</Name>
+</Subject>
+<Subject>
+	<Name>SGUIDGuidance</Name>
+</Subject>
+<Subject>
+	<Name>SSTUDYStudySkills</Name>
+</Subject>
+<Subject>
+	<Name>FJ3F12BusinessFormation:AnIntrodu</Name>
+</Subject>
+<Subject>
+	<Name>FJ3J12BusinessSkillsandBehaviours</Name>
+</Subject>
+<Subject>
+	<Name>FJ3K12BusinessFormation:Commercial</Name>
+</Subject>
+<Subject>
+	<Name>FJ3H12FinanceandE-Business</Name>
+</Subject>
+<Subject>
+	<Name>FJ3G12BusinessFormation:Developing</Name>
+</Subject>
+<Subject>
+	<Name>H1YR76PreparingManagementAccountin</Name>
+</Subject>
+<Subject>
+	<Name>H1YP76PreparingFinancialAccounting</Name>
+</Subject>
+<Subject>
+	<Name>H1YS76AnalysisAccountingInformatio</Name>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+<Activity_Tag>
+	<Name>STB</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>HALBEATH</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>ANY</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>PC</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BF19A</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>DUMMY</Name>
+</Activity_Tag>
+</Activity_Tags_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>HH8234DigitalTechnologiesforAdmin</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>F1A334LegalSecretarialPractice</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>DE3R34PersonalDevelopmentPlanning</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>HH8434ITinBusiness:WordProcessin</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>H1F034/H7TK34/F7JA34CreatingaCultureofCustomer</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>HH9M34AdministrationandInformation</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>F7BX34Marketing:AnIntroduction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>F84X34ITinBusiness:Databases</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>F84X34ITinBusiness:Databases</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>HH8234DigitalTechnologiesforAdmin</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>HH9M34AdministrationandInformation</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>HH9M34AdministrationandInformation</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JELLI</Teacher>
+	<Subject>DE3R34PersonalDevelopmentPlanning</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>H1F034/H7TK34/F7JA34CreatingaCultureofCustomer</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>F1A334LegalSecretarialPractice</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>29</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>F7BX34Marketing:AnIntroduction</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>32</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>HH8434ITinBusiness:WordProcessin</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HCAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>34</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>F84L35StatisticsforBusiness</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>36</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>HH8735InformationandCommunication</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>38</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>HH9R35AdministrationandInformation</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>39</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>F84835ITinBusiness:AdvancedDatab</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>40</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>F84D35OfficeManagement</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>43</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>F87034DevelopingtheIndividualwith</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>46</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>HH9N35AdministrationandInformation</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>47</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>F7J735BusinessCultureandStrategy</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_BF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>50</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>F84835ITinBusiness:AdvancedDatab</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>51</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>HH8735InformationandCommunication</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>54</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>F84D35OfficeManagement</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>57</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>F84L35StatisticsforBusiness</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>58</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>F87034DevelopingtheIndividualwith</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>60</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>HH9N35AdministrationandInformation</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>61</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>HH9R35AdministrationandInformation</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>62</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>HH8535PresentationSkills</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>64</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>F7J735BusinessCultureandStrategy</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT_HF218A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>66</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>HH8234DigitalTechnologiesforAdmin</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>67</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>DE3R34PersonalDevelopmentPlanning</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>71</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>F1A334LegalSecretarialPractice</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>72</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>F84X34ITinBusiness:Databases</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>73</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>HH8434ITinBusiness:WordProcessin</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>78</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TBC</Teacher>
+	<Subject>F7BX34Marketing:AnIntroduction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>79</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>H1F034/H7TK34/F7JA34CreatingaCultureofCustomer</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT-BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>81</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>F84X34ITinBusiness:Databases</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>83</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>HH8234DigitalTechnologiesforAdmin</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>85</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>HH9M34AdministrationandInformation</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>87</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TBC</Teacher>
+	<Subject>DE3R34PersonalDevelopmentPlanning</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>89</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>H1F034/H7TK34CreatingaCultureofCustomer</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>91</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DORRO</Teacher>
+	<Subject>F1A334LegalSecretarialPractice</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>92</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>F7BX34Marketing:AnIntroduction</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>95</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>HH8434ITinBusiness:WordProcessin</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>HDAIT-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>97</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>F5A512SpreadsheetsforAdministrator</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>99</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>F5AD10Audio:AnIntroduction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>BF19A</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>F59S11CentralServices</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>103</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>F5AG12HumanResources:Administratio</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>106</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>FN1711HandlingWagesandSalaries</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>107</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>SGUIDAGuidance</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>109</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>F38X11SkillsforCustomerCare</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>110</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TBC</Teacher>
+	<Subject>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>112</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>APREC</Teacher>
+	<Subject>F5A512SpreadsheetsforAdministrator</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>115</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>FN1711HandlingWagesandSalaries</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>117</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>F59S11CentralServices</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>119</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LECHRI</Teacher>
+	<Subject>F5AD10Audio:AnIntroduction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>BF19A</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>121</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>SGUIDAGuidance</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>123</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>F38X11SkillsforCustomerCare</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>124</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>F5AG12HumanResources:Administratio</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>125</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TBC</Teacher>
+	<Subject>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_BF118B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>127</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>F38X11SkillsforCustomerCare</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>130</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TBC</Teacher>
+	<Subject>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>132</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>F5AG12HumanResources:Administratio</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>135</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>FN1711HandlingWagesandSalaries</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>136</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>F59S11CentralServices</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>139</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>F5A512SpreadsheetsforAdministrator</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>142</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>F5AD10Audio:AnIntroduction</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>143</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>SGUIDAGuidance</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCADM5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>145</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>SGUIDAGuidance/StudySupport</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>149</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>F39412FinancialAccounting:AnIntro</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>150</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>F39512ManagementAccounting:AnIntr</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>151</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TBC</Teacher>
+	<Subject>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>153</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>F39211ContractLaw:AnIntroduction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>155</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>F38X11SkillsforCustomerCare</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>156</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>H20V75ManagementofMarketingandOp</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>158</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>H20R75UnderstandingBusiness</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>161</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>SGUIDAGuidance/StudySupport</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>165</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>169</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>F39211ContractLaw:AnIntroduction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>171</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>FN5112CrimeinSociety</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>172</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>H20S76ManagementofPeopleandFinan</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>173</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>JABBI</Teacher>
+	<Subject>F38X11SkillsforCustomerCare</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>174</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>H20V75ManagementofMarketingandOp</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>176</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>H20R75UnderstandingBusiness</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_BF118B</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>177</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>F39412FinancialAccounting:AnIntro</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>179</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>F39512ManagementAccounting:AnIntr</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>180</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>D36N11/F57F11/H18P45EnterpriseActivity+Employab</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>182</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>F38X11SkillsforCustomerCare</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>184</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>H20V75ManagementofMarketingandOp</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>186</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>H20R75UnderstandingBusiness</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>187</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>SGUIDAGuidance/StudySupport</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>189</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>F39211ContractLaw:AnIntroduction</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NCBUS5_HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>192</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBCUA</Teacher>
+	<Subject>D28611FoodsoftheWorld</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>DUMMY</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>195</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBTER</Teacher>
+	<Subject>SWRKHRWorkingasaHolidayRepresent</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>DUMMY</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>198</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVCS</Teacher>
+	<Subject>F3GF10Numeracy</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>DUMMY</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>200</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>H28074BusinessinAction</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>202</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>F78610,F78710,F78810/D36N10EmployabilityUnitsF78610,F7</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>203</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>H18P44PersonalDevelopment:Selfand</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>204</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>H1YW74ITSolutionsforAdministrator</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>207</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>TMCAL</Teacher>
+	<Subject>SGUIDA/STUDYGuidance/StudySkills</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQABH4_BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>209</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>DSCOT</Teacher>
+	<Subject>FG6933ITinBusiness:WordProcessin</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>212</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>D0XS12MarketResearchPractice</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>215</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>SSTUDYStudySkills</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>217</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>FJ3K12BusinessFormation:Commercial</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>220</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>FJ3H12FinanceandE-Business</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>221</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SMCDO</Teacher>
+	<Subject>FJ3G12BusinessFormation:Developing</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>222</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>H1YP76PreparingFinancialAccounting</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>224</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>BMCAR</Teacher>
+	<Subject>H1YS76AnalysisAccountingInformatio</Subject>
+	<Activity_Tag>STB</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-BF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>225</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>FJ3H12FinanceandE-Business</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>227</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>EBROA</Teacher>
+	<Subject>D0XS12MarketResearchPractice</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>229</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>LTELF</Teacher>
+	<Subject>FG6933ITinBusiness:WordProcessin</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>PC</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>232</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>FJ3K12BusinessFormation:Commercial</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>235</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>FJ3G12BusinessFormation:Developing</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>236</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>H1YP76PreparingFinancialAccounting</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>238</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>SERVBMLE</Teacher>
+	<Subject>H1YS76AnalysisAccountingInformatio</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>239</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>ESMIT</Teacher>
+	<Subject>SSTUDYStudySkills</Subject>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Students>NQBES6-HF118A</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>241</Id>
+	<Activity_Group_Id>0</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>STB</Name>
+</Building>
+<Building>
+	<Name>HALBEATH</Name>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>BF19A</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF19B</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF19C</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BCOMP</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BDUMMY</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H4.13</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H4.19</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H1.11</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>HDUMMY</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>ESMIT</Teacher_Name>
+	<Max_Days_Per_Week>4</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>EBROA</Teacher_Name>
+	<Max_Days_Per_Week>4</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+<ConstraintTeachersMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxHoursContinuously>
+<ConstraintStudentsMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxHoursContinuously>
+<ConstraintStudentsMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxDaysPerWeek>
+<ConstraintStudentsMinHoursDaily>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Minimum_Hours_Daily>3</Minimum_Hours_Daily>
+	<Allow_Empty_Days>true</Allow_Empty_Days>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMinHoursDaily>
+<ConstraintStudentsMaxGapsPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Gaps>2</Max_Gaps>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxGapsPerDay>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>APREC</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>BMCAR</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>DORRO</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>DSCOT</Teacher>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>EBROA</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>ESMIT</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>JABBI</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>LECHRI</Teacher>
+	<Number_of_Not_Available_Times>11</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>LTELF</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>SERVBCUA</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>SERVBMLE</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>SERVBTER</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>SERVCS</Teacher>
+	<Number_of_Not_Available_Times>19</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>SMCDO</Teacher>
+	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>TMCAL</Teacher>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>91</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>95</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>32</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>46</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>47</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>50</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>51</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>57</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>58</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>61</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>62</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>64</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>67</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>16:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>72</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>79</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>83</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>87</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>89</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>92</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>97</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>103</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>106</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>107</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>109</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>110</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>112</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>115</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>117</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>119</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>121</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>123</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>124</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>125</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>127</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>130</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>132</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>135</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>136</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>139</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>142</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>143</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>145</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>149</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>150</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>151</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>153</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>12:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>155</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>156</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>158</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>161</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>165</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>169</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>16:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>171</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>172</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>173</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>174</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>176</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>177</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>179</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>180</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>182</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>184</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>186</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>187</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>189</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>192</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>195</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>198</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>202</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>203</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>204</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>207</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>209</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>212</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>215</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>217</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>220</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>14:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>221</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>222</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>224</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>225</Activity_Id>
+	<Preferred_Day>Wednesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>227</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>15:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>229</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>232</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>13:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>235</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>236</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>238</Activity_Id>
+	<Preferred_Day>Friday</Preferred_Day>
+	<Preferred_Hour>09:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>239</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>241</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>11:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintTeachersMaxBuildingChangesPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Building_Changes_Per_Day>0</Max_Building_Changes_Per_Day>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxBuildingChangesPerDay>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>STB</Activity_Tag>
+	<Number_of_Preferred_Rooms>5</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF19A</Preferred_Room>
+	<Preferred_Room>BF19B</Preferred_Room>
+	<Preferred_Room>BF19C</Preferred_Room>
+	<Preferred_Room>BCOMP</Preferred_Room>
+	<Preferred_Room>BDUMMY</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Number_of_Preferred_Rooms>4</Number_of_Preferred_Rooms>
+	<Preferred_Room>H4.13</Preferred_Room>
+	<Preferred_Room>H4.19</Preferred_Room>
+	<Preferred_Room>H1.11</Preferred_Room>
+	<Preferred_Room>HDUMMY</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>ANY</Activity_Tag>
+	<Number_of_Preferred_Rooms>8</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF19A</Preferred_Room>
+	<Preferred_Room>BF19B</Preferred_Room>
+	<Preferred_Room>BF19C</Preferred_Room>
+	<Preferred_Room>BCOMP</Preferred_Room>
+	<Preferred_Room>H4.13</Preferred_Room>
+	<Preferred_Room>H4.19</Preferred_Room>
+	<Preferred_Room>H1.11</Preferred_Room>
+	<Preferred_Room>HDUMMY</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>PC</Activity_Tag>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF19A</Preferred_Room>
+	<Preferred_Room>BF19B</Preferred_Room>
+	<Preferred_Room>BF19C</Preferred_Room>
+	<Preferred_Room>BCOMP</Preferred_Room>
+	<Preferred_Room>H4.19</Preferred_Room>
+	<Preferred_Room>H1.11</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BF19A</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF19A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>DUMMY</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BDUMMY</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>BCOMP</Room>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>H4.13</Room>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>H4.19</Room>
+	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>HDUMMY</Room>
+	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>16:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>85</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>91</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>95</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>2</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>5</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>8</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>11</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>13</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>14</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>15</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>16</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>19</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>21</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>23</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>24</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>26</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>28</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>29</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>32</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>34</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>36</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>38</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>39</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>40</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>43</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>46</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>47</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>50</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>51</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>54</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>57</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>58</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>60</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>61</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>62</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>64</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>66</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>67</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>71</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>72</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>73</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>78</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>79</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>81</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>83</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>87</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>89</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>92</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>97</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>99</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>103</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>106</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>107</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>109</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>110</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>112</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>115</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>117</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>119</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>121</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>123</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>124</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>125</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>127</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>130</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>132</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>135</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>136</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>139</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>142</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>143</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>145</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>149</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>150</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>151</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>153</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>155</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>156</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>158</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>161</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>165</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>169</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>171</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>172</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>173</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>174</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>176</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>177</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>179</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>180</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>182</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>184</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>186</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>187</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>189</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>192</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>195</Activity_Id>
+	<Room>BDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>198</Activity_Id>
+	<Room>BDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200</Activity_Id>
+	<Room>BDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>202</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>203</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>204</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>207</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>209</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>212</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>215</Activity_Id>
+	<Room>BCOMP</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>217</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>220</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>221</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>222</Activity_Id>
+	<Room>BF19C</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>224</Activity_Id>
+	<Room>BF19B</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>225</Activity_Id>
+	<Room>BF19A</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>227</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>229</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>232</Activity_Id>
+	<Room>H1.11</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>235</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>236</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>238</Activity_Id>
+	<Room>H4.13</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>239</Activity_Id>
+	<Room>H4.19</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>241</Activity_Id>
+	<Room>HDUMMY</Room>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+
+</fet>
