@@ -1,23 +1,22 @@
 +---------------+----------+------------+
 | lecturer      | semester | SUM(hours) |
 +---------------+----------+------------+
-| Colin Maxwell | 1        |          6 |
+| Colin Maxwell | 1        |          2 |
 | Colin Maxwell | 2        |         13 |
 | Lee Priestley | 1        |         15 |
 | Lee Priestley | 2        |          9 |
 | Marion Barrie | 1        |         13 |
 | Marion Barrie | 2        |         17 |
-| Marion Barrie | ALL      |         11 |
-| Marion Gerrie | 1        |         22 |
+| Marion Barrie | ALL      |         10 |
+| Marion Gerrie | 1        |         20 |
 | Marion Gerrie | 2        |         10 |
 | Marion Gerrie | ALL      |          4 |
 | Mark McPhee   | 1        |          3 |
 | Mark McPhee   | 2        |          3 |
-| Nairn Beattie | 1        |         12 |
+| Nairn Beattie | 1        |          6 |
 | Nairn Beattie | 2        |         14 |
-| NLR           | 1        |         16 |
+| NLR           | 1        |          6 |
 | NLR           | 2        |          2 |
-| NLR           | ALL      |          4 |
 | Rebecca Blyth | 1        |          8 |
 | Rebecca Blyth | 2        |         15 |
 | Sarah Herzog  | 1        |         10 |

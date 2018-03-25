@@ -5,85 +5,82 @@ Message: Duplicate subject DE3R34PersonalDevelopmentPlanning found - ignoring
 
 Progress title: Computing internal structure
 Progress label: Processing internally the activities ... please wait
-Progress range: 0..64
+Progress range: 0..61
 Progress setModal(true)
 Progress label: Processing internally the time constraints ... please wait
-Progress range: 0..6
-6 time constraints after first pass (after removing inactive ones)
-  6 time constraints after second pass (after removing wrong ones)
+Progress range: 0..17
+17 time constraints after first pass (after removing inactive ones)
+  17 time constraints after second pass (after removing wrong ones)
 Progress label: Processing internally the space constraints ... please wait
-Progress range: 0..13
-13 space constraints after first pass (after removing inactive ones)
-  13 space constraints after second pass (after removing wrong ones)
+Progress range: 0..14
+14 space constraints after first pass (after removing inactive ones)
+  14 space constraints after second pass (after removing wrong ones)
 Progress title: Precomputing
 Progress label: Precomputing ... please wait
-Progress range: 0..20
+Progress range: 0..19
 Progress setModal(true)
 The order of activities (id-s):
 No: 1, id=213, teachers: , subject: TBCLocallydevisedhighermathsu, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=1500000001
-No: 2, id=57, teachers: MarionBarrie, subject: F8L235GameCustomisationandScripti, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=332
-No: 3, id=75, teachers: ColinMaxwell, subject: HF4Y34DevelopingMobileWebBasedAp, activity tags: STENTON ANY, students: HDGDD_SF117A, nIncompatible[permutation[i]]=204
-No: 4, id=217, teachers: SarahHerzog, subject: H2WX12ComputerGames:SoftwareDevP, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=159
-No: 5, id=67, teachers: RebeccaBlyth, subject: F209342DAnimation, activity tags: STENTON ANY, students: HDGDD_SF117A, nIncompatible[permutation[i]]=156
-No: 6, id=32, teachers: MarionBarrie, subject: F869343DLevelEditing, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=152
-No: 7, id=36, teachers: MarionBarrie, subject: HH3734GameInterfaceDesignSCQFLev, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=152
-No: 8, id=68, teachers: MarionBarrie, subject: F869343DLevelEditing, activity tags: STENTON S3.2, students: HDGDD_SF117A, nIncompatible[permutation[i]]=144
-No: 9, id=89, teachers: MarionBarrie, subject: F8L235GameCustomisationandScripti, activity tags: STENTON S3.2, students: HDGDD_SF217A, nIncompatible[permutation[i]]=140
-No: 10, id=6, teachers: ShonaIrvine, subject: CMP312RichInternetApplications, activity tags: STENTON ANY, students: BSWDD_SF117A, nIncompatible[permutation[i]]=135
-No: 11, id=53, teachers: NairnBeattie, subject: HH5835CreatingaShowreelandportfo, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=134
-No: 12, id=211, teachers: MarionBarrie, subject: F91712ComputerGames:Development, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=134
-No: 13, id=60, teachers: MarionGerrie, subject: HH3N35ComputerGamesDevelopment:Gr, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=132
-No: 14, id=13, teachers: LeePriestley, subject: F7BY343DAnimation:EnvironmentalMo, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=129
-No: 15, id=58, teachers: MarionBarrie, subject: F8R534GamesDevelopment:CharacterC, activity tags: STENTON ANY, students: HDCGD_SF217A, nIncompatible[permutation[i]]=128
-No: 16, id=37, teachers: RebeccaBlyth, subject: HH38342DAnimationforGamesSCQFL, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=126
-No: 17, id=38, teachers: RebeccaBlyth, subject: HH3934ComputerGames:CreatingGraph, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=126
-No: 18, id=59, teachers: SarahHerzog, subject: HH3N35ComputerGamesDevelopment:Gr, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=126
-No: 19, id=100, teachers: ShonaIrvine, subject: HF4Y34DevelopingMobileWebBasedAp, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=123
-No: 20, id=42, teachers: MarionGerrie, subject: HH3M34ComputerGamesDevelopment:Gr, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=122
-No: 21, id=66, teachers: MarionBarrie, subject: F1GW35GameDesign, activity tags: STENTON ANY, students: HDGDD_SF117A, nIncompatible[permutation[i]]=118
-No: 22, id=201, teachers: MarionBarrie, subject: FN9011GamesInterfaceDesign, activity tags: STENTON S3.11, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=118
-No: 23, id=196, teachers: MarionBarrie, subject: FN8P11Gameplay, activity tags: STENTON ANY, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=116
-No: 24, id=224, teachers: RebeccaBlyth, subject: ???LocallyDevised3DDevelopment, activity tags: STENTON S3.1, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=110
-No: 25, id=212, teachers: NairnBeattie, subject: TBCComputerGamesPortfolio, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=108
-No: 26, id=5, teachers: MarkMcPhee, subject: CMP311ProfessionalProjectDevelopme, activity tags: STENTON ANY, students: BSWDD_SF117A, nIncompatible[permutation[i]]=105
-No: 27, id=216, teachers: MarionGerrie, subject: TBCComputerGames:Mathematics, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=104
-No: 28, id=218, teachers: RebeccaBlyth, subject: H2X012CharacterCreation, activity tags: STENTON ANY, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=104
-No: 29, id=202, teachers: RebeccaBlyth, subject: FN91113DModellingandAnimation:An, activity tags: STENTON S3.1, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=102
-No: 30, id=220, teachers: MarionGerrie, subject: H1ND12ArtificialIntelligenceforGa, activity tags: STENTON ANY, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=102
-No: 31, id=52, teachers: SarahHerzog, subject: HH3L35ComputerProgramming:Applied, activity tags: STENTON ANY, students: HDCGD_SF217A, nIncompatible[permutation[i]]=100
-No: 32, id=101, teachers: RebeccaBlyth, subject: HF5534UserInterfaceDesign, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=96
-No: 33, id=197, teachers: MarionGerrie, subject: FN8R11GamesProgramming, activity tags: STENTON S3.11, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=96
-No: 34, id=195, teachers: ColinMaxwell, subject: F91711ComputerGames:Development, activity tags: STENTON S3.11, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=94
-No: 35, id=198, teachers: NairnBeattie, subject: FN8T11NarrativeDesignandDevelopme, activity tags: STENTON ANY, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=94
-No: 36, id=9, teachers: NairnBeattie, subject: DW6C34Photography:AnIntroduction, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=92
-No: 37, id=17, teachers: NairnBeattie, subject: H4A134CreativeIndustries:AnIntrod, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=92
-No: 38, id=19, teachers: NairnBeattie, subject: H4JN34CompositingandMotionGraphic, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=92
-No: 39, id=82, teachers: MarionBarrie, subject: HG3F35DigitalDesignandDevelopment, activity tags: STENTON S3.9, students: HDGDD_SF217A, nIncompatible[permutation[i]]=92
-No: 40, id=90, teachers: NairnBeattie, subject: HF5034DigitalMedia-Audio, activity tags: STENTON ANY, students: HDGDD_SF217A, nIncompatible[permutation[i]]=92
-No: 41, id=95, teachers: ColinMaxwell, subject: H17834TeamWorkinginComputing, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=92
-No: 42, id=77, teachers: ColinMaxwell, subject: HG2V34DigitalDesignandWebDevelop, activity tags: STENTON ANY, students: HDGDD_SF117A, nIncompatible[permutation[i]]=86
-No: 43, id=88, teachers: SarahHerzog, subject: H1GN34DigitalMarketingFundamentals, activity tags: STENTON ANY, students: HDGDD_SF217A, nIncompatible[permutation[i]]=84
-No: 44, id=14, teachers: LeePriestley, subject: F7FD343DComputerAnimation:Graded, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=80
-No: 45, id=16, teachers: LeePriestley, subject: H49X343DAnimation:Lighting, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=80
-No: 46, id=4, teachers: ColinMaxwell, subject: CMP309SoftwareDevelopmentforMobil, activity tags: STENTON S3.12, students: BSWDD_SF117A, nIncompatible[permutation[i]]=78
-No: 47, id=93, teachers: ShonaIrvine, subject: DV6E34DatabaseDesignFundamentalsS, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=76
-No: 48, id=102, teachers: ShonaIrvine, subject: HF5635WebDevelopment:ProducingaD, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=76
-No: 49, id=104, teachers: ShonaIrvine, subject: HG2V34DigitalDesignandWebDevelop, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=76
-No: 50, id=47, teachers: , subject: MATHSMATHS, students: HDCGD_SF118A HDCGD_SF217A, nIncompatible[permutation[i]]=72
-No: 51, id=48, teachers: , subject: MATHSMATHS, students: HDCGD_SF118A HDCGD_SF217A, nIncompatible[permutation[i]]=72
-No: 52, id=81, teachers: SarahHerzog, subject: HG3F35DigitalDesignandDevelopment, activity tags: STENTON S3.9, students: HDGDD_SF217A, nIncompatible[permutation[i]]=62
-No: 53, id=223, teachers: MarionBarrie, subject: SGUIDLocallyDevisedGuidance, activity tags: STENTON ANY, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=62
-No: 54, id=51, teachers: LeePriestley, subject: DE2N353DModellingandAnimation, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=60
-No: 55, id=31, teachers: MarionGerrie, subject: DH3534Computing:Planning, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=58
-No: 56, id=35, teachers: MarionGerrie, subject: H17D34Computing:IntroductiontoPro, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=58
-No: 57, id=39, teachers: MarionGerrie, subject: HH3F34GameTechnologySCQFLevel7, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=58
-No: 58, id=70, teachers: MarionBarrie, subject: H17834TeamWorkinginComputing, activity tags: STENTON ANY, students: HDGDD_SF117A, nIncompatible[permutation[i]]=55
-No: 59, id=207, teachers: MarionBarrie, subject: SGUIDAGuidance, activity tags: STENTON ANY, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=54
-No: 60, id=85, teachers: MarionBarrie, subject: DE3R34PersonalDevelopmentPlanning, activity tags: STENTON ANY, students: HDGDD_SF217A, nIncompatible[permutation[i]]=53
-No: 61, id=62, teachers: MarionGerrie, subject: HH3D35ArtificialIntelligenceandCr, activity tags: STENTON ANY, students: HDCGD_SF217A, nIncompatible[permutation[i]]=49
-No: 62, id=225, teachers: SarahHerzog, subject: SCREPRCreativeProject, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=47
-No: 63, id=87, teachers: LeePriestley, subject: DE2N353DModellingandAnimation, activity tags: STENTON S3.1, students: HDGDD_SF217A, nIncompatible[permutation[i]]=42
-No: 64, id=92, teachers: ShonaIrvine, subject: DE3R34PersonalDevelopmentPlanning, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=35
+No: 2, id=57, teachers: MarionBarrie, subject: F8L235GameCustomisationandScripti, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=460
+No: 3, id=75, teachers: ColinMaxwell, subject: HF4Y34DevelopingMobileWebBasedAp, activity tags: STENTON COMP, students: HDGDD_SF117A, nIncompatible[permutation[i]]=360
+No: 4, id=4, teachers: ColinMaxwell, subject: CMP309SoftwareDevelopmentforMobil, activity tags: STENTON S3.12, students: BSWDD_SF117A, nIncompatible[permutation[i]]=267
+No: 5, id=67, teachers: RebeccaBlyth, subject: F209342DAnimation, activity tags: STENTON COMP, students: HDGDD_SF117A, nIncompatible[permutation[i]]=264
+No: 6, id=6, teachers: ShonaIrvine, subject: CMP312RichInternetApplications, activity tags: STENTON COMP, students: BSWDD_SF117A, nIncompatible[permutation[i]]=261
+No: 7, id=217, teachers: SarahHerzog, subject: H2WX12ComputerGames:SoftwareDevP, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=255
+No: 8, id=5, teachers: MarkMcPhee, subject: CMP311ProfessionalProjectDevelopme, activity tags: STENTON COMP, students: BSWDD_SF117A, nIncompatible[permutation[i]]=231
+No: 9, id=13, teachers: LeePriestley, subject: F7BY343DAnimation:EnvironmentalMo, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=225
+No: 10, id=100, teachers: ShonaIrvine, subject: HF4Y34DevelopingMobileWebBasedAp, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=219
+No: 11, id=32, teachers: MarionBarrie, subject: F869343DLevelEditing, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=196
+No: 12, id=36, teachers: MarionBarrie, subject: HH3734GameInterfaceDesignSCQFLev, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=196
+No: 13, id=68, teachers: MarionBarrie, subject: F869343DLevelEditing, activity tags: STENTON S3.2, students: HDGDD_SF117A, nIncompatible[permutation[i]]=196
+No: 14, id=89, teachers: MarionBarrie, subject: F8L235GameCustomisationandScripti, activity tags: STENTON S3.2, students: HDGDD_SF217A, nIncompatible[permutation[i]]=192
+No: 15, id=53, teachers: NairnBeattie, subject: HH5835CreatingaShowreelandportfo, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=190
+No: 16, id=211, teachers: MarionBarrie, subject: F91712ComputerGames:Development, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=186
+No: 17, id=60, teachers: MarionGerrie, subject: HH3N35ComputerGamesDevelopment:Gr, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=182
+No: 18, id=37, teachers: RebeccaBlyth, subject: HH38342DAnimationforGamesSCQFL, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=178
+No: 19, id=38, teachers: RebeccaBlyth, subject: HH3934ComputerGames:CreatingGraph, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=178
+No: 20, id=58, teachers: MarionBarrie, subject: F8R534GamesDevelopment:CharacterC, activity tags: STENTON COMP, students: HDCGD_SF217A, nIncompatible[permutation[i]]=178
+No: 21, id=66, teachers: MarionBarrie, subject: F1GW35GameDesign, activity tags: STENTON COMP, students: HDGDD_SF117A, nIncompatible[permutation[i]]=176
+No: 22, id=196, teachers: MarionBarrie, subject: FN8P11Gameplay, activity tags: STENTON COMP, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=174
+No: 23, id=42, teachers: MarionGerrie, subject: HH3M34ComputerGamesDevelopment:Gr, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=172
+No: 24, id=59, teachers: SarahHerzog, subject: HH3N35ComputerGamesDevelopment:Gr, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=172
+No: 25, id=212, teachers: NairnBeattie, subject: TBCComputerGamesPortfolio, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=172
+No: 26, id=201, teachers: MarionBarrie, subject: FN9011GamesInterfaceDesign, activity tags: STENTON S3.11, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=170
+No: 27, id=218, teachers: RebeccaBlyth, subject: H2X012CharacterCreation, activity tags: STENTON COMP, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=170
+No: 28, id=224, teachers: RebeccaBlyth, subject: ???LocallyDevised3DDevelopment, activity tags: STENTON S3.1, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=170
+No: 29, id=220, teachers: MarionGerrie, subject: H1ND12ArtificialIntelligenceforGa, activity tags: STENTON COMP, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=166
+No: 30, id=90, teachers: NairnBeattie, subject: HF5034DigitalMedia-Audio, activity tags: STENTON COMP, students: HDGDD_SF217A, nIncompatible[permutation[i]]=162
+No: 31, id=198, teachers: NairnBeattie, subject: FN8T11NarrativeDesignandDevelopme, activity tags: STENTON COMP, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=162
+No: 32, id=216, teachers: MarionGerrie, subject: TBCComputerGames:Mathematics, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=162
+No: 33, id=202, teachers: RebeccaBlyth, subject: FN91113DModellingandAnimation:An, activity tags: STENTON S3.1, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=160
+No: 34, id=9, teachers: NairnBeattie, subject: DW6C34Photography:AnIntroduction, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=156
+No: 35, id=17, teachers: NairnBeattie, subject: H4A134CreativeIndustries:AnIntrod, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=156
+No: 36, id=19, teachers: NairnBeattie, subject: H4JN34CompositingandMotionGraphic, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=156
+No: 37, id=101, teachers: RebeccaBlyth, subject: HF5534UserInterfaceDesign, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=156
+No: 38, id=52, teachers: SarahHerzog, subject: HH3L35ComputerProgramming:Applied, activity tags: STENTON COMP, students: HDCGD_SF217A, nIncompatible[permutation[i]]=152
+No: 39, id=197, teachers: MarionGerrie, subject: FN8R11GamesProgramming, activity tags: STENTON S3.11, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=152
+No: 40, id=77, teachers: ColinMaxwell, subject: HG2V34DigitalDesignandWebDevelop, activity tags: STENTON COMP, students: HDGDD_SF117A, nIncompatible[permutation[i]]=146
+No: 41, id=95, teachers: ColinMaxwell, subject: H17834TeamWorkinginComputing, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=146
+No: 42, id=195, teachers: ColinMaxwell, subject: F91711ComputerGames:Development, activity tags: STENTON S3.11, students: NCCGD5_SF117A, nIncompatible[permutation[i]]=146
+No: 43, id=82, teachers: MarionBarrie, subject: HG3F35DigitalDesignandDevelopment, activity tags: STENTON S3.9, students: HDGDD_SF217A, nIncompatible[permutation[i]]=144
+No: 44, id=88, teachers: SarahHerzog, subject: H1GN34DigitalMarketingFundamentals, activity tags: STENTON COMP, students: HDGDD_SF217A, nIncompatible[permutation[i]]=144
+No: 45, id=14, teachers: LeePriestley, subject: F7FD343DComputerAnimation:Graded, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=134
+No: 46, id=16, teachers: LeePriestley, subject: H49X343DAnimation:Lighting, activity tags: STENTON S3.1, students: HD3CA_SF117A, nIncompatible[permutation[i]]=134
+No: 47, id=93, teachers: ShonaIrvine, subject: DV6E34DatabaseDesignFundamentalsS, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=130
+No: 48, id=102, teachers: ShonaIrvine, subject: HF5635WebDevelopment:ProducingaD, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=130
+No: 49, id=104, teachers: ShonaIrvine, subject: HG2V34DigitalDesignandWebDevelop, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=130
+No: 50, id=81, teachers: SarahHerzog, subject: HG3F35DigitalDesignandDevelopment, activity tags: STENTON S3.9, students: HDGDD_SF217A, nIncompatible[permutation[i]]=116
+No: 51, id=223, teachers: MarionBarrie, subject: SGUIDLocallyDevisedGuidance, activity tags: STENTON COMP, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=86
+No: 52, id=70, teachers: MarionBarrie, subject: H17834TeamWorkinginComputing, activity tags: STENTON COMP, students: HDGDD_SF117A, nIncompatible[permutation[i]]=79
+No: 53, id=31, teachers: MarionGerrie, subject: DH3534Computing:Planning, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=78
+No: 54, id=35, teachers: MarionGerrie, subject: H17D34Computing:IntroductiontoPro, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=78
+No: 55, id=39, teachers: MarionGerrie, subject: HH3F34GameTechnologySCQFLevel7, activity tags: STENTON S3.2, students: HDCGD_SF118A, nIncompatible[permutation[i]]=78
+No: 56, id=51, teachers: LeePriestley, subject: DE2N353DModellingandAnimation, activity tags: STENTON S3.2, students: HDCGD_SF217A, nIncompatible[permutation[i]]=78
+No: 57, id=85, teachers: MarionBarrie, subject: DE3R34PersonalDevelopmentPlanning, activity tags: STENTON COMP, students: HDGDD_SF217A, nIncompatible[permutation[i]]=77
+No: 58, id=62, teachers: MarionGerrie, subject: HH3D35ArtificialIntelligenceandCr, activity tags: STENTON COMP, students: HDCGD_SF217A, nIncompatible[permutation[i]]=72
+No: 59, id=225, teachers: SarahHerzog, subject: SCREPRCreativeProject, activity tags: STENTON S3.11, students: NCCGD6_SF117A, nIncompatible[permutation[i]]=69
+No: 60, id=87, teachers: LeePriestley, subject: DE2N353DModellingandAnimation, activity tags: STENTON S3.1, students: HDGDD_SF217A, nIncompatible[permutation[i]]=64
+No: 61, id=92, teachers: ShonaIrvine, subject: DE3R34PersonalDevelopmentPlanning, activity tags: STENTON S3.8, students: HDINM_SF117A, nIncompatible[permutation[i]]=57
 End - the order of activities (id-s):
 Title: FET warning
 Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.
@@ -113,196 +110,199 @@ Starting timetable generation...
 secondsLimit==2000000000
 
 Trying to place activity number added_act==0
-with id==213, from nInternalActivities==64
+with id==213, from nInternalActivities==61
 
 Trying to place activity number added_act==1
-with id==57, from nInternalActivities==64
+with id==57, from nInternalActivities==61
 
 Trying to place activity number added_act==2
-with id==75, from nInternalActivities==64
+with id==75, from nInternalActivities==61
 
 Trying to place activity number added_act==3
-with id==217, from nInternalActivities==64
+with id==4, from nInternalActivities==61
 
 Trying to place activity number added_act==4
-with id==67, from nInternalActivities==64
+with id==67, from nInternalActivities==61
 
 Trying to place activity number added_act==5
-with id==32, from nInternalActivities==64
+with id==6, from nInternalActivities==61
 
 Trying to place activity number added_act==6
-with id==36, from nInternalActivities==64
+with id==217, from nInternalActivities==61
 
 Trying to place activity number added_act==7
-with id==68, from nInternalActivities==64
+with id==5, from nInternalActivities==61
 
 Trying to place activity number added_act==8
-with id==89, from nInternalActivities==64
+with id==13, from nInternalActivities==61
 
 Trying to place activity number added_act==9
-with id==6, from nInternalActivities==64
+with id==100, from nInternalActivities==61
 
 Trying to place activity number added_act==10
-with id==53, from nInternalActivities==64
+with id==32, from nInternalActivities==61
 
 Trying to place activity number added_act==11
-with id==211, from nInternalActivities==64
+with id==36, from nInternalActivities==61
 
 Trying to place activity number added_act==12
-with id==60, from nInternalActivities==64
+with id==68, from nInternalActivities==61
 
 Trying to place activity number added_act==13
-with id==13, from nInternalActivities==64
+with id==89, from nInternalActivities==61
 
 Trying to place activity number added_act==14
-with id==58, from nInternalActivities==64
+with id==53, from nInternalActivities==61
 
 Trying to place activity number added_act==15
-with id==37, from nInternalActivities==64
+with id==211, from nInternalActivities==61
 
 Trying to place activity number added_act==16
-with id==38, from nInternalActivities==64
+with id==60, from nInternalActivities==61
 
 Trying to place activity number added_act==17
-with id==59, from nInternalActivities==64
+with id==37, from nInternalActivities==61
 
 Trying to place activity number added_act==18
-with id==100, from nInternalActivities==64
+with id==38, from nInternalActivities==61
 
 Trying to place activity number added_act==19
-with id==42, from nInternalActivities==64
+with id==58, from nInternalActivities==61
 
 Trying to place activity number added_act==20
-with id==66, from nInternalActivities==64
+with id==66, from nInternalActivities==61
 
 Trying to place activity number added_act==21
-with id==201, from nInternalActivities==64
+with id==196, from nInternalActivities==61
 
 Trying to place activity number added_act==22
-with id==196, from nInternalActivities==64
+with id==42, from nInternalActivities==61
 
 Trying to place activity number added_act==23
-with id==224, from nInternalActivities==64
+with id==59, from nInternalActivities==61
 
 Trying to place activity number added_act==24
-with id==212, from nInternalActivities==64
+with id==212, from nInternalActivities==61
 
 Trying to place activity number added_act==25
-with id==5, from nInternalActivities==64
+with id==201, from nInternalActivities==61
 
 Trying to place activity number added_act==26
-with id==216, from nInternalActivities==64
+with id==218, from nInternalActivities==61
 
 Trying to place activity number added_act==27
-with id==218, from nInternalActivities==64
+with id==224, from nInternalActivities==61
 
 Trying to place activity number added_act==28
-with id==202, from nInternalActivities==64
+with id==220, from nInternalActivities==61
 
 Trying to place activity number added_act==29
-with id==220, from nInternalActivities==64
+with id==90, from nInternalActivities==61
 
 Trying to place activity number added_act==30
-with id==52, from nInternalActivities==64
+with id==198, from nInternalActivities==61
 
 Trying to place activity number added_act==31
-with id==101, from nInternalActivities==64
+with id==216, from nInternalActivities==61
 
 Trying to place activity number added_act==32
-with id==197, from nInternalActivities==64
+with id==202, from nInternalActivities==61
 
 Trying to place activity number added_act==33
-with id==195, from nInternalActivities==64
+with id==9, from nInternalActivities==61
 
 Trying to place activity number added_act==34
-with id==198, from nInternalActivities==64
+with id==17, from nInternalActivities==61
 
 Trying to place activity number added_act==35
-with id==9, from nInternalActivities==64
+with id==19, from nInternalActivities==61
 
 Trying to place activity number added_act==36
-with id==17, from nInternalActivities==64
+with id==101, from nInternalActivities==61
 
 Trying to place activity number added_act==37
-with id==19, from nInternalActivities==64
+with id==52, from nInternalActivities==61
 
 Trying to place activity number added_act==38
-with id==82, from nInternalActivities==64
+with id==197, from nInternalActivities==61
 
 Trying to place activity number added_act==39
-with id==90, from nInternalActivities==64
+with id==77, from nInternalActivities==61
 
 Trying to place activity number added_act==40
-with id==95, from nInternalActivities==64
+with id==95, from nInternalActivities==61
 
 Trying to place activity number added_act==41
-with id==77, from nInternalActivities==64
+with id==195, from nInternalActivities==61
 
 Trying to place activity number added_act==42
-with id==88, from nInternalActivities==64
+with id==82, from nInternalActivities==61
 
 Trying to place activity number added_act==43
-with id==14, from nInternalActivities==64
+with id==88, from nInternalActivities==61
 
 Trying to place activity number added_act==44
-with id==16, from nInternalActivities==64
+with id==14, from nInternalActivities==61
 
 Trying to place activity number added_act==45
-with id==4, from nInternalActivities==64
+with id==16, from nInternalActivities==61
 
 Trying to place activity number added_act==46
-with id==93, from nInternalActivities==64
+with id==93, from nInternalActivities==61
 
 Trying to place activity number added_act==47
-with id==102, from nInternalActivities==64
+with id==102, from nInternalActivities==61
 
 Trying to place activity number added_act==48
-with id==104, from nInternalActivities==64
+with id==104, from nInternalActivities==61
 
 Trying to place activity number added_act==49
-with id==47, from nInternalActivities==64
+with id==81, from nInternalActivities==61
 
 Trying to place activity number added_act==50
-with id==48, from nInternalActivities==64
+with id==223, from nInternalActivities==61
 
 Trying to place activity number added_act==51
-with id==81, from nInternalActivities==64
+with id==70, from nInternalActivities==61
 
 Trying to place activity number added_act==52
-with id==223, from nInternalActivities==64
+with id==31, from nInternalActivities==61
 
 Trying to place activity number added_act==53
-with id==51, from nInternalActivities==64
+with id==35, from nInternalActivities==61
 
 Trying to place activity number added_act==54
-with id==31, from nInternalActivities==64
+with id==39, from nInternalActivities==61
 
 Trying to place activity number added_act==55
-with id==35, from nInternalActivities==64
+with id==51, from nInternalActivities==61
 
 Trying to place activity number added_act==56
-with id==39, from nInternalActivities==64
+with id==85, from nInternalActivities==61
 
 Trying to place activity number added_act==57
-with id==70, from nInternalActivities==64
+with id==62, from nInternalActivities==61
 
 Trying to place activity number added_act==58
-with id==207, from nInternalActivities==64
+with id==225, from nInternalActivities==61
 
 Trying to place activity number added_act==59
-with id==85, from nInternalActivities==64
+with id==87, from nInternalActivities==61
+nDifficultActivities==60
+conflActivitiesTimeSlot.count()==1
+Confl activity id:89 time of this activity:4 room of this activity:S3.2
+timeSlot==27
+roomSlot==S3.1
+id of permutation[j==58]==87
+conflicting:
+id of permutation[j==59]==89
+tmp represents activity with id==87 initial time: 2100 final time: 27
+
+Trying to place activity number added_act==59
+with id==89, from nInternalActivities==61
 
 Trying to place activity number added_act==60
-with id==62, from nInternalActivities==64
-
-Trying to place activity number added_act==61
-with id==225, from nInternalActivities==64
-
-Trying to place activity number added_act==62
-with id==87, from nInternalActivities==64
-
-Trying to place activity number added_act==63
-with id==92, from nInternalActivities==64
+with id==92, from nInternalActivities==61
 Total searching time (seconds): 0
 Simulation successful
 Since simulation is complete, FET will write also the timetable data file

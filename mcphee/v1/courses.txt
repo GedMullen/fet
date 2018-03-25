@@ -1,33 +1,29 @@
-+---------------------------+---------+----------+------------+
-| course                    | campus  | semester | SUM(hours) |
-+---------------------------+---------+----------+------------+
-| BSWDD_SF117A              | STENTON | 1        |          9 |
-| BSWDD_SF117A              | STENTON | 2        |          9 |
-| HD3CA_SF117A              | STENTON | 1        |         15 |
-| HD3CA_SF117A              | STENTON | 2        |         13 |
-| HDCGD_SF118A              | STENTON | 1        |         15 |
-| HDCGD_SF118A              | STENTON | 2        |         11 |
-| HDCGD_SF118A              | STENTON | ALL      |          2 |
-| HDCGD_SF118A+HDCGD_SF217A | NRR     | ALL      |          4 |
-| HDCGD_SF217A              | STENTON | 1        |         10 |
-| HDCGD_SF217A              | STENTON | 2        |          8 |
-| HDCGD_SF217A              | STENTON | ALL      |          8 |
-| HDGDD_SF117A              | STENTON | 1        |         12 |
-| HDGDD_SF117A              | STENTON | 2        |         12 |
-| HDGDD_SF117A              | STENTON | ALL      |          2 |
-| HDGDD_SF217A              | STENTON | 1        |         14 |
-| HDGDD_SF217A              | STENTON | 2        |          9 |
-| HDGDD_SF217A              | STENTON | ALL      |          3 |
-| HDINM_SF117A              | STENTON | 1        |         13 |
-| HDINM_SF117A              | STENTON | 2        |         13 |
-| HDINM_SF117A              | STENTON | ALL      |          1 |
-| NCCGD5_SF117A             | NRR     | 1        |         10 |
-| NCCGD5_SF117A             | STENTON | 1        |         12 |
-| NCCGD5_SF117A             | STENTON | 2        |         12 |
-| NCCGD5_SF117A             | STENTON | ALL      |          1 |
-| NCCGD6_SF117A             | NRR     | 1        |          4 |
-| NCCGD6_SF117A             | NRR     | 2        |          2 |
-| NCCGD6_SF117A             | STENTON | 1        |         10 |
-| NCCGD6_SF117A             | STENTON | 2        |         16 |
-| NCCGD6_SF117A             | STENTON | ALL      |          1 |
-+---------------------------+---------+----------+------------+
++---------------+---------+----------+------------+
+| course        | campus  | semester | SUM(hours) |
++---------------+---------+----------+------------+
+| BSWDD_SF117A  | STENTON | 1        |          9 |
+| BSWDD_SF117A  | STENTON | 2        |          9 |
+| HD3CA_SF117A  | STENTON | 1        |         15 |
+| HD3CA_SF117A  | STENTON | 2        |         13 |
+| HDCGD_SF118A  | STENTON | 1        |         15 |
+| HDCGD_SF118A  | STENTON | 2        |         11 |
+| HDCGD_SF118A  | STENTON | ALL      |          2 |
+| HDCGD_SF217A  | STENTON | 1        |         10 |
+| HDCGD_SF217A  | STENTON | 2        |          8 |
+| HDCGD_SF217A  | STENTON | ALL      |          8 |
+| HDGDD_SF117A  | STENTON | 1        |         12 |
+| HDGDD_SF117A  | STENTON | 2        |         12 |
+| HDGDD_SF117A  | STENTON | ALL      |          2 |
+| HDGDD_SF217A  | STENTON | 1        |         14 |
+| HDGDD_SF217A  | STENTON | 2        |          9 |
+| HDGDD_SF217A  | STENTON | ALL      |          3 |
+| HDINM_SF117A  | STENTON | 1        |         13 |
+| HDINM_SF117A  | STENTON | 2        |         13 |
+| HDINM_SF117A  | STENTON | ALL      |          1 |
+| NCCGD5_SF117A | STENTON | 2        |         12 |
+| NCCGD6_SF117A | NRR     | 1        |          4 |
+| NCCGD6_SF117A | NRR     | 2        |          2 |
+| NCCGD6_SF117A | STENTON | 1        |         10 |
+| NCCGD6_SF117A | STENTON | 2        |         16 |
+| NCCGD6_SF117A | STENTON | ALL      |          1 |
++---------------+---------+----------+------------+

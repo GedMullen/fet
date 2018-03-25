@@ -38,13 +38,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarkMcPhee"></Teacher><Subject name="CMP308ProfessionalProjectPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="MarkMcPhee"></Teacher><Subject name="CMP308ProfessionalProjectPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="MarkMcPhee"></Teacher><Subject name="CMP308ProfessionalProjectPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -64,19 +64,19 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP313HCI-UserCentredDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP313HCI-UserCentredDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP313HCI-UserCentredDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+      <Teacher name="MarkMcPhee"></Teacher><Subject name="CMP308ProfessionalProjectPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarkMcPhee"></Teacher><Subject name="CMP308ProfessionalProjectPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="MarkMcPhee"></Teacher><Subject name="CMP308ProfessionalProjectPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -96,24 +96,24 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP306DynamicWedDevelopment2"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP306DynamicWedDevelopment2"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP306DynamicWedDevelopment2"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP313HCI-UserCentredDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP313HCI-UserCentredDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP313HCI-UserCentredDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -122,13 +122,13 @@
      
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP306DynamicWedDevelopment2"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP306DynamicWedDevelopment2"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="CMP306DynamicWedDevelopment2"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -144,13 +144,13 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="F565343DComputerAnimation:Movemen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="F565343DComputerAnimation:Movemen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="F565343DComputerAnimation:Movemen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -161,25 +161,25 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="12:00">
       <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="H49W343DComputerAnimation:Charact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -190,13 +190,13 @@
      
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="F565343DComputerAnimation:Movemen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="F565343DComputerAnimation:Movemen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="F565343DComputerAnimation:Movemen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -205,15 +205,15 @@
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="NairnBeattie"></Teacher><Subject name="H4A634Editing:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="NairnBeattie"></Teacher><Subject name="H4A634Editing:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-     
+      <Teacher name="LeePriestley"></Teacher><Subject name="F5GC343DComputerModellingandAnim"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="10:00">
       <Teacher name="LeePriestley"></Teacher><Subject name="F5GC343DComputerModellingandAnim"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
@@ -225,16 +225,16 @@
       <Teacher name="LeePriestley"></Teacher><Subject name="F5GC343DComputerModellingandAnim"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="F5GC343DComputerModellingandAnim"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="F5GD343DAnimation:DrawingSkills"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="F5GD343DAnimation:DrawingSkills"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -248,16 +248,16 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="H4A634Editing:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="H4A634Editing:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="14:00">
-     <Subject name="F5GD343DAnimation:DrawingSkills"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="F5GD343DAnimation:DrawingSkills"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -267,160 +267,28 @@
   <Subgroup name="HDCGD_SF118A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:00">
-     
-    </Hour>
-    <Hour name="14:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="DH3534Computing:Planning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="15:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3H34ComputerProgramming:Applied"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="16:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3H34ComputerProgramming:Applied"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-   </Day>
-   <Day name="Tuesday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="HF5034DigitalMediaAudio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.8"></Room>
-    </Hour>
-    <Hour name="14:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="HF5034DigitalMediaAudio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.8"></Room>
-    </Hour>
-    <Hour name="15:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="16:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-   </Day>
-   <Day name="Wednesday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
       <Teacher name="MarionBarrie"></Teacher><Subject name="H17834TeamWorkinginComputing"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="14:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="15:00">
-     
-    </Hour>
-    <Hour name="16:00">
-     
-    </Hour>
-   </Day>
-   <Day name="Thursday">
-    <Hour name="09:00">
-     
-    </Hour>
     <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="12:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="13:00">
-     
-    </Hour>
-    <Hour name="14:00">
-     
-    </Hour>
-    <Hour name="15:00">
       <Teacher name="MarionBarrie"></Teacher><Subject name="HH3G34GamesDesign:PitchaTreatmen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
-    <Hour name="16:00">
+    <Hour name="11:00">
       <Teacher name="MarionBarrie"></Teacher><Subject name="HH3G34GamesDesign:PitchaTreatmen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
-   </Day>
-   <Day name="Friday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F86J34History+EvolutionandImpact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="11:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F86J34History+EvolutionandImpact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-     <Subject name="MATHSMATHS"></Subject>
-    </Hour>
-    <Hour name="14:00">
-     <Subject name="MATHSMATHS"></Subject>
-    </Hour>
-    <Hour name="15:00">
-     <Subject name="MATHSMATHS"></Subject>
-    </Hour>
-    <Hour name="16:00">
-     <Subject name="MATHSMATHS"></Subject>
-    </Hour>
-   </Day>
-  </Subgroup>
-  <Subgroup name="HDCGD_SF118A+HDCGD_SF217A Automatic Group Automatic Subgroup">
-   <Day name="Monday">
-    <Hour name="09:00">
-     
-    </Hour>
-    <Hour name="10:00">
-     
-    </Hour>
-    <Hour name="11:00">
-     
-    </Hour>
-    <Hour name="12:00">
-     
-    </Hour>
-    <Hour name="13:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="DH3534Computing:Planning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -483,19 +351,19 @@
      
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="NairnBeattie"></Teacher><Subject name="HF5034DigitalMediaAudio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="NairnBeattie"></Teacher><Subject name="HF5034DigitalMediaAudio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -503,44 +371,44 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F86J34History+EvolutionandImpact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F86J34History+EvolutionandImpact"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3H34ComputerProgramming:Applied"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3H34ComputerProgramming:Applied"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH5734ComputerGames:ProgrammingFu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="HDCGD_SF217A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -569,42 +437,42 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="HH3N35ComputerGamesDevelopment:Gr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="HH3N35ComputerGamesDevelopment:Gr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3D35ArtificialIntelligenceandCr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.1"></Room>
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3D35ArtificialIntelligenceandCr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3D35ArtificialIntelligenceandCr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.1"></Room>
+      <Teacher name="MarionGerrie"></Teacher><Subject name="HH3D35ArtificialIntelligenceandCr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+     
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="SarahHerzog"></Teacher><Subject name="HH3N35ComputerGamesDevelopment:Gr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="SarahHerzog"></Teacher><Subject name="HH3N35ComputerGamesDevelopment:Gr"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -621,16 +489,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="F86A35GamesDevelopment:ObjectOrie"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -647,16 +515,16 @@
      
     </Hour>
     <Hour name="13:00">
-     <Subject name="MATHSMATHS"></Subject>
+     
     </Hour>
     <Hour name="14:00">
-     <Subject name="MATHSMATHS"></Subject>
+     
     </Hour>
     <Hour name="15:00">
-     <Subject name="MATHSMATHS"></Subject>
+     
     </Hour>
     <Hour name="16:00">
-     <Subject name="MATHSMATHS"></Subject>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -689,22 +557,22 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F1GW35GameDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F1GW35GameDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="15:00">
      
@@ -715,16 +583,16 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-     
+      <Teacher name="ColinMaxwell"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="ColinMaxwell"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -741,54 +609,54 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-     
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF5534UserInterfaceDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF5534UserInterfaceDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF5534UserInterfaceDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF5534UserInterfaceDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="ColinMaxwell"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ColinMaxwell"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="RebeccaBlyth"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F1GW35GameDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F1GW35GameDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -807,30 +675,30 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="14:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5335InteractiveMediaComposition"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5335InteractiveMediaComposition"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="11:00">
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="HF3E35DevelopingDigitalMediafora"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="13:00">
       <Teacher name="MarionBarrie"></Teacher><Subject name="HF3E35DevelopingDigitalMediafora"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
@@ -842,7 +710,7 @@
       <Teacher name="MarionBarrie"></Teacher><Subject name="HF3E35DevelopingDigitalMediafora"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="HF3E35DevelopingDigitalMediafora"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -850,10 +718,10 @@
      
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -862,13 +730,13 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5235HumanComputerInterface"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="16:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5235HumanComputerInterface"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -899,53 +767,53 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5335InteractiveMediaComposition"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5335InteractiveMediaComposition"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="LeePriestley"></Teacher><Subject name="DE2N353DModellingandAnimation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.1"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="11:00">
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="13:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F8L235GameCustomisationandScripti"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.2"></Activity_Tag><Room name="S3.2"></Room>
-    </Hour>
-    <Hour name="14:00">
      
     </Hour>
+    <Hour name="13:00">
+      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
+    </Hour>
     <Hour name="15:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5235HumanComputerInterface"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.1"></Room>
+      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5235HumanComputerInterface"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.1"></Room>
+      <Teacher name="SarahHerzog"></Teacher><Subject name="HF3D35DesigningandDevelopinganIn"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.9"></Activity_Tag><Room name="S3.9"></Room>
     </Hour>
    </Day>
   </Subgroup>
   <Subgroup name="HDINM_SF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5834WebDevelopment:EssentialCon"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5834WebDevelopment:EssentialCon"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5834WebDevelopment:EssentialCon"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -956,22 +824,22 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5834WebDevelopment:EssentialCon"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5834WebDevelopment:EssentialCon"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF5834WebDevelopment:EssentialCon"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="NairnBeattie"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="NairnBeattie"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -1005,25 +873,25 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="H18234SystemsDevelopment:UserCent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="ShonaIrvine"></Teacher><Subject name="H17334DevelopingSoftware:Introduct"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="DE3R34PersonalDevelopmentPlanning"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H17D34Computing:IntroductiontoPro"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -1037,19 +905,19 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ShonaIrvine"></Teacher><Subject name="HF3K34WebTechnologies1:HTMLandC"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="HF3F34DigitalGraphicsFundamentals"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.8"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -1059,45 +927,45 @@
   <Subgroup name="NCCGD5_SF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-     <Subject name="H22575Numeracy"></Subject>
+     
     </Hour>
     <Hour name="10:00">
-     <Subject name="H22575Numeracy"></Subject>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="H22F75Mathematics:ExpressionsandF"></Subject>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="H22F75Mathematics:ExpressionsandF"></Subject>
+     
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="FN8Y11CharacterCreation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="FN8Y11CharacterCreation"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.8"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="SGUIDAGuidance"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="F1K010ProgramminginaHighLevelLa"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="10:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="F1K010ProgramminginaHighLevelLa"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="11:00">
      
     </Hour>
     <Hour name="12:00">
-     <Subject name="F3GB11Communication"></Subject>
+     
     </Hour>
     <Hour name="13:00">
-     <Subject name="F3GB11Communication"></Subject>
+     
     </Hour>
     <Hour name="14:00">
      
@@ -1140,48 +1008,48 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="DF1611MediaProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="11:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="DF1611MediaProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="ColinMaxwell"></Teacher><Subject name="F91511ComputerGames:Design"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="ColinMaxwell"></Teacher><Subject name="F91511ComputerGames:Design"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="F5BT11ArtandDesign:AnimationSkil"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="NairnBeattie"></Teacher><Subject name="F5BT11ArtandDesign:AnimationSkil"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-     <Subject name="H22G75Mathematics:Relationships"></Subject>
+     
     </Hour>
     <Hour name="10:00">
-     <Subject name="H22G75Mathematics:Relationships"></Subject>
+     
     </Hour>
     <Hour name="11:00">
-     <Subject name="H22J75Mathematics:Applications"></Subject>
+     
     </Hour>
     <Hour name="12:00">
-     <Subject name="H22J75Mathematics:Applications"></Subject>
+     
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="ColinMaxwell"></Teacher><Subject name="F91611ComputerGames:MediaAssets"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="15:00">
-      <Teacher name="ColinMaxwell"></Teacher><Subject name="F91611ComputerGames:MediaAssets"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="16:00">
      
@@ -1203,13 +1071,13 @@
      <Subject name="H1NC12MathsforComputerGames"></Subject>
     </Hour>
     <Hour name="13:00">
-     <Subject name="F3GB12Communication"></Subject>
+     
     </Hour>
     <Hour name="14:00">
-     <Subject name="F3GB12Communication"></Subject>
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F91612ComputerGames:MediaAssets"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F91612ComputerGames:MediaAssets"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -1217,16 +1085,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="FN8V11ArtificialIntelligenceforGa"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="10:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="FN8V11ArtificialIntelligenceforGa"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="11:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H2CD12GamesProgramming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="12:00">
-     
+      <Teacher name="MarionGerrie"></Teacher><Subject name="H2CD12GamesProgramming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1235,10 +1103,10 @@
      
     </Hour>
     <Hour name="15:00">
-     
+     <Subject name="F3GB12Communication"></Subject>
     </Hour>
     <Hour name="16:00">
-     
+     <Subject name="F3GB12Communication"></Subject>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1252,19 +1120,19 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F91512ComputerGames:Design"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="13:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F91512ComputerGames:Design"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F91612ComputerGames:MediaAssets"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="F91612ComputerGames:MediaAssets"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -1278,7 +1146,7 @@
      
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarionBarrie"></Teacher><Subject name="SGUIDLocallyDevisedGuidance"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="SDUMMY1"></Room>
+     
     </Hour>
     <Hour name="13:00">
      
@@ -1287,10 +1155,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H2CD12GamesProgramming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
     <Hour name="16:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="H2CD12GamesProgramming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
@@ -1301,19 +1169,19 @@
       <Teacher name="MarionGerrie"></Teacher><Subject name="TBCComputerProgramming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="FN8V11ArtificialIntelligenceforGa"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="12:00">
-      <Teacher name="MarionGerrie"></Teacher><Subject name="FN8V11ArtificialIntelligenceforGa"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="S3.9"></Room>
+     
     </Hour>
     <Hour name="13:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="SGUIDLocallyDevisedGuidance"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="COMP"></Activity_Tag><Room name="S3.1"></Room>
     </Hour>
     <Hour name="14:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F91512ComputerGames:Design"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="15:00">
-     
+      <Teacher name="MarionBarrie"></Teacher><Subject name="F91512ComputerGames:Design"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.11"></Activity_Tag><Room name="S3.11"></Room>
     </Hour>
     <Hour name="16:00">
      
