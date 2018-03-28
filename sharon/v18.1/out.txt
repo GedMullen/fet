@@ -1,0 +1,79 @@
+Opened file version matched by regexp: major=5, minor=28, revision=6, additional text=.
+FET version matched by regexp: major=5, minor=28, revision=6, additional text=.
+Title: FET warning
+Message: Duplicate subject H1J834Computing:GradedUnit1 found - ignoring
+
+Progress title: Computing internal structure
+Progress label: Processing internally the activities ... please wait
+Progress range: 0..0
+Progress setModal(true)
+Progress label: Processing internally the time constraints ... please wait
+Progress range: 0..7
+7 time constraints after first pass (after removing inactive ones)
+  7 time constraints after second pass (after removing wrong ones)
+Progress label: Processing internally the space constraints ... please wait
+Progress range: 0..14
+14 space constraints after first pass (after removing inactive ones)
+  14 space constraints after second pass (after removing wrong ones)
+Title: FET warning
+Message: Optimization tip: There are 19 subgroups (from the total of 20 subgroups) which have the same activities as other subgroups. They are listed below. If the constraints relating to these subgroups are also the same, you can make the generation (directly proportional) faster by completely removing the subgroups which are equivalent to other subgroups (leaving only one representant for each equivalence set). (The generation algorithm will not completely remove the equivalent subgroups automatically.)
+
+If you did not add all the activities yet or if the number of equivalent subgroups compared to the total number of subgroups is small, probably you can safely ignore this message.
+
+You can deactivate this message from the 'Settings' menu.
+
+Subgroup HCCPT7_SD217A Automatic Group Automatic Subgroup has the same activities as subgroup BSAPN_BF117A Automatic Group Automatic Subgroup.
+Subgroup HDCON_BF117A Automatic Group Automatic Subgroup has the same activities as subgroup HCCPT7_SD217A Automatic Group Automatic Subgroup.
+Subgroup HDCON_BF117B Automatic Group Automatic Subgroup has the same activities as subgroup HDCON_BF117A Automatic Group Automatic Subgroup.
+Subgroup HDCON_BF217A Automatic Group Automatic Subgroup has the same activities as subgroup HDCON_BF117B Automatic Group Automatic Subgroup.
+Subgroup HDCON_BF217B Automatic Group Automatic Subgroup has the same activities as subgroup HDCON_BF217A Automatic Group Automatic Subgroup.
+Subgroup HDCSD_BF117A Automatic Group Automatic Subgroup has the same activities as subgroup HDCON_BF217B Automatic Group Automatic Subgroup.
+Subgroup HDCSD_BF117B Automatic Group Automatic Subgroup has the same activities as subgroup HDCSD_BF117A Automatic Group Automatic Subgroup.
+Subgroup HDCSD_BF217A Automatic Group Automatic Subgroup has the same activities as subgroup HDCSD_BF117B Automatic Group Automatic Subgroup.
+Subgroup HDCTS_BF117A Automatic Group Automatic Subgroup has the same activities as subgroup HDCSD_BF217A Automatic Group Automatic Subgroup.
+Subgroup HDCTS_BF217A Automatic Group Automatic Subgroup has the same activities as subgroup HDCTS_BF117A Automatic Group Automatic Subgroup.
+Subgroup NCCDM5_BF117A Automatic Group Automatic Subgroup has the same activities as subgroup HDCTS_BF217A Automatic Group Automatic Subgroup.
+Subgroup NCCDM5_HF117A Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM5_BF117A Automatic Group Automatic Subgroup.
+Subgroup NCCDM5_HF117B Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM5_HF117A Automatic Group Automatic Subgroup.
+Subgroup NCCDM5_SF117A Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM5_HF117B Automatic Group Automatic Subgroup.
+Subgroup NCCDM6_BF117A Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM5_SF117A Automatic Group Automatic Subgroup.
+Subgroup NCCDM6_BF117B Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM6_BF117A Automatic Group Automatic Subgroup.
+Subgroup NCCDM6_HF117A Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM6_BF117B Automatic Group Automatic Subgroup.
+Subgroup NCCDM6_HF117B Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM6_HF117A Automatic Group Automatic Subgroup.
+Subgroup NCCDM4_BF118A Automatic Group Automatic Subgroup has the same activities as subgroup NCCDM6_HF117B Automatic Group Automatic Subgroup.
+
+Progress title: Precomputing
+Progress label: Precomputing ... please wait
+Progress range: 0..36
+Progress setModal(true)
+The order of activities (id-s):
+End - the order of activities (id-s):
+Title: FET warning
+Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.
+
+These constraints are good, but they are not perfectly optimized for speed. You may obtain a long generation time or even impossible timetables. It is recommended to use such constraints with caution.
+
+Are you sure you want to continue?
+Button 0 text: Yes
+Button 1 text: No
+Default button: 0
+Escape button: 1
+Pressing default button 0
+
+Title: FET warning
+Message: Your data contains constraints students min hours daily which allow empty days.
+
+These constraints are nonstandard. They are recommended only if the students can have free days and a solution with free days for students exists. Otherwise the solution might be impossible for FET to find. It is recommended to use such constraints with caution.
+
+Are you sure you want to continue?
+Button 0 text: Yes
+Button 1 text: No
+Default button: 0
+Escape button: 1
+Pressing default button 0
+
+Starting timetable generation...
+secondsLimit==2000000000
+Total searching time (seconds): 0
+Simulation successful
+Since simulation is complete, FET will write also the timetable data file

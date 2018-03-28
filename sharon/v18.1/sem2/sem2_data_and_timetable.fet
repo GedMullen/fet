@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.28.6">
+
+<Institution_Name>Fife College</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+</Day>
+<Day>
+	<Name>Friday</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>8</Number_of_Hours>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:00</Name>
+</Hour>
+<Hour>
+	<Name>14:00</Name>
+</Hour>
+<Hour>
+	<Name>15:00</Name>
+</Hour>
+<Hour>
+	<Name>16:00</Name>
+</Hour>
+</Hours_List>
+
+<Students_List>
+<Year>
+	<Name>BSAPN_BF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HCCPT7_SD217A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCON_BF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCON_BF117B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCON_BF217A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCON_BF217B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCSD_BF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCSD_BF117B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCSD_BF217A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCTS_BF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>HDCTS_BF217A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM5_BF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM5_HF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM5_HF117B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM5_SF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM6_BF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM6_BF117B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM6_HF117A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM6_HF117B</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+<Year>
+	<Name>NCCDM4_BF118A</Name>
+	<Number_of_Students>0</Number_of_Students>
+</Year>
+</Students_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Arthur</Name>
+</Teacher>
+<Teacher>
+	<Name>ANOCYBNET</Name>
+</Teacher>
+<Teacher>
+	<Name>Peter</Name>
+</Teacher>
+<Teacher>
+	<Name>NLR</Name>
+</Teacher>
+<Teacher>
+	<Name>Stewart</Name>
+</Teacher>
+<Teacher>
+	<Name>Aurelien</Name>
+</Teacher>
+<Teacher>
+	<Name>Norman</Name>
+</Teacher>
+<Teacher>
+	<Name>Lorna</Name>
+</Teacher>
+<Teacher>
+	<Name>Mark</Name>
+</Teacher>
+<Teacher>
+	<Name>Jim</Name>
+</Teacher>
+<Teacher>
+	<Name>ANOSOFTDEV</Name>
+</Teacher>
+<Teacher>
+	<Name>Gillian</Name>
+</Teacher>
+<Teacher>
+	<Name>Fiona</Name>
+</Teacher>
+<Teacher>
+	<Name>ANO6</Name>
+</Teacher>
+<Teacher>
+	<Name>Kerry</Name>
+</Teacher>
+<Teacher>
+	<Name>LizRathbone</Name>
+</Teacher>
+</Teachers_List>
+
+<Subjects_List>
+<Subject>
+	<Name>CMP394CyberSecurity</Name>
+</Subject>
+<Subject>
+	<Name>CMP391CloudComputing+Virtualisati</Name>
+</Subject>
+<Subject>
+	<Name>CMP392ComputerForensics</Name>
+</Subject>
+<Subject>
+	<Name>CMP393ComputerNetworkGroupProject</Name>
+</Subject>
+<Subject>
+	<Name>CMP395ManagingComputerNetworkProj</Name>
+</Subject>
+<Subject>
+	<Name>CMP396NetworkTechnologies</Name>
+</Subject>
+<Subject>
+	<Name>CMPIL1IndependentLearningS1</Name>
+</Subject>
+<Subject>
+	<Name>CMPIL2IndependentLearningS2</Name>
+</Subject>
+<Subject>
+	<Name>F1VV34+H1F734+H17W34InteractiveMedia:UserInterf</Name>
+</Subject>
+<Subject>
+	<Name>H17834+H1J834+H16W35TeamWorkinginComputing+Comp</Name>
+</Subject>
+<Subject>
+	<Name>H17334DevelopingSoftware:Introduct</Name>
+</Subject>
+<Subject>
+	<Name>H17534ComputerSystemsFundamentals</Name>
+</Subject>
+<Subject>
+	<Name>H17734TroubleshootingComputerProbl</Name>
+</Subject>
+<Subject>
+	<Name>H1F734ProfessionalismandEthicsin</Name>
+</Subject>
+<Subject>
+	<Name>FR2435+H17S34NetworkingTechnology+Network</Name>
+</Subject>
+<Subject>
+	<Name>H17E34Computing:PCHardwareandOpe</Name>
+</Subject>
+<Subject>
+	<Name>H17F34Computing:PCHardwareandOpe</Name>
+</Subject>
+<Subject>
+	<Name>H17834TeamWorkinginComputing</Name>
+</Subject>
+<Subject>
+	<Name>H17934CloudComputing</Name>
+</Subject>
+<Subject>
+	<Name>FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe</Name>
+</Subject>
+<Subject>
+	<Name>FR2435+H17S34RoutingTechnology+NetworkCon</Name>
+</Subject>
+<Subject>
+	<Name>H1J834Computing:GradedUnit1</Name>
+</Subject>
+<Subject>
+	<Name>FR2435NetworkingTechnology</Name>
+</Subject>
+<Subject>
+	<Name>F1W034ProjectManagementforIT</Name>
+</Subject>
+<Subject>
+	<Name>H1EM34ClientOperatingSystems</Name>
+</Subject>
+<Subject>
+	<Name>FR2335SwitchingTechnology</Name>
+</Subject>
+<Subject>
+	<Name>H16X35ServerAdministration</Name>
+</Subject>
+<Subject>
+	<Name>H17V34SecurityConcepts</Name>
+</Subject>
+<Subject>
+	<Name>H17M34IntrusionPreventionSystems</Name>
+</Subject>
+<Subject>
+	<Name>H8N535PrivateCloudVirtualisation</Name>
+</Subject>
+<Subject>
+	<Name>FR2535InternetworkingTechnology</Name>
+</Subject>
+<Subject>
+	<Name>H48V35Computing:Networking:Graded</Name>
+</Subject>
+<Subject>
+	<Name>H17334+H17734DevelopingSoftware:Introduct</Name>
+</Subject>
+<Subject>
+	<Name>H16W35RelationalDatabaseManagement</Name>
+</Subject>
+<Subject>
+	<Name>H18134+H17W34SystemsDevelopment:TestingS</Name>
+</Subject>
+<Subject>
+	<Name>H17834+H17W34TeamWorkinginComputing+Soft</Name>
+</Subject>
+<Subject>
+	<Name>H17X34+H1J834SoftwareDevelopment:Programm</Name>
+</Subject>
+<Subject>
+	<Name>H16Y35SoftwareDevelopment:DataStr</Name>
+</Subject>
+<Subject>
+	<Name>H17334+H17734       DevelopingSoftware:Introduct</Name>
+</Subject>
+<Subject>
+	<Name>H18134SystemsDevelopment:TestingS</Name>
+</Subject>
+<Subject>
+	<Name>H17W34SoftwareDevelopment:Developi</Name>
+</Subject>
+<Subject>
+	<Name>H17X34SoftwareDevelopment:Programm</Name>
+</Subject>
+<Subject>
+	<Name>F6C235+HL9W35WebDevelopment:DynamicallyG</Name>
+</Subject>
+<Subject>
+	<Name>H17135SoftwareDevelopment:ObjectO</Name>
+</Subject>
+<Subject>
+	<Name>H17235SystemsDevelopment:ObjectOr</Name>
+</Subject>
+<Subject>
+	<Name>HL9X35SoftwareDevelopment:ObjectO</Name>
+</Subject>
+<Subject>
+	<Name>H48W35Computing:SoftwareDevelopmen</Name>
+</Subject>
+<Subject>
+	<Name>H17R35MobileTechnology</Name>
+</Subject>
+<Subject>
+	<Name>HL9V35SoftwareDevelopment:Programm</Name>
+</Subject>
+<Subject>
+	<Name>HL9T35SoftwareDevelopment:DataStr</Name>
+</Subject>
+<Subject>
+	<Name>H1F734+H17834ProfessionalismandEthicsin</Name>
+</Subject>
+<Subject>
+	<Name>HG1K34ProfessionalCareerDevelopmen</Name>
+</Subject>
+<Subject>
+	<Name>H17C34ComputerNetworks:BuildingLo</Name>
+</Subject>
+<Subject>
+	<Name>H17C35ComputerNetworks:BuildingLo</Name>
+</Subject>
+<Subject>
+	<Name>H17834+H1F734TeamWorkinginComputing+Prof</Name>
+</Subject>
+<Subject>
+	<Name>H1EP34EthicalHackingFundamentals</Name>
+</Subject>
+<Subject>
+	<Name>H1EN34ComputerForensics:Fundamenta</Name>
+</Subject>
+<Subject>
+	<Name>H16T35NetworkServerOperatingSyste</Name>
+</Subject>
+<Subject>
+	<Name>H16V35NetworkTechnologyandDataCo</Name>
+</Subject>
+<Subject>
+	<Name>DM2X35ComputerOperatingSystems2</Name>
+</Subject>
+<Subject>
+	<Name>H18C35OpenSourceOperatingSystems:</Name>
+</Subject>
+<Subject>
+	<Name>H3LN35ProvidingTechnicalSupportto</Name>
+</Subject>
+<Subject>
+	<Name>H48X35Computing:TechnicalSupport:</Name>
+</Subject>
+<Subject>
+	<Name>F1FC11PCPassport:ITSoftware-Wor</Name>
+</Subject>
+<Subject>
+	<Name>F1KB11Computing:AnimationFundament</Name>
+</Subject>
+<Subject>
+	<Name>F1KR11Computing:ComputerHardwarea</Name>
+</Subject>
+<Subject>
+	<Name>F3GB11Communication</Name>
+</Subject>
+<Subject>
+	<Name>H6S945Computing:ApplicationsDevelo</Name>
+</Subject>
+<Subject>
+	<Name>SHTML5HTML5Coding</Name>
+</Subject>
+<Subject>
+	<Name>H22675InformationSystemDesignand</Name>
+</Subject>
+<Subject>
+	<Name>H22375SoftwareDesignandDevelopmen</Name>
+</Subject>
+<Subject>
+	<Name>F3GF11Numeracy</Name>
+</Subject>
+<Subject>
+	<Name>F1KH11Computing:ComputerNetworking</Name>
+</Subject>
+<Subject>
+	<Name>F18211Computing:WebsiteDesignand</Name>
+</Subject>
+<Subject>
+	<Name>F1KS11Computing:DigitalMediaEleme</Name>
+</Subject>
+<Subject>
+	<Name>H6S745+F3GD11Computing:Project+ProblemSol</Name>
+</Subject>
+<Subject>
+	<Name>SENCH5EnhancedCurriculumLevel5</Name>
+</Subject>
+<Subject>
+	<Name>SENHC5EnhancedCurriculumLevel5</Name>
+</Subject>
+<Subject>
+	<Name>F3SY12Computing:ComputerHardwarea</Name>
+</Subject>
+<Subject>
+	<Name>F3T212Computing:AuthoringaWebsite</Name>
+</Subject>
+<Subject>
+	<Name>H60C46Computing:AcademicSkills</Name>
+</Subject>
+<Subject>
+	<Name>H6S946Computing:ApplicationsDevelo</Name>
+</Subject>
+<Subject>
+	<Name>H7EA46NetworkLiteracy</Name>
+</Subject>
+<Subject>
+	<Name>H9E246DataSecurity</Name>
+</Subject>
+<Subject>
+	<Name>SAPPFGAppsforGood</Name>
+</Subject>
+<Subject>
+	<Name>SENCH6EnhancedCurriculumLevel6</Name>
+</Subject>
+<Subject>
+	<Name>F3GF12Numeracy</Name>
+</Subject>
+<Subject>
+	<Name>H2TM12ProgrammingforMobileDevices</Name>
+</Subject>
+<Subject>
+	<Name>H22376SoftwareDesignandDevelopmen</Name>
+</Subject>
+<Subject>
+	<Name>H9J046DigitalForensics</Name>
+</Subject>
+<Subject>
+	<Name>H6S746+F3GD12             Computing:Project(Software)+</Name>
+</Subject>
+<Subject>
+	<Name>H2N612NetworkFundamentals</Name>
+</Subject>
+<Subject>
+	<Name>H2N712ServerAdministrationFundamen</Name>
+</Subject>
+<Subject>
+	<Name>H6S746+F3GD12              Computing:Project(Networking</Name>
+</Subject>
+<Subject>
+	<Name>H6S746+F3GD12             Computing:Project(Software)+P</Name>
+</Subject>
+<Subject>
+	<Name>H6S844Computing:Creating+Evaluati</Name>
+</Subject>
+<Subject>
+	<Name>F1K210+H7EA44Computing:ComputerHardware+</Name>
+</Subject>
+<Subject>
+	<Name>F1JM10+H61345Computing:DigitalMediaEleme</Name>
+</Subject>
+<Subject>
+	<Name>H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr</Name>
+</Subject>
+<Subject>
+	<Name>H1T010MobileTechnologySystems</Name>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+<Activity_Tag>
+	<Name>STB</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>STENTON</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>LEVEN</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>HALBEATH</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>A</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>V</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>CISCO</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BS50</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BF45A</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>BF47</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>L1</Name>
+</Activity_Tag>
+<Activity_Tag>
+	<Name>S3.12</Name>
+</Activity_Tag>
+</Activity_Tags_List>
+
+<Activities_List>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>STB</Name>
+</Building>
+<Building>
+	<Name>STENTON</Name>
+</Building>
+<Building>
+	<Name>LEVEN</Name>
+</Building>
+<Building>
+	<Name>HALBEATH</Name>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>BF44</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF44A</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF45</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF45A</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BF47</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BS54</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>BS50</Name>
+	<Building>STB</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>S3.12</Name>
+	<Building>STENTON</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>L1</Name>
+	<Building>LEVEN</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H1.08</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+<Room>
+	<Name>H1.04A</Name>
+	<Building>HALBEATH</Building>
+	<Capacity>30000</Capacity>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintTeachersMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxHoursContinuously>
+<ConstraintStudentsMaxHoursContinuously>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Maximum_Hours_Continuously>4</Maximum_Hours_Continuously>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxHoursContinuously>
+<ConstraintStudentsMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxDaysPerWeek>
+<ConstraintStudentsMinHoursDaily>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Minimum_Hours_Daily>3</Minimum_Hours_Daily>
+	<Allow_Empty_Days>true</Allow_Empty_Days>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMinHoursDaily>
+<ConstraintStudentsMaxGapsPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Gaps>2</Max_Gaps>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintStudentsMaxGapsPerDay>
+<ConstraintTeacherMaxDaysPerWeek>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher_Name>Kerry</Teacher_Name>
+	<Max_Days_Per_Week>3</Max_Days_Per_Week>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherMaxDaysPerWeek>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintTeachersMaxBuildingChangesPerDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Max_Building_Changes_Per_Day>0</Max_Building_Changes_Per_Day>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeachersMaxBuildingChangesPerDay>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>STB</Activity_Tag>
+	<Number_of_Preferred_Rooms>7</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44</Preferred_Room>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Preferred_Room>BF45</Preferred_Room>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Preferred_Room>BF47</Preferred_Room>
+	<Preferred_Room>BS54</Preferred_Room>
+	<Preferred_Room>BS50</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>STENTON</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>S3.12</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>LEVEN</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>L1</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>HALBEATH</Activity_Tag>
+	<Number_of_Preferred_Rooms>2</Number_of_Preferred_Rooms>
+	<Preferred_Room>H1.08</Preferred_Room>
+	<Preferred_Room>H1.04A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>A</Activity_Tag>
+	<Number_of_Preferred_Rooms>11</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44</Preferred_Room>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Preferred_Room>BF45</Preferred_Room>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Preferred_Room>BF47</Preferred_Room>
+	<Preferred_Room>BS54</Preferred_Room>
+	<Preferred_Room>BS50</Preferred_Room>
+	<Preferred_Room>S3.12</Preferred_Room>
+	<Preferred_Room>L1</Preferred_Room>
+	<Preferred_Room>H1.08</Preferred_Room>
+	<Preferred_Room>H1.04A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>V</Activity_Tag>
+	<Number_of_Preferred_Rooms>6</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Preferred_Room>BS54</Preferred_Room>
+	<Preferred_Room>S3.12</Preferred_Room>
+	<Preferred_Room>H1.04A</Preferred_Room>
+	<Preferred_Room>BF44</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>CISCO</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF44A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BS50</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BS50</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BF45A</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF45A</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>BF47</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>BF47</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>L1</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>L1</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+<ConstraintActivityTagPreferredRooms>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Tag>S3.12</Activity_Tag>
+	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
+	<Preferred_Room>S3.12</Preferred_Room>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityTagPreferredRooms>
+</Space_Constraints_List>
+
+</fet>
