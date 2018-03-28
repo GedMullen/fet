@@ -1,15 +1,13 @@
 +----------+----------+------------+
 | campus   | semester | SUM(hours) |
 +----------+----------+------------+
-| HALBEATH | A        |         68 |
-| HALBEATH | V        |         31 |
-| NRR      | NRR      |         20 |
-| STB      | A        |        157 |
-| STB      | BF45A    |         22 |
-| STB      | BF47     |         24 |
-| STB      | BS50     |         16 |
-| STB      | CISCO    |         56 |
-| STB      | V        |         93 |
-| STENTON  | A        |          8 |
-| STENTON  | S3.12    |         28 |
+| HALBEATH | 1        |         54 |
+| HALBEATH | 2        |         45 |
+| NRR      | 1        |          6 |
+| NRR      | 2        |         14 |
+| STB      | 1        |        181 |
+| STB      | 2        |        187 |
+| STENTON  | 1        |         13 |
+| STENTON  | 2        |         15 |
+| STENTON  | ALL      |          8 |
 +----------+----------+------------+
