@@ -1,0 +1,32 @@
++----------+-------+----------+------------+
+| campus   | room  | semester | SUM(hours) |
++----------+-------+----------+------------+
+| HALBEATH | ANY   | 2        |          1 |
+| HALBEATH | ANY   | ALL      |          1 |
+| HALBEATH | COMP  | 2        |         10 |
+| HALBEATH | H6.09 | 1        |         26 |
+| HALBEATH | H6.09 | 2        |         36 |
+| HALBEATH | H6.09 | ALL      |          1 |
+| NRR      | NRR   | 1        |         10 |
+| NRR      | NRR   | 2        |          2 |
+| NRR      | NRR   | ALL      |          4 |
+| STENTON  | ANY   | 1        |          1 |
+| STENTON  | ANY   | 2        |          1 |
+| STENTON  | ANY   | ALL      |          1 |
+| STENTON  | COMP  | 1        |         77 |
+| STENTON  | COMP  | 2        |         78 |
+| STENTON  | COMP  | ALL      |          9 |
+| STENTON  | S3.1  | 1        |         23 |
+| STENTON  | S3.1  | 2        |         32 |
+| STENTON  | S3.11 | 1        |         18 |
+| STENTON  | S3.11 | 2        |         18 |
+| STENTON  | S3.12 | 2        |          9 |
+| STENTON  | S3.2  | 1        |         21 |
+| STENTON  | S3.2  | 2        |         22 |
+| STENTON  | S3.2  | ALL      |          6 |
+| STENTON  | S3.8  | 1        |         27 |
+| STENTON  | S3.8  | 2        |         22 |
+| STENTON  | S3.8  | ALL      |          1 |
+| STENTON  | S3.9  | 1        |         10 |
+| STENTON  | S3.9  | 2        |          4 |
++----------+-------+----------+------------+
