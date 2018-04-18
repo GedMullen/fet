@@ -1,0 +1,39 @@
++-----------------+----------+------------+
+| lecturer        | semester | SUM(hours) |
++-----------------+----------+------------+
+| Chris Boyle     | 1        |         21 |
+| Chris Boyle     | 2        |         22 |
+| Chris Boyle     | ALL      |          1 |
+| Colin Maxwell   | 1        |         22 |
+| Colin Maxwell   | 2        |         23 |
+| Colin Maxwell   | ALL      |          1 |
+| DummyLec        | 1        |          7 |
+| DummyLec        | 2        |         22 |
+| DummyLec        | ALL      |          1 |
+| DummyLec2       | 2        |         19 |
+| Francis Barclay | 1        |          8 |
+| Francis Barclay | 2        |          4 |
+| Lee Priestley   | 1        |         23 |
+| Lee Priestley   | 2        |         23 |
+| Marion Barrie   | 1        |         13 |
+| Marion Barrie   | 2        |         15 |
+| Marion Barrie   | ALL      |          9 |
+| Marion Gerrie   | 1        |         21 |
+| Marion Gerrie   | 2        |         21 |
+| Marion Gerrie   | ALL      |          2 |
+| Mark McPhee     | 1        |          7 |
+| Mark McPhee     | 2        |          7 |
+| Nairn Beattie   | 1        |         18 |
+| Nairn Beattie   | 2        |         18 |
+| NLR             | 1        |         10 |
+| NLR             | 2        |          2 |
+| NLR             | ALL      |          4 |
+| Rebecca Blyth   | 1        |         21 |
+| Rebecca Blyth   | 2        |         19 |
+| Sarah Herzog    | 1        |         18 |
+| Sarah Herzog    | 2        |         19 |
+| Sarah Herzog    | ALL      |          4 |
+| Shona Irvine    | 1        |         24 |
+| Shona Irvine    | 2        |         21 |
+| Shona Irvine    | ALL      |          1 |
++-----------------+----------+------------+
