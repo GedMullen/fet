@@ -1,0 +1,207 @@
+body
+    {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font: 13px Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+    background: #E2EBED;
+    text-align: center;
+    }
+a
+    {
+    color: #694199;
+    }
+a:hover
+    {
+    color: #D60808;
+    }
+abbr
+    {
+    border: none;
+    }
+
+.preamble h3, .explanation h3, .participation h3, .benefits h3, .requirements h3, .zen-resources h3.resources, .design-archives h3.archives
+    {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    }
+.design-selection h3.select {
+    display: none;
+}
+
+.page-wrapper
+    {
+    margin: 0 auto;
+    width: 724px;
+    position: relative;
+    background: #fff;
+    padding: 0 10px 0 10px;
+    text-align: left;
+    }
+* html .page-wrapper
+    {
+    width: 744px;
+    w\idth: 724px;
+    }
+
+header
+    {
+    position: absolute;
+    top: 25px;
+    left: 40px;
+    }
+h1
+    {
+    background: url("logo.png");
+    width: 480px;
+    height: 38px;
+    overflow: hidden;
+    margin: 0;
+
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    }
+h2
+    {
+    font-size: 12px;
+    margin: 0;
+    }
+
+.summary
+    {
+    padding-top: 85px;
+    }
+.summary p:last-child
+    {
+    font-size: 12px;
+    position: absolute;
+    top: 65px;
+    right: 20px;
+    margin: 0;
+    }
+.page-wrapper .intro .summary p:first-child
+    {
+    font-size: 11px;
+    background: url("background.jpg") no-repeat;
+    margin: 0;
+    width: 164px;
+    height: 141px;
+    padding: 30px 530px 0 30px;
+    color: #fff;
+    font: 12px/150% Trebuchet MS;
+    }
+
+.preamble, .supporting
+    {
+    margin: 0 20px 0 243px;
+    }
+.supporting p, .preamble p
+    {
+    line-height: 150%;
+    margin: 10px 0 10px 0;
+    }
+ .preamble h3, .explanation h3, .participation h3, .benefits h3
+    {
+    width: 400px;
+    height: 30px;
+    margin: 40px 0 10px 0;
+    }
+.preamble h3
+    {
+    background: url("heading01.png") no-repeat;
+    }
+.explanation h3
+    {
+    background: url("heading02.png") no-repeat;
+    }
+.participation h3
+    {
+    background: url("heading03.png") no-repeat;
+    }
+.benefits h3
+    {
+    background: url("heading04.png") no-repeat;
+    }
+.requirements
+    {
+    margin-bottom: 40px;
+    }
+
+.sidebar
+    {
+    position: absolute;
+    top: 295px;
+    left: 0;
+    width: 210px;
+    }
+.design-archives ul, .zen-resources ul, .zen-testimonial ul
+    {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 0 40px;
+    }
+.sidebar .design-archives ul li
+    {
+    font-size: 13px;
+    border-bottom: 1px solid #E6EEF0;
+    display: block;
+    padding: 5px 0;
+    }
+.sidebar .zen-resources ul li
+    {
+    font-size: 13px;
+    border-bottom: 1px solid #E6EEF0;
+    display: block;
+    padding: 5px 0;
+    }
+.sidebar .zen-testimonial ul li
+    {
+    font-size: 13px;
+    border-bottom: 1px solid #E6EEF0;
+    display: block;
+    padding: 5px 0;
+    }
+.zen-testimonial h3.testimonial
+    {
+    background: url("side03.png") no-repeat;
+    width: 200px;
+    height: 30px;
+    margin: 30px 0 5px 40px;
+    }
+.zen-resources h3.example
+    {
+    background: url("side02.png") no-repeat;
+    width: 200px;
+    height: 30px;
+    margin: 30px 0 5px 40px;
+    }
+.design-archives h3.contact
+    {
+    background: url("side01.png") no-repeat;
+    width: 200px;
+    height: 30px;
+    margin: 0px 0 5px 40px;
+    }
+
+footer
+    {
+    background: url("footer.png") no-repeat;
+    color: #fff;
+    height: 48px;
+    text-align: right;
+    padding: 0 10px 0 0;
+    line-height: 26px;
+    font-size: 11px;
+    }
+footer a
+    {
+    color: #fff;
+    text-decoration: none;
+    }
+footer a:hover
+    {
+    text-decoration: underline;
+    }
+
