@@ -1,0 +1,43 @@
++-------------+----------+------------+
+| lecturer    | semester | SUM(hours) |
++-------------+----------+------------+
+| Anne        | 1        |          2 |
+| Anne        | 2        |          3 |
+| ANO1        | 1        |         11 |
+| ANO2        | 1        |          2 |
+| Arthur      | 1        |         20 |
+| Arthur      | 2        |         22 |
+| Aurelien    | 1        |         24 |
+| Aurelien    | 2        |         24 |
+| DUMMY       | 2        |          3 |
+| Fiona       | 1        |         18 |
+| Fiona       | 2        |         17 |
+| Ged         | 1        |         16 |
+| Ged         | 2        |         10 |
+| Ged+Fiona   | 2        |          3 |
+| Gillian     | 1        |         21 |
+| Gillian     | 2        |         26 |
+| Jim         | 1        |         14 |
+| Jim         | 2        |         20 |
+| Kerry       | 1        |          6 |
+| Kerry       | 2        |          8 |
+| Lorna       | 1        |         19 |
+| Lorna       | 2        |         24 |
+| Mark        | 1        |         20 |
+| Mark        | 2        |         22 |
+| NLR         | 1        |         24 |
+| NLR         | 2        |         25 |
+| Norman      | 1        |         19 |
+| Norman      | 2        |         17 |
+| Perri       | 1        |         20 |
+| Perri       | 2        |         24 |
+| Peter       | 1        |         16 |
+| Peter       | 2        |         14 |
+| Peter+Fiona | 2        |          4 |
+| Sharon      | 1        |          3 |
+| Sharon      | 2        |          5 |
+| Stewart     | 1        |         13 |
+| Stewart     | 2        |         13 |
+| Terry       | 1        |         16 |
+| Terry       | 2        |         12 |
++-------------+----------+------------+

@@ -1,0 +1,28 @@
++----------+-------+----------+------------+
+| campus   | room  | semester | SUM(hours) |
++----------+-------+----------+------------+
+| HALBEATH | A     | 1        |         36 |
+| HALBEATH | A     | 2        |         15 |
+| HALBEATH | NRR   | 2        |          2 |
+| HALBEATH | V     | 1        |          6 |
+| HALBEATH | V     | 2        |         18 |
+| NRR      | NRR   | 1        |          4 |
+| NRR      | NRR   | 2        |         10 |
+| STB      | A     | 1        |         94 |
+| STB      | A     | 2        |         90 |
+| STB      | BF45A | 1        |         11 |
+| STB      | BF45A | 2        |         11 |
+| STB      | BF47  | 1        |         12 |
+| STB      | BF47  | 2        |         12 |
+| STB      | BS50  | 1        |         16 |
+| STB      | CISCO | 1        |         22 |
+| STB      | CISCO | 2        |         35 |
+| STB      | NRR   | 1        |          2 |
+| STB      | NRR   | 2        |          2 |
+| STB      | V     | 1        |         54 |
+| STB      | V     | 2        |         71 |
+| STENTON  | A     | 1        |          2 |
+| STENTON  | A     | ALL      |          8 |
+| STENTON  | S3.12 | 1        |         13 |
+| STENTON  | S3.12 | 2        |         14 |
++----------+-------+----------+------------+

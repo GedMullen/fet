@@ -1,0 +1,3303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="HCEVE_BF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91P34EventsGradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91P34EventsGradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="D75X34InformationTechnology:Applic"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="D75X34InformationTechnology:Applic"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="DR0T35+H1F034+H7TK35Entrepreneurship+BusinessComm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="DR0T35+H1F034+H7TK35Entrepreneurship+BusinessComm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H91L34EventLegislationSafetyandL"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H91L34EventLegislationSafetyandL"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34+H91N34+SHBTREventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34+H91N34+SHBTREventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34+H91N34+SHBTREventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HCTRT_BF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="DK0134PracticalTravelandTourismV"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="D85F34UsingSoftwareApplicationPac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="D85F34UsingSoftwareApplicationPac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H0RC34+DE3R34PreparationforEmploymentin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H0RC34+DE3R34PreparationforEmploymentin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1F034+H7TK34CreatingaCultureofCustomer"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="DJ9W34StructureoftheTravelandTo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="DJ9W34StructureoftheTravelandTo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1J634TravelandTourism:GradedUni"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="H29734AirlineandAirportOperations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="H29734AirlineandAirportOperations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HCTRT_BF117B Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="DJ9W34StructureoftheTravelandTo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="DJ9W34StructureoftheTravelandTo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="D85F34UsingSoftwareApplicationPac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="D85F34UsingSoftwareApplicationPac"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="H29734AirlineandAirportOperations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="H29734AirlineandAirportOperations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H0RC34+DE3R34PreparationforEmploymentin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H0RC34+DE3R34PreparationforEmploymentin"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1F034+H7TK34CreatingaCultureofCustomer"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1J634TravelandTourism:GradedUni"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1J634TravelandTourism:GradedUni"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDEVM_BF217A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="D7M834+HC2P34PublicRelations1:Functions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="D7M834+HC2P34PublicRelations1:Functions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="D7M834+HC2P34PublicRelations1:Functions"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="DTRIMBLE"></Teacher><Subject name="H91H35Events:ContemporaryIssues+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="DTRIMBLE"></Teacher><Subject name="H91H35Events:ContemporaryIssues+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91R35EventsManagementGradedUnit"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91R35EventsManagementGradedUnit"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F35T34EventLegislation:Contractsa"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F35T34EventLegislation:Contractsa"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SMACK"></Teacher><Subject name="H1VL34ManagementofHumanResources"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="SMACK"></Teacher><Subject name="H1VL34ManagementofHumanResources"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H7V534+H91G34+DK0235PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H7V534+H91G34+DK0235PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H7V534+H91G34+DK0235PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDEVM_BF217A+HDTRT_BF217A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDTRT_BF217A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1J735TravelandTourismGradedUnit"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H1J735TravelandTourismGradedUnit"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H7V634*\nDevelopingEntrepreneurialSki"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H7V634*\nDevelopingEntrepreneurialSki"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H94234*Conferences:AnIntroduction"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="H94234*Conferences:AnIntroduction"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="JMILLER"></Teacher><Subject name="DJ9P35TourOperations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="JMILLER"></Teacher><Subject name="DJ9P35TourOperations"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H7V534+H91G34+DK0235PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H7V534+H91G34+DK0235PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H7V534+H91G34+DK0235PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDFDB_SF117A+HDFDC_SF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDFDB_SF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="SATTENAttendance"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18W34Fashion:CommercialDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18W34Fashion:CommercialDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F2EJ34Fashion:DesignandProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F7BX34Marketing:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F7BX34Marketing:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="HJ3M34FashionMerchandising"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="HJ3M34FashionMerchandising"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDFDC_SF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="SATTENAttendance"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18W34Fashion:CommercialDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18W34Fashion:CommercialDesign"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F2EJ34Fashion:DesignandProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="F1F634ConceptGarmentDesign:AnInt"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="F1F634ConceptGarmentDesign:AnInt"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F18D34Clothing:Production,Trimming"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="HJ3M34FashionMerchandising"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="HJ3M34FashionMerchandising"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDFDB_SF217A+HDFDC_SF217A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDFDB_SF217A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="H7V535PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="H7V535PreparingaFormalBusinessPl"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F1F435DesigningandProducingFashio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F1F435DesigningandProducingFashio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F2EK35Fashion:DesignandProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F2EK35Fashion:DesignandProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F2EK35Fashion:DesignandProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="DV9C34PortfolioProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.3"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="DV9C34PortfolioProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.3"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18E34ProductionProcessesintheCl"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18E34ProductionProcessesintheCl"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="HJ3T35+SATTENStoreDesignandLayout+Atte"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="HJ3T35+SATTENStoreDesignandLayout+Atte"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="HJ3T35+SATTENStoreDesignandLayout+Atte"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="HDFDC_SF217A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="H91M35ManaginganEvent"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F1PC35DesignandManufactureaBrida"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="F1PC35DesignandManufactureaBrida"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F1F435DesigningandProducingFashio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F1F435DesigningandProducingFashio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="DV9C34PortfolioProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.3"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="DV9C34PortfolioProduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.3"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18E34ProductionProcessesintheCl"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="F18E34ProductionProcessesintheCl"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="HJ3T35+SATTENStoreDesignandLayout+Atte"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="HJ3T35+SATTENStoreDesignandLayout+Atte"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="HJ3T35+SATTENStoreDesignandLayout+Atte"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NCCM+NCFDM5SF Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NCCM Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="F9VK12ArtandDesign:SurfaceDecora"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="F9VK12ArtandDesign:SurfaceDecora"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FH6211+FP4X11+ZS4809TheCreativeProcess+Garment"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FH6211+FP4X11+ZS4809TheCreativeProcess+Garment"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP5H12SewingSkills:WaistSuspended"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP5H12SewingSkills:WaistSuspended"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FP5F12PatternConstruction:WaistSu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FP5F12PatternConstruction:WaistSu"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FP5012+F3GC11DigitalFashionIllustration:"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="SCOMP"></Activity_Tag><Room name="SCOMP"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FP5012+F3GC11DigitalFashionIllustration:"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="SCOMP"></Activity_Tag><Room name="SCOMP"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="FP4R11+ZS8301FashionDesign:AnIntroductio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="FP4R11+ZS8301FashionDesign:AnIntroductio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP4V11+ZS4808+FH6311IndustrialSewingMachineSkil"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP4V11+ZS4808+FH6311IndustrialSewingMachineSkil"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NCFDM5SF Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.4+V2.3"></Activity_Tag><Room name="V2.4"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FH6211+FP4X11+ZS4809TheCreativeProcess+Garment"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FH6211+FP4X11+ZS4809TheCreativeProcess+Garment"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FP5012+F3GC11DigitalFashionIllustration:"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="SCOMP"></Activity_Tag><Room name="SCOMP"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SFINLAY"></Teacher><Subject name="FP5012+F3GC11DigitalFashionIllustration:"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="SCOMP"></Activity_Tag><Room name="SCOMP"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="FP4R11+ZS8301FashionDesign:AnIntroductio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="FP4R11+ZS8301FashionDesign:AnIntroductio"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.6"></Activity_Tag><Room name="S3.6"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP4V11+ZS4808+FH6311IndustrialSewingMachineSkil"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP4V11+ZS4808+FH6311IndustrialSewingMachineSkil"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="D0SN10IntroductiontoDisplay"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="D0SN10IntroductiontoDisplay"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP2111Fashion:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP2111Fashion:AnIntroduction"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP7212FashionMerchandising"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWILLIAMSON"></Teacher><Subject name="FP7212FashionMerchandising"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="V2.5"></Activity_Tag><Room name="V2.5"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NCRET5_LF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="F3PJ11SellingSkills"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="F3PJ11SellingSkills"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="NKERR"></Teacher><Subject name="H1SF11RetailMixandEffectiveMerch"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="NKERR"></Teacher><Subject name="H1SF11RetailMixandEffectiveMerch"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="NKERR"></Teacher><Subject name="F4T111DistributionandStorageofGo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="NKERR"></Teacher><Subject name="F4T111DistributionandStorageofGo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H1YY75+H1YW76CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H1YY75+H1YW76CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="NKERR"></Teacher><Subject name="H1SG11+H1SG12Retailing:Storing,Replenishin"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="NKERR"></Teacher><Subject name="H1SG11+H1SG12Retailing:Storing,Replenishin"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="HH8M75+HH8L75Retailing:WorkinginRetail+"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="HH8M75+HH8L75Retailing:WorkinginRetail+"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="D36N11+H18P45+SATTEN+F33K11+SWRKEP+SENTREEnterpriseActivity+PSD+Attend"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="D36N11+H18P45+SATTEN+F33K11+SWRKEP+SENTREEnterpriseActivity+PSD+Attend"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="D36N11+H18P45+SATTEN+F33K11+SWRKEP+SENTREEnterpriseActivity+PSD+Attend"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NCBUR6-LF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="NKERR"></Teacher><Subject name="H1SD11+H1SF11ConsumerStudies+RetailMix"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="NKERR"></Teacher><Subject name="H1SD11+H1SF11ConsumerStudies+RetailMix"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="NKERR"></Teacher><Subject name="SENTRE/LDUGuidance+StudySkills"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="NKERR"></Teacher><Subject name="F58W11HandlingBusinessDocuments"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="NKERR"></Teacher><Subject name="F58W11HandlingBusinessDocuments"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="NKERR"></Teacher><Subject name="SRETLW+SSTOCORetailLaw+StockControl"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="NKERR"></Teacher><Subject name="SRETLW+SSTOCORetailLaw+StockControl"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76+D0XS12CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="LCOMP"></Activity_Tag><Room name="LCOMP"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76+D0XS12CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="LCOMP"></Activity_Tag><Room name="LCOMP"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76+D0XS12CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="LCOMP"></Activity_Tag><Room name="LCOMP"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="H20R76UnderstandingBusiness "></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="H20R76UnderstandingBusiness "></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQABH4L_LF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="SWRKCC+SWRKHRWorkingasAirCabinCrew+Ho"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="SWRKCC+SWRKHRWorkingasAirCabinCrew+Ho"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="SWRKCC+SWRKHRWorkingasAirCabinCrew+Ho"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="SMACK"></Teacher><Subject name="D36N10+F3K10+SATTEN+H18P44EnterpriseActivity+Events+At"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="SMACK"></Teacher><Subject name="D36N10+F3K10+SATTEN+H18P44EnterpriseActivity+Events+At"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H1NS10+H1N610+H1YW74 AdminActivities+BusinessDoc"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H1NS10+H1N610+H1YW74 AdminActivities+BusinessDoc"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H1NS10+H1N610+H1YW74 AdminActivities+BusinessDoc"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="SMACK"></Teacher><Subject name="F38X10+SFOOPRCustomerCare+FoodProduction"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="LDUMMY1"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="SMACK"></Teacher><Subject name="F38X10+SFOOPRCustomerCare+FoodProduction"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="LDUMMY1"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="SMACK"></Teacher><Subject name="F38X10+SFOOPRCustomerCare+FoodProduction"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="LDUMMY1"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="SMACK"></Teacher><Subject name="F78610+F78710+F78810+F78910+H18P44+F3GB10EmploymentFirstSteps+PSD+C"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="SMACK"></Teacher><Subject name="F78610+F78710+F78810+F78910+H18P44+F3GB10EmploymentFirstSteps+PSD+C"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="SMACK"></Teacher><Subject name="F78610+F78710+F78810+F78910+H18P44+F3GB10EmploymentFirstSteps+PSD+C"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQACR4_LF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="SWRKEPWorkExperience"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="SWRKEPWorkExperience"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="SWRKEPWorkExperience"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="SWRKEPWorkExperience"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="F78610+F78710++F78910+D36N10+SPDEVPEmploymentFirstSteps+Enter"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="F78610+F78710++F78910+D36N10+SPDEVPEmploymentFirstSteps+Enter"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="F78610+F78710++F78910+D36N10+SPDEVPEmploymentFirstSteps+Enter"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+      <Teacher name="NKERR"></Teacher><Subject name="SMKRET+SSTKCTMarketinginaRetailEnvironm"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="SASSTR+SPBSPP+SHEASAAssertivenessTraining+Public"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="SASSTR+SPBSPP+SHEASAAssertivenessTraining+Public"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="NKERR"></Teacher><Subject name="SWIRET+SWORET+SATTENWhatisRetail+WorkingwithOt"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="NKERR"></Teacher><Subject name="SWIRET+SWORET+SATTENWhatisRetail+WorkingwithOt"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="SMACK"></Teacher><Subject name="SASSTR+SPBSPP+SRETME+SSTKCT+F78810AssertivenessTraining+Public"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="SMACK"></Teacher><Subject name="SASSTR+SPBSPP+SRETME+SSTKCT+F78810AssertivenessTraining+Public"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="D0SN10IntroductiontoDisplay"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CROBSON"></Teacher><Subject name="D0SN10IntroductiontoDisplay"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="L2.28"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="SWRKEPWorkExperience"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="KDYCE"></Teacher><Subject name="SWRKEPWorkExperience"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="L2.28"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="NKERR"></Teacher><Subject name="D0SF11SellingSkills"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="NKERR"></Teacher><Subject name="D0SF11SellingSkills"></Subject><Activity_Tag name="LEVEN"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="LDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQEVE6_BF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G14BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G14BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G14BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G14BusinessFormation:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="DCAMPBELL"></Teacher><Subject name="FN3A11EventsCosting:AnIntroductio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="DCAMPBELL"></Teacher><Subject name="FN3A11EventsCosting:AnIntroductio"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="FP6211+F3PN12+LDU+FP611+FP6311+D3VA11ContributetoanEvent+Event"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="FP6211+F3PN12+LDU+FP611+FP6311+D3VA11ContributetoanEvent+Event"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="FP6211+F3PN12+LDU+FP611+FP6311+D3VA11ContributetoanEvent+Event"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76+D0XS13CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76+D0XS13CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76+D0XS13CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="FP6211+F3PN12+LDU+FP611+FP6311+D3VA12ContributetoanEvent+Event"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="FP6211+F3PN12+LDU+FP611+FP6311+D3VA12ContributetoanEvent+Event"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NCR Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQTRT6_BF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="D36N11+F57F11+H18P45+SBHTREnterpriseActivity+Prepforw"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS01"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="F39P12SellingtheTravelandTourism"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="F39P12SellingtheTravelandTourism"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="F39P12SellingtheTravelandTourism"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="F38X11CustomerCare"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="F38X11CustomerCare"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="F38X11CustomerCare"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW76CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="SPRTB2PortfolioBuilding2-Scottis"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="SPRTB2PortfolioBuilding2-Scottis"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="SPRTB2PortfolioBuilding2-Scottis"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H90N45TravelandTourism:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H90N45TravelandTourism:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H90N45TravelandTourism:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H90M46TravelProductServices"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="H90M46TravelProductServices"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="D36N11+F57F11+H18P45+SBHTREnterpriseActivity+Prepforw"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="D36N11+F57F11+H18P45+SBHTREnterpriseActivity+Prepforw"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H0BD12ActivityTourismandSpecialI"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H0BD12ActivityTourismandSpecialI"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H0BD12ActivityTourismandSpecialI"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQTRT6_BF117B Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="D36N11+F57F11+H18P45+SHBTREnterpriseActivity+Prepforw"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="D36N11+F57F11+H18P45+SHBTREnterpriseActivity+Prepforw"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H1YY76+H1YW76CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H1YY76+H1YW76CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP1"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="F39P12SellingtheTravelandTourism"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="F39P12SellingtheTravelandTourism"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="F39P12SellingtheTravelandTourism"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H0BD12ActivityTourismandSpecialI"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H0BD12ActivityTourismandSpecialI"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H0BD12ActivityTourismandSpecialI"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="F38X11SkillsforCustomerCare"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BDUMMY1"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="F38X11SkillsforCustomerCare"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BDUMMY1"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="AWHITE"></Teacher><Subject name="F38X11SkillsforCustomerCare"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BDUMMY1"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H90N45TravelandTourism:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H90N45TravelandTourism:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="H90N45TravelandTourism:AnIntrodu"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY1"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="SPRTB2PortfolioBuilding2-Scottis"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="SPRTB2PortfolioBuilding2-Scottis"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="RSTIRLING"></Teacher><Subject name="SPRTB2PortfolioBuilding2-Scottis"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQWTH5_BF117A Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="F3PM11+SVOCEXWorkingasAirCabinCrew:An"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="F3PM11+SVOCEXWorkingasAirCabinCrew:An"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="F3PM11+SVOCEXWorkingasAirCabinCrew:An"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW77CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW77CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="DM4E10HolidayPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="DM4E10HolidayPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="F19J10+F19K10+F38W10Hospitality:WorkingFrontof"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BG26"></Activity_Tag><Room name="BG26"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="F19J10+F19K10+F38W10Hospitality:WorkingFrontof"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BG26"></Activity_Tag><Room name="BG26"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="F19J10+F19K10+F38W10Hospitality:WorkingFrontof"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BG26"></Activity_Tag><Room name="BG26"></Room>
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="CFAHERTY"></Teacher><Subject name="F19J10+F19K10+F38W10Hospitality:WorkingFrontof"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BG26"></Activity_Tag><Room name="BG26"></Room>
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="JMILLER"></Teacher><Subject name="DV3C10UnderstandingTourismintheL"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="JMILLER"></Teacher><Subject name="DV3C10UnderstandingTourismintheL"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="NQWTH5_BF117B Automatic Group Automatic Subgroup">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="FHOGWOOD"></Teacher><Subject name="D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="F3PM11+SVOCEXWorkingasAirCabinCrew:An"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="F3PM11+SVOCEXWorkingasAirCabinCrew:An"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="ECORNFORTH"></Teacher><Subject name="F3PM11+SVOCEXWorkingasAirCabinCrew:An"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BS45"></Activity_Tag><Room name="BS45"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+      <Teacher name="JMILLER"></Teacher><Subject name="DV3C10UnderstandingTourismintheL"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="14:00">
+      <Teacher name="JMILLER"></Teacher><Subject name="DV3C10UnderstandingTourismintheL"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BDUMMY2"></Room>
+    </Hour>
+    <Hour name="15:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW77CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+    <Hour name="16:00">
+      <Teacher name="DKEENAN"></Teacher><Subject name="H1YY76+H1YW77CommunicationinAdmin+ITSo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BCOMP"></Activity_Tag><Room name="BCOMP2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="SHFOFSHospitalityFrontOfficeSkill"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="10:00">
+      <Teacher name="FMCLEOD"></Teacher><Subject name="SHFOFSHospitalityFrontOfficeSkill"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF16"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="11:00">
+      <Teacher name="DTRIMBLE"></Teacher><Subject name="DM4E10HolidayPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="12:00">
+      <Teacher name="DTRIMBLE"></Teacher><Subject name="DM4E10HolidayPlanning"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BF16"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F3GF10Numeracy"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F3GF10Numeracy"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="ANY"></Activity_Tag><Room name="BS01"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
