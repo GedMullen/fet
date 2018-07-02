@@ -1,0 +1,37 @@
++----------+----------+------------+
+| lecturer | semester | SUM(hours) |
++----------+----------+------------+
+| Arthur   | 1        |         22 |
+| Arthur   | 2        |         23 |
+| Aurelien | 1        |         23 |
+| Aurelien | 2        |         23 |
+| Becky    | 1        |         22 |
+| Becky    | 2        |         22 |
+| Fiona    | 1        |         23 |
+| Fiona    | 2        |         22 |
+| Gillian  | 1        |         21 |
+| Gillian  | 2        |         21 |
+| Jacqui   | 1        |         14 |
+| Jacqui   | 2        |         13 |
+| Jim      | 1        |         20 |
+| Jim      | 2        |         22 |
+| Kerry    | 1        |          8 |
+| Kerry    | 2        |          6 |
+| Lorna    | 1        |         22 |
+| Lorna    | 2        |         23 |
+| Mark     | 1        |         23 |
+| Mark     | 2        |         23 |
+| Melanie  | 1        |          8 |
+| Melanie  | 2        |          8 |
+| NLR      | 1        |         13 |
+| NLR      | 2        |         43 |
+| Norman   | 1        |         20 |
+| Norman   | 2        |         21 |
+| Peter    | 1        |         18 |
+| Peter    | 2        |         18 |
+| Stewart  | 1        |         14 |
+| Stewart  | 2        |         14 |
+| Stewart  | ALL      |          8 |
+| Terry    | 1        |          8 |
+| Terry    | 2        |          9 |
++----------+----------+------------+
