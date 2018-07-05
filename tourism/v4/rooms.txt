@@ -1,14 +1,14 @@
 +---------+-----------+----------+------------+
 | campus  | room      | semester | SUM(hours) |
 +---------+-----------+----------+------------+
-| LEVEN   | ANY       | 1        |         35 |
-| LEVEN   | ANY       | 2        |         36 |
-| LEVEN   | L2.28     | 1        |         20 |
-| LEVEN   | L2.28     | 2        |         22 |
-| LEVEN   | LCOMP     | 1        |          2 |
-| LEVEN   | LCOMP     | 2        |          1 |
-| LEVEN   | LDUMMY1   | 1        |          5 |
-| LEVEN   | LDUMMY1   | 2        |          3 |
+| SOUTH   | ANY       | 1        |         35 |
+| SOUTH   | ANY       | 2        |         36 |
+| SOUTH   | L2.28     | 1        |         20 |
+| SOUTH   | L2.28     | 2        |         22 |
+| SOUTH   | LCOMP     | 1        |          2 |
+| SOUTH   | LCOMP     | 2        |          1 |
+| SOUTH   | LDUMMY1   | 1        |          5 |
+| SOUTH   | LDUMMY1   | 2        |          3 |
 | STB     | ANY       | 1        |         94 |
 | STB     | ANY       | 2        |         90 |
 | STB     | BCOMP     | 1        |          6 |
@@ -23,17 +23,17 @@
 | STB     | BS01      | 2        |         19 |
 | STB     | BS45      | 1        |         14 |
 | STB     | BS45      | 2        |         11 |
-| STENTON | ANY       | 1        |          2 |
-| STENTON | S2.11     | 1        |          2 |
-| STENTON | S3.6      | 1        |         17 |
-| STENTON | S3.6      | 2        |         22 |
-| STENTON | SCOMP     | 1        |          2 |
-| STENTON | SCOMP     | 2        |          2 |
-| STENTON | SDUMMY1   | 1        |          2 |
-| STENTON | V2.4+V2.3 | 1        |         15 |
-| STENTON | V2.4+V2.3 | 2        |          6 |
-| STENTON | V2.5      | 1        |         16 |
-| STENTON | V2.5      | 2        |         25 |
-| WADE    | WDUMMY    | 1        |         12 |
-| WADE    | WDUMMY    | 2        |         12 |
+| EASTERN | ANY       | 1        |          2 |
+| EASTERN | S2.11     | 1        |          2 |
+| EASTERN | S3.6      | 1        |         17 |
+| EASTERN | S3.6      | 2        |         22 |
+| EASTERN | SCOMP     | 1        |          2 |
+| EASTERN | SCOMP     | 2        |          2 |
+| EASTERN | SDUMMY1   | 1        |          2 |
+| EASTERN | V2.4+V2.3 | 1        |         15 |
+| EASTERN | V2.4+V2.3 | 2        |          6 |
+| EASTERN | V2.5      | 1        |         16 |
+| EASTERN | V2.5      | 2        |         25 |
+| NRTH    | WDUMMY    | 1        |         12 |
+| NRTH    | WDUMMY    | 2        |         12 |
 +---------+-----------+----------+------------+

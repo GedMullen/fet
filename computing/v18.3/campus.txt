@@ -1,13 +1,13 @@
 +----------+----------+------------+
 | campus   | semester | SUM(hours) |
 +----------+----------+------------+
-| HALBEATH | 1        |         41 |
-| HALBEATH | 2        |         35 |
+| WESTWING | 1        |         41 |
+| WESTWING | 2        |         35 |
 | NRR      | 1        |          4 |
 | NRR      | 2        |         10 |
 | STB      | 1        |        195 |
 | STB      | 2        |        201 |
-| STENTON  | 1        |         15 |
-| STENTON  | 2        |         14 |
-| STENTON  | ALL      |          8 |
+| EASTERN  | 1        |         15 |
+| EASTERN  | 2        |         14 |
+| EASTERN  | ALL      |          8 |
 +----------+----------+------------+

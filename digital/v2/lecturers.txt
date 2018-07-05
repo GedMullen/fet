@@ -1,37 +1,37 @@
 +-----------------+----------+------------+
 | lecturer        | semester | SUM(hours) |
 +-----------------+----------+------------+
-| Chris Boyle     | 1        |         21 |
-| Chris Boyle     | 2        |         22 |
-| Chris Boyle     | ALL      |          1 |
-| Colin Maxwell   | 1        |         22 |
-| Colin Maxwell   | 2        |         23 |
-| Colin Maxwell   | ALL      |          1 |
+| Kane 999999     | 1        |         21 |
+| Kane 999999     | 2        |         22 |
+| Kane 999999     | ALL      |          1 |
+| Ronaldo 10101   | 1        |         22 |
+| Ronaldo 10101   | 2        |         23 |
+| Ronaldo 10101   | ALL      |          1 |
 | DummyLec        | 1        |          7 |
 | DummyLec        | 2        |         22 |
 | DummyLec        | ALL      |          1 |
-| Francis Barclay | 1        |          8 |
-| Francis Barclay | 2        |          4 |
-| Lee Priestley   | 1        |         23 |
-| Lee Priestley   | 2        |         23 |
-| Marion Barrie   | 1        |         13 |
-| Marion Barrie   | 2        |         15 |
-| Marion Barrie   | ALL      |          9 |
-| Marion Gerrie   | 1        |         21 |
-| Marion Gerrie   | 2        |         21 |
-| Marion Gerrie   | ALL      |          2 |
-| Mark McPhee     | 1        |          7 |
-| Mark McPhee     | 2        |          7 |
-| Nairn Beattie   | 1        |         18 |
-| Nairn Beattie   | 2        |         18 |
+| Kaka 99999999 | 1        |          8 |
+| Kaka 99999999 | 2        |          4 |
+| Zidane 101010   | 1        |         23 |
+| Zidane 101010   | 2        |         23 |
+| Beckham 10101   | 1        |         13 |
+| Beckham 10101   | 2        |         15 |
+| Beckham 10101   | ALL      |          9 |
+| VanBasten 999   | 1        |         21 |
+| VanBasten 999   | 2        |         21 |
+| VanBasten 999   | ALL      |          2 |
+| John Messi9     | 1        |          7 |
+| John Messi9     | 2        |          7 |
+| Maradona 1010   | 1        |         18 |
+| Maradona 1010   | 2        |         18 |
 | NLR             | 1        |         10 |
 | NLR             | 2        |          2 |
 | NLR             | ALL      |          4 |
-| Rebecca Blyth   | 1        |         21 |
-| Rebecca Blyth   | 2        |         19 |
-| Sarah Herzog    | 1        |         18 |
-| Sarah Herzog    | 2        |         19 |
-| Sarah Herzog    | ALL      |          4 |
+| Maldini 99999   | 1        |         21 |
+| Maldini 99999   | 2        |         19 |
+| Charlton 999    | 1        |         18 |
+| Charlton 999    | 2        |         19 |
+| Charlton 999    | ALL      |          4 |
 | Shona Irvine    | 1        |         24 |
 | Shona Irvine    | 2        |         21 |
 | Shona Irvine    | ALL      |          1 |

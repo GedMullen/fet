@@ -1,0 +1,9 @@
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	137	</Activity_Id>	<Room>	LDUMMY1	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	199	</Activity_Id>	<Room>	BF16	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	244	</Activity_Id>	<Room>	BG26	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	260	</Activity_Id>	<Room>	BDUMMY1	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	269	</Activity_Id>	<Room>	WDUMMY	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	270	</Activity_Id>	<Room>	WDUMMY	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+<ConstraintActivityPreferredRoom><Weight_Percentage>100</Weight_Percentage><Activity_Id>	272	</Activity_Id>	<Room>	WDUMMY	</Room>	<Permanently_Locked>false</Permanently_Locked><Active>true</Active><Comments></Comments></ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+</fet>

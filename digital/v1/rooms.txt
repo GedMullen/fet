@@ -3,20 +3,20 @@
 +---------+-------+----------+------------+
 | NRR     | NRR   | 1        |          4 |
 | NRR     | NRR   | 2        |          2 |
-| STENTON | COMP  | 1        |         31 |
-| STENTON | COMP  | 2        |         33 |
-| STENTON | COMP  | ALL      |          4 |
-| STENTON | S3.1  | 1        |         15 |
-| STENTON | S3.1  | 2        |         18 |
-| STENTON | S3.11 | 1        |          8 |
-| STENTON | S3.11 | 2        |         16 |
-| STENTON | S3.12 | 2        |          3 |
-| STENTON | S3.2  | 1        |         21 |
-| STENTON | S3.2  | 2        |         16 |
-| STENTON | S3.2  | ALL      |         12 |
-| STENTON | S3.8  | 1        |         13 |
-| STENTON | S3.8  | 2        |         13 |
-| STENTON | S3.8  | ALL      |          1 |
-| STENTON | S3.9  | 1        |         10 |
-| STENTON | S3.9  | 2        |          4 |
+| EASTERN | COMP  | 1        |         31 |
+| EASTERN | COMP  | 2        |         33 |
+| EASTERN | COMP  | ALL      |          4 |
+| EASTERN | S3.1  | 1        |         15 |
+| EASTERN | S3.1  | 2        |         18 |
+| EASTERN | S3.11 | 1        |          8 |
+| EASTERN | S3.11 | 2        |         16 |
+| EASTERN | S3.12 | 2        |          3 |
+| EASTERN | S3.2  | 1        |         21 |
+| EASTERN | S3.2  | 2        |         16 |
+| EASTERN | S3.2  | ALL      |         12 |
+| EASTERN | S3.8  | 1        |         13 |
+| EASTERN | S3.8  | 2        |         13 |
+| EASTERN | S3.8  | ALL      |          1 |
+| EASTERN | S3.9  | 1        |         10 |
+| EASTERN | S3.9  | 2        |          4 |
 +---------+-------+----------+------------+

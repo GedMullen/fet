@@ -1,27 +1,27 @@
 +---------------+----------+------------+
 | lecturer      | semester | SUM(hours) |
 +---------------+----------+------------+
-| Colin Maxwell | 1        |          2 |
-| Colin Maxwell | 2        |         13 |
-| Lee Priestley | 1        |         15 |
-| Lee Priestley | 2        |          9 |
-| Marion Barrie | 1        |         13 |
-| Marion Barrie | 2        |         17 |
-| Marion Barrie | ALL      |         10 |
-| Marion Gerrie | 1        |         20 |
-| Marion Gerrie | 2        |         10 |
-| Marion Gerrie | ALL      |          4 |
-| Mark McPhee   | 1        |          3 |
-| Mark McPhee   | 2        |          3 |
-| Nairn Beattie | 1        |          6 |
-| Nairn Beattie | 2        |         14 |
+| Ronaldo 10101 | 1        |          2 |
+| Ronaldo 10101 | 2        |         13 |
+| Zidane 101010 | 1        |         15 |
+| Zidane 101010 | 2        |          9 |
+| Beckham 10101 | 1        |         13 |
+| Beckham 10101 | 2        |         17 |
+| Beckham 10101 | ALL      |         10 |
+| VanBasten 999 | 1        |         20 |
+| VanBasten 999 | 2        |         10 |
+| VanBasten 999 | ALL      |          4 |
+| John Messi9   | 1        |          3 |
+| John Messi9   | 2        |          3 |
+| Maradona 1010 | 1        |          6 |
+| Maradona 1010 | 2        |         14 |
 | NLR           | 1        |          6 |
 | NLR           | 2        |          2 |
-| Rebecca Blyth | 1        |          8 |
-| Rebecca Blyth | 2        |         15 |
-| Sarah Herzog  | 1        |         10 |
-| Sarah Herzog  | 2        |         10 |
-| Sarah Herzog  | ALL      |          2 |
+| Maldini 99999 | 1        |          8 |
+| Maldini 99999 | 2        |         15 |
+| Charlton 999  | 1        |         10 |
+| Charlton 999  | 2        |         10 |
+| Charlton 999  | ALL      |          2 |
 | Shona Irvine  | 1        |         19 |
 | Shona Irvine  | 2        |         12 |
 | Shona Irvine  | ALL      |          1 |

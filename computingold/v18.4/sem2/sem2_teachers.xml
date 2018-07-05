@@ -1,0 +1,1983 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="Arthur">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="CMP391CloudComputing+Virtualisati"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="CMP391CloudComputing+Virtualisati"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="CMP391CloudComputing+Virtualisati"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H17F34Computing:PCHardwareandOpe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17F34Computing:PCHardwareandOpe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     <Subject name="H48X35Computing:TechnicalSupport:"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H48X35Computing:TechnicalSupport:"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H48X35Computing:TechnicalSupport:"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H48X35Computing:TechnicalSupport:"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H8N535PrivateCloudVirtualisation"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H8N535PrivateCloudVirtualisation"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BS50"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANOCYBNET">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="CMP392ComputerForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="CMP392ComputerForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="CMP392ComputerForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17M34IntrusionPreventionSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17M34IntrusionPreventionSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H8N535PrivateCloudVirtualisation"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H8N535PrivateCloudVirtualisation"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Peter">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17X34+H1J834SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17X34+H1J834SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17X34+H1J834SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="CMP393ComputerNetworkGroupProject"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="CMP393ComputerNetworkGroupProject"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="CMP393ComputerNetworkGroupProject"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF45A"></Activity_Tag><Students name="BSAPN_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H18C35OpenSourceOperatingSystems:"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H18C35OpenSourceOperatingSystems:"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="HL9T35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="HL9T35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="HL9V35SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="HL9V35SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="NLR">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Stewart">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H16W35RelationalDatabaseManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H16W35RelationalDatabaseManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17X34SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17X34SoftwareDevelopment:Programm"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="F1VV34+H1F734+H17W34InteractiveMedia:UserInterf"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F1VV34+H1F734+H17W34InteractiveMedia:UserInterf"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F1VV34+H1F734+H17W34InteractiveMedia:UserInterf"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F1VV34+H1F734+H17W34InteractiveMedia:UserInterf"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H6S844Computing:Creating+Evaluati"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H6S844Computing:Creating+Evaluati"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H17834+H1J834+H16W35TeamWorkinginComputing+Comp"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17834+H1J834+H16W35TeamWorkinginComputing+Comp"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17834+H1J834+H16W35TeamWorkinginComputing+Comp"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17834+H1J834+H16W35TeamWorkinginComputing+Comp"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HCCPT7_SD217A"></Students><Room name="S3.12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H17R35MobileTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H17R35MobileTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H48W35Computing:SoftwareDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H48W35Computing:SoftwareDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H48W35Computing:SoftwareDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H48W35Computing:SoftwareDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF47"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Aurelien">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="H22376SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H22376SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H22376SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="H2TM12ProgrammingforMobileDevices"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H2TM12ProgrammingforMobileDevices"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H6S746+F3GD12             Computing:Project(Software)+P"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H6S746+F3GD12             Computing:Project(Software)+P"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H6S746+F3GD12             Computing:Project(Software)+P"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     <Subject name="H16W35RelationalDatabaseManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H16W35RelationalDatabaseManagement"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H17934CloudComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H2TM12ProgrammingforMobileDevices"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H2TM12ProgrammingforMobileDevices"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="SAPPFGAppsforGood"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H6S746+F3GD12             Computing:Project(Software)+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H6S746+F3GD12             Computing:Project(Software)+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H6S746+F3GD12             Computing:Project(Software)+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Norman">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17V34SecurityConcepts"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17V34SecurityConcepts"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     <Subject name="H17F34Computing:PCHardwareandOpe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H17F34Computing:PCHardwareandOpe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H17F34Computing:PCHardwareandOpe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H17F34Computing:PCHardwareandOpe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H48V35Computing:Networking:Graded"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17V34SecurityConcepts"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17V34SecurityConcepts"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H17C35ComputerNetworks:BuildingLo"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H17V34SecurityConcepts"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H17V34SecurityConcepts"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H1J834Computing:GradedUnit1"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Lorna">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="SAPPFGAppsforGood"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     <Subject name="H17834TeamWorkinginComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H17834TeamWorkinginComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="SAPPFGAppsforGood"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="SENCH6EnhancedCurriculumLevel6"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="SENCH6EnhancedCurriculumLevel6"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="SAPPFGAppsforGood"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.08"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H2N712ServerAdministrationFundamen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H2N712ServerAdministrationFundamen"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H2N612NetworkFundamentals"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H2N612NetworkFundamentals"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F1KH11Computing:ComputerNetworking"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Mark">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="FR2435+H17S34RoutingTechnology+NetworkCon"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="FR2435+H17S34RoutingTechnology+NetworkCon"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="FR2435+H17S34RoutingTechnology+NetworkCon"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="F1K210+H7EA44Computing:ComputerHardware+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="F1K210+H7EA44Computing:ComputerHardware+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="F1K210+H7EA44Computing:ComputerHardware+"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="FR2535InternetworkingTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="FR2535InternetworkingTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="FR2535InternetworkingTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF44A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H2N712ServerAdministrationFundamen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H2N712ServerAdministrationFundamen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="FR2435+H17S34RoutingTechnology+NetworkCon"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="FR2435+H17S34RoutingTechnology+NetworkCon"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="FR2435+H17S34RoutingTechnology+NetworkCon"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="FR2535InternetworkingTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="FR2535InternetworkingTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="FR2535InternetworkingTechnology"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BF44A"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Jim">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H17M34IntrusionPreventionSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H17M34IntrusionPreventionSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H6S746+F3GD12              Computing:Project(Networking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H6S746+F3GD12              Computing:Project(Networking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H6S746+F3GD12              Computing:Project(Networking"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF44"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="SENHC5EnhancedCurriculumLevel5"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117B"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H9J046DigitalForensics"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_HF117A"></Students><Room name="H1.04A"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H1EP34EthicalHackingFundamentals"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H1EP34EthicalHackingFundamentals"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17M34IntrusionPreventionSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17M34IntrusionPreventionSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCON_BF217B"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANOSOFTDEV">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     <Subject name="H17834TeamWorkinginComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H17834TeamWorkinginComputing"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCON_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F1JM10+H61345Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F1JM10+H61345Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F1JM10+H61345Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF47"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Gillian">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H3LN35ProvidingTechnicalSupportto"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H3LN35ProvidingTechnicalSupportto"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="DM2X35ComputerOperatingSystems2"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="DM2X35ComputerOperatingSystems2"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF217A"></Students><Room name="BF45A"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="SENCH5EnhancedCurriculumLevel5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="SENCH5EnhancedCurriculumLevel5"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     <Subject name="H2N612NetworkFundamentals"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H2N612NetworkFundamentals"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="H17834+H1F734TeamWorkinginComputing+Prof"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17834+H1F734TeamWorkinginComputing+Prof"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="H1EM34ClientOperatingSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H1EM34ClientOperatingSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H1EM34ClientOperatingSystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Students name="HDCTS_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BS50"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H6S745+F3GD11Computing:Project+ProblemSol"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F18211+F1KS11             Computing:WebsiteDesignand"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F18211+F1KS11             Computing:WebsiteDesignand"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F18211+F1KS11             Computing:WebsiteDesignand"></Subject><Activity_Tag name="STENTON"></Activity_Tag><Activity_Tag name="S3.12"></Activity_Tag><Students name="NCCDM5_SF117A"></Students><Room name="S3.12"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Fiona">
+   <Day name="Monday">
+    <Hour name="09:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H22375SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="SENCH6EnhancedCurriculumLevel6"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BF44A"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H22376SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H22376SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H22376SoftwareDesignandDevelopmen"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117A"></Students><Room name="BS54"></Room>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F6C235+HL9W35WebDevelopment:DynamicallyG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F6C235+HL9W35WebDevelopment:DynamicallyG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BS50"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F6C235+HL9W35WebDevelopment:DynamicallyG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BS50"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="SENCH6EnhancedCurriculumLevel6"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM6_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF217A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17834+H17W34TeamWorkinginComputing+Soft"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17834+H17W34TeamWorkinginComputing+Soft"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17834+H17W34TeamWorkinginComputing+Soft"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF47"></Room>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H16Y35SoftwareDevelopment:DataStr"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="H17834+H17W34TeamWorkinginComputing+Soft"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="H17834+H17W34TeamWorkinginComputing+Soft"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="H17834+H17W34TeamWorkinginComputing+Soft"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="HDCSD_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="ANO6">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="F18211Computing:WebsiteDesignand"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F18211Computing:WebsiteDesignand"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="15:00">
+     <Subject name="F1KS11Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BS54"></Room>
+    </Hour>
+    <Hour name="16:00">
+     <Subject name="F1KS11Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117B"></Students><Room name="BS54"></Room>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="F1KS11Computing:DigitalMediaEleme"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="F1KS11Computing:DigitalMediaEleme"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     <Subject name="F18211Computing:WebsiteDesignand"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="14:00">
+     <Subject name="F18211Computing:WebsiteDesignand"></Subject><Activity_Tag name="HALBEATH"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_HF117A"></Students><Room name="H1.08"></Room>
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Kerry">
+   <Day name="Monday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="F1KS11Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="F1KS11Computing:DigitalMediaEleme"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF45"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     <Subject name="H1T010MobileTechnologySystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="12:00">
+     <Subject name="H1T010MobileTechnologySystems"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM4_BF118A"></Students><Room name="BF47"></Room>
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="09:00">
+     <Subject name="F18211Computing:WebsiteDesignand"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="10:00">
+     <Subject name="F18211Computing:WebsiteDesignand"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Students name="NCCDM5_BF117A"></Students><Room name="BF44"></Room>
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="09:00">
+     
+    </Hour>
+    <Hour name="10:00">
+     
+    </Hour>
+    <Hour name="11:00">
+     
+    </Hour>
+    <Hour name="12:00">
+     
+    </Hour>
+    <Hour name="13:00">
+     
+    </Hour>
+    <Hour name="14:00">
+     
+    </Hour>
+    <Hour name="15:00">
+     
+    </Hour>
+    <Hour name="16:00">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>

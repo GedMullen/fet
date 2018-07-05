@@ -37,127 +37,127 @@ Progress label: Precomputing ... please wait
 Progress range: 0..42
 Progress setModal(true)
 The order of activities (id-s):
-No: 1, id=198, teachers: KDYCE, subject: F33H11Retailing:Storing,Replenishin, activity tags: STB ANY, students: NQRET5_BP117A, nIncompatible[permutation[i]]=2000000002
-No: 2, id=243, teachers: CFAHERTY, subject: F19J10+F19K10+F38W10Hospitality:WorkingFrontof, activity tags: STB BG26, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 3, id=268, teachers: SMACK, subject: D36N10+F3K10+SATTEN+F3GB10+F3GF10+D36J10EnterpriseActivity+Events+At, activity tags: WADE WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000002
-No: 4, id=271, teachers: SMACK, subject: F78610+F78710+F78810+F78910+STOURD+SWRKHR+SWRKCCEmploymentFirstSteps+Tourist, activity tags: WADE WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000002
-No: 5, id=134, teachers: , subject: F3GF10Numeracy, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=2000000001
+No: 1, id=198, teachers: Neyma, subject: F33H11Retailing:Storing,Replenishin, activity tags: STB ANY, students: NQRET5_BP117A, nIncompatible[permutation[i]]=2000000002
+No: 2, id=243, teachers: Messi010, subject: F19J10+F19K10+F38W10Hospitality:WorkingFrontof, activity tags: STB BG26, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 3, id=268, teachers: Inies, subject: D36N10+F3K10+SATTEN+F3GB10+F3GF10+D36J10EnterpriseActivity+Events+At, activity tags: NRTH WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000002
+No: 4, id=271, teachers: Inies, subject: F78610+F78710+F78810+F78910+STOURD+SWRKHR+SWRKCCEmploymentFirstSteps+Tourist, activity tags: NRTH WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000002
+No: 5, id=134, teachers: , subject: F3GF10Numeracy, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=2000000001
 No: 6, id=259, teachers: , subject: F3GF10Numeracy, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=2000000001
-No: 7, id=269, teachers: , subject: F3GC10+H1NS10+H1N610+H1YW74+H18P44IT+AdminActivities+Business, activity tags: WADE WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000001
-No: 8, id=71, teachers: SFINLAY, subject: F18D34Clothing:Production,Trimming, activity tags: STENTON V2.5, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=468
-No: 9, id=99, teachers: AWILLIAMSON, subject: H7V534PreparingaFormalBusinessPl, activity tags: STENTON S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=424
-No: 10, id=9, teachers: FMCLEOD, subject: F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=408
-No: 11, id=103, teachers: SFINLAY, subject: F1PC35DesignandManufactureaBrida, activity tags: STENTON V2.5, students: HDFDC_SF217A, nIncompatible[permutation[i]]=404
-No: 12, id=112, teachers: AWILLIAMSON, subject: FP4V11+ZS4808+FH6311IndustrialSewingMachineSkil, activity tags: STENTON V2.5, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=351
-No: 13, id=109, teachers: SFINLAY, subject: FH6211+FP4X11+ZS4809TheCreativeProcess+Garment, activity tags: STENTON V2.5, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=336
-No: 14, id=101, teachers: SFINLAY, subject: H91M35ManaginganEvent, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=333
-No: 15, id=163, teachers: KDYCE, subject: F78610+F78710+F78810+F78910+H18P44+F3GB10EmploymentFirstSteps+PSD+C, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=321
-No: 16, id=105, teachers: AWILLIAMSON, subject: F2EK35Fashion:DesignandProduction, activity tags: STENTON V2.5, students: HDFDC_SF217A, nIncompatible[permutation[i]]=318
-No: 17, id=175, teachers: KDYCE, subject: F78610+F78710++F78910+D36N10+SPDEVP+SHEASAEmploymentFirstSteps+Enter, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=318
-No: 18, id=158, teachers: SMACK, subject: D36N10+F3K10+SATTENEnterpriseActivity+Events+At, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=312
-No: 19, id=166, teachers: SMACK, subject: SWRKCC+SWRKHRWorkingasAirCabinCrew+Ho, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=312
-No: 20, id=89, teachers: CROBSON, subject: HJ3T35+SATTENStoreDesignandLayout+Atte, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=309
-No: 21, id=209, teachers: AWHITE, subject: F38X11SkillsforCustomerCare, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=300
-No: 22, id=128, teachers: KDYCE, subject: D36N11+H18P45+SATTEN+F33K11EnterpriseActivity+PSD+Attend, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=294
-No: 23, id=10, teachers: FMCLEOD, subject: F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=285
-No: 24, id=225, teachers: AWHITE, subject: F38X11SkillsforCustomerCare, activity tags: STB BDUMMY1, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=285
-No: 25, id=181, teachers: , subject: SWRKEPWorkExperience, activity tags: LEVEN ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=284
-No: 26, id=195, teachers: CFAHERTY, subject: FP6211+F3PN12+SATTEN+FP611+FP6311+D3VA11ContributetoanEvent+Event, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=282
-No: 27, id=117, teachers: AWILLIAMSON, subject: SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative, activity tags: STENTON V2.4+V2.3, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=279
-No: 28, id=215, teachers: RSTIRLING, subject: H0BD12ActivityTourismandSpecialI, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=273
-No: 29, id=220, teachers: RSTIRLING, subject: SPRTB2PortfolioBuilding2, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=273
-No: 30, id=221, teachers: RSTIRLING, subject: SPRTB3PortfolioBuilding3, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=273
-No: 31, id=231, teachers: RSTIRLING, subject: H0BD12ActivityTourismandSpecialI, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=273
-No: 32, id=236, teachers: RSTIRLING, subject: SPRTB2PortfolioBuilding2, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=273
-No: 33, id=237, teachers: RSTIRLING, subject: SPRTB3PortfolioBuilding3, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=273
-No: 34, id=165, teachers: SMACK, subject: SFOOPRFoodProduction, activity tags: LEVEN LDUMMY1, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=261
-No: 35, id=261, teachers: ECORNFORTH, subject: F3PM11+SVOCEXWorkingasAirCabinCrew:An, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=255
-No: 36, id=248, teachers: ECORNFORTH, subject: F3PM11+SVOCEXWorkingasAirCabinCrew:An, activity tags: STB BS45, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=252
-No: 37, id=98, teachers: CROBSON, subject: F2EK35Fashion:DesignandProduction, activity tags: STENTON S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=240
-No: 38, id=56, teachers: AWHITE, subject: H7V534+H91G34+DK0235PreparingaFormalBusinessPl, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=226
-No: 39, id=159, teachers: , subject: F3GC10+H1NS10+H1N610+H1YW74IT+AdminActivities+Business, activity tags: LEVEN L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=222
-No: 40, id=169, teachers: AWILLIAMSON, subject: D0SN10IntroductiontoDisplay, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=218
-No: 41, id=60, teachers: FMCLEOD, subject: H91M35ManaginganEvent, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=214
-No: 42, id=61, teachers: FMCLEOD, subject: H91R35EventsManagementGradedUnit, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=214
-No: 43, id=176, teachers: SMACK, subject: SASSTR+SPBSPP+SRETME+SSTKCT+F78810AssertivenessTraining+Public, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=208
-No: 44, id=80, teachers: AWILLIAMSON, subject: HJ3M34FashionMerchandising, activity tags: STENTON S3.6, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=206
-No: 45, id=142, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12+SATTENBusinessFormation:AnIntrodu, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=204
-No: 46, id=145, teachers: , subject: H20R76/+H20V76/+D0XS12UnderstandingBusiness/Mana, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=204
-No: 47, id=148, teachers: AWILLIAMSON, subject: FP7212FashionMerchandising:AnInt, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=202
-No: 48, id=180, teachers: KDYCE, subject: SATTEN+SWORETAttendance+WorkingwithOthers, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=196
+No: 7, id=269, teachers: , subject: F3GC10+H1NS10+H1N610+H1YW74+H18P44IT+AdminActivities+Business, activity tags: NRTH WDUMMY, students: NQABT4_1F117A, nIncompatible[permutation[i]]=2000000001
+No: 8, id=71, teachers: Gullit9, subject: F18D34Clothing:Production,Trimming, activity tags: EASTERN V2.5, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=468
+No: 9, id=99, teachers: Beckham1010, subject: H7V534PreparingaFormalBusinessPl, activity tags: EASTERN S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=424
+No: 10, id=9, teachers: Pele010, subject: F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=408
+No: 11, id=103, teachers: Gullit9, subject: F1PC35DesignandManufactureaBrida, activity tags: EASTERN V2.5, students: HDFDC_SF217A, nIncompatible[permutation[i]]=404
+No: 12, id=112, teachers: Beckham1010, subject: FP4V11+ZS4808+FH6311IndustrialSewingMachineSkil, activity tags: EASTERN V2.5, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=351
+No: 13, id=109, teachers: Gullit9, subject: FH6211+FP4X11+ZS4809TheCreativeProcess+Garment, activity tags: EASTERN V2.5, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=336
+No: 14, id=101, teachers: Gullit9, subject: H91M35ManaginganEvent, activity tags: EASTERN S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=333
+No: 15, id=163, teachers: Neyma, subject: F78610+F78710+F78810+F78910+H18P44+F3GB10EmploymentFirstSteps+PSD+C, activity tags: SOUTH L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=321
+No: 16, id=105, teachers: Beckham1010, subject: F2EK35Fashion:DesignandProduction, activity tags: EASTERN V2.5, students: HDFDC_SF217A, nIncompatible[permutation[i]]=318
+No: 17, id=175, teachers: Neyma, subject: F78610+F78710++F78910+D36N10+SPDEVP+SHEASAEmploymentFirstSteps+Enter, activity tags: SOUTH L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=318
+No: 18, id=158, teachers: Inies, subject: D36N10+F3K10+SATTENEnterpriseActivity+Events+At, activity tags: SOUTH L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=312
+No: 19, id=166, teachers: Inies, subject: SWRKCC+SWRKHRWorkingasAirCabinCrew+Ho, activity tags: SOUTH L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=312
+No: 20, id=89, teachers: Kane999, subject: HJ3T35+SATTENStoreDesignandLayout+Atte, activity tags: EASTERN S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=309
+No: 21, id=209, teachers: Marado, subject: F38X11SkillsforCustomerCare, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=300
+No: 22, id=128, teachers: Neyma, subject: D36N11+H18P45+SATTEN+F33K11EnterpriseActivity+PSD+Attend, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=294
+No: 23, id=10, teachers: Pele010, subject: F35S34+H91J34+H91K34+HJ4W34EventBudgetingandFunding+, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=285
+No: 24, id=225, teachers: Marado, subject: F38X11SkillsforCustomerCare, activity tags: STB BDUMMY1, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=285
+No: 25, id=181, teachers: , subject: SWRKEPWorkExperience, activity tags: SOUTH ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=284
+No: 26, id=195, teachers: Messi010, subject: FP6211+F3PN12+SATTEN+FP611+FP6311+D3VA11ContributetoanEvent+Event, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=282
+No: 27, id=117, teachers: Beckham1010, subject: SPRTB3+F5C512+D36N11PortfolioBuilding3+Creative, activity tags: EASTERN V2.4+V2.3, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=279
+No: 28, id=215, teachers: Charlton9, subject: H0BD12ActivityTourismandSpecialI, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=273
+No: 29, id=220, teachers: Charlton9, subject: SPRTB2PortfolioBuilding2, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=273
+No: 30, id=221, teachers: Charlton9, subject: SPRTB3PortfolioBuilding3, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=273
+No: 31, id=231, teachers: Charlton9, subject: H0BD12ActivityTourismandSpecialI, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=273
+No: 32, id=236, teachers: Charlton9, subject: SPRTB2PortfolioBuilding2, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=273
+No: 33, id=237, teachers: Charlton9, subject: SPRTB3PortfolioBuilding3, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=273
+No: 34, id=165, teachers: Inies, subject: SFOOPRFoodProduction, activity tags: SOUTH LDUMMY1, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=261
+No: 35, id=261, teachers: KakaKaka11, subject: F3PM11+SVOCEXWorkingasAirCabinCrew:An, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=255
+No: 36, id=248, teachers: KakaKaka11, subject: F3PM11+SVOCEXWorkingasAirCabinCrew:An, activity tags: STB BS45, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=252
+No: 37, id=98, teachers: Kane999, subject: F2EK35Fashion:DesignandProduction, activity tags: EASTERN S3.6, students: HDFDB_SF217A, nIncompatible[permutation[i]]=240
+No: 38, id=56, teachers: Marado, subject: H7V534+H91G34+DK0235PreparingaFormalBusinessPl, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=226
+No: 39, id=159, teachers: , subject: F3GC10+H1NS10+H1N610+H1YW74IT+AdminActivities+Business, activity tags: SOUTH L2.28, students: NQABH4L_LF117A, nIncompatible[permutation[i]]=222
+No: 40, id=169, teachers: Beckham1010, subject: D0SN10IntroductiontoDisplay, activity tags: SOUTH L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=218
+No: 41, id=60, teachers: Pele010, subject: H91M35ManaginganEvent, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=214
+No: 42, id=61, teachers: Pele010, subject: H91R35EventsManagementGradedUnit, activity tags: STB ANY, students: HDEVM_BF217A HDTRT_BF217A, nIncompatible[permutation[i]]=214
+No: 43, id=176, teachers: Inies, subject: SASSTR+SPBSPP+SRETME+SSTKCT+F78810AssertivenessTraining+Public, activity tags: SOUTH L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=208
+No: 44, id=80, teachers: Beckham1010, subject: HJ3M34FashionMerchandising, activity tags: EASTERN S3.6, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=206
+No: 45, id=142, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12+SATTENBusinessFormation:AnIntrodu, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=204
+No: 46, id=145, teachers: , subject: H20R76/+H20V76/+D0XS12UnderstandingBusiness/Mana, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=204
+No: 47, id=148, teachers: Beckham1010, subject: FP7212FashionMerchandising:AnInt, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=202
+No: 48, id=180, teachers: Neyma, subject: SATTEN+SWORETAttendance+WorkingwithOthers, activity tags: SOUTH L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=196
 No: 49, id=186, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G14BusinessFormation:AnIntrodu, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=195
 No: 50, id=189, teachers: , subject: H20R76+H20V76+D0XS12UnderstandingBusiness/Mana, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=195
-No: 51, id=38, teachers: JMILLER, subject: DK0E34ApplyingMarketingPrinciples, activity tags: STB BS01, students: HCTRT_BF117B, nIncompatible[permutation[i]]=192
-No: 52, id=94, teachers: CROBSON, subject: F18E34ProductionProcessesintheCl, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=190
-No: 53, id=95, teachers: CROBSON, subject: F1F435DesigningandProducingFashio, activity tags: STENTON S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=190
-No: 54, id=65, teachers: JMILLER, subject: DJ9P35TourOperations, activity tags: STB BS01, students: HDTRT_BF217A, nIncompatible[permutation[i]]=188
-No: 55, id=44, teachers: AWHITE, subject: H1F034+H7TK34CreatingaCultureofCustomer, activity tags: STB BS01, students: HCTRT_BF117B, nIncompatible[permutation[i]]=186
-No: 56, id=136, teachers: SMACK, subject: F4T111DistributionandStorageofGo, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=186
-No: 57, id=138, teachers: SMACK, subject: SPRTB3+PortfolioBuilding-RetailBu, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=186
-No: 58, id=57, teachers: DTRIMBLE, subject: H91H35Events:ContemporaryIssues+, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=182
-No: 59, id=86, teachers: AWILLIAMSON, subject: F1F634ConceptGarmentDesign:AnInt, activity tags: STENTON V2.5, students: HDFDC_SF117A, nIncompatible[permutation[i]]=182
-No: 60, id=119, teachers: AWILLIAMSON, subject: FP5H12SewingSkills:WaistSuspended, activity tags: STENTON V2.5, students: NCCM, nIncompatible[permutation[i]]=182
-No: 61, id=123, teachers: AWILLIAMSON, subject: FP7212FashionMerchandising:AnIntr, activity tags: STENTON V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=182
-No: 62, id=13, teachers: CFAHERTY, subject: H91L34EventLegislationSafetyandL, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=180
-No: 63, id=208, teachers: CFAHERTY, subject: D36N11+F57F11+H18P45+SATTENEnterpriseActivity+Prepforw, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=180
-No: 64, id=22, teachers: JMILLER, subject: DK0E34ApplyingMarketingPrinciples, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=178
-No: 65, id=137, teachers: KDYCE, subject: H1SH11VisualMerchandising, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=178
-No: 66, id=27, teachers: CFAHERTY, subject: H0RC34+HJ4W34PreparationforEmploymentin, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=176
-No: 67, id=129, teachers: FHOGWOOD, subject: F33G11+F33J11+F57F11Retailing:WorkinginRetail+, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=176
-No: 68, id=241, teachers: DTRIMBLE, subject: DM4E10HolidayPlanning, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=176
-No: 69, id=254, teachers: DTRIMBLE, subject: DM4E10HolidayPlanning, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=176
-No: 70, id=11, teachers: FMCLEOD, subject: F3J434+H91N34LivePerformanceEvents+F+B, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=174
-No: 71, id=43, teachers: CFAHERTY, subject: H0RC34+HJ4W34PreparationforEmploymentin, activity tags: STB ANY, students: HCTRT_BF117B, nIncompatible[permutation[i]]=174
-No: 72, id=224, teachers: FHOGWOOD, subject: D36N11+F57F11+H18P45+SATTENEnterpriseActivity+Prepforw, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=174
-No: 73, id=242, teachers: JMILLER, subject: DV3C10UnderstandingTourismintheL, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=174
-No: 74, id=255, teachers: JMILLER, subject: DV3C10UnderstandingTourismintheL, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=174
-No: 75, id=51, teachers: DCAMPBELL, subject: DL3A35ManagingFinancialResourcesi, activity tags: STB BS01, students: HDEVM_BF217A, nIncompatible[permutation[i]]=172
-No: 76, id=196, teachers: CFAHERTY, subject: FP6211+F3PN12+SATTEN+FP611+FP6311+D3VA12ContributetoanEvent+Event, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=172
-No: 77, id=18, teachers: AWHITE, subject: DJ9W34StructureoftheTravelandTo, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=170
-No: 78, id=28, teachers: AWHITE, subject: H1F034+H7TK34CreatingaCultureofCustomer, activity tags: STB BS45, students: HCTRT_BF117A, nIncompatible[permutation[i]]=170
-No: 79, id=30, teachers: AWHITE, subject: H1J634TravelandTourism:GradedUni, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=170
-No: 80, id=46, teachers: AWHITE, subject: H1J634TravelandTourism:GradedUni, activity tags: STB ANY, students: HCTRT_BF117B, nIncompatible[permutation[i]]=170
-No: 81, id=68, teachers: CFAHERTY, subject: H94234*Conferences:AnIntroduction, activity tags: STB ANY, students: HDTRT_BF217A, nIncompatible[permutation[i]]=170
-No: 82, id=120, teachers: SFINLAY, subject: FP5F12PatternConstruction:WaistSu, activity tags: STENTON V2.5, students: NCCM, nIncompatible[permutation[i]]=170
-No: 83, id=262, teachers: FMCLEOD, subject: SHFOFSHospitalityFrontOfficeSkill, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=168
-No: 84, id=35, teachers: AWHITE, subject: DJ9W34StructureoftheTravelandTo, activity tags: STB BF16, students: HCTRT_BF117B, nIncompatible[permutation[i]]=166
-No: 85, id=253, teachers: FHOGWOOD, subject: D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=166
-No: 86, id=240, teachers: CFAHERTY, subject: D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=164
-No: 87, id=135, teachers: NKERR, subject: F3PJ11SellingSkills, activity tags: LEVEN ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=160
-No: 88, id=168, teachers: NKERR, subject: D0SF11SellingSkills, activity tags: LEVEN ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=160
-No: 89, id=14, teachers: FMCLEOD, subject: H91P34EventsGradedUnit1, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=158
-No: 90, id=31, teachers: ECORNFORTH, subject: H29734AirlineandAirportOperations, activity tags: STB BS45, students: HCTRT_BF117A, nIncompatible[permutation[i]]=158
-No: 91, id=150, teachers: NKERR, subject: H1SD11+H1SF11ConsumerStudies+RetailMix, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=158
-No: 92, id=153, teachers: NKERR, subject: SRETLW+SSTOCORetailLaw+StockControl, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=158
-No: 93, id=213, teachers: DCAMPBELL, subject: FN3A11EventsCosting, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=158
-No: 94, id=229, teachers: DCAMPBELL, subject: FN3A11EventsCosting, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=158
-No: 95, id=47, teachers: ECORNFORTH, subject: H29734AirlineandAirportOperations, activity tags: STB BS45, students: HCTRT_BF117B, nIncompatible[permutation[i]]=156
-No: 96, id=115, teachers: SFINLAY, subject: FP5012+F3GC12DigitalFashionIllustration:, activity tags: STENTON SCOMP, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=156
-No: 97, id=192, teachers: DCAMPBELL, subject: FN3A11EventsCosting:AnIntroductio, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=156
-No: 98, id=73, teachers: CROBSON, subject: F18W34Fashion:CommercialDesign, activity tags: STENTON V2.4+V2.3, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=144
-No: 99, id=77, teachers: CROBSON, subject: F7BX34Marketing:AnIntroduction, activity tags: STENTON S3.6, students: HDFDB_SF117A, nIncompatible[permutation[i]]=144
-No: 100, id=143, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12+SATTENBusinessFormation:AnIntrodu, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=128
+No: 51, id=38, teachers: Zidane8, subject: DK0E34ApplyingJohnetingPrinciples, activity tags: STB BS01, students: HCTRT_BF117B, nIncompatible[permutation[i]]=192
+No: 52, id=94, teachers: Kane999, subject: F18E34ProductionProcessesintheCl, activity tags: EASTERN S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=190
+No: 53, id=95, teachers: Kane999, subject: F1F435DesigningandProducingFashio, activity tags: EASTERN S3.6, students: HDFDB_SF217A HDFDC_SF217A, nIncompatible[permutation[i]]=190
+No: 54, id=65, teachers: Zidane8, subject: DJ9P35TourOperations, activity tags: STB BS01, students: HDTRT_BF217A, nIncompatible[permutation[i]]=188
+No: 55, id=44, teachers: Marado, subject: H1F034+H7TK34CreatingaCultureofCustomer, activity tags: STB BS01, students: HCTRT_BF117B, nIncompatible[permutation[i]]=186
+No: 56, id=136, teachers: Inies, subject: F4T111DistributionandStorageofGo, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=186
+No: 57, id=138, teachers: Inies, subject: SPRTB3+PortfolioBuilding-RetailBu, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=186
+No: 58, id=57, teachers: Maldini7, subject: H91H35Events:ContemporaryIssues+, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=182
+No: 59, id=86, teachers: Beckham1010, subject: F1F634ConceptGarmentDesign:AnInt, activity tags: EASTERN V2.5, students: HDFDC_SF117A, nIncompatible[permutation[i]]=182
+No: 60, id=119, teachers: Beckham1010, subject: FP5H12SewingSkills:WaistSuspended, activity tags: EASTERN V2.5, students: NCCM, nIncompatible[permutation[i]]=182
+No: 61, id=123, teachers: Beckham1010, subject: FP7212FashionMerchandising:AnIntr, activity tags: EASTERN V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=182
+No: 62, id=13, teachers: Messi010, subject: H91L34EventLegislationSafetyandL, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=180
+No: 63, id=208, teachers: Messi010, subject: D36N11+F57F11+H18P45+SATTENEnterpriseActivity+Prepforw, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=180
+No: 64, id=22, teachers: Zidane8, subject: DK0E34ApplyingJohnetingPrinciples, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=178
+No: 65, id=137, teachers: Neyma, subject: H1SH11VisualMerchandising, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=178
+No: 66, id=27, teachers: Messi010, subject: H0RC34+HJ4W34PreparationforEmploymentin, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=176
+No: 67, id=129, teachers: Ronaldo9, subject: F33G11+F33J11+F57F11Retailing:WorkinginRetail+, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=176
+No: 68, id=241, teachers: Maldini7, subject: DM4E10HolidayPlanning, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=176
+No: 69, id=254, teachers: Maldini7, subject: DM4E10HolidayPlanning, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=176
+No: 70, id=11, teachers: Pele010, subject: F3J434+H91N34LivePerformanceEvents+F+B, activity tags: STB BS01, students: HCEVE_BF117A, nIncompatible[permutation[i]]=174
+No: 71, id=43, teachers: Messi010, subject: H0RC34+HJ4W34PreparationforEmploymentin, activity tags: STB ANY, students: HCTRT_BF117B, nIncompatible[permutation[i]]=174
+No: 72, id=224, teachers: Ronaldo9, subject: D36N11+F57F11+H18P45+SATTENEnterpriseActivity+Prepforw, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=174
+No: 73, id=242, teachers: Zidane8, subject: DV3C10UnderstandingTourismintheL, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=174
+No: 74, id=255, teachers: Zidane8, subject: DV3C10UnderstandingTourismintheL, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=174
+No: 75, id=51, teachers: VanBasten, subject: DL3A35ManagingFinancialResourcesi, activity tags: STB BS01, students: HDEVM_BF217A, nIncompatible[permutation[i]]=172
+No: 76, id=196, teachers: Messi010, subject: FP6211+F3PN12+SATTEN+FP611+FP6311+D3VA12ContributetoanEvent+Event, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=172
+No: 77, id=18, teachers: Marado, subject: DJ9W34StructureoftheTravelandTo, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=170
+No: 78, id=28, teachers: Marado, subject: H1F034+H7TK34CreatingaCultureofCustomer, activity tags: STB BS45, students: HCTRT_BF117A, nIncompatible[permutation[i]]=170
+No: 79, id=30, teachers: Marado, subject: H1J634TravelandTourism:GradedUni, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=170
+No: 80, id=46, teachers: Marado, subject: H1J634TravelandTourism:GradedUni, activity tags: STB ANY, students: HCTRT_BF117B, nIncompatible[permutation[i]]=170
+No: 81, id=68, teachers: Messi010, subject: H94234*Conferences:AnIntroduction, activity tags: STB ANY, students: HDTRT_BF217A, nIncompatible[permutation[i]]=170
+No: 82, id=120, teachers: Gullit9, subject: FP5F12PatternConstruction:WaistSu, activity tags: EASTERN V2.5, students: NCCM, nIncompatible[permutation[i]]=170
+No: 83, id=262, teachers: Pele010, subject: SHFOFSHospitalityFrontOfficeSkill, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=168
+No: 84, id=35, teachers: Marado, subject: DJ9W34StructureoftheTravelandTo, activity tags: STB BF16, students: HCTRT_BF117B, nIncompatible[permutation[i]]=166
+No: 85, id=253, teachers: Ronaldo9, subject: D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW, activity tags: STB ANY, students: NQWTH5_BF117B, nIncompatible[permutation[i]]=166
+No: 86, id=240, teachers: Messi010, subject: D36N10+F57F10+H18P44+SATTENEnterpriseActivity+PREPFORW, activity tags: STB ANY, students: NQWTH5_BF117A, nIncompatible[permutation[i]]=164
+No: 87, id=135, teachers: Cruyf, subject: F3PJ11SellingSkills, activity tags: SOUTH ANY, students: NCRET5_LF117A, nIncompatible[permutation[i]]=160
+No: 88, id=168, teachers: Cruyf, subject: D0SF11SellingSkills, activity tags: SOUTH ANY, students: NQACR4_LF117A, nIncompatible[permutation[i]]=160
+No: 89, id=14, teachers: Pele010, subject: H91P34EventsGradedUnit1, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=158
+No: 90, id=31, teachers: KakaKaka11, subject: H29734AirlineandAirportOperations, activity tags: STB BS45, students: HCTRT_BF117A, nIncompatible[permutation[i]]=158
+No: 91, id=150, teachers: Cruyf, subject: H1SD11+H1SF11ConsumerStudies+RetailMix, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=158
+No: 92, id=153, teachers: Cruyf, subject: SRETLW+SSTOCORetailLaw+StockControl, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=158
+No: 93, id=213, teachers: VanBasten, subject: FN3A11EventsCosting, activity tags: STB ANY, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=158
+No: 94, id=229, teachers: VanBasten, subject: FN3A11EventsCosting, activity tags: STB ANY, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=158
+No: 95, id=47, teachers: KakaKaka11, subject: H29734AirlineandAirportOperations, activity tags: STB BS45, students: HCTRT_BF117B, nIncompatible[permutation[i]]=156
+No: 96, id=115, teachers: Gullit9, subject: FP5012+F3GC12DigitalFashionIllustration:, activity tags: EASTERN SCOMP, students: NCCM NCFDM5SF, nIncompatible[permutation[i]]=156
+No: 97, id=192, teachers: VanBasten, subject: FN3A11EventsCosting:AnIntroductio, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=156
+No: 98, id=73, teachers: Kane999, subject: F18W34Fashion:CommercialDesign, activity tags: EASTERN V2.4+V2.3, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=144
+No: 99, id=77, teachers: Kane999, subject: F7BX34Johneting:AnIntroduction, activity tags: EASTERN S3.6, students: HDFDB_SF117A, nIncompatible[permutation[i]]=144
+No: 100, id=143, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G12+SATTENBusinessFormation:AnIntrodu, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=128
 No: 101, id=8, teachers: , subject: DR0T35+H1F034+H7TK34EntrepreneurshipintheCreati, activity tags: STB ANY, students: HCEVE_BF117A, nIncompatible[permutation[i]]=124
 No: 102, id=49, teachers: , subject: D7M834+HC2P34PublicRelations1:Functions, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=122
 No: 103, id=54, teachers: , subject: H1VL34ManagementofHumanResources, activity tags: STB ANY, students: HDEVM_BF217A, nIncompatible[permutation[i]]=122
 No: 104, id=187, teachers: , subject: FJ3F12+FJ3J12+FJ3K12+FJ3H12+FJ3G15BusinessFormation:AnIntrodu, activity tags: STB ANY, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=122
 No: 105, id=52, teachers: , subject: F35T34EventLegislation:Contractsa, activity tags: STB BF16, students: HDEVM_BF217A, nIncompatible[permutation[i]]=118
 No: 106, id=66, teachers: , subject: H7V634*\nDevelopingEntrepreneurialSki, activity tags: STB ANY, students: HDTRT_BF217A, nIncompatible[permutation[i]]=114
-No: 107, id=84, teachers: AWILLIAMSON, subject: SATTENAttendance, activity tags: STENTON S3.6, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=95
-No: 108, id=152, teachers: SMACK, subject: SENTRE/SHBTREntrepreneurship/Attendance, activity tags: LEVEN ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=89
+No: 107, id=84, teachers: Beckham1010, subject: SATTENAttendance, activity tags: EASTERN S3.6, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=95
+No: 108, id=152, teachers: Inies, subject: SENTRE/SHBTREntrepreneurship/Attendance, activity tags: SOUTH ANY, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=89
 No: 109, id=2, teachers: , subject: D75X34InformationTechnology:Applic, activity tags: STB BCOMP, students: HCEVE_BF117A, nIncompatible[permutation[i]]=86
-No: 110, id=118, teachers: AWILLIAMSON, subject: F9VK11ArtandDesign:SurfaceDecora, activity tags: STENTON V2.5, students: NCCM, nIncompatible[permutation[i]]=83
+No: 110, id=118, teachers: Beckham1010, subject: F9VK11ArtandDesign:SurfaceDecora, activity tags: EASTERN V2.5, students: NCCM, nIncompatible[permutation[i]]=83
 No: 111, id=16, teachers: , subject: D85F34UsingSoftwareApplicationPac, activity tags: STB BCOMP, students: HCTRT_BF117A, nIncompatible[permutation[i]]=82
 No: 112, id=33, teachers: , subject: D85F34UsingSoftwareApplicationPac, activity tags: STB BCOMP, students: HCTRT_BF117B, nIncompatible[permutation[i]]=80
-No: 113, id=177, teachers: NKERR, subject: SMKRETMarketinginaRetailEnvironm, activity tags: LEVEN L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=80
-No: 114, id=122, teachers: CROBSON, subject: FP2111Fashion:AnIntroduction, activity tags: STENTON V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=77
-No: 115, id=124, teachers: SFINLAY, subject: D0SN10IntroductiontoDisplay, activity tags: STENTON V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=77
-No: 116, id=20, teachers: AWHITE, subject: DK0134PracticalTravelandTourismV, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=76
-No: 117, id=76, teachers: CROBSON, subject: F2EJ34Fashion:DesignandProduction, activity tags: STENTON V2.4+V2.3, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=63
+No: 113, id=177, teachers: Cruyf, subject: SMKRETJohnetinginaRetailEnvironm, activity tags: SOUTH L2.28, students: NQACR4_LF117A, nIncompatible[permutation[i]]=80
+No: 114, id=122, teachers: Kane999, subject: FP2111Fashion:AnIntroduction, activity tags: EASTERN V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=77
+No: 115, id=124, teachers: Gullit9, subject: D0SN10IntroductiontoDisplay, activity tags: EASTERN V2.5, students: NCFDM5SF, nIncompatible[permutation[i]]=77
+No: 116, id=20, teachers: Marado, subject: DK0134PracticalTravelandTourismV, activity tags: STB ANY, students: HCTRT_BF117A, nIncompatible[permutation[i]]=76
+No: 117, id=76, teachers: Kane999, subject: F2EJ34Fashion:DesignandProduction, activity tags: EASTERN V2.4+V2.3, students: HDFDB_SF117A HDFDC_SF117A, nIncompatible[permutation[i]]=63
 No: 118, id=212, teachers: , subject: F1FC11+F1FB11PCPassport-WorkingwithIT, activity tags: STB BCOMP, students: NQTRT6_BF117A, nIncompatible[permutation[i]]=40
 No: 119, id=228, teachers: , subject: FIFC11+FIFB11PCPassport-WorkingwithIT, activity tags: STB BCOMP, students: NQTRT6_BF117B, nIncompatible[permutation[i]]=40
 No: 120, id=191, teachers: , subject: FIFC11+FIFB11PCPassport-WorkingwithIT, activity tags: STB BCOMP, students: NQEVE6_BF117A, nIncompatible[permutation[i]]=39
-No: 121, id=147, teachers: , subject: FIFE12 +FIFJ12PCPassport-WorkingwithIT, activity tags: LEVEN LCOMP, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=31
+No: 121, id=147, teachers: , subject: FIFE12 +FIFJ12PCPassport-WorkingwithIT, activity tags: SOUTH LCOMP, students: NCBUR6-LF117A, nIncompatible[permutation[i]]=31
 End - the order of activities (id-s):
 Title: FET warning
 Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.

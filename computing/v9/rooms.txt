@@ -1,11 +1,11 @@
 +----------+-------+----------+------------+
 | campus   | room  | semester | SUM(hours) |
 +----------+-------+----------+------------+
-| HALBEATH | A     | 1        |         58 |
-| HALBEATH | A     | 2        |         34 |
-| HALBEATH | V     | 1        |          8 |
-| HALBEATH | V     | 2        |         21 |
-| LEVEN    | L1    | 2        |         19 |
+| WESTWING | A     | 1        |         58 |
+| WESTWING | A     | 2        |         34 |
+| WESTWING | V     | 1        |          8 |
+| WESTWING | V     | 2        |         21 |
+| SOUTH    | L1    | 2        |         19 |
 | STB      | A     | 1        |         95 |
 | STB      | A     | 2        |         92 |
 | STB      | BF45A | 1        |         12 |
@@ -18,8 +18,8 @@
 | STB      | CISCO | 2        |         34 |
 | STB      | V     | 1        |         40 |
 | STB      | V     | 2        |         45 |
-| STENTON  | A     | 1        |          2 |
-| STENTON  | A     | 2        |          2 |
-| STENTON  | S3.12 | 1        |         14 |
-| STENTON  | S3.12 | 2        |         13 |
+| EASTERN  | A     | 1        |          2 |
+| EASTERN  | A     | 2        |          2 |
+| EASTERN  | S3.12 | 1        |         14 |
+| EASTERN  | S3.12 | 2        |         13 |
 +----------+-------+----------+------------+
