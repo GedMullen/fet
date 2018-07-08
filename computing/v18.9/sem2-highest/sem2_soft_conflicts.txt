@@ -6,28 +6,28 @@ Total conflicts: 160007
 
 Conflicts list (in decreasing order):
 
-Time constraint basic compulsory broken: unallocated activity with id=197 (T:Bob, S:SENHC5EnhancedCurriculumLevel5, AT:WESTWING,A, St:NCCDM5_HF117A) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=233 (T:Cruyff8, S:SENCH5EnhancedCurriculumLevel5, AT:EASTERN,S3.12, St:NCCDM5_SF117A) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=245 (T:Maradona, S:SAPPFGAppsforGood, AT:STB,A, St:NCCDM6_BF117A) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=247 (T:Becks, S:SENCH6EnhancedCurriculumLevel6, AT:STB,A, St:NCCDM6_BF117A) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=285 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:NCCDM6_HF117A) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=287 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:NCCDM6_HF117A) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=305 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:NCCDM6_HF117B) - this increases the conflicts total by 10000
-Time constraint basic compulsory broken: unallocated activity with id=307 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:NCCDM6_HF117B) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=197 (T:Bob, S:SENHC5EnhancedCurriculumLevel5, AT:WESTWING,A, St:NCCDM5_HF117A) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=233 (T:Cruyff8, S:SENCH5EnhancedCurriculumLevel5, AT:EASTERN,S3.12, St:NCCDM5_SF117A) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=245 (T:Maradona, S:SAPPFGAppsforGood, AT:STB,A, St:NCCDM6_BF117A) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=247 (T:Becks, S:SENCH6EnhancedCurriculumLevel6, AT:STB,A, St:NCCDM6_BF117A) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=285 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:NCCDM6_HF117A) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=287 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:NCCDM6_HF117A) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=305 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:NCCDM6_HF117B) - this increases the conflicts total by 10000
-Space constraint basic compulsory broken: unallocated activity with id=307 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:NCCDM6_HF117B) - this increases the conflicts total by 10000
-Time constraint students min hours daily broken for subgroup: NCCDM5_HF117A Automatic Group Automatic Subgroup, day: Wednesday, lenght=2, conflict increase=1
-Time constraint students min hours daily broken for subgroup: NCCDM5_SF117A Automatic Group Automatic Subgroup, day: Tuesday, lenght=2, conflict increase=1
-Time constraint students min hours daily broken for subgroup: NCCDM6_BF117A Automatic Group Automatic Subgroup, day: Wednesday, lenght=2, conflict increase=1
-Time constraint students min hours daily broken for subgroup: NCCDM6_HF117A Automatic Group Automatic Subgroup, day: Thursday, lenght=2, conflict increase=1
-Time constraint students max gaps per day broken for subgroup: NCCDM5_SF117A Automatic Group Automatic Subgroup, it has 1 extra gaps, on day Friday, conflicts increase=1
-Time constraint students max gaps per day broken for subgroup: NCCDM6_BF117A Automatic Group Automatic Subgroup, it has 1 extra gaps, on day Monday, conflicts increase=1
-Time constraint students max gaps per day broken for subgroup: NCCDM6_HF117A Automatic Group Automatic Subgroup, it has 1 extra gaps, on day Monday, conflicts increase=1
+Time constraint basic compulsory broken: unallocated activity with id=197 (T:Bob, S:SENHC5EnhancedCurriculumLevel5, AT:WESTWING,A, St:TAPSM5_HF117A) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=233 (T:Cruyff8, S:SENCH5EnhancedCurriculumLevel5, AT:EASTERN,A3.12, St:TAPSM5_SF117A) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=245 (T:Maradona, S:SAPPFGAppsforGood, AT:STB,A, St:TAPSM6_BF117A) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=247 (T:Becks, S:SENCH6EnhancedCurriculumLevel6, AT:STB,A, St:TAPSM6_BF117A) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=285 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:TAPSM6_HF117A) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=287 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:TAPSM6_HF117A) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=305 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:TAPSM6_HF117B) - this increases the conflicts total by 10000
+Time constraint basic compulsory broken: unallocated activity with id=307 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:TAPSM6_HF117B) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=197 (T:Bob, S:SENHC5EnhancedCurriculumLevel5, AT:WESTWING,A, St:TAPSM5_HF117A) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=233 (T:Cruyff8, S:SENCH5EnhancedCurriculumLevel5, AT:EASTERN,A3.12, St:TAPSM5_SF117A) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=245 (T:Maradona, S:SAPPFGAppsforGood, AT:STB,A, St:TAPSM6_BF117A) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=247 (T:Becks, S:SENCH6EnhancedCurriculumLevel6, AT:STB,A, St:TAPSM6_BF117A) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=285 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:TAPSM6_HF117A) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=287 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:TAPSM6_HF117A) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=305 (T:Kaka7, S:SAPPFGAppsforGood, AT:WESTWING,A, St:TAPSM6_HF117B) - this increases the conflicts total by 10000
+Space constraint basic compulsory broken: unallocated activity with id=307 (T:Kaka7, S:SENCH6EnhancedCurriculumLevel6, AT:WESTWING,A, St:TAPSM6_HF117B) - this increases the conflicts total by 10000
+Time constraint students min hours daily broken for subgroup: TAPSM5_HF117A Automatic Group Automatic Subgroup, day: Wednesday, lenght=2, conflict increase=1
+Time constraint students min hours daily broken for subgroup: TAPSM5_SF117A Automatic Group Automatic Subgroup, day: Tuesday, lenght=2, conflict increase=1
+Time constraint students min hours daily broken for subgroup: TAPSM6_BF117A Automatic Group Automatic Subgroup, day: Wednesday, lenght=2, conflict increase=1
+Time constraint students min hours daily broken for subgroup: TAPSM6_HF117A Automatic Group Automatic Subgroup, day: Thursday, lenght=2, conflict increase=1
+Time constraint students max gaps per day broken for subgroup: TAPSM5_SF117A Automatic Group Automatic Subgroup, it has 1 extra gaps, on day Friday, conflicts increase=1
+Time constraint students max gaps per day broken for subgroup: TAPSM6_BF117A Automatic Group Automatic Subgroup, it has 1 extra gaps, on day Monday, conflicts increase=1
+Time constraint students max gaps per day broken for subgroup: TAPSM6_HF117A Automatic Group Automatic Subgroup, it has 1 extra gaps, on day Monday, conflicts increase=1
 
 End of file.

@@ -20,135 +20,135 @@ Progress label: Precomputing ... please wait
 Progress range: 0..36
 Progress setModal(true)
 The order of activities (id-s):
-No: 1, id=3, teachers: Pele10, subject: CMP391CloudComputing+Virtualisati, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 2, id=4, teachers: ANOCYBNET, subject: CMP392ComputerForensics, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 3, id=5, teachers: Ronal, subject: CMP393ComputerNetworkGroupProject, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 4, id=15, teachers: Neymar9, subject: F1VV34+H1F734+H17W34InteractiveMedia:UserInterf, activity tags: EASTERN A, students: HCCPT7_SD217A, nIncompatible[permutation[i]]=2000000002
-No: 5, id=16, teachers: Neymar9, subject: H17834+H1J834+H16W35TeamWorkinginComputing+Comp, activity tags: EASTERN A, students: HCCPT7_SD217A, nIncompatible[permutation[i]]=2000000002
-No: 6, id=56, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=2000000002
-No: 7, id=69, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=2000000002
-No: 8, id=10, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000001
-No: 9, id=11, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000001
-No: 10, id=227, teachers: , subject: F3GF11Numeracy, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=2000000001
-No: 11, id=173, teachers: , subject: F3GF11Numeracy, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=1500000001
-No: 12, id=191, teachers: , subject: F3GF11Numeracy, activity tags: WESTWING, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=1500000001
-No: 13, id=209, teachers: , subject: F3GF11Numeracy, activity tags: STB, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=1500000001
-No: 14, id=248, teachers: , subject: F3GF12Numeracy, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=1500000001
-No: 15, id=268, teachers: , subject: F3GF12Numeracy, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=1500000001
-No: 16, id=288, teachers: , subject: F3GF12Numeracy, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=1500000001
-No: 17, id=308, teachers: , subject: F3GF12Numeracy, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=1500000001
-No: 18, id=59, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=548
-No: 19, id=72, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=548
-No: 20, id=320, teachers: ANOSOFTDEV, subject: H7E944+H7EB44+H22674+F3GC10InformationLiteracy/SocialMe, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=488
-No: 21, id=161, teachers: Pele10, subject: H48X35Computing:TechnicalSupport:, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=472
-No: 22, id=104, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=428
-No: 23, id=88, teachers: Ronal, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=416
-No: 24, id=28, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=396
-No: 25, id=29, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=396
-No: 26, id=43, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=396
-No: 27, id=44, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=396
-No: 28, id=113, teachers: Neymar9, subject: H48W35Computing:SoftwareDevelopmen, activity tags: STB BF47, students: HDCSD_BF217A, nIncompatible[permutation[i]]=384
-No: 29, id=172, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=342
-No: 30, id=177, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=342
-No: 31, id=213, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=342
-No: 32, id=323, teachers: ANOSOFTDEV, subject: F1JM10+H61345Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=342
-No: 33, id=147, teachers: Cruyff8, subject: H1EM34ClientOperatingSystems, activity tags: STB V, students: HDCTS_BF117A, nIncompatible[permutation[i]]=339
-No: 34, id=226, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=339
-No: 35, id=253, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=336
-No: 36, id=273, teachers: Bob, subject: H6S746+F3GD12              Computing:Project(Networking, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=333
-No: 37, id=324, teachers: Cruyff8, subject: H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=330
-No: 38, id=322, teachers: John, subject: F1K210+H7EA44Computing:ComputerHardware+, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=324
-No: 39, id=208, teachers: Becks, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=312
-No: 40, id=83, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=306
-No: 41, id=251, teachers: Becks, subject: H22376SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=306
-No: 42, id=229, teachers: Cruyff8, subject: F18211+F1KS11             Computing:WebsiteDesignand, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=303
-No: 43, id=231, teachers: Cruyff8, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=303
-No: 44, id=99, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=297
-No: 45, id=85, teachers: Ronal, subject: H17X34+H1J834SoftwareDevelopment:Programm, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=294
-No: 46, id=195, teachers: Bob, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: WESTWING V, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=282
-No: 47, id=293, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+P, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=276
-No: 48, id=190, teachers: Maradona, subject: H22375SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=273
-No: 49, id=25, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=266
-No: 50, id=141, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCTS_BF117A, nIncompatible[permutation[i]]=258
-No: 51, id=291, teachers: Maradona, subject: H22376SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=255
-No: 52, id=40, teachers: Pele10, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=250
-No: 53, id=325, teachers: Pirlo, subject: H1T010MobileTechnologySystems, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=234
-No: 54, id=160, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=222
-No: 55, id=175, teachers: Pirlo, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=222
-No: 56, id=176, teachers: Pirlo, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=222
-No: 57, id=157, teachers: ANOCYBNET, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=216
-No: 58, id=252, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=216
-No: 59, id=68, teachers: ANOCYBNET, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=214
-No: 60, id=158, teachers: Ronal, subject: H18C35OpenSourceOperatingSystems:, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=214
-No: 61, id=270, teachers: Cruyff8, subject: H2N612NetworkFundamentals, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=214
-No: 62, id=272, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=214
-No: 63, id=41, teachers: ANOSOFTDEV, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=212
-No: 64, id=55, teachers: Pele10, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=212
-No: 65, id=58, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=212
-No: 66, id=71, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=212
-No: 67, id=148, teachers: Bob, subject: H1EP34EthicalHackingFundamentals, activity tags: STB V, students: HDCTS_BF117A, nIncompatible[permutation[i]]=212
-No: 68, id=156, teachers: Cruyff8, subject: DM2X35ComputerOperatingSystems2, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=212
-No: 69, id=174, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=212
-No: 70, id=210, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=212
-No: 71, id=54, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=210
-No: 72, id=67, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=210
-No: 73, id=117, teachers: Ronal, subject: HL9V35SoftwareDevelopment:Programm, activity tags: STB V, students: HDCSD_BF217A, nIncompatible[permutation[i]]=210
-No: 74, id=211, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=210
-No: 75, id=212, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=210
-No: 76, id=271, teachers: John, subject: H2N712ServerAdministrationFundamen, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=210
-No: 77, id=250, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=208
-No: 78, id=366, teachers: Bob, subject: CYB11EthicalHacking, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=208
-No: 79, id=367, teachers: Bob, subject: CYB12GradedUnit-new, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=208
-No: 80, id=326, teachers: ANOCYBNET, subject: H9J044DigitalForensics, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=204
-No: 81, id=321, teachers: Neymar9, subject: H6S844Computing:Creating+Evaluati, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=202
-No: 82, id=364, teachers: ANOCYBNET, subject: CYB9DigitalForensicCaseStudies, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=200
-No: 83, id=365, teachers: ANOCYBNET, subject: CYB10DigitalForensics-revised, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=200
-No: 84, id=368, teachers: ANOCYBNET, subject: CYB13AnOther, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=200
-No: 85, id=369, teachers: ANOCYBNET, subject: CYB14AnOther, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=200
-No: 86, id=370, teachers: ANOCYBNET, subject: CYB15AnOther, activity tags: STB V, students: HCCYB7_BF118A, nIncompatible[permutation[i]]=200
-No: 87, id=26, teachers: Kaka7, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=196
-No: 88, id=146, teachers: Zidane, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=194
-No: 89, id=228, teachers: Pele10, subject: F1KH11Computing:ComputerNetworking, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=194
-No: 90, id=145, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=192
-No: 91, id=27, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=190
-No: 92, id=31, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=190
-No: 93, id=87, teachers: Maradona, subject: H16W35RelationalDatabaseManagement, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=190
-No: 94, id=159, teachers: Cruyff8, subject: H3LN35ProvidingTechnicalSupportto, activity tags: STB A, students: HDCTS_BF217A, nIncompatible[permutation[i]]=190
-No: 95, id=101, teachers: Neymar9, subject: H17X34SoftwareDevelopment:Programm, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=188
-No: 96, id=112, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=188
-No: 97, id=115, teachers: Becks, subject: F6C235+HL9W35WebDevelopment:DynamicallyG, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=188
-No: 98, id=118, teachers: Ronal, subject: HL9T35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=188
-No: 99, id=144, teachers: Cruyff8, subject: H17834+H1F734TeamWorkinginComputing+Prof, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=188
-No: 100, id=42, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=186
-No: 101, id=46, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=186
-No: 102, id=192, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: WESTWING V, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=182
-No: 103, id=193, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=180
-No: 104, id=194, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=180
-No: 105, id=102, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB BF47, students: HDCSD_BF117B, nIncompatible[permutation[i]]=176
-No: 106, id=292, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=176
-No: 107, id=86, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB BF47, students: HDCSD_BF117A, nIncompatible[permutation[i]]=172
-No: 108, id=103, teachers: Neymar9, subject: H16W35RelationalDatabaseManagement, activity tags: STB BF47, students: HDCSD_BF117B, nIncompatible[permutation[i]]=170
-No: 109, id=290, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=168
-No: 110, id=312, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=168
-No: 111, id=114, teachers: Neymar9, subject: H17R35MobileTechnology, activity tags: STB BF47, students: HDCSD_BF217A, nIncompatible[permutation[i]]=166
-No: 112, id=310, teachers: Kaka7, subject: H2N612NetworkFundamentals, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=164
-No: 113, id=311, teachers: Kaka7, subject: H2N712ServerAdministrationFundamen, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=164
-No: 114, id=143, teachers: Zidane, subject: H17C35ComputerNetworks:BuildingLo, activity tags: STB CISCO, students: HDCTS_BF117A, nIncompatible[permutation[i]]=123
-No: 115, id=30, teachers: , subject: FR2236RoutingTechnology, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=94
-No: 116, id=45, teachers: , subject: FR2236RoutingTechnology, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=94
-No: 117, id=98, teachers: Ronal, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=90
-No: 118, id=179, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=90
-No: 119, id=215, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=90
-No: 120, id=265, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: STB A, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=88
-No: 121, id=267, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=87
-No: 122, id=233, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=85
-No: 123, id=247, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=85
-No: 124, id=245, teachers: Maradona, subject: SAPPFGAppsforGood, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=84
-No: 125, id=285, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=74
-No: 126, id=287, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=74
-No: 127, id=197, teachers: Bob, subject: SENHC5EnhancedCurriculumLevel5, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=71
-No: 128, id=305, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=66
-No: 129, id=307, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=66
+No: 1, id=3, teachers: Pele10, subject: CMP391CloudComputing+Virtualisati, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 2, id=4, teachers: ANOCYBNET, subject: CMP392ComputerForensics, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 3, id=5, teachers: Ronal, subject: CMP393ComputerNetworkGroupProject, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 4, id=15, teachers: Neymar9, subject: F1VV34+H1F734+H17W34InteractiveMedia:UserInterf, activity tags: EASTERN A, students: TAPST7_SD217A, nIncompatible[permutation[i]]=2000000002
+No: 5, id=16, teachers: Neymar9, subject: H17834+H1J834+H16W35TeamWorkinginComputing+Comp, activity tags: EASTERN A, students: TAPST7_SD217A, nIncompatible[permutation[i]]=2000000002
+No: 6, id=56, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: TAPSN_BF217A, nIncompatible[permutation[i]]=2000000002
+No: 7, id=69, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: TAPSN_BF217B, nIncompatible[permutation[i]]=2000000002
+No: 8, id=10, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000001
+No: 9, id=11, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000001
+No: 10, id=227, teachers: , subject: F3GF11Numeracy, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=2000000001
+No: 11, id=173, teachers: , subject: F3GF11Numeracy, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=1500000001
+No: 12, id=191, teachers: , subject: F3GF11Numeracy, activity tags: WESTWING, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=1500000001
+No: 13, id=209, teachers: , subject: F3GF11Numeracy, activity tags: STB, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=1500000001
+No: 14, id=248, teachers: , subject: F3GF12Numeracy, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=1500000001
+No: 15, id=268, teachers: , subject: F3GF12Numeracy, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=1500000001
+No: 16, id=288, teachers: , subject: F3GF12Numeracy, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=1500000001
+No: 17, id=308, teachers: , subject: F3GF12Numeracy, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=1500000001
+No: 18, id=59, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: TAPSN_BF217A, nIncompatible[permutation[i]]=548
+No: 19, id=72, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: TAPSN_BF217B, nIncompatible[permutation[i]]=548
+No: 20, id=320, teachers: ANOSOFTDEV, subject: H7E944+H7EB44+H22674+F3GC10InformationLiteracy/SocialMe, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=488
+No: 21, id=161, teachers: Pele10, subject: H48X35Computing:TechnicalSupport:, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=472
+No: 22, id=104, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=428
+No: 23, id=88, teachers: Ronal, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=416
+No: 24, id=28, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=396
+No: 25, id=29, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=396
+No: 26, id=43, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=396
+No: 27, id=44, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=396
+No: 28, id=113, teachers: Neymar9, subject: H48W35Computing:SoftwareDevelopmen, activity tags: STB XY47, students: TAPSD_BF217A, nIncompatible[permutation[i]]=384
+No: 29, id=172, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=342
+No: 30, id=177, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=342
+No: 31, id=213, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=342
+No: 32, id=323, teachers: ANOSOFTDEV, subject: F1JM10+H61345Computing:DigitalMediaEleme, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=342
+No: 33, id=147, teachers: Cruyff8, subject: H1EM34ClientOperatingSystems, activity tags: STB V, students: TAPSS_BF117A, nIncompatible[permutation[i]]=339
+No: 34, id=226, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=339
+No: 35, id=253, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+, activity tags: STB V, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=336
+No: 36, id=273, teachers: Bob, subject: H6S746+F3GD12              Computing:Project(Networking, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=333
+No: 37, id=324, teachers: Cruyff8, subject: H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=330
+No: 38, id=322, teachers: John, subject: F1K210+H7EA44Computing:ComputerHardware+, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=324
+No: 39, id=208, teachers: Becks, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=312
+No: 40, id=83, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=306
+No: 41, id=251, teachers: Becks, subject: H22376SoftwareDesignandDevelopmen, activity tags: STB A, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=306
+No: 42, id=229, teachers: Cruyff8, subject: F18211+F1KS11             Computing:WebsiteDesignand, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=303
+No: 43, id=231, teachers: Cruyff8, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=303
+No: 44, id=99, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=297
+No: 45, id=85, teachers: Ronal, subject: H17X34+H1J834SoftwareDevelopment:Programm, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=294
+No: 46, id=195, teachers: Bob, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: WESTWING V, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=282
+No: 47, id=293, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+P, activity tags: WESTWING V, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=276
+No: 48, id=190, teachers: Maradona, subject: H22375SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=273
+No: 49, id=25, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=266
+No: 50, id=141, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: TAPSS_BF117A, nIncompatible[permutation[i]]=258
+No: 51, id=291, teachers: Maradona, subject: H22376SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=255
+No: 52, id=40, teachers: Pele10, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=250
+No: 53, id=325, teachers: Pirlo, subject: H1T010MobileTechnologySystems, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=234
+No: 54, id=160, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=222
+No: 55, id=175, teachers: Pirlo, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=222
+No: 56, id=176, teachers: Pirlo, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=222
+No: 57, id=157, teachers: ANOCYBNET, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=216
+No: 58, id=252, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=216
+No: 59, id=68, teachers: ANOCYBNET, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: TAPSN_BF217B, nIncompatible[permutation[i]]=214
+No: 60, id=158, teachers: Ronal, subject: H18C35OpenSourceOperatingSystems:, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=214
+No: 61, id=270, teachers: Cruyff8, subject: H2N612NetworkFundamentals, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=214
+No: 62, id=272, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=214
+No: 63, id=41, teachers: ANOSOFTDEV, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: TAPSN_BF117B, nIncompatible[permutation[i]]=212
+No: 64, id=55, teachers: Pele10, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: TAPSN_BF217A, nIncompatible[permutation[i]]=212
+No: 65, id=58, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: TAPSN_BF217A, nIncompatible[permutation[i]]=212
+No: 66, id=71, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: TAPSN_BF217B, nIncompatible[permutation[i]]=212
+No: 67, id=148, teachers: Bob, subject: H1EP34EthicalHackingFundamentals, activity tags: STB V, students: TAPSS_BF117A, nIncompatible[permutation[i]]=212
+No: 68, id=156, teachers: Cruyff8, subject: DM2X35ComputerOperatingSystems2, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=212
+No: 69, id=174, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=212
+No: 70, id=210, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=212
+No: 71, id=54, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: TAPSN_BF217A, nIncompatible[permutation[i]]=210
+No: 72, id=67, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: TAPSN_BF217B, nIncompatible[permutation[i]]=210
+No: 73, id=117, teachers: Ronal, subject: HL9V35SoftwareDevelopment:Programm, activity tags: STB V, students: TAPSD_BF217A, nIncompatible[permutation[i]]=210
+No: 74, id=211, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=210
+No: 75, id=212, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=210
+No: 76, id=271, teachers: John, subject: H2N712ServerAdministrationFundamen, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=210
+No: 77, id=250, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: STB V, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=208
+No: 78, id=366, teachers: Bob, subject: CYB11EthicalHacking, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=208
+No: 79, id=367, teachers: Bob, subject: CYB12GradedUnit-new, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=208
+No: 80, id=326, teachers: ANOCYBNET, subject: H9J044DigitalForensics, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=204
+No: 81, id=321, teachers: Neymar9, subject: H6S844Computing:Creating+Evaluati, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=202
+No: 82, id=364, teachers: ANOCYBNET, subject: CYB9DigitalForensicCaseStudies, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=200
+No: 83, id=365, teachers: ANOCYBNET, subject: CYB10DigitalForensics-revised, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=200
+No: 84, id=368, teachers: ANOCYBNET, subject: CYB13AnOther, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=200
+No: 85, id=369, teachers: ANOCYBNET, subject: CYB14AnOther, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=200
+No: 86, id=370, teachers: ANOCYBNET, subject: CYB15AnOther, activity tags: STB V, students: TAPSB7_BF118A, nIncompatible[permutation[i]]=200
+No: 87, id=26, teachers: Kaka7, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=196
+No: 88, id=146, teachers: Zidane, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSS_BF117A, nIncompatible[permutation[i]]=194
+No: 89, id=228, teachers: Pele10, subject: F1KH11Computing:ComputerNetworking, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=194
+No: 90, id=145, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: TAPSS_BF117A, nIncompatible[permutation[i]]=192
+No: 91, id=27, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=190
+No: 92, id=31, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=190
+No: 93, id=87, teachers: Maradona, subject: H16W35RelationalDatabaseManagement, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=190
+No: 94, id=159, teachers: Cruyff8, subject: H3LN35ProvidingTechnicalSupportto, activity tags: STB A, students: TAPSS_BF217A, nIncompatible[permutation[i]]=190
+No: 95, id=101, teachers: Neymar9, subject: H17X34SoftwareDevelopment:Programm, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=188
+No: 96, id=112, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF217A, nIncompatible[permutation[i]]=188
+No: 97, id=115, teachers: Becks, subject: F6C235+HL9W35WebDevelopment:DynamicallyG, activity tags: STB A, students: TAPSD_BF217A, nIncompatible[permutation[i]]=188
+No: 98, id=118, teachers: Ronal, subject: HL9T35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF217A, nIncompatible[permutation[i]]=188
+No: 99, id=144, teachers: Cruyff8, subject: H17834+H1F734TeamWorkinginComputing+Prof, activity tags: STB A, students: TAPSS_BF117A, nIncompatible[permutation[i]]=188
+No: 100, id=42, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: TAPSN_BF117B, nIncompatible[permutation[i]]=186
+No: 101, id=46, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSN_BF117B, nIncompatible[permutation[i]]=186
+No: 102, id=192, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: WESTWING V, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=182
+No: 103, id=193, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=180
+No: 104, id=194, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=180
+No: 105, id=102, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB XY47, students: TAPSD_BF117B, nIncompatible[permutation[i]]=176
+No: 106, id=292, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=176
+No: 107, id=86, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB XY47, students: TAPSD_BF117A, nIncompatible[permutation[i]]=172
+No: 108, id=103, teachers: Neymar9, subject: H16W35RelationalDatabaseManagement, activity tags: STB XY47, students: TAPSD_BF117B, nIncompatible[permutation[i]]=170
+No: 109, id=290, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: WESTWING V, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=168
+No: 110, id=312, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=168
+No: 111, id=114, teachers: Neymar9, subject: H17R35MobileTechnology, activity tags: STB XY47, students: TAPSD_BF217A, nIncompatible[permutation[i]]=166
+No: 112, id=310, teachers: Kaka7, subject: H2N612NetworkFundamentals, activity tags: WESTWING V, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=164
+No: 113, id=311, teachers: Kaka7, subject: H2N712ServerAdministrationFundamen, activity tags: WESTWING V, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=164
+No: 114, id=143, teachers: Zidane, subject: H17C35ComputerNetworks:BuildingLo, activity tags: STB CISCO, students: TAPSS_BF117A, nIncompatible[permutation[i]]=123
+No: 115, id=30, teachers: , subject: FR2236RoutingTechnology, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=94
+No: 116, id=45, teachers: , subject: FR2236RoutingTechnology, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=94
+No: 117, id=98, teachers: Ronal, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=90
+No: 118, id=179, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=90
+No: 119, id=215, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: TAPSM5_BF117B, nIncompatible[permutation[i]]=90
+No: 120, id=265, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: STB A, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=88
+No: 121, id=267, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=87
+No: 122, id=233, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=85
+No: 123, id=247, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=85
+No: 124, id=245, teachers: Maradona, subject: SAPPFGAppsforGood, activity tags: STB A, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=84
+No: 125, id=285, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=74
+No: 126, id=287, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=74
+No: 127, id=197, teachers: Bob, subject: SENHC5EnhancedCurriculumLevel5, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=71
+No: 128, id=305, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=66
+No: 129, id=307, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=66
 End - the order of activities (id-s):
 Title: FET warning
 Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.
@@ -397,9 +397,9 @@ Trying to place activity number added_act==72
 with id==117, from nInternalActivities==129
 nDifficultActivities==73
 conflActivitiesTimeSlot.count()==1
-Confl activity id:59 time of this activity:1 room of this activity:BF44A
+Confl activity id:59 time of this activity:1 room of this activity:XY44A
 timeSlot==1
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==71]==117
 conflicting:
 id of permutation[j==72]==59
@@ -433,9 +433,9 @@ Trying to place activity number added_act==80
 with id==321, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:325 time of this activity:2 room of this activity:BS54
+Confl activity id:325 time of this activity:2 room of this activity:XY54
 timeSlot==2
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==79]==321
 conflicting:
 id of permutation[j==80]==325
@@ -445,9 +445,9 @@ Trying to place activity number added_act==80
 with id==325, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:323 time of this activity:1 room of this activity:BS50
+Confl activity id:323 time of this activity:1 room of this activity:XY50
 timeSlot==6
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==325
 conflicting:
 id of permutation[j==80]==323
@@ -457,9 +457,9 @@ Trying to place activity number added_act==80
 with id==323, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:320 time of this activity:21 room of this activity:BS50
+Confl activity id:320 time of this activity:21 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==323
 conflicting:
 id of permutation[j==80]==320
@@ -469,9 +469,9 @@ Trying to place activity number added_act==80
 with id==320, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:323 time of this activity:21 room of this activity:BS50
+Confl activity id:323 time of this activity:21 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==320
 conflicting:
 id of permutation[j==80]==323
@@ -481,9 +481,9 @@ Trying to place activity number added_act==80
 with id==323, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:325 time of this activity:6 room of this activity:BS50
+Confl activity id:325 time of this activity:6 room of this activity:XY50
 timeSlot==1
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==323
 conflicting:
 id of permutation[j==80]==325
@@ -493,9 +493,9 @@ Trying to place activity number added_act==80
 with id==325, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:321 time of this activity:2 room of this activity:BF45
+Confl activity id:321 time of this activity:2 room of this activity:XY45
 timeSlot==2
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==79]==325
 conflicting:
 id of permutation[j==80]==321
@@ -505,9 +505,9 @@ Trying to place activity number added_act==80
 with id==321, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:326 time of this activity:12 room of this activity:BS50
+Confl activity id:326 time of this activity:12 room of this activity:XY50
 timeSlot==22
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==79]==321
 conflicting:
 id of permutation[j==80]==326
@@ -517,9 +517,9 @@ Trying to place activity number added_act==80
 with id==326, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:322 time of this activity:3 room of this activity:BF47
+Confl activity id:322 time of this activity:3 room of this activity:XY47
 timeSlot==3
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==79]==326
 conflicting:
 id of permutation[j==80]==322
@@ -529,9 +529,9 @@ Trying to place activity number added_act==80
 with id==322, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:326 time of this activity:3 room of this activity:BF45
+Confl activity id:326 time of this activity:3 room of this activity:XY45
 timeSlot==8
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==79]==322
 conflicting:
 id of permutation[j==80]==326
@@ -541,9 +541,9 @@ Trying to place activity number added_act==80
 with id==326, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:321 time of this activity:22 room of this activity:BF47
+Confl activity id:321 time of this activity:22 room of this activity:XY47
 timeSlot==12
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==79]==326
 conflicting:
 id of permutation[j==80]==321
@@ -553,10 +553,10 @@ Trying to place activity number added_act==80
 with id==321, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==2
-Confl activity id:324 time of this activity:28 room of this activity:BF47
-Confl activity id:322 time of this activity:8 room of this activity:BF47
+Confl activity id:324 time of this activity:28 room of this activity:XY47
+Confl activity id:322 time of this activity:8 room of this activity:XY47
 timeSlot==5
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==78]==321
 conflicting:
 id of permutation[j==79]==324
@@ -570,10 +570,10 @@ Trying to place activity number added_act==80
 with id==322, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==2
-Confl activity id:29 time of this activity:25 room of this activity:BF44A
-Confl activity id:324 time of this activity:20 room of this activity:BF45
+Confl activity id:29 time of this activity:25 room of this activity:XY44A
+Confl activity id:324 time of this activity:20 room of this activity:XY45
 timeSlot==25
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==78]==322
 conflicting:
 id of permutation[j==79]==29
@@ -587,9 +587,9 @@ Trying to place activity number added_act==80
 with id==324, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:322 time of this activity:28 room of this activity:BF47
+Confl activity id:322 time of this activity:28 room of this activity:XY47
 timeSlot==23
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==324
 conflicting:
 id of permutation[j==80]==322
@@ -599,9 +599,9 @@ Trying to place activity number added_act==80
 with id==322, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:324 time of this activity:23 room of this activity:BS50
+Confl activity id:324 time of this activity:23 room of this activity:XY50
 timeSlot==28
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==322
 conflicting:
 id of permutation[j==80]==324
@@ -611,10 +611,10 @@ Trying to place activity number added_act==80
 with id==324, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==2
-Confl activity id:147 time of this activity:3 room of this activity:BF45A
-Confl activity id:325 time of this activity:3 room of this activity:BF45
+Confl activity id:147 time of this activity:3 room of this activity:XY45A
+Confl activity id:325 time of this activity:3 room of this activity:XY45
 timeSlot==3
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==78]==324
 conflicting:
 id of permutation[j==79]==147
@@ -628,9 +628,9 @@ Trying to place activity number added_act==80
 with id==325, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:324 time of this activity:3 room of this activity:BF45A
+Confl activity id:324 time of this activity:3 room of this activity:XY45A
 timeSlot==3
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==79]==325
 conflicting:
 id of permutation[j==80]==324
@@ -640,10 +640,10 @@ Trying to place activity number added_act==80
 with id==324, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==2
-Confl activity id:270 time of this activity:21 room of this activity:BF44
-Confl activity id:320 time of this activity:21 room of this activity:BS50
+Confl activity id:270 time of this activity:21 room of this activity:XY44
+Confl activity id:320 time of this activity:21 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==320, time==21, times==1
 id of permutation[j==78]==324
 conflicting:
@@ -658,9 +658,9 @@ Trying to place activity number added_act==80
 with id==320, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==1
-Confl activity id:324 time of this activity:21 room of this activity:BS50
+Confl activity id:324 time of this activity:21 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==79]==320
 conflicting:
 id of permutation[j==80]==324
@@ -670,10 +670,10 @@ Trying to place activity number added_act==80
 with id==324, from nInternalActivities==129
 nDifficultActivities==81
 conflActivitiesTimeSlot.count()==2
-Confl activity id:147 time of this activity:28 room of this activity:BF45A
-Confl activity id:322 time of this activity:28 room of this activity:BS50
+Confl activity id:147 time of this activity:28 room of this activity:XY45A
+Confl activity id:322 time of this activity:28 room of this activity:XY50
 timeSlot==23
-roomSlot==BF45A
+roomSlot==XY45A
 Warning - explored removal: id==322, time==28, times==1
 id of permutation[j==78]==324
 conflicting:
@@ -697,9 +697,9 @@ Trying to place activity number added_act==83
 with id==368, from nInternalActivities==129
 nDifficultActivities==84
 conflActivitiesTimeSlot.count()==1
-Confl activity id:104 time of this activity:4 room of this activity:BS54
+Confl activity id:104 time of this activity:4 room of this activity:XY54
 timeSlot==4
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==82]==368
 conflicting:
 id of permutation[j==83]==104
@@ -715,9 +715,9 @@ Trying to place activity number added_act==85
 with id==370, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:326 time of this activity:30 room of this activity:BS50
+Confl activity id:326 time of this activity:30 room of this activity:XY50
 timeSlot==30
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==370
 conflicting:
 id of permutation[j==85]==326
@@ -727,9 +727,9 @@ Trying to place activity number added_act==85
 with id==326, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:370 time of this activity:30 room of this activity:BS54
+Confl activity id:370 time of this activity:30 room of this activity:XY54
 timeSlot==30
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==84]==326
 conflicting:
 id of permutation[j==85]==370
@@ -739,9 +739,9 @@ Trying to place activity number added_act==85
 with id==370, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:364 time of this activity:3 room of this activity:BS54
+Confl activity id:364 time of this activity:3 room of this activity:XY54
 timeSlot==3
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==370
 conflicting:
 id of permutation[j==85]==364
@@ -751,9 +751,9 @@ Trying to place activity number added_act==85
 with id==364, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:365 time of this activity:14 room of this activity:BF45A
+Confl activity id:365 time of this activity:14 room of this activity:XY45A
 timeSlot==14
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==84]==364
 conflicting:
 id of permutation[j==85]==365
@@ -763,9 +763,9 @@ Trying to place activity number added_act==85
 with id==365, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:368 time of this activity:4 room of this activity:BS54
+Confl activity id:368 time of this activity:4 room of this activity:XY54
 timeSlot==4
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==365
 conflicting:
 id of permutation[j==85]==368
@@ -775,9 +775,9 @@ Trying to place activity number added_act==85
 with id==368, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:369 time of this activity:13 room of this activity:BS54
+Confl activity id:369 time of this activity:13 room of this activity:XY54
 timeSlot==13
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==368
 conflicting:
 id of permutation[j==85]==369
@@ -787,9 +787,9 @@ Trying to place activity number added_act==85
 with id==369, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:370 time of this activity:3 room of this activity:BS54
+Confl activity id:370 time of this activity:3 room of this activity:XY54
 timeSlot==3
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==369
 conflicting:
 id of permutation[j==85]==370
@@ -799,9 +799,9 @@ Trying to place activity number added_act==85
 with id==370, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:364 time of this activity:14 room of this activity:BF45A
+Confl activity id:364 time of this activity:14 room of this activity:XY45A
 timeSlot==14
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==84]==370
 conflicting:
 id of permutation[j==85]==364
@@ -811,9 +811,9 @@ Trying to place activity number added_act==85
 with id==364, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:365 time of this activity:4 room of this activity:BS54
+Confl activity id:365 time of this activity:4 room of this activity:XY54
 timeSlot==4
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==364
 conflicting:
 id of permutation[j==85]==365
@@ -823,9 +823,9 @@ Trying to place activity number added_act==85
 with id==365, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:368 time of this activity:13 room of this activity:BS54
+Confl activity id:368 time of this activity:13 room of this activity:XY54
 timeSlot==13
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==365
 conflicting:
 id of permutation[j==85]==368
@@ -835,9 +835,9 @@ Trying to place activity number added_act==85
 with id==368, from nInternalActivities==129
 nDifficultActivities==86
 conflActivitiesTimeSlot.count()==1
-Confl activity id:369 time of this activity:3 room of this activity:BS54
+Confl activity id:369 time of this activity:3 room of this activity:XY54
 timeSlot==3
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==84]==368
 conflicting:
 id of permutation[j==85]==369
@@ -865,9 +865,9 @@ Trying to place activity number added_act==91
 with id==31, from nInternalActivities==129
 nDifficultActivities==92
 conflActivitiesTimeSlot.count()==1
-Confl activity id:28 time of this activity:2 room of this activity:BF44A
+Confl activity id:28 time of this activity:2 room of this activity:XY44A
 timeSlot==25
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==90]==31
 conflicting:
 id of permutation[j==91]==28
@@ -919,9 +919,9 @@ Trying to place activity number added_act==105
 with id==292, from nInternalActivities==129
 nDifficultActivities==106
 conflActivitiesTimeSlot.count()==1
-Confl activity id:195 time of this activity:4 room of this activity:H1.04A
+Confl activity id:195 time of this activity:4 room of this activity:B1.04A
 timeSlot==14
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==104]==292
 conflicting:
 id of permutation[j==105]==195
@@ -934,9 +934,9 @@ Trying to place activity number added_act==106
 with id==86, from nInternalActivities==129
 nDifficultActivities==107
 conflActivitiesTimeSlot.count()==1
-Confl activity id:251 time of this activity:26 room of this activity:BF47
+Confl activity id:251 time of this activity:26 room of this activity:XY47
 timeSlot==21
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==105]==86
 conflicting:
 id of permutation[j==106]==251
@@ -949,9 +949,9 @@ Trying to place activity number added_act==107
 with id==103, from nInternalActivities==129
 nDifficultActivities==108
 conflActivitiesTimeSlot.count()==1
-Confl activity id:99 time of this activity:29 room of this activity:BS50
+Confl activity id:99 time of this activity:29 room of this activity:XY50
 timeSlot==0
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==106]==103
 conflicting:
 id of permutation[j==107]==99
@@ -961,9 +961,9 @@ Trying to place activity number added_act==107
 with id==99, from nInternalActivities==129
 nDifficultActivities==108
 conflActivitiesTimeSlot.count()==1
-Confl activity id:88 time of this activity:23 room of this activity:BF45
+Confl activity id:88 time of this activity:23 room of this activity:XY45
 timeSlot==28
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==106]==99
 conflicting:
 id of permutation[j==107]==88
@@ -973,9 +973,9 @@ Trying to place activity number added_act==107
 with id==88, from nInternalActivities==129
 nDifficultActivities==108
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:28 room of this activity:BF44A
+Confl activity id:43 time of this activity:28 room of this activity:XY44A
 timeSlot==23
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==106]==88
 conflicting:
 id of permutation[j==107]==43
@@ -991,9 +991,9 @@ Trying to place activity number added_act==109
 with id==312, from nInternalActivities==129
 nDifficultActivities==110
 conflActivitiesTimeSlot.count()==1
-Confl activity id:148 time of this activity:7 room of this activity:BF45A
+Confl activity id:148 time of this activity:7 room of this activity:XY45A
 timeSlot==7
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==108]==312
 conflicting:
 id of permutation[j==109]==148
@@ -1015,9 +1015,9 @@ Trying to place activity number added_act==113
 with id==143, from nInternalActivities==129
 nDifficultActivities==114
 conflActivitiesTimeSlot.count()==1
-Confl activity id:141 time of this activity:4 room of this activity:BF44A
+Confl activity id:141 time of this activity:4 room of this activity:XY44A
 timeSlot==4
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==112]==143
 conflicting:
 id of permutation[j==113]==141
@@ -1027,9 +1027,9 @@ Trying to place activity number added_act==113
 with id==141, from nInternalActivities==129
 nDifficultActivities==114
 conflActivitiesTimeSlot.count()==1
-Confl activity id:143 time of this activity:4 room of this activity:BF44A
+Confl activity id:143 time of this activity:4 room of this activity:XY44A
 timeSlot==4
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==112]==141
 conflicting:
 id of permutation[j==113]==143
@@ -1048,9 +1048,9 @@ Trying to place activity number added_act==116
 with id==98, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:158 time of this activity:10 room of this activity:BF44
+Confl activity id:158 time of this activity:10 room of this activity:XY44
 timeSlot==15
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==115]==98
 conflicting:
 id of permutation[j==116]==158
@@ -1060,9 +1060,9 @@ Trying to place activity number added_act==116
 with id==158, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:160 time of this activity:2 room of this activity:BF44
+Confl activity id:160 time of this activity:2 room of this activity:XY44
 timeSlot==7
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==158
 conflicting:
 id of permutation[j==116]==160
@@ -1072,9 +1072,9 @@ Trying to place activity number added_act==116
 with id==160, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:161 time of this activity:21 room of this activity:BS54
+Confl activity id:161 time of this activity:21 room of this activity:XY54
 timeSlot==31
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==115]==160
 conflicting:
 id of permutation[j==116]==161
@@ -1084,9 +1084,9 @@ Trying to place activity number added_act==116
 with id==161, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:160 time of this activity:31 room of this activity:BS54
+Confl activity id:160 time of this activity:31 room of this activity:XY54
 timeSlot==21
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==115]==161
 conflicting:
 id of permutation[j==116]==160
@@ -1096,9 +1096,9 @@ Trying to place activity number added_act==116
 with id==160, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:158 time of this activity:7 room of this activity:BF45A
+Confl activity id:158 time of this activity:7 room of this activity:XY45A
 timeSlot==2
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==160
 conflicting:
 id of permutation[j==116]==158
@@ -1108,9 +1108,9 @@ Trying to place activity number added_act==116
 with id==158, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:157 time of this activity:30 room of this activity:BS54
+Confl activity id:157 time of this activity:30 room of this activity:XY54
 timeSlot==25
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==115]==158
 conflicting:
 id of permutation[j==116]==157
@@ -1126,9 +1126,9 @@ Trying to place activity number added_act==118
 with id==215, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:208 time of this activity:28 room of this activity:BF45
+Confl activity id:208 time of this activity:28 room of this activity:XY45
 timeSlot==38
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==215
 conflicting:
 id of permutation[j==118]==208
@@ -1138,9 +1138,9 @@ Trying to place activity number added_act==118
 with id==208, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:215 time of this activity:38 room of this activity:BF45
+Confl activity id:215 time of this activity:38 room of this activity:XY45
 timeSlot==28
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==208
 conflicting:
 id of permutation[j==118]==215
@@ -1159,9 +1159,9 @@ Trying to place activity number added_act==121
 with id==233, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:229 time of this activity:0 room of this activity:S3.12
+Confl activity id:229 time of this activity:0 room of this activity:A3.12
 timeSlot==5
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==233
 conflicting:
 id of permutation[j==121]==229
@@ -1171,9 +1171,9 @@ Trying to place activity number added_act==121
 with id==229, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:231 time of this activity:20 room of this activity:S3.12
+Confl activity id:231 time of this activity:20 room of this activity:A3.12
 timeSlot==20
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==229
 conflicting:
 id of permutation[j==121]==231
@@ -1183,9 +1183,9 @@ Trying to place activity number added_act==121
 with id==231, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:5 room of this activity:S3.12
+Confl activity id:233 time of this activity:5 room of this activity:A3.12
 timeSlot==0
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==231
 conflicting:
 id of permutation[j==121]==233
@@ -1195,9 +1195,9 @@ Trying to place activity number added_act==121
 with id==233, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:228 time of this activity:29 room of this activity:S3.12
+Confl activity id:228 time of this activity:29 room of this activity:A3.12
 timeSlot==35
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==233
 conflicting:
 id of permutation[j==121]==228
@@ -1207,9 +1207,9 @@ Trying to place activity number added_act==121
 with id==228, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:35 room of this activity:S3.12
+Confl activity id:233 time of this activity:35 room of this activity:A3.12
 timeSlot==34
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==228
 conflicting:
 id of permutation[j==121]==233
@@ -1219,9 +1219,9 @@ Trying to place activity number added_act==121
 with id==233, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:226 time of this activity:4 room of this activity:S3.12
+Confl activity id:226 time of this activity:4 room of this activity:A3.12
 timeSlot==35
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==233
 conflicting:
 id of permutation[j==121]==226
@@ -1231,9 +1231,9 @@ Trying to place activity number added_act==121
 with id==226, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:231 time of this activity:0 room of this activity:S3.12
+Confl activity id:231 time of this activity:0 room of this activity:A3.12
 timeSlot==4
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==226
 conflicting:
 id of permutation[j==121]==231
@@ -1243,9 +1243,9 @@ Trying to place activity number added_act==121
 with id==231, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:229 time of this activity:20 room of this activity:S3.12
+Confl activity id:229 time of this activity:20 room of this activity:A3.12
 timeSlot==20
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==231
 conflicting:
 id of permutation[j==121]==229
@@ -1255,9 +1255,9 @@ Trying to place activity number added_act==121
 with id==229, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:228 time of this activity:34 room of this activity:S3.12
+Confl activity id:228 time of this activity:34 room of this activity:A3.12
 timeSlot==0
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==229
 conflicting:
 id of permutation[j==121]==228
@@ -1267,11 +1267,11 @@ Trying to place activity number added_act==121
 with id==228, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==3
-Confl activity id:46 time of this activity:10 room of this activity:BF47
-Confl activity id:229 time of this activity:0 room of this activity:S3.12
-Confl activity id:27 time of this activity:30 room of this activity:BF45
+Confl activity id:46 time of this activity:10 room of this activity:XY47
+Confl activity id:229 time of this activity:0 room of this activity:A3.12
+Confl activity id:27 time of this activity:30 room of this activity:XY45
 timeSlot==5
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==229, time==0, times==1
 id of permutation[j==118]==228
 conflicting:
@@ -1290,12 +1290,12 @@ Trying to place activity number added_act==121
 with id==229, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==4
-Confl activity id:147 time of this activity:4 room of this activity:BF44
-Confl activity id:226 time of this activity:4 room of this activity:S3.12
-Confl activity id:215 time of this activity:39 room of this activity:BF47
-Confl activity id:270 time of this activity:24 room of this activity:BF45A
+Confl activity id:147 time of this activity:4 room of this activity:XY44
+Confl activity id:226 time of this activity:4 room of this activity:A3.12
+Confl activity id:215 time of this activity:39 room of this activity:XY47
+Confl activity id:270 time of this activity:24 room of this activity:XY45A
 timeSlot==4
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==226, time==4, times==1
 id of permutation[j==117]==229
 conflicting:
@@ -1318,11 +1318,11 @@ Trying to place activity number added_act==121
 with id==226, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==3
-Confl activity id:320 time of this activity:20 room of this activity:BS50
-Confl activity id:231 time of this activity:20 room of this activity:S3.12
-Confl activity id:323 time of this activity:0 room of this activity:BS50
+Confl activity id:320 time of this activity:20 room of this activity:XY50
+Confl activity id:231 time of this activity:20 room of this activity:A3.12
+Confl activity id:323 time of this activity:0 room of this activity:XY50
 timeSlot==20
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==231, time==20, times==1
 id of permutation[j==118]==226
 conflicting:
@@ -1341,9 +1341,9 @@ Trying to place activity number added_act==121
 with id==231, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:35 room of this activity:S3.12
+Confl activity id:233 time of this activity:35 room of this activity:A3.12
 timeSlot==25
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==233, time==35, times==1
 id of permutation[j==120]==231
 conflicting:
@@ -1354,9 +1354,9 @@ Trying to place activity number added_act==121
 with id==233, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:231 time of this activity:25 room of this activity:S3.12
+Confl activity id:231 time of this activity:25 room of this activity:A3.12
 timeSlot==30
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==233
 conflicting:
 id of permutation[j==121]==231
@@ -1366,9 +1366,9 @@ Trying to place activity number added_act==121
 with id==231, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:30 room of this activity:S3.12
+Confl activity id:233 time of this activity:30 room of this activity:A3.12
 timeSlot==25
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==120]==231
 conflicting:
 id of permutation[j==121]==233
@@ -1378,11 +1378,11 @@ Trying to place activity number added_act==121
 with id==233, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==3
-Confl activity id:179 time of this activity:11 room of this activity:BF47
-Confl activity id:156 time of this activity:1 room of this activity:BF44
-Confl activity id:324 time of this activity:26 room of this activity:BS50
+Confl activity id:179 time of this activity:11 room of this activity:XY47
+Confl activity id:156 time of this activity:1 room of this activity:XY44
+Confl activity id:324 time of this activity:26 room of this activity:XY50
 timeSlot==11
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==118]==233
 conflicting:
 id of permutation[j==119]==156
@@ -1394,9 +1394,9 @@ Trying to place activity number added_act==119
 with id==156, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:159 time of this activity:22 room of this activity:BF45
+Confl activity id:159 time of this activity:22 room of this activity:XY45
 timeSlot==22
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==118]==156
 conflicting:
 id of permutation[j==119]==159
@@ -1406,9 +1406,9 @@ Trying to place activity number added_act==119
 with id==159, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:11 room of this activity:S3.12
+Confl activity id:233 time of this activity:11 room of this activity:A3.12
 timeSlot==1
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==118]==159
 conflicting:
 id of permutation[j==119]==233
@@ -1418,9 +1418,9 @@ Trying to place activity number added_act==119
 with id==233, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:159 time of this activity:1 room of this activity:BF44
+Confl activity id:159 time of this activity:1 room of this activity:XY44
 timeSlot==11
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==118]==233
 conflicting:
 id of permutation[j==119]==159
@@ -1430,9 +1430,9 @@ Trying to place activity number added_act==119
 with id==159, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:156 time of this activity:22 room of this activity:BF45A
+Confl activity id:156 time of this activity:22 room of this activity:XY45A
 timeSlot==22
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==118]==159
 conflicting:
 id of permutation[j==119]==156
@@ -1442,10 +1442,10 @@ Trying to place activity number added_act==119
 with id==156, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:25 time of this activity:1 room of this activity:BF44A
-Confl activity id:233 time of this activity:11 room of this activity:S3.12
+Confl activity id:25 time of this activity:1 room of this activity:XY44A
+Confl activity id:233 time of this activity:11 room of this activity:A3.12
 timeSlot==1
-roomSlot==BF44A
+roomSlot==XY44A
 Warning - explored removal: id==233, time==11, times==1
 id of permutation[j==117]==156
 conflicting:
@@ -1457,9 +1457,9 @@ Trying to place activity number added_act==118
 with id==25, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:141 time of this activity:11 room of this activity:BF44A
+Confl activity id:141 time of this activity:11 room of this activity:XY44A
 timeSlot==11
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==117]==25
 conflicting:
 id of permutation[j==118]==141
@@ -1472,9 +1472,9 @@ Trying to place activity number added_act==119
 with id==233, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:228 time of this activity:29 room of this activity:S3.12
+Confl activity id:228 time of this activity:29 room of this activity:A3.12
 timeSlot==20
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==228, time==29, times==1
 id of permutation[j==118]==233
 conflicting:
@@ -1485,12 +1485,12 @@ Trying to place activity number added_act==119
 with id==228, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==4
-Confl activity id:46 time of this activity:10 room of this activity:BF47
-Confl activity id:229 time of this activity:0 room of this activity:S3.12
-Confl activity id:233 time of this activity:20 room of this activity:S3.12
-Confl activity id:27 time of this activity:30 room of this activity:BF45
+Confl activity id:46 time of this activity:10 room of this activity:XY47
+Confl activity id:229 time of this activity:0 room of this activity:A3.12
+Confl activity id:233 time of this activity:20 room of this activity:A3.12
+Confl activity id:27 time of this activity:30 room of this activity:XY45
 timeSlot==10
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==27, time==30, times==1
 Warning - explored removal: id==46, time==10, times==1
 Warning - explored removal: id==229, time==0, times==2
@@ -1506,9 +1506,9 @@ Trying to place activity number added_act==116
 with id==27, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:29 time of this activity:5 room of this activity:BF44A
+Confl activity id:29 time of this activity:5 room of this activity:XY44A
 timeSlot==34
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==27
 conflicting:
 id of permutation[j==116]==29
@@ -1518,9 +1518,9 @@ Trying to place activity number added_act==116
 with id==29, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:59 time of this activity:4 room of this activity:BF44A
+Confl activity id:59 time of this activity:4 room of this activity:XY44A
 timeSlot==9
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==29
 conflicting:
 id of permutation[j==116]==59
@@ -1539,9 +1539,9 @@ Trying to place activity number added_act==119
 with id==233, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:231 time of this activity:25 room of this activity:S3.12
+Confl activity id:231 time of this activity:25 room of this activity:A3.12
 timeSlot==20
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==231, time==25, times==1
 id of permutation[j==118]==233
 conflicting:
@@ -1552,9 +1552,9 @@ Trying to place activity number added_act==119
 with id==231, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:20 room of this activity:S3.12
+Confl activity id:233 time of this activity:20 room of this activity:A3.12
 timeSlot==20
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==233, time==20, times==1
 id of permutation[j==118]==231
 conflicting:
@@ -1565,9 +1565,9 @@ Trying to place activity number added_act==119
 with id==233, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:156 time of this activity:1 room of this activity:BF44
+Confl activity id:156 time of this activity:1 room of this activity:XY44
 timeSlot==11
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==156, time==1, times==1
 id of permutation[j==118]==233
 conflicting:
@@ -1578,10 +1578,10 @@ Trying to place activity number added_act==119
 with id==156, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:160 time of this activity:2 room of this activity:BF45A
-Confl activity id:71 time of this activity:12 room of this activity:BF45A
+Confl activity id:160 time of this activity:2 room of this activity:XY45A
+Confl activity id:71 time of this activity:12 room of this activity:XY45A
 timeSlot==7
-roomSlot==BF45A
+roomSlot==XY45A
 Warning - explored removal: id==160, time==2, times==1
 id of permutation[j==117]==156
 conflicting:
@@ -1596,9 +1596,9 @@ Trying to place activity number added_act==119
 with id==160, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:71 time of this activity:1 room of this activity:BF44
+Confl activity id:71 time of this activity:1 room of this activity:XY44
 timeSlot==1
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==118]==160
 conflicting:
 id of permutation[j==119]==71
@@ -1608,9 +1608,9 @@ Trying to place activity number added_act==119
 with id==71, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:72 time of this activity:3 room of this activity:BF44A
+Confl activity id:72 time of this activity:3 room of this activity:XY44A
 timeSlot==13
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==118]==71
 conflicting:
 id of permutation[j==119]==72
@@ -1620,9 +1620,9 @@ Trying to place activity number added_act==119
 with id==72, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:71 time of this activity:13 room of this activity:BF44A
+Confl activity id:71 time of this activity:13 room of this activity:XY44A
 timeSlot==3
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==118]==72
 conflicting:
 id of permutation[j==119]==71
@@ -1632,9 +1632,9 @@ Trying to place activity number added_act==119
 with id==71, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:68 time of this activity:26 room of this activity:BF44
+Confl activity id:68 time of this activity:26 room of this activity:XY44
 timeSlot==31
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==118]==71
 conflicting:
 id of permutation[j==119]==68
@@ -1644,9 +1644,9 @@ Trying to place activity number added_act==119
 with id==68, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:252 time of this activity:12 room of this activity:BS54
+Confl activity id:252 time of this activity:12 room of this activity:XY54
 timeSlot==12
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==118]==68
 conflicting:
 id of permutation[j==119]==252
@@ -1656,9 +1656,9 @@ Trying to place activity number added_act==119
 with id==252, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:250 time of this activity:4 room of this activity:BF45A
+Confl activity id:250 time of this activity:4 room of this activity:XY45A
 timeSlot==4
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==118]==252
 conflicting:
 id of permutation[j==119]==250
@@ -1671,10 +1671,10 @@ Trying to place activity number added_act==120
 with id==324, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==2
-Confl activity id:270 time of this activity:29 room of this activity:BF45A
-Confl activity id:322 time of this activity:29 room of this activity:BS50
+Confl activity id:270 time of this activity:29 room of this activity:XY45A
+Confl activity id:322 time of this activity:29 room of this activity:XY50
 timeSlot==29
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==118]==324
 conflicting:
 id of permutation[j==119]==322
@@ -1685,9 +1685,9 @@ Trying to place activity number added_act==119
 with id==322, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:321 time of this activity:9 room of this activity:BF45
+Confl activity id:321 time of this activity:9 room of this activity:XY45
 timeSlot==9
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==118]==322
 conflicting:
 id of permutation[j==119]==321
@@ -1697,9 +1697,9 @@ Trying to place activity number added_act==119
 with id==321, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:322 time of this activity:9 room of this activity:BF45
+Confl activity id:322 time of this activity:9 room of this activity:XY45
 timeSlot==9
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==118]==321
 conflicting:
 id of permutation[j==119]==322
@@ -1709,9 +1709,9 @@ Trying to place activity number added_act==119
 with id==322, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:324 time of this activity:29 room of this activity:BS50
+Confl activity id:324 time of this activity:29 room of this activity:XY50
 timeSlot==29
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==118]==322
 conflicting:
 id of permutation[j==119]==324
@@ -1721,11 +1721,11 @@ Trying to place activity number added_act==119
 with id==324, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==3
-Confl activity id:325 time of this activity:1 room of this activity:BS50
-Confl activity id:326 time of this activity:11 room of this activity:BS50
-Confl activity id:85 time of this activity:3 room of this activity:BS50
+Confl activity id:325 time of this activity:1 room of this activity:XY50
+Confl activity id:326 time of this activity:11 room of this activity:XY50
+Confl activity id:85 time of this activity:3 room of this activity:XY50
 timeSlot==3
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==324
 conflicting:
 id of permutation[j==117]==85
@@ -1740,10 +1740,10 @@ Trying to place activity number added_act==118
 with id==325, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:324 time of this activity:3 room of this activity:BS50
-Confl activity id:213 time of this activity:2 room of this activity:BF44
+Confl activity id:324 time of this activity:3 room of this activity:XY50
+Confl activity id:213 time of this activity:2 room of this activity:XY44
 timeSlot==7
-roomSlot==BF44
+roomSlot==XY44
 Warning - explored removal: id==324, time==3, times==1
 id of permutation[j==116]==325
 conflicting:
@@ -1755,9 +1755,9 @@ Trying to place activity number added_act==117
 with id==213, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:177 time of this activity:20 room of this activity:BF45A
+Confl activity id:177 time of this activity:20 room of this activity:XY45A
 timeSlot==20
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==116]==213
 conflicting:
 id of permutation[j==117]==177
@@ -1770,10 +1770,10 @@ Trying to place activity number added_act==118
 with id==324, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:144 time of this activity:23 room of this activity:BF44
-Confl activity id:325 time of this activity:2 room of this activity:BS50
+Confl activity id:144 time of this activity:23 room of this activity:XY44
+Confl activity id:325 time of this activity:2 room of this activity:XY50
 timeSlot==28
-roomSlot==BF45
+roomSlot==XY45
 Warning - explored removal: id==325, time==2, times==1
 id of permutation[j==116]==324
 conflicting:
@@ -1785,9 +1785,9 @@ Trying to place activity number added_act==117
 with id==144, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:175 time of this activity:3 room of this activity:BF47
+Confl activity id:175 time of this activity:3 room of this activity:XY47
 timeSlot==3
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==144
 conflicting:
 id of permutation[j==117]==175
@@ -1797,9 +1797,9 @@ Trying to place activity number added_act==117
 with id==175, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:176 time of this activity:13 room of this activity:BF45
+Confl activity id:176 time of this activity:13 room of this activity:XY45
 timeSlot==13
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==116]==175
 conflicting:
 id of permutation[j==117]==176
@@ -1812,9 +1812,9 @@ Trying to place activity number added_act==118
 with id==325, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:175 time of this activity:13 room of this activity:BF45
+Confl activity id:175 time of this activity:13 room of this activity:XY45
 timeSlot==13
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==325
 conflicting:
 id of permutation[j==118]==175
@@ -1824,9 +1824,9 @@ Trying to place activity number added_act==118
 with id==175, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:176 time of this activity:3 room of this activity:BF45
+Confl activity id:176 time of this activity:3 room of this activity:XY45
 timeSlot==3
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==175
 conflicting:
 id of permutation[j==118]==176
@@ -1836,9 +1836,9 @@ Trying to place activity number added_act==118
 with id==176, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:325 time of this activity:13 room of this activity:BF45
+Confl activity id:325 time of this activity:13 room of this activity:XY45
 timeSlot==13
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==176
 conflicting:
 id of permutation[j==118]==325
@@ -1848,10 +1848,10 @@ Trying to place activity number added_act==118
 with id==325, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:324 time of this activity:28 room of this activity:BF45
-Confl activity id:211 time of this activity:1 room of this activity:BS50
+Confl activity id:324 time of this activity:28 room of this activity:XY45
+Confl activity id:211 time of this activity:1 room of this activity:XY50
 timeSlot==1
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==324, time==28, times==1
 id of permutation[j==116]==325
 conflicting:
@@ -1863,9 +1863,9 @@ Trying to place activity number added_act==117
 with id==211, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:212 time of this activity:31 room of this activity:BF47
+Confl activity id:212 time of this activity:31 room of this activity:XY47
 timeSlot==21
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==116]==211
 conflicting:
 id of permutation[j==117]==212
@@ -1875,9 +1875,9 @@ Trying to place activity number added_act==117
 with id==212, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:211 time of this activity:21 room of this activity:BF45
+Confl activity id:211 time of this activity:21 room of this activity:XY45
 timeSlot==22
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==212
 conflicting:
 id of permutation[j==117]==211
@@ -1887,9 +1887,9 @@ Trying to place activity number added_act==117
 with id==211, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:212 time of this activity:22 room of this activity:BS50
+Confl activity id:212 time of this activity:22 room of this activity:XY50
 timeSlot==31
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==211
 conflicting:
 id of permutation[j==117]==212
@@ -1899,9 +1899,9 @@ Trying to place activity number added_act==117
 with id==212, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:28 time of this activity:1 room of this activity:BF44A
+Confl activity id:28 time of this activity:1 room of this activity:XY44A
 timeSlot==1
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==212
 conflicting:
 id of permutation[j==117]==28
@@ -1911,9 +1911,9 @@ Trying to place activity number added_act==117
 with id==28, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:7 room of this activity:BF44A
+Confl activity id:25 time of this activity:7 room of this activity:XY44A
 timeSlot==2
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==28
 conflicting:
 id of permutation[j==117]==25
@@ -1923,9 +1923,9 @@ Trying to place activity number added_act==117
 with id==25, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:146 time of this activity:11 room of this activity:BF47
+Confl activity id:146 time of this activity:11 room of this activity:XY47
 timeSlot==11
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==25
 conflicting:
 id of permutation[j==117]==146
@@ -1935,9 +1935,9 @@ Trying to place activity number added_act==117
 with id==146, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:148 time of this activity:1 room of this activity:BS54
+Confl activity id:148 time of this activity:1 room of this activity:XY54
 timeSlot==7
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==146
 conflicting:
 id of permutation[j==117]==148
@@ -1947,9 +1947,9 @@ Trying to place activity number added_act==117
 with id==148, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:146 time of this activity:7 room of this activity:BS50
+Confl activity id:146 time of this activity:7 room of this activity:XY50
 timeSlot==1
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==116]==148
 conflicting:
 id of permutation[j==117]==146
@@ -1959,9 +1959,9 @@ Trying to place activity number added_act==117
 with id==146, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:141 time of this activity:29 room of this activity:BF44A
+Confl activity id:141 time of this activity:29 room of this activity:XY44A
 timeSlot==29
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==146
 conflicting:
 id of permutation[j==117]==141
@@ -1971,9 +1971,9 @@ Trying to place activity number added_act==117
 with id==141, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:11 room of this activity:BF44A
+Confl activity id:25 time of this activity:11 room of this activity:XY44A
 timeSlot==11
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==141
 conflicting:
 id of permutation[j==117]==25
@@ -1983,10 +1983,10 @@ Trying to place activity number added_act==117
 with id==25, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==2
-Confl activity id:146 time of this activity:29 room of this activity:BF44A
-Confl activity id:30 time of this activity:21 room of this activity:BF44A
+Confl activity id:146 time of this activity:29 room of this activity:XY44A
+Confl activity id:30 time of this activity:21 room of this activity:XY44A
 timeSlot==29
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==25
 conflicting:
 id of permutation[j==116]==30
@@ -2000,9 +2000,9 @@ Trying to place activity number added_act==117
 with id==146, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:29 room of this activity:BF44A
+Confl activity id:25 time of this activity:29 room of this activity:XY44A
 timeSlot==29
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==146
 conflicting:
 id of permutation[j==117]==25
@@ -2012,11 +2012,11 @@ Trying to place activity number added_act==117
 with id==25, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==3
-Confl activity id:58 time of this activity:33 room of this activity:BF44
-Confl activity id:30 time of this activity:24 room of this activity:BF44A
-Confl activity id:44 time of this activity:28 room of this activity:BF44A
+Confl activity id:58 time of this activity:33 room of this activity:XY44
+Confl activity id:30 time of this activity:24 room of this activity:XY44A
+Confl activity id:44 time of this activity:28 room of this activity:XY44A
 timeSlot==28
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==25
 conflicting:
 id of permutation[j==115]==44
@@ -2031,9 +2031,9 @@ Trying to place activity number added_act==116
 with id==58, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:54 time of this activity:13 room of this activity:BF45A
+Confl activity id:54 time of this activity:13 room of this activity:XY45A
 timeSlot==12
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==115]==58
 conflicting:
 id of permutation[j==116]==54
@@ -2043,9 +2043,9 @@ Trying to place activity number added_act==116
 with id==54, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:55 time of this activity:32 room of this activity:BF45A
+Confl activity id:55 time of this activity:32 room of this activity:XY45A
 timeSlot==13
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==54
 conflicting:
 id of permutation[j==116]==55
@@ -2055,10 +2055,10 @@ Trying to place activity number added_act==116
 with id==55, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:40 time of this activity:17 room of this activity:BF44A
-Confl activity id:58 time of this activity:12 room of this activity:BF44
+Confl activity id:40 time of this activity:17 room of this activity:XY44A
+Confl activity id:58 time of this activity:12 room of this activity:XY44
 timeSlot==17
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==55
 conflicting:
 id of permutation[j==115]==40
@@ -2072,10 +2072,10 @@ Trying to place activity number added_act==116
 with id==58, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:54 time of this activity:13 room of this activity:BF45A
-Confl activity id:272 time of this activity:2 room of this activity:BF44
+Confl activity id:54 time of this activity:13 room of this activity:XY45A
+Confl activity id:272 time of this activity:2 room of this activity:XY44
 timeSlot==2
-roomSlot==BF44
+roomSlot==XY44
 Warning - explored removal: id==54, time==13, times==1
 id of permutation[j==114]==58
 conflicting:
@@ -2090,10 +2090,10 @@ Trying to place activity number added_act==116
 with id==54, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:312 time of this activity:7 room of this activity:H1.04A
-Confl activity id:156 time of this activity:7 room of this activity:BF44
+Confl activity id:312 time of this activity:7 room of this activity:B1.04A
+Confl activity id:156 time of this activity:7 room of this activity:XY44
 timeSlot==2
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==114]==54
 conflicting:
 id of permutation[j==115]==312
@@ -2107,9 +2107,9 @@ Trying to place activity number added_act==116
 with id==156, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:160 time of this activity:28 room of this activity:BF44
+Confl activity id:160 time of this activity:28 room of this activity:XY44
 timeSlot==33
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==115]==156
 conflicting:
 id of permutation[j==116]==160
@@ -2119,9 +2119,9 @@ Trying to place activity number added_act==116
 with id==160, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:54 time of this activity:2 room of this activity:BF44
+Confl activity id:54 time of this activity:2 room of this activity:XY44
 timeSlot==2
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==115]==160
 conflicting:
 id of permutation[j==116]==54
@@ -2134,9 +2134,9 @@ Trying to place activity number added_act==117
 with id==30, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:26 time of this activity:0 room of this activity:BF44
+Confl activity id:26 time of this activity:0 room of this activity:XY44
 timeSlot==0
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==30
 conflicting:
 id of permutation[j==117]==26
@@ -2146,9 +2146,9 @@ Trying to place activity number added_act==117
 with id==26, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:30 time of this activity:0 room of this activity:BF44A
+Confl activity id:30 time of this activity:0 room of this activity:XY44A
 timeSlot==0
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==116]==26
 conflicting:
 id of permutation[j==117]==30
@@ -2158,9 +2158,9 @@ Trying to place activity number added_act==117
 with id==30, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:45 time of this activity:23 room of this activity:BF44A
+Confl activity id:45 time of this activity:23 room of this activity:XY44A
 timeSlot==23
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==30
 conflicting:
 id of permutation[j==117]==45
@@ -2170,9 +2170,9 @@ Trying to place activity number added_act==117
 with id==45, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:46 time of this activity:30 room of this activity:BF45
+Confl activity id:46 time of this activity:30 room of this activity:XY45
 timeSlot==0
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==45
 conflicting:
 id of permutation[j==117]==46
@@ -2185,10 +2185,10 @@ Trying to place activity number added_act==118
 with id==324, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:325 time of this activity:1 room of this activity:BS50
-Confl activity id:114 time of this activity:7 room of this activity:BF47
+Confl activity id:325 time of this activity:1 room of this activity:XY50
+Confl activity id:114 time of this activity:7 room of this activity:XY47
 timeSlot==2
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==325, time==1, times==1
 id of permutation[j==116]==324
 conflicting:
@@ -2200,9 +2200,9 @@ Trying to place activity number added_act==117
 with id==114, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:113 time of this activity:20 room of this activity:BF47
+Confl activity id:113 time of this activity:20 room of this activity:XY47
 timeSlot==25
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==114
 conflicting:
 id of permutation[j==117]==113
@@ -2212,9 +2212,9 @@ Trying to place activity number added_act==117
 with id==113, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:114 time of this activity:25 room of this activity:BF47
+Confl activity id:114 time of this activity:25 room of this activity:XY47
 timeSlot==20
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==113
 conflicting:
 id of permutation[j==117]==114
@@ -2224,9 +2224,9 @@ Trying to place activity number added_act==117
 with id==114, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:117 time of this activity:22 room of this activity:BF45A
+Confl activity id:117 time of this activity:22 room of this activity:XY45A
 timeSlot==22
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==114
 conflicting:
 id of permutation[j==117]==117
@@ -2236,9 +2236,9 @@ Trying to place activity number added_act==117
 with id==117, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:114 time of this activity:22 room of this activity:BF47
+Confl activity id:114 time of this activity:22 room of this activity:XY47
 timeSlot==22
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==116]==117
 conflicting:
 id of permutation[j==117]==114
@@ -2248,9 +2248,9 @@ Trying to place activity number added_act==117
 with id==114, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:118 time of this activity:0 room of this activity:BF47
+Confl activity id:118 time of this activity:0 room of this activity:XY47
 timeSlot==0
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==114
 conflicting:
 id of permutation[j==117]==118
@@ -2260,9 +2260,9 @@ Trying to place activity number added_act==117
 with id==118, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:112 time of this activity:1 room of this activity:BF45
+Confl activity id:112 time of this activity:1 room of this activity:XY45
 timeSlot==1
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==116]==118
 conflicting:
 id of permutation[j==117]==112
@@ -2278,10 +2278,10 @@ Trying to place activity number added_act==119
 with id==326, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:368 time of this activity:14 room of this activity:BF45A
-Confl activity id:322 time of this activity:4 room of this activity:BS50
+Confl activity id:368 time of this activity:14 room of this activity:XY45A
+Confl activity id:322 time of this activity:4 room of this activity:XY50
 timeSlot==14
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==117]==326
 conflicting:
 id of permutation[j==118]==368
@@ -2292,9 +2292,9 @@ Trying to place activity number added_act==118
 with id==368, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:370 time of this activity:29 room of this activity:BS54
+Confl activity id:370 time of this activity:29 room of this activity:XY54
 timeSlot==29
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==117]==368
 conflicting:
 id of permutation[j==118]==370
@@ -2304,9 +2304,9 @@ Trying to place activity number added_act==118
 with id==370, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:364 time of this activity:28 room of this activity:BF45A
+Confl activity id:364 time of this activity:28 room of this activity:XY45A
 timeSlot==28
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==117]==370
 conflicting:
 id of permutation[j==118]==364
@@ -2316,9 +2316,9 @@ Trying to place activity number added_act==118
 with id==364, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:326 time of this activity:14 room of this activity:BF45A
+Confl activity id:326 time of this activity:14 room of this activity:XY45A
 timeSlot==14
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==117]==364
 conflicting:
 id of permutation[j==118]==326
@@ -2328,10 +2328,10 @@ Trying to place activity number added_act==118
 with id==326, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:252 time of this activity:12 room of this activity:BF44
-Confl activity id:325 time of this activity:7 room of this activity:BF47
+Confl activity id:252 time of this activity:12 room of this activity:XY44
+Confl activity id:325 time of this activity:7 room of this activity:XY47
 timeSlot==12
-roomSlot==BF44
+roomSlot==XY44
 Warning - explored removal: id==252, time==12, times==1
 id of permutation[j==116]==326
 conflicting:
@@ -2346,10 +2346,10 @@ Trying to place activity number added_act==118
 with id==325, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:324 time of this activity:29 room of this activity:BF45A
-Confl activity id:98 time of this activity:11 room of this activity:BS50
+Confl activity id:324 time of this activity:29 room of this activity:XY45A
+Confl activity id:98 time of this activity:11 room of this activity:XY50
 timeSlot==6
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==324, time==29, times==1
 id of permutation[j==116]==325
 conflicting:
@@ -2361,9 +2361,9 @@ Trying to place activity number added_act==117
 with id==98, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:209 time of this activity:11 room of this activity:BF45
+Confl activity id:209 time of this activity:11 room of this activity:XY45
 timeSlot==11
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==116]==98
 conflicting:
 id of permutation[j==117]==209
@@ -2373,9 +2373,9 @@ Trying to place activity number added_act==117
 with id==209, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:67 time of this activity:11 room of this activity:BS54
+Confl activity id:67 time of this activity:11 room of this activity:XY54
 timeSlot==11
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==116]==209
 conflicting:
 id of permutation[j==117]==67
@@ -2391,10 +2391,10 @@ Trying to place activity number added_act==119
 with id==322, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:29 time of this activity:2 room of this activity:BF44A
-Confl activity id:324 time of this activity:2 room of this activity:BF47
+Confl activity id:29 time of this activity:2 room of this activity:XY44A
+Confl activity id:324 time of this activity:2 room of this activity:XY47
 timeSlot==2
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==117]==322
 conflicting:
 id of permutation[j==118]==29
@@ -2405,9 +2405,9 @@ Trying to place activity number added_act==118
 with id==29, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:72 time of this activity:4 room of this activity:BF44A
+Confl activity id:72 time of this activity:4 room of this activity:XY44A
 timeSlot==9
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==117]==29
 conflicting:
 id of permutation[j==118]==72
@@ -2420,9 +2420,9 @@ Trying to place activity number added_act==119
 with id==324, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:321 time of this activity:34 room of this activity:BS50
+Confl activity id:321 time of this activity:34 room of this activity:XY50
 timeSlot==29
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==118]==324
 conflicting:
 id of permutation[j==119]==321
@@ -2432,10 +2432,10 @@ Trying to place activity number added_act==119
 with id==321, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:114 time of this activity:0 room of this activity:BF47
-Confl activity id:323 time of this activity:0 room of this activity:BS50
+Confl activity id:114 time of this activity:0 room of this activity:XY47
+Confl activity id:323 time of this activity:0 room of this activity:XY50
 timeSlot==0
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==323, time==0, times==1
 id of permutation[j==117]==321
 conflicting:
@@ -2447,9 +2447,9 @@ Trying to place activity number added_act==118
 with id==323, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:321 time of this activity:0 room of this activity:BF47
+Confl activity id:321 time of this activity:0 room of this activity:XY47
 timeSlot==0
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==117]==323
 conflicting:
 id of permutation[j==118]==321
@@ -2459,11 +2459,11 @@ Trying to place activity number added_act==118
 with id==321, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==3
-Confl activity id:101 time of this activity:22 room of this activity:BF47
-Confl activity id:320 time of this activity:20 room of this activity:BS50
-Confl activity id:323 time of this activity:0 room of this activity:BS50
+Confl activity id:101 time of this activity:22 room of this activity:XY47
+Confl activity id:320 time of this activity:20 room of this activity:XY50
+Confl activity id:323 time of this activity:0 room of this activity:XY50
 timeSlot==22
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==320, time==20, times==1
 Warning - explored removal: id==323, time==0, times==2
 id of permutation[j==115]==321
@@ -2483,11 +2483,11 @@ Trying to place activity number added_act==118
 with id==323, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==3
-Confl activity id:172 time of this activity:28 room of this activity:BS50
-Confl activity id:41 time of this activity:3 room of this activity:BS50
-Confl activity id:148 time of this activity:31 room of this activity:BS54
+Confl activity id:172 time of this activity:28 room of this activity:XY50
+Confl activity id:41 time of this activity:3 room of this activity:XY50
+Confl activity id:148 time of this activity:31 room of this activity:XY54
 timeSlot==26
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==115]==323
 conflicting:
 id of permutation[j==116]==172
@@ -2499,9 +2499,9 @@ Trying to place activity number added_act==116
 with id==172, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:323 time of this activity:26 room of this activity:BS54
+Confl activity id:323 time of this activity:26 room of this activity:XY54
 timeSlot==28
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==115]==172
 conflicting:
 id of permutation[j==116]==323
@@ -2511,11 +2511,11 @@ Trying to place activity number added_act==116
 with id==323, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==3
-Confl activity id:324 time of this activity:29 room of this activity:BF47
-Confl activity id:271 time of this activity:34 room of this activity:BF45A
-Confl activity id:226 time of this activity:4 room of this activity:S3.12
+Confl activity id:324 time of this activity:29 room of this activity:XY47
+Confl activity id:271 time of this activity:34 room of this activity:XY45A
+Confl activity id:226 time of this activity:4 room of this activity:A3.12
 timeSlot==29
-roomSlot==BF45A
+roomSlot==XY45A
 Warning - explored removal: id==226, time==4, times==2
 Warning - explored removal: id==324, time==29, times==2
 id of permutation[j==113]==323
@@ -2535,9 +2535,9 @@ Trying to place activity number added_act==116
 with id==324, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:321 time of this activity:29 room of this activity:BS50
+Confl activity id:321 time of this activity:29 room of this activity:XY50
 timeSlot==29
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==324
 conflicting:
 id of permutation[j==116]==321
@@ -2547,11 +2547,11 @@ Trying to place activity number added_act==116
 with id==321, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==3
-Confl activity id:103 time of this activity:22 room of this activity:BF47
-Confl activity id:326 time of this activity:11 room of this activity:BS50
-Confl activity id:325 time of this activity:1 room of this activity:BS50
+Confl activity id:103 time of this activity:22 room of this activity:XY47
+Confl activity id:326 time of this activity:11 room of this activity:XY50
+Confl activity id:325 time of this activity:1 room of this activity:XY50
 timeSlot==22
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==326, time==11, times==1
 Warning - explored removal: id==325, time==1, times==2
 id of permutation[j==113]==321
@@ -2565,9 +2565,9 @@ Trying to place activity number added_act==114
 with id==103, from nInternalActivities==129
 nDifficultActivities==115
 conflActivitiesTimeSlot.count()==1
-Confl activity id:101 time of this activity:2 room of this activity:BF47
+Confl activity id:101 time of this activity:2 room of this activity:XY47
 timeSlot==2
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==113]==103
 conflicting:
 id of permutation[j==114]==101
@@ -2580,9 +2580,9 @@ Trying to place activity number added_act==115
 with id==326, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:157 time of this activity:12 room of this activity:BF44
+Confl activity id:157 time of this activity:12 room of this activity:XY44
 timeSlot==12
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==114]==326
 conflicting:
 id of permutation[j==115]==157
@@ -2592,10 +2592,10 @@ Trying to place activity number added_act==115
 with id==157, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:252 time of this activity:3 room of this activity:BS54
-Confl activity id:158 time of this activity:8 room of this activity:BF45A
+Confl activity id:252 time of this activity:3 room of this activity:XY54
+Confl activity id:158 time of this activity:8 room of this activity:XY45A
 timeSlot==3
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==113]==157
 conflicting:
 id of permutation[j==114]==158
@@ -2612,9 +2612,9 @@ Trying to place activity number added_act==116
 with id==325, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:322 time of this activity:6 room of this activity:BF47
+Confl activity id:322 time of this activity:6 room of this activity:XY47
 timeSlot==1
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==115]==325
 conflicting:
 id of permutation[j==116]==322
@@ -2624,10 +2624,10 @@ Trying to place activity number added_act==116
 with id==322, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:271 time of this activity:14 room of this activity:BS54
-Confl activity id:321 time of this activity:4 room of this activity:BF47
+Confl activity id:271 time of this activity:14 room of this activity:XY54
+Confl activity id:321 time of this activity:4 room of this activity:XY47
 timeSlot==9
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==114]==322
 conflicting:
 id of permutation[j==115]==271
@@ -2638,9 +2638,9 @@ Trying to place activity number added_act==115
 with id==271, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:253 time of this activity:23 room of this activity:BS54
+Confl activity id:253 time of this activity:23 room of this activity:XY54
 timeSlot==28
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==114]==271
 conflicting:
 id of permutation[j==115]==253
@@ -2653,9 +2653,9 @@ Trying to place activity number added_act==116
 with id==321, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:366 time of this activity:0 room of this activity:BF44
+Confl activity id:366 time of this activity:0 room of this activity:XY44
 timeSlot==0
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==115]==321
 conflicting:
 id of permutation[j==116]==366
@@ -2668,10 +2668,10 @@ Trying to place activity number added_act==117
 with id==41, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==2
-Confl activity id:172 time of this activity:0 room of this activity:BS50
-Confl activity id:44 time of this activity:5 room of this activity:BF44A
+Confl activity id:172 time of this activity:0 room of this activity:XY50
+Confl activity id:44 time of this activity:5 room of this activity:XY44A
 timeSlot==0
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==115]==41
 conflicting:
 id of permutation[j==116]==44
@@ -2682,9 +2682,9 @@ Trying to place activity number added_act==116
 with id==44, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:3 room of this activity:BF44A
+Confl activity id:43 time of this activity:3 room of this activity:XY44A
 timeSlot==3
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==44
 conflicting:
 id of permutation[j==116]==43
@@ -2694,9 +2694,9 @@ Trying to place activity number added_act==116
 with id==43, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:41 time of this activity:0 room of this activity:BS50
+Confl activity id:41 time of this activity:0 room of this activity:XY50
 timeSlot==5
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==43
 conflicting:
 id of permutation[j==116]==41
@@ -2706,9 +2706,9 @@ Trying to place activity number added_act==116
 with id==41, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:5 room of this activity:BF44A
+Confl activity id:43 time of this activity:5 room of this activity:XY44A
 timeSlot==5
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==41
 conflicting:
 id of permutation[j==116]==43
@@ -2718,9 +2718,9 @@ Trying to place activity number added_act==116
 with id==43, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:44 time of this activity:3 room of this activity:BF44A
+Confl activity id:44 time of this activity:3 room of this activity:XY44A
 timeSlot==3
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==43
 conflicting:
 id of permutation[j==116]==44
@@ -2730,9 +2730,9 @@ Trying to place activity number added_act==116
 with id==44, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:41 time of this activity:5 room of this activity:BF44A
+Confl activity id:41 time of this activity:5 room of this activity:XY44A
 timeSlot==0
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==44
 conflicting:
 id of permutation[j==116]==41
@@ -2742,9 +2742,9 @@ Trying to place activity number added_act==116
 with id==41, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:44 time of this activity:0 room of this activity:BF44A
+Confl activity id:44 time of this activity:0 room of this activity:XY44A
 timeSlot==5
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==115]==41
 conflicting:
 id of permutation[j==116]==44
@@ -2754,10 +2754,10 @@ Trying to place activity number added_act==116
 with id==44, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:28 time of this activity:25 room of this activity:BF44A
-Confl activity id:42 time of this activity:25 room of this activity:BF45
+Confl activity id:28 time of this activity:25 room of this activity:XY44A
+Confl activity id:42 time of this activity:25 room of this activity:XY45
 timeSlot==25
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==44
 conflicting:
 id of permutation[j==115]==42
@@ -2768,9 +2768,9 @@ Trying to place activity number added_act==115
 with id==42, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:28 room of this activity:BS50
+Confl activity id:145 time of this activity:28 room of this activity:XY50
 timeSlot==28
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==114]==42
 conflicting:
 id of permutation[j==115]==145
@@ -2783,10 +2783,10 @@ Trying to place activity number added_act==116
 with id==28, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:271 time of this activity:28 room of this activity:BS54
-Confl activity id:25 time of this activity:28 room of this activity:BF44A
+Confl activity id:271 time of this activity:28 room of this activity:XY54
+Confl activity id:25 time of this activity:28 room of this activity:XY44A
 timeSlot==28
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==28
 conflicting:
 id of permutation[j==115]==25
@@ -2797,9 +2797,9 @@ Trying to place activity number added_act==115
 with id==25, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:28 time of this activity:28 room of this activity:BF44A
+Confl activity id:28 time of this activity:28 room of this activity:XY44A
 timeSlot==33
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==25
 conflicting:
 id of permutation[j==115]==28
@@ -2809,9 +2809,9 @@ Trying to place activity number added_act==115
 with id==28, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:33 room of this activity:BF44A
+Confl activity id:25 time of this activity:33 room of this activity:XY44A
 timeSlot==28
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==28
 conflicting:
 id of permutation[j==115]==25
@@ -2821,10 +2821,10 @@ Trying to place activity number added_act==115
 with id==25, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:31 time of this activity:8 room of this activity:BS50
-Confl activity id:43 time of this activity:3 room of this activity:BF44A
+Confl activity id:31 time of this activity:8 room of this activity:XY50
+Confl activity id:43 time of this activity:3 room of this activity:XY44A
 timeSlot==3
-roomSlot==BF44A
+roomSlot==XY44A
 Warning - explored removal: id==43, time==3, times==1
 id of permutation[j==113]==25
 conflicting:
@@ -2836,9 +2836,9 @@ Trying to place activity number added_act==114
 with id==31, from nInternalActivities==129
 nDifficultActivities==115
 conflActivitiesTimeSlot.count()==1
-Confl activity id:27 time of this activity:21 room of this activity:BS50
+Confl activity id:27 time of this activity:21 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==113]==31
 conflicting:
 id of permutation[j==114]==27
@@ -2851,9 +2851,9 @@ Trying to place activity number added_act==115
 with id==43, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:44 time of this activity:25 room of this activity:BF44A
+Confl activity id:44 time of this activity:25 room of this activity:XY44A
 timeSlot==25
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==43
 conflicting:
 id of permutation[j==115]==44
@@ -2863,9 +2863,9 @@ Trying to place activity number added_act==115
 with id==44, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:25 room of this activity:BF44A
+Confl activity id:43 time of this activity:25 room of this activity:XY44A
 timeSlot==25
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==44
 conflicting:
 id of permutation[j==115]==43
@@ -2875,10 +2875,10 @@ Trying to place activity number added_act==115
 with id==43, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:42 time of this activity:28 room of this activity:BS50
-Confl activity id:25 time of this activity:6 room of this activity:BF44A
+Confl activity id:42 time of this activity:28 room of this activity:XY50
+Confl activity id:25 time of this activity:6 room of this activity:XY44A
 timeSlot==6
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==113]==43
 conflicting:
 id of permutation[j==114]==42
@@ -2892,10 +2892,10 @@ Trying to place activity number added_act==115
 with id==25, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:27 time of this activity:8 room of this activity:BS50
-Confl activity id:43 time of this activity:8 room of this activity:BF44A
+Confl activity id:27 time of this activity:8 room of this activity:XY50
+Confl activity id:43 time of this activity:8 room of this activity:XY44A
 timeSlot==8
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==113]==25
 conflicting:
 id of permutation[j==114]==27
@@ -2909,9 +2909,9 @@ Trying to place activity number added_act==115
 with id==43, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:40 time of this activity:2 room of this activity:BF44A
+Confl activity id:40 time of this activity:2 room of this activity:XY44A
 timeSlot==2
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==43
 conflicting:
 id of permutation[j==115]==40
@@ -2921,9 +2921,9 @@ Trying to place activity number added_act==115
 with id==40, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:8 room of this activity:BF44A
+Confl activity id:25 time of this activity:8 room of this activity:XY44A
 timeSlot==13
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==114]==40
 conflicting:
 id of permutation[j==115]==25
@@ -2939,10 +2939,10 @@ Trying to place activity number added_act==117
 with id==172, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==2
-Confl activity id:41 time of this activity:30 room of this activity:BS50
-Confl activity id:177 time of this activity:25 room of this activity:BF45A
+Confl activity id:41 time of this activity:30 room of this activity:XY50
+Confl activity id:177 time of this activity:25 room of this activity:XY45A
 timeSlot==25
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==172
 conflicting:
 id of permutation[j==116]==177
@@ -2953,9 +2953,9 @@ Trying to place activity number added_act==116
 with id==177, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:161 time of this activity:0 room of this activity:BS54
+Confl activity id:161 time of this activity:0 room of this activity:XY54
 timeSlot==0
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==115]==177
 conflicting:
 id of permutation[j==116]==161
@@ -2965,9 +2965,9 @@ Trying to place activity number added_act==116
 with id==161, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:177 time of this activity:0 room of this activity:BS54
+Confl activity id:177 time of this activity:0 room of this activity:XY54
 timeSlot==0
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==115]==161
 conflicting:
 id of permutation[j==116]==177
@@ -2977,9 +2977,9 @@ Trying to place activity number added_act==116
 with id==177, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:172 time of this activity:25 room of this activity:BF45A
+Confl activity id:172 time of this activity:25 room of this activity:XY45A
 timeSlot==25
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==115]==177
 conflicting:
 id of permutation[j==116]==172
@@ -2989,10 +2989,10 @@ Trying to place activity number added_act==116
 with id==172, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:320 time of this activity:21 room of this activity:BF45
-Confl activity id:174 time of this activity:21 room of this activity:BF44
+Confl activity id:320 time of this activity:21 room of this activity:XY45
+Confl activity id:174 time of this activity:21 room of this activity:XY44
 timeSlot==26
-roomSlot==BF45
+roomSlot==XY45
 Warning - explored removal: id==320, time==21, times==2
 id of permutation[j==114]==172
 conflicting:
@@ -3007,10 +3007,10 @@ Trying to place activity number added_act==116
 with id==320, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:321 time of this activity:20 room of this activity:BS50
-Confl activity id:326 time of this activity:30 room of this activity:BF44
+Confl activity id:321 time of this activity:20 room of this activity:XY50
+Confl activity id:326 time of this activity:30 room of this activity:XY44
 timeSlot==20
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==326, time==30, times==1
 id of permutation[j==114]==320
 conflicting:
@@ -3025,10 +3025,10 @@ Trying to place activity number added_act==116
 with id==321, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:103 time of this activity:30 room of this activity:BF47
-Confl activity id:320 time of this activity:20 room of this activity:BS50
+Confl activity id:103 time of this activity:30 room of this activity:XY47
+Confl activity id:320 time of this activity:20 room of this activity:XY50
 timeSlot==25
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==320, time==20, times==2
 id of permutation[j==114]==321
 conflicting:
@@ -3043,10 +3043,10 @@ Trying to place activity number added_act==116
 with id==320, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:321 time of this activity:7 room of this activity:BF45
-Confl activity id:323 time of this activity:26 room of this activity:BF45
+Confl activity id:321 time of this activity:7 room of this activity:XY45
+Confl activity id:323 time of this activity:26 room of this activity:XY45
 timeSlot==20
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==323, time==26, times==1
 id of permutation[j==114]==320
 conflicting:
@@ -3061,10 +3061,10 @@ Trying to place activity number added_act==116
 with id==321, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==2
-Confl activity id:103 time of this activity:34 room of this activity:BF47
-Confl activity id:324 time of this activity:29 room of this activity:BF45A
+Confl activity id:103 time of this activity:34 room of this activity:XY47
+Confl activity id:324 time of this activity:29 room of this activity:XY45A
 timeSlot==29
-roomSlot==BF45
+roomSlot==XY45
 Warning - explored removal: id==324, time==29, times==3
 id of permutation[j==114]==321
 conflicting:
@@ -3076,10 +3076,10 @@ Trying to place activity number added_act==115
 with id==324, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:208 time of this activity:26 room of this activity:BF47
-Confl activity id:233 time of this activity:11 room of this activity:S3.12
+Confl activity id:208 time of this activity:26 room of this activity:XY47
+Confl activity id:233 time of this activity:11 room of this activity:A3.12
 timeSlot==26
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==233, time==11, times==2
 id of permutation[j==113]==324
 conflicting:
@@ -3094,11 +3094,11 @@ Trying to place activity number added_act==115
 with id==233, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==3
-Confl activity id:228 time of this activity:29 room of this activity:S3.12
-Confl activity id:215 time of this activity:24 room of this activity:BF45A
-Confl activity id:147 time of this activity:4 room of this activity:BF44
+Confl activity id:228 time of this activity:29 room of this activity:A3.12
+Confl activity id:215 time of this activity:24 room of this activity:XY45A
+Confl activity id:147 time of this activity:4 room of this activity:XY44
 timeSlot==34
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==147, time==4, times==1
 Warning - explored removal: id==228, time==29, times==2
 id of permutation[j==112]==233
@@ -3118,11 +3118,11 @@ Trying to place activity number added_act==115
 with id==228, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==3
-Confl activity id:145 time of this activity:25 room of this activity:BF45
-Confl activity id:231 time of this activity:20 room of this activity:S3.12
-Confl activity id:161 time of this activity:0 room of this activity:BS54
+Confl activity id:145 time of this activity:25 room of this activity:XY45
+Confl activity id:231 time of this activity:20 room of this activity:A3.12
+Confl activity id:161 time of this activity:0 room of this activity:XY54
 timeSlot==25
-roomSlot==S3.12
+roomSlot==A3.12
 Warning - explored removal: id==231, time==20, times==2
 Warning - explored removal: id==161, time==0, times==1
 id of permutation[j==112]==228
@@ -3139,9 +3139,9 @@ Trying to place activity number added_act==114
 with id==145, from nInternalActivities==129
 nDifficultActivities==115
 conflActivitiesTimeSlot.count()==1
-Confl activity id:83 time of this activity:8 room of this activity:BF44
+Confl activity id:83 time of this activity:8 room of this activity:XY44
 timeSlot==3
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==113]==145
 conflicting:
 id of permutation[j==114]==83
@@ -3154,10 +3154,10 @@ Trying to place activity number added_act==115
 with id==161, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:367 time of this activity:0 room of this activity:BF44
-Confl activity id:366 time of this activity:10 room of this activity:BF44
+Confl activity id:367 time of this activity:0 room of this activity:XY44
+Confl activity id:366 time of this activity:10 room of this activity:XY44
 timeSlot==0
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==113]==161
 conflicting:
 id of permutation[j==114]==367
@@ -3171,9 +3171,9 @@ Trying to place activity number added_act==115
 with id==366, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:273 time of this activity:25 room of this activity:BS54
+Confl activity id:273 time of this activity:25 room of this activity:XY54
 timeSlot==30
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==114]==366
 conflicting:
 id of permutation[j==115]==273
@@ -3183,9 +3183,9 @@ Trying to place activity number added_act==115
 with id==273, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:366 time of this activity:30 room of this activity:BF44
+Confl activity id:366 time of this activity:30 room of this activity:XY44
 timeSlot==25
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==114]==273
 conflicting:
 id of permutation[j==115]==366
@@ -3195,9 +3195,9 @@ Trying to place activity number added_act==115
 with id==366, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==1
-Confl activity id:367 time of this activity:10 room of this activity:BS54
+Confl activity id:367 time of this activity:10 room of this activity:XY54
 timeSlot==10
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==114]==366
 conflicting:
 id of permutation[j==115]==367
@@ -3207,10 +3207,10 @@ Trying to place activity number added_act==115
 with id==367, from nInternalActivities==129
 nDifficultActivities==116
 conflActivitiesTimeSlot.count()==2
-Confl activity id:195 time of this activity:3 room of this activity:H1.04A
-Confl activity id:365 time of this activity:3 room of this activity:BF45A
+Confl activity id:195 time of this activity:3 room of this activity:B1.04A
+Confl activity id:365 time of this activity:3 room of this activity:XY45A
 timeSlot==3
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==113]==367
 conflicting:
 id of permutation[j==114]==365
@@ -3230,9 +3230,9 @@ Trying to place activity number added_act==117
 with id==41, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:2 room of this activity:BF44A
+Confl activity id:43 time of this activity:2 room of this activity:XY44A
 timeSlot==1
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==116]==41
 conflicting:
 id of permutation[j==117]==43
@@ -3242,9 +3242,9 @@ Trying to place activity number added_act==117
 with id==43, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:41 time of this activity:1 room of this activity:BF44
+Confl activity id:41 time of this activity:1 room of this activity:XY44
 timeSlot==7
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==43
 conflicting:
 id of permutation[j==117]==41
@@ -3254,9 +3254,9 @@ Trying to place activity number added_act==117
 with id==41, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:7 room of this activity:BF44A
+Confl activity id:43 time of this activity:7 room of this activity:XY44A
 timeSlot==1
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==116]==41
 conflicting:
 id of permutation[j==117]==43
@@ -3266,10 +3266,10 @@ Trying to place activity number added_act==117
 with id==43, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==2
-Confl activity id:46 time of this activity:28 room of this activity:BS54
-Confl activity id:40 time of this activity:13 room of this activity:BF44A
+Confl activity id:46 time of this activity:28 room of this activity:XY54
+Confl activity id:40 time of this activity:13 room of this activity:XY44A
 timeSlot==2
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==115]==43
 conflicting:
 id of permutation[j==116]==46
@@ -3280,9 +3280,9 @@ Trying to place activity number added_act==116
 with id==46, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:31 time of this activity:21 room of this activity:BS50
+Confl activity id:31 time of this activity:21 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==115]==46
 conflicting:
 id of permutation[j==116]==31
@@ -3295,9 +3295,9 @@ Trying to place activity number added_act==117
 with id==40, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:42 time of this activity:13 room of this activity:BF44A
+Confl activity id:42 time of this activity:13 room of this activity:XY44A
 timeSlot==13
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==40
 conflicting:
 id of permutation[j==117]==42
@@ -3307,9 +3307,9 @@ Trying to place activity number added_act==117
 with id==42, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:46 time of this activity:33 room of this activity:BS54
+Confl activity id:46 time of this activity:33 room of this activity:XY54
 timeSlot==28
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==116]==42
 conflicting:
 id of permutation[j==117]==46
@@ -3319,10 +3319,10 @@ Trying to place activity number added_act==117
 with id==46, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==2
-Confl activity id:44 time of this activity:25 room of this activity:BF44A
-Confl activity id:212 time of this activity:8 room of this activity:BS50
+Confl activity id:44 time of this activity:25 room of this activity:XY44A
+Confl activity id:212 time of this activity:8 room of this activity:XY50
 timeSlot==3
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==44, time==25, times==1
 id of permutation[j==115]==46
 conflicting:
@@ -3334,9 +3334,9 @@ Trying to place activity number added_act==116
 with id==212, from nInternalActivities==129
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:211 time of this activity:28 room of this activity:BS50
+Confl activity id:211 time of this activity:28 room of this activity:XY50
 timeSlot==23
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==115]==212
 conflicting:
 id of permutation[j==116]==211
@@ -3352,10 +3352,10 @@ Trying to place activity number added_act==118
 with id==148, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:144 time of this activity:7 room of this activity:BF45
-Confl activity id:115 time of this activity:12 room of this activity:BF45A
+Confl activity id:144 time of this activity:7 room of this activity:XY45
+Confl activity id:115 time of this activity:12 room of this activity:XY45A
 timeSlot==12
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==116]==148
 conflicting:
 id of permutation[j==117]==115
@@ -3369,9 +3369,9 @@ Trying to place activity number added_act==118
 with id==144, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:148 time of this activity:12 room of this activity:BF45A
+Confl activity id:148 time of this activity:12 room of this activity:XY45A
 timeSlot==2
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==144
 conflicting:
 id of permutation[j==118]==148
@@ -3381,9 +3381,9 @@ Trying to place activity number added_act==118
 with id==148, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:144 time of this activity:2 room of this activity:BF45
+Confl activity id:144 time of this activity:2 room of this activity:XY45
 timeSlot==12
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==117]==148
 conflicting:
 id of permutation[j==118]==144
@@ -3393,9 +3393,9 @@ Trying to place activity number added_act==118
 with id==144, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:22 room of this activity:BF45A
+Confl activity id:145 time of this activity:22 room of this activity:XY45A
 timeSlot==2
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==144
 conflicting:
 id of permutation[j==118]==145
@@ -3405,9 +3405,9 @@ Trying to place activity number added_act==118
 with id==145, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:146 time of this activity:33 room of this activity:BF45A
+Confl activity id:146 time of this activity:33 room of this activity:XY45A
 timeSlot==30
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==117]==145
 conflicting:
 id of permutation[j==118]==146
@@ -3417,9 +3417,9 @@ Trying to place activity number added_act==118
 with id==146, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:30 room of this activity:BS50
+Confl activity id:145 time of this activity:30 room of this activity:XY50
 timeSlot==33
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==117]==146
 conflicting:
 id of permutation[j==118]==145
@@ -3429,10 +3429,10 @@ Trying to place activity number added_act==118
 with id==145, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==2
-Confl activity id:55 time of this activity:32 room of this activity:BF44
-Confl activity id:143 time of this activity:39 room of this activity:BF44A
+Confl activity id:55 time of this activity:32 room of this activity:XY44
+Confl activity id:143 time of this activity:39 room of this activity:XY44A
 timeSlot==32
-roomSlot==BS54
+roomSlot==XY54
 Warning - explored removal: id==55, time==32, times==1
 id of permutation[j==116]==145
 conflicting:
@@ -3444,9 +3444,9 @@ Trying to place activity number added_act==117
 with id==143, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:32 room of this activity:BS54
+Confl activity id:145 time of this activity:32 room of this activity:XY54
 timeSlot==39
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==116]==143
 conflicting:
 id of permutation[j==117]==145
@@ -3456,10 +3456,10 @@ Trying to place activity number added_act==117
 with id==145, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==2
-Confl activity id:27 time of this activity:31 room of this activity:BS50
-Confl activity id:146 time of this activity:33 room of this activity:BF45A
+Confl activity id:27 time of this activity:31 room of this activity:XY50
+Confl activity id:146 time of this activity:33 room of this activity:XY45A
 timeSlot==31
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==146, time==33, times==1
 id of permutation[j==115]==145
 conflicting:
@@ -3474,9 +3474,9 @@ Trying to place activity number added_act==117
 with id==146, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:31 room of this activity:BS50
+Confl activity id:145 time of this activity:31 room of this activity:XY50
 timeSlot==13
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==146
 conflicting:
 id of permutation[j==117]==145
@@ -3486,9 +3486,9 @@ Trying to place activity number added_act==117
 with id==145, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:42 time of this activity:33 room of this activity:BS54
+Confl activity id:42 time of this activity:33 room of this activity:XY54
 timeSlot==33
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==116]==145
 conflicting:
 id of permutation[j==117]==42
@@ -3498,9 +3498,9 @@ Trying to place activity number added_act==117
 with id==42, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:46 time of this activity:3 room of this activity:BS50
+Confl activity id:46 time of this activity:3 room of this activity:XY50
 timeSlot==31
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==42
 conflicting:
 id of permutation[j==117]==46
@@ -3510,9 +3510,9 @@ Trying to place activity number added_act==117
 with id==46, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:42 time of this activity:31 room of this activity:BS50
+Confl activity id:42 time of this activity:31 room of this activity:XY50
 timeSlot==3
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==46
 conflicting:
 id of permutation[j==117]==42
@@ -3522,9 +3522,9 @@ Trying to place activity number added_act==117
 with id==42, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:33 room of this activity:BS54
+Confl activity id:145 time of this activity:33 room of this activity:XY54
 timeSlot==28
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==116]==42
 conflicting:
 id of permutation[j==117]==145
@@ -3534,9 +3534,9 @@ Trying to place activity number added_act==117
 with id==145, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:146 time of this activity:13 room of this activity:BS50
+Confl activity id:146 time of this activity:13 room of this activity:XY50
 timeSlot==30
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==145
 conflicting:
 id of permutation[j==117]==146
@@ -3552,10 +3552,10 @@ Trying to place activity number added_act==119
 with id==114, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:118 time of this activity:1 room of this activity:BF45
-Confl activity id:112 time of this activity:11 room of this activity:BF45
+Confl activity id:118 time of this activity:1 room of this activity:XY45
+Confl activity id:112 time of this activity:11 room of this activity:XY45
 timeSlot==9
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==117]==114
 conflicting:
 id of permutation[j==118]==118
@@ -3572,10 +3572,10 @@ Trying to place activity number added_act==120
 with id==270, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==2
-Confl activity id:273 time of this activity:26 room of this activity:BS54
-Confl activity id:368 time of this activity:33 room of this activity:BF44
+Confl activity id:273 time of this activity:26 room of this activity:XY54
+Confl activity id:368 time of this activity:33 room of this activity:XY44
 timeSlot==33
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==118]==270
 conflicting:
 id of permutation[j==119]==368
@@ -3586,9 +3586,9 @@ Trying to place activity number added_act==119
 with id==368, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:369 time of this activity:4 room of this activity:BF45A
+Confl activity id:369 time of this activity:4 room of this activity:XY45A
 timeSlot==4
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==118]==368
 conflicting:
 id of permutation[j==119]==369
@@ -3601,10 +3601,10 @@ Trying to place activity number added_act==120
 with id==273, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==2
-Confl activity id:270 time of this activity:33 room of this activity:BF44
-Confl activity id:87 time of this activity:31 room of this activity:BS54
+Confl activity id:270 time of this activity:33 room of this activity:XY44
+Confl activity id:87 time of this activity:31 room of this activity:XY54
 timeSlot==26
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==118]==273
 conflicting:
 id of permutation[j==119]==87
@@ -3615,9 +3615,9 @@ Trying to place activity number added_act==119
 with id==87, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:86 time of this activity:22 room of this activity:BF47
+Confl activity id:86 time of this activity:22 room of this activity:XY47
 timeSlot==22
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==118]==87
 conflicting:
 id of permutation[j==119]==86
@@ -3630,11 +3630,11 @@ Trying to place activity number added_act==120
 with id==270, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==3
-Confl activity id:265 time of this activity:24 room of this activity:BF45
-Confl activity id:271 time of this activity:29 room of this activity:BF45A
-Confl activity id:253 time of this activity:3 room of this activity:BF45A
+Confl activity id:265 time of this activity:24 room of this activity:XY45
+Confl activity id:271 time of this activity:29 room of this activity:XY45A
+Confl activity id:253 time of this activity:3 room of this activity:XY45A
 timeSlot==8
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==117]==270
 conflicting:
 id of permutation[j==118]==265
@@ -3652,9 +3652,9 @@ Trying to place activity number added_act==120
 with id==271, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:83 time of this activity:1 room of this activity:BF44
+Confl activity id:83 time of this activity:1 room of this activity:XY44
 timeSlot==6
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==119]==271
 conflicting:
 id of permutation[j==120]==83
@@ -3664,9 +3664,9 @@ Trying to place activity number added_act==120
 with id==83, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:271 time of this activity:6 room of this activity:BF44
+Confl activity id:271 time of this activity:6 room of this activity:XY44
 timeSlot==1
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==119]==83
 conflicting:
 id of permutation[j==120]==271
@@ -3676,9 +3676,9 @@ Trying to place activity number added_act==120
 with id==271, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:270 time of this activity:3 room of this activity:BF44
+Confl activity id:270 time of this activity:3 room of this activity:XY44
 timeSlot==13
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==119]==271
 conflicting:
 id of permutation[j==120]==270
@@ -3688,9 +3688,9 @@ Trying to place activity number added_act==120
 with id==270, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:177 time of this activity:28 room of this activity:BS54
+Confl activity id:177 time of this activity:28 room of this activity:XY54
 timeSlot==33
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==119]==270
 conflicting:
 id of permutation[j==120]==177
@@ -3700,10 +3700,10 @@ Trying to place activity number added_act==120
 with id==177, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==2
-Confl activity id:26 time of this activity:20 room of this activity:BS50
-Confl activity id:174 time of this activity:30 room of this activity:BF45A
+Confl activity id:26 time of this activity:20 room of this activity:XY50
+Confl activity id:174 time of this activity:30 room of this activity:XY45A
 timeSlot==20
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==118]==177
 conflicting:
 id of permutation[j==119]==26
@@ -3714,9 +3714,9 @@ Trying to place activity number added_act==119
 with id==26, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:3 room of this activity:BF44A
+Confl activity id:25 time of this activity:3 room of this activity:XY44A
 timeSlot==3
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==118]==26
 conflicting:
 id of permutation[j==119]==25
@@ -3726,9 +3726,9 @@ Trying to place activity number added_act==119
 with id==25, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:26 time of this activity:3 room of this activity:BF47
+Confl activity id:26 time of this activity:3 room of this activity:XY47
 timeSlot==3
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==118]==25
 conflicting:
 id of permutation[j==119]==26
@@ -3738,10 +3738,10 @@ Trying to place activity number added_act==119
 with id==26, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:210 time of this activity:4 room of this activity:BS54
-Confl activity id:31 time of this activity:30 room of this activity:BS50
+Confl activity id:210 time of this activity:4 room of this activity:XY54
+Confl activity id:31 time of this activity:30 room of this activity:XY50
 timeSlot==9
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==117]==26
 conflicting:
 id of permutation[j==118]==210
@@ -3755,9 +3755,9 @@ Trying to place activity number added_act==119
 with id==31, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:27 time of this activity:22 room of this activity:BF45
+Confl activity id:27 time of this activity:22 room of this activity:XY45
 timeSlot==22
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==118]==31
 conflicting:
 id of permutation[j==119]==27
@@ -3767,9 +3767,9 @@ Trying to place activity number added_act==119
 with id==27, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:26 time of this activity:9 room of this activity:BS54
+Confl activity id:26 time of this activity:9 room of this activity:XY54
 timeSlot==30
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==118]==27
 conflicting:
 id of permutation[j==119]==26
@@ -3779,10 +3779,10 @@ Trying to place activity number added_act==119
 with id==26, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:31 time of this activity:22 room of this activity:BF45
-Confl activity id:99 time of this activity:0 room of this activity:BF45
+Confl activity id:31 time of this activity:22 room of this activity:XY45
+Confl activity id:99 time of this activity:0 room of this activity:XY45
 timeSlot==0
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==117]==26
 conflicting:
 id of permutation[j==118]==99
@@ -3793,9 +3793,9 @@ Trying to place activity number added_act==118
 with id==99, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:251 time of this activity:29 room of this activity:BS50
+Confl activity id:251 time of this activity:29 room of this activity:XY50
 timeSlot==29
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==117]==99
 conflicting:
 id of permutation[j==118]==251
@@ -3805,9 +3805,9 @@ Trying to place activity number added_act==118
 with id==251, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:88 time of this activity:0 room of this activity:BS50
+Confl activity id:88 time of this activity:0 room of this activity:XY50
 timeSlot==5
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==117]==251
 conflicting:
 id of permutation[j==118]==88
@@ -3817,9 +3817,9 @@ Trying to place activity number added_act==118
 with id==88, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:251 time of this activity:5 room of this activity:BS50
+Confl activity id:251 time of this activity:5 room of this activity:XY50
 timeSlot==0
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==117]==88
 conflicting:
 id of permutation[j==118]==251
@@ -3829,9 +3829,9 @@ Trying to place activity number added_act==118
 with id==251, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:157 time of this activity:25 room of this activity:BS54
+Confl activity id:157 time of this activity:25 room of this activity:XY54
 timeSlot==25
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==117]==251
 conflicting:
 id of permutation[j==118]==157
@@ -3850,10 +3850,10 @@ Trying to place activity number added_act==121
 with id==179, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==2
-Confl activity id:159 time of this activity:23 room of this activity:BF47
-Confl activity id:177 time of this activity:28 room of this activity:BS54
+Confl activity id:159 time of this activity:23 room of this activity:XY47
+Confl activity id:177 time of this activity:28 room of this activity:XY54
 timeSlot==28
-roomSlot==BS54
+roomSlot==XY54
 Warning - explored removal: id==177, time==28, times==1
 id of permutation[j==119]==179
 conflicting:
@@ -3868,10 +3868,10 @@ Trying to place activity number added_act==121
 with id==177, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==2
-Confl activity id:179 time of this activity:28 room of this activity:BS54
-Confl activity id:160 time of this activity:33 room of this activity:BS54
+Confl activity id:179 time of this activity:28 room of this activity:XY54
+Confl activity id:160 time of this activity:33 room of this activity:XY54
 timeSlot==28
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==119]==177
 conflicting:
 id of permutation[j==120]==160
@@ -3885,10 +3885,10 @@ Trying to place activity number added_act==121
 with id==179, from nInternalActivities==129
 nDifficultActivities==122
 conflActivitiesTimeSlot.count()==2
-Confl activity id:144 time of this activity:3 room of this activity:BS50
-Confl activity id:175 time of this activity:3 room of this activity:BF45
+Confl activity id:144 time of this activity:3 room of this activity:XY50
+Confl activity id:175 time of this activity:3 room of this activity:XY45
 timeSlot==3
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==175, time==3, times==1
 id of permutation[j==119]==179
 conflicting:
@@ -3900,9 +3900,9 @@ Trying to place activity number added_act==120
 with id==175, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:179 time of this activity:3 room of this activity:BS50
+Confl activity id:179 time of this activity:3 room of this activity:XY50
 timeSlot==3
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==119]==175
 conflicting:
 id of permutation[j==120]==179
@@ -3912,10 +3912,10 @@ Trying to place activity number added_act==120
 with id==179, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==2
-Confl activity id:159 time of this activity:33 room of this activity:BF45A
-Confl activity id:177 time of this activity:28 room of this activity:BS54
+Confl activity id:159 time of this activity:33 room of this activity:XY45A
+Confl activity id:177 time of this activity:28 room of this activity:XY54
 timeSlot==33
-roomSlot==BS54
+roomSlot==XY54
 Warning - explored removal: id==177, time==28, times==2
 id of permutation[j==118]==179
 conflicting:
@@ -3930,9 +3930,9 @@ Trying to place activity number added_act==120
 with id==177, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:179 time of this activity:33 room of this activity:BS54
+Confl activity id:179 time of this activity:33 room of this activity:XY54
 timeSlot==28
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==119]==177
 conflicting:
 id of permutation[j==120]==179
@@ -3942,10 +3942,10 @@ Trying to place activity number added_act==120
 with id==179, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==2
-Confl activity id:159 time of this activity:3 room of this activity:BF45
-Confl activity id:175 time of this activity:3 room of this activity:BF47
+Confl activity id:159 time of this activity:3 room of this activity:XY45
+Confl activity id:175 time of this activity:3 room of this activity:XY47
 timeSlot==3
-roomSlot==BS50
+roomSlot==XY50
 Warning - explored removal: id==175, time==3, times==2
 id of permutation[j==118]==179
 conflicting:
@@ -3957,11 +3957,11 @@ Trying to place activity number added_act==119
 with id==175, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==3
-Confl activity id:172 time of this activity:0 room of this activity:BF47
-Confl activity id:174 time of this activity:30 room of this activity:BF45A
-Confl activity id:102 time of this activity:2 room of this activity:BF47
+Confl activity id:172 time of this activity:0 room of this activity:XY47
+Confl activity id:174 time of this activity:30 room of this activity:XY45A
+Confl activity id:102 time of this activity:2 room of this activity:XY47
 timeSlot==2
-roomSlot==BF47
+roomSlot==XY47
 Warning - explored removal: id==172, time==0, times==1
 Warning - explored removal: id==174, time==30, times==1
 id of permutation[j==116]==175
@@ -3975,9 +3975,9 @@ Trying to place activity number added_act==117
 with id==102, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:175 time of this activity:2 room of this activity:BF47
+Confl activity id:175 time of this activity:2 room of this activity:XY47
 timeSlot==2
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==116]==102
 conflicting:
 id of permutation[j==117]==175
@@ -3987,9 +3987,9 @@ Trying to place activity number added_act==117
 with id==175, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:85 time of this activity:2 room of this activity:BS50
+Confl activity id:85 time of this activity:2 room of this activity:XY50
 timeSlot==7
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==116]==175
 conflicting:
 id of permutation[j==117]==85
@@ -3999,9 +3999,9 @@ Trying to place activity number added_act==117
 with id==85, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:145 time of this activity:2 room of this activity:BF45
+Confl activity id:145 time of this activity:2 room of this activity:XY45
 timeSlot==2
-roomSlot==BF45
+roomSlot==XY45
 id of permutation[j==116]==85
 conflicting:
 id of permutation[j==117]==145
@@ -4011,9 +4011,9 @@ Trying to place activity number added_act==117
 with id==145, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:270 time of this activity:2 room of this activity:BS54
+Confl activity id:270 time of this activity:2 room of this activity:XY54
 timeSlot==2
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==116]==145
 conflicting:
 id of permutation[j==117]==270
@@ -4023,9 +4023,9 @@ Trying to place activity number added_act==117
 with id==270, from nInternalActivities==129
 nDifficultActivities==118
 conflActivitiesTimeSlot.count()==1
-Confl activity id:272 time of this activity:33 room of this activity:BF44
+Confl activity id:272 time of this activity:33 room of this activity:XY44
 timeSlot==33
-roomSlot==BF45A
+roomSlot==XY45A
 id of permutation[j==116]==270
 conflicting:
 id of permutation[j==117]==272
@@ -4038,9 +4038,9 @@ Trying to place activity number added_act==118
 with id==172, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:175 time of this activity:7 room of this activity:BS50
+Confl activity id:175 time of this activity:7 room of this activity:XY50
 timeSlot==0
-roomSlot==BF47
+roomSlot==XY47
 id of permutation[j==117]==172
 conflicting:
 id of permutation[j==118]==175
@@ -4053,10 +4053,10 @@ Trying to place activity number added_act==119
 with id==174, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:311 time of this activity:26 room of this activity:H1.04A
-Confl activity id:87 time of this activity:21 room of this activity:BF44
+Confl activity id:311 time of this activity:26 room of this activity:B1.04A
+Confl activity id:87 time of this activity:21 room of this activity:XY44
 timeSlot==21
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==117]==174
 conflicting:
 id of permutation[j==118]==311
@@ -4067,9 +4067,9 @@ Trying to place activity number added_act==118
 with id==311, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:192 time of this activity:22 room of this activity:H1.04A
+Confl activity id:192 time of this activity:22 room of this activity:B1.04A
 timeSlot==22
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==311
 conflicting:
 id of permutation[j==118]==192
@@ -4079,9 +4079,9 @@ Trying to place activity number added_act==118
 with id==192, from nInternalActivities==129
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:265 time of this activity:23 room of this activity:BF45
+Confl activity id:265 time of this activity:23 room of this activity:XY45
 timeSlot==23
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==192
 conflicting:
 id of permutation[j==118]==265
@@ -4094,9 +4094,9 @@ Trying to place activity number added_act==119
 with id==87, from nInternalActivities==129
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:212 time of this activity:26 room of this activity:BS50
+Confl activity id:212 time of this activity:26 room of this activity:XY50
 timeSlot==21
-roomSlot==BS50
+roomSlot==XY50
 id of permutation[j==118]==87
 conflicting:
 id of permutation[j==119]==212
@@ -4109,9 +4109,9 @@ Trying to place activity number added_act==120
 with id==159, from nInternalActivities==129
 nDifficultActivities==121
 conflActivitiesTimeSlot.count()==1
-Confl activity id:158 time of this activity:23 room of this activity:BF44
+Confl activity id:158 time of this activity:23 room of this activity:XY44
 timeSlot==23
-roomSlot==BF44
+roomSlot==XY44
 id of permutation[j==119]==159
 conflicting:
 id of permutation[j==120]==158
@@ -4145,9 +4145,9 @@ Trying to place activity number added_act==128
 with id==307, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:310 time of this activity:2 room of this activity:H1.04A
+Confl activity id:310 time of this activity:2 room of this activity:B1.04A
 timeSlot==7
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==307
 conflicting:
 id of permutation[j==128]==310
@@ -4157,9 +4157,9 @@ Trying to place activity number added_act==128
 with id==310, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:311 time of this activity:28 room of this activity:H1.04A
+Confl activity id:311 time of this activity:28 room of this activity:B1.04A
 timeSlot==28
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==310
 conflicting:
 id of permutation[j==128]==311
@@ -4169,9 +4169,9 @@ Trying to place activity number added_act==128
 with id==311, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:7 room of this activity:H1.04A
+Confl activity id:307 time of this activity:7 room of this activity:B1.04A
 timeSlot==2
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==311
 conflicting:
 id of permutation[j==128]==307
@@ -4181,9 +4181,9 @@ Trying to place activity number added_act==128
 with id==307, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:312 time of this activity:9 room of this activity:H1.04A
+Confl activity id:312 time of this activity:9 room of this activity:B1.04A
 timeSlot==3
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==307
 conflicting:
 id of permutation[j==128]==312
@@ -4193,9 +4193,9 @@ Trying to place activity number added_act==128
 with id==312, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:310 time of this activity:28 room of this activity:H1.04A
+Confl activity id:310 time of this activity:28 room of this activity:B1.04A
 timeSlot==4
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==312
 conflicting:
 id of permutation[j==128]==310
@@ -4205,9 +4205,9 @@ Trying to place activity number added_act==128
 with id==310, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:311 time of this activity:2 room of this activity:H1.04A
+Confl activity id:311 time of this activity:2 room of this activity:B1.04A
 timeSlot==2
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==310
 conflicting:
 id of permutation[j==128]==311
@@ -4217,9 +4217,9 @@ Trying to place activity number added_act==128
 with id==311, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:3 room of this activity:H1.04A
+Confl activity id:307 time of this activity:3 room of this activity:B1.04A
 timeSlot==33
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==311
 conflicting:
 id of permutation[j==128]==307
@@ -4229,9 +4229,9 @@ Trying to place activity number added_act==128
 with id==307, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:305 time of this activity:12 room of this activity:H1.08
+Confl activity id:305 time of this activity:12 room of this activity:B1.08
 timeSlot==12
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==127]==307
 conflicting:
 id of permutation[j==128]==305
@@ -4241,9 +4241,9 @@ Trying to place activity number added_act==128
 with id==305, from nInternalActivities==129
 nDifficultActivities==129
 conflActivitiesTimeSlot.count()==1
-Confl activity id:311 time of this activity:33 room of this activity:H1.04A
+Confl activity id:311 time of this activity:33 room of this activity:B1.04A
 timeSlot==28
-roomSlot==H1.08
+roomSlot==B1.08
 id of permutation[j==127]==305
 conflicting:
 id of permutation[j==128]==311

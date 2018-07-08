@@ -1,0 +1,27 @@
++----------+-------+----------+------------+
+| campus   | room  | semester | SUM(hours) |
++----------+-------+----------+------------+
+| WESTWING | A     | 1        |         34 |
+| WESTWING | A     | 2        |         15 |
+| WESTWING | NRR   | 2        |          2 |
+| WESTWING | V     | 1        |          6 |
+| WESTWING | V     | 2        |         18 |
+| NRR      | NRR   | 1        |          4 |
+| NRR      | NRR   | 2        |         10 |
+| STB      | A     | 1        |         94 |
+| STB      | A     | 2        |         90 |
+| STB      | BF45A | 1        |         11 |
+| STB      | BF45A | 2        |         11 |
+| STB      | BF47  | 1        |         12 |
+| STB      | BF47  | 2        |         12 |
+| STB      | BS50  | 1        |         16 |
+| STB      | CISCO | 1        |         22 |
+| STB      | CISCO | 2        |         35 |
+| STB      | NRR   | 1        |          2 |
+| STB      | NRR   | 2        |          2 |
+| STB      | V     | 1        |         54 |
+| STB      | V     | 2        |         69 |
+| EASTERN  | A     | ALL      |          8 |
+| EASTERN  | S3.12 | 1        |         15 |
+| EASTERN  | S3.12 | 2        |         14 |
++----------+-------+----------+------------+

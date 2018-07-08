@@ -1,6 +1,6 @@
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Monday</Day>
@@ -19,7 +19,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Tuesday</Day>
@@ -34,7 +34,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Wednesday</Day>
@@ -45,7 +45,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Wednesday</Day>
@@ -60,7 +60,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Wednesday</Day>
@@ -75,7 +75,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Thursday</Day>
@@ -90,7 +90,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Friday</Day>
@@ -101,7 +101,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BS50</Room>
+<Room>XY50</Room>
 <Number_of_Not_Available_Times>1</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Friday</Day>
@@ -112,7 +112,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>BF47</Room>
+<Room>XY47</Room>
 <Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Thursday</Day>
@@ -131,7 +131,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>H1.08</Room>
+<Room>B1.08</Room>
 <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Monday</Day>
@@ -146,7 +146,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>H1.08</Room>
+<Room>B1.08</Room>
 <Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Wednesday</Day>
@@ -165,7 +165,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>S3.12</Room>
+<Room>A3.12</Room>
 <Number_of_Not_Available_Times>2</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Monday</Day>
@@ -180,7 +180,7 @@
 </ConstraintRoomNotAvailableTimes>
 <ConstraintRoomNotAvailableTimes>
 <Weight_Percentage>100</Weight_Percentage>
-<Room>S3.12</Room>
+<Room>A3.12</Room>
 <Number_of_Not_Available_Times>4</Number_of_Not_Available_Times>
 <Not_Available_Time>
 	<Day>Thursday</Day>

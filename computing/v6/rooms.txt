@@ -8,18 +8,18 @@
 | SOUTH    | L1    |        2 |         19 |
 | STB      | A     |        1 |         95 |
 | STB      | A     |        2 |         92 |
-| STB      | BF45A |        1 |         12 |
-| STB      | BF45A |        2 |         12 |
-| STB      | BF47  |        1 |         16 |
-| STB      | BF47  |        2 |         14 |
-| STB      | BS50  |        1 |         19 |
-| STB      | BS50  |        2 |          8 |
+| STB      | XY45A |        1 |         12 |
+| STB      | XY45A |        2 |         12 |
+| STB      | XY47  |        1 |         16 |
+| STB      | XY47  |        2 |         14 |
+| STB      | XY50  |        1 |         19 |
+| STB      | XY50  |        2 |          8 |
 | STB      | CISCO |        1 |         20 |
 | STB      | CISCO |        2 |         32 |
 | STB      | V     |        1 |         40 |
 | STB      | V     |        2 |         59 |
 | EASTERN  | A     |        1 |          2 |
 | EASTERN  | A     |        2 |          2 |
-| EASTERN  | S3.12 |        1 |         14 |
-| EASTERN  | S3.12 |        2 |         13 |
+| EASTERN  | A3.12 |        1 |         14 |
+| EASTERN  | A3.12 |        2 |         13 |
 +----------+-------+----------+------------+

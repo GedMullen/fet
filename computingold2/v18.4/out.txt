@@ -1,0 +1,1624 @@
+Opened file version matched by regexp: major=5, minor=28, revision=6, additional text=.
+FET version matched by regexp: major=5, minor=28, revision=6, additional text=.
+Title: FET warning
+Message: Duplicate subject H1J834Computing:GradedUnit1 found - ignoring
+
+Progress title: Computing internal structure
+Progress label: Processing internally the activities ... please wait
+Progress range: 0..120
+Progress setModal(true)
+Progress label: Processing internally the time constraints ... please wait
+Progress range: 0..41
+41 time constraints after first pass (after removing inactive ones)
+  41 time constraints after second pass (after removing wrong ones)
+Progress label: Processing internally the space constraints ... please wait
+Progress range: 0..23
+23 space constraints after first pass (after removing inactive ones)
+  23 space constraints after second pass (after removing wrong ones)
+Progress title: Precomputing
+Progress label: Precomputing ... please wait
+Progress range: 0..35
+Progress setModal(true)
+The order of activities (id-s):
+No: 1, id=3, teachers: Pele10, subject: CMP391CloudComputing+Virtualisati, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 2, id=4, teachers: ANOCYBNET, subject: CMP392ComputerForensics, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 3, id=5, teachers: Ronal, subject: CMP393ComputerNetworkGroupProject, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 4, id=15, teachers: Neymar9, subject: F1VV34+H1F734+H17W34InteractiveMedia:UserInterf, activity tags: EASTERN A, students: HCCPT7_SD217A, nIncompatible[permutation[i]]=2000000002
+No: 5, id=16, teachers: Neymar9, subject: H17834+H1J834+H16W35TeamWorkinginComputing+Comp, activity tags: EASTERN A, students: HCCPT7_SD217A, nIncompatible[permutation[i]]=2000000002
+No: 6, id=29, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 7, id=44, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=2000000002
+No: 8, id=10, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000001
+No: 9, id=11, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000001
+No: 10, id=227, teachers: , subject: F3GF11Numeracy, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=2000000001
+No: 11, id=173, teachers: , subject: F3GF11Numeracy, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=1500000001
+No: 12, id=191, teachers: , subject: F3GF11Numeracy, activity tags: WESTWING, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=1500000001
+No: 13, id=209, teachers: , subject: F3GF11Numeracy, activity tags: STB, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=1500000001
+No: 14, id=248, teachers: , subject: F3GF12Numeracy, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=1500000001
+No: 15, id=268, teachers: , subject: F3GF12Numeracy, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=1500000001
+No: 16, id=288, teachers: , subject: F3GF12Numeracy, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=1500000001
+No: 17, id=308, teachers: , subject: F3GF12Numeracy, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=1500000001
+No: 18, id=59, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=536
+No: 19, id=72, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=536
+No: 20, id=161, teachers: Pele10, subject: H48X35Computing:TechnicalSupport:, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=456
+No: 21, id=104, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=420
+No: 22, id=88, teachers: Ronal, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=408
+No: 23, id=56, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=390
+No: 24, id=69, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=390
+No: 25, id=113, teachers: Neymar9, subject: H48W35Computing:SoftwareDevelopmen, activity tags: STB BF47, students: HDCSD_BF217A, nIncompatible[permutation[i]]=388
+No: 26, id=28, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=381
+No: 27, id=43, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=381
+No: 28, id=177, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=330
+No: 29, id=213, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=327
+No: 30, id=226, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=327
+No: 31, id=147, teachers: Cruyff8, subject: H1EM34ClientOperatingSystems, activity tags: STB V, students: HDCTS_BF117A, nIncompatible[permutation[i]]=324
+No: 32, id=253, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=324
+No: 33, id=172, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=321
+No: 34, id=323, teachers: ANOSOFTDEV, subject: F1JM10+H61345Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=315
+No: 35, id=273, teachers: Bob, subject: H6S746+F3GD12              Computing:Project(Networking, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=309
+No: 36, id=208, teachers: Becks, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=303
+No: 37, id=83, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=300
+No: 38, id=115, teachers: Becks, subject: F6C235+HL9W35WebDevelopment:DynamicallyG, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=300
+No: 39, id=229, teachers: Cruyff8, subject: F18211+F1KS11             Computing:WebsiteDesignand, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=300
+No: 40, id=231, teachers: Cruyff8, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=300
+No: 41, id=251, teachers: Becks, subject: H22376SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=300
+No: 42, id=324, teachers: Cruyff8, subject: H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=300
+No: 43, id=322, teachers: John, subject: F1K210+H7EA44Computing:ComputerHardware+, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=297
+No: 44, id=99, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=291
+No: 45, id=85, teachers: Ronal, subject: H17X34+H1J834SoftwareDevelopment:Programm, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=288
+No: 46, id=293, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+P, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=276
+No: 47, id=190, teachers: Maradona, subject: H22375SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=273
+No: 48, id=195, teachers: Bob, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: WESTWING V, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=270
+No: 49, id=25, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=256
+No: 50, id=291, teachers: Maradona, subject: H22376SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=255
+No: 51, id=141, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCTS_BF117A, nIncompatible[permutation[i]]=250
+No: 52, id=40, teachers: Pele10, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=240
+No: 53, id=160, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=214
+No: 54, id=158, teachers: Ronal, subject: H18C35OpenSourceOperatingSystems:, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=208
+No: 55, id=55, teachers: Pele10, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=206
+No: 56, id=58, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=206
+No: 57, id=71, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=206
+No: 58, id=117, teachers: Ronal, subject: HL9V35SoftwareDevelopment:Programm, activity tags: STB V, students: HDCSD_BF217A, nIncompatible[permutation[i]]=206
+No: 59, id=175, teachers: Pirlo, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=206
+No: 60, id=176, teachers: Pirlo, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=206
+No: 61, id=325, teachers: Pirlo, subject: H1T010MobileTechnologySystems, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=206
+No: 62, id=174, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=204
+No: 63, id=270, teachers: Cruyff8, subject: H2N612NetworkFundamentals, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=204
+No: 64, id=156, teachers: Cruyff8, subject: DM2X35ComputerOperatingSystems2, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=202
+No: 65, id=210, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=202
+No: 66, id=211, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=202
+No: 67, id=212, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM5_BF117B, nIncompatible[permutation[i]]=202
+No: 68, id=271, teachers: John, subject: H2N712ServerAdministrationFundamen, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=202
+No: 69, id=250, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=200
+No: 70, id=41, teachers: ANOSOFTDEV, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=196
+No: 71, id=54, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=196
+No: 72, id=67, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=196
+No: 73, id=148, teachers: Bob, subject: H1EP34EthicalHackingFundamentals, activity tags: STB V, students: HDCTS_BF117A, nIncompatible[permutation[i]]=196
+No: 74, id=228, teachers: Pele10, subject: F1KH11Computing:ComputerNetworking, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=194
+No: 75, id=26, teachers: Kaka7, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=188
+No: 76, id=146, teachers: Zidane, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=188
+No: 77, id=87, teachers: Maradona, subject: H16W35RelationalDatabaseManagement, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=186
+No: 78, id=118, teachers: Ronal, subject: HL9T35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=186
+No: 79, id=145, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=186
+No: 80, id=68, teachers: ANOCYBNET, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=184
+No: 81, id=112, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=184
+No: 82, id=157, teachers: ANOCYBNET, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=184
+No: 83, id=252, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=184
+No: 84, id=321, teachers: Neymar9, subject: H6S844Computing:Creating+Evaluati, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=184
+No: 85, id=27, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=182
+No: 86, id=31, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=182
+No: 87, id=101, teachers: Neymar9, subject: H17X34SoftwareDevelopment:Programm, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=182
+No: 88, id=159, teachers: Cruyff8, subject: H3LN35ProvidingTechnicalSupportto, activity tags: STB A, students: HDCTS_BF217A, nIncompatible[permutation[i]]=182
+No: 89, id=192, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: WESTWING V, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=182
+No: 90, id=272, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=182
+No: 91, id=144, teachers: Cruyff8, subject: H17834+H1F734TeamWorkinginComputing+Prof, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=180
+No: 92, id=193, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=180
+No: 93, id=194, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=180
+No: 94, id=42, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=178
+No: 95, id=46, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=178
+No: 96, id=102, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB BF47, students: HDCSD_BF117B, nIncompatible[permutation[i]]=176
+No: 97, id=86, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB BF47, students: HDCSD_BF117A, nIncompatible[permutation[i]]=174
+No: 98, id=103, teachers: Neymar9, subject: H16W35RelationalDatabaseManagement, activity tags: STB BF47, students: HDCSD_BF117B, nIncompatible[permutation[i]]=170
+No: 99, id=114, teachers: Neymar9, subject: H17R35MobileTechnology, activity tags: STB BF47, students: HDCSD_BF217A, nIncompatible[permutation[i]]=168
+No: 100, id=290, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=168
+No: 101, id=292, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=168
+No: 102, id=310, teachers: Kaka7, subject: H2N612NetworkFundamentals, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=164
+No: 103, id=311, teachers: Kaka7, subject: H2N712ServerAdministrationFundamen, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=164
+No: 104, id=312, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=160
+No: 105, id=143, teachers: Zidane, subject: H17C35ComputerNetworks:BuildingLo, activity tags: STB CISCO, students: HDCTS_BF117A, nIncompatible[permutation[i]]=119
+No: 106, id=57, teachers: , subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=89
+No: 107, id=70, teachers: , subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=89
+No: 108, id=98, teachers: Ronal, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=88
+No: 109, id=179, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=86
+No: 110, id=265, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: STB A, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=85
+No: 111, id=267, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=85
+No: 112, id=233, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=84
+No: 113, id=247, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=83
+No: 114, id=82, teachers: Ronal, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=82
+No: 115, id=245, teachers: Maradona, subject: SAPPFGAppsforGood, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=81
+No: 116, id=285, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=74
+No: 117, id=287, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=74
+No: 118, id=197, teachers: Bob, subject: SENHC5EnhancedCurriculumLevel5, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=67
+No: 119, id=305, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=66
+No: 120, id=307, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=66
+End - the order of activities (id-s):
+Title: FET warning
+Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.
+
+These constraints are good, but they are not perfectly optimized for speed. You may obtain a long generation time or even impossible timetables. It is recommended to use such constraints with caution.
+
+Are you sure you want to continue?
+Button 0 text: Yes
+Button 1 text: No
+Default button: 0
+Escape button: 1
+Pressing default button 0
+
+Title: FET warning
+Message: Your data contains constraints students min hours daily which allow empty days.
+
+These constraints are nonstandard. They are recommended only if the students can have free days and a solution with free days for students exists. Otherwise the solution might be impossible for FET to find. It is recommended to use such constraints with caution.
+
+Are you sure you want to continue?
+Button 0 text: Yes
+Button 1 text: No
+Default button: 0
+Escape button: 1
+Pressing default button 0
+
+Starting timetable generation...
+secondsLimit==2000000000
+
+Trying to place activity number added_act==0
+with id==3, from nInternalActivities==120
+
+Trying to place activity number added_act==1
+with id==4, from nInternalActivities==120
+
+Trying to place activity number added_act==2
+with id==5, from nInternalActivities==120
+
+Trying to place activity number added_act==3
+with id==15, from nInternalActivities==120
+
+Trying to place activity number added_act==4
+with id==16, from nInternalActivities==120
+
+Trying to place activity number added_act==5
+with id==29, from nInternalActivities==120
+
+Trying to place activity number added_act==6
+with id==44, from nInternalActivities==120
+
+Trying to place activity number added_act==7
+with id==10, from nInternalActivities==120
+
+Trying to place activity number added_act==8
+with id==11, from nInternalActivities==120
+
+Trying to place activity number added_act==9
+with id==227, from nInternalActivities==120
+
+Trying to place activity number added_act==10
+with id==173, from nInternalActivities==120
+
+Trying to place activity number added_act==11
+with id==191, from nInternalActivities==120
+
+Trying to place activity number added_act==12
+with id==209, from nInternalActivities==120
+
+Trying to place activity number added_act==13
+with id==248, from nInternalActivities==120
+
+Trying to place activity number added_act==14
+with id==268, from nInternalActivities==120
+
+Trying to place activity number added_act==15
+with id==288, from nInternalActivities==120
+
+Trying to place activity number added_act==16
+with id==308, from nInternalActivities==120
+
+Trying to place activity number added_act==17
+with id==59, from nInternalActivities==120
+
+Trying to place activity number added_act==18
+with id==72, from nInternalActivities==120
+
+Trying to place activity number added_act==19
+with id==161, from nInternalActivities==120
+
+Trying to place activity number added_act==20
+with id==104, from nInternalActivities==120
+
+Trying to place activity number added_act==21
+with id==88, from nInternalActivities==120
+
+Trying to place activity number added_act==22
+with id==56, from nInternalActivities==120
+
+Trying to place activity number added_act==23
+with id==69, from nInternalActivities==120
+
+Trying to place activity number added_act==24
+with id==113, from nInternalActivities==120
+
+Trying to place activity number added_act==25
+with id==28, from nInternalActivities==120
+
+Trying to place activity number added_act==26
+with id==43, from nInternalActivities==120
+
+Trying to place activity number added_act==27
+with id==177, from nInternalActivities==120
+
+Trying to place activity number added_act==28
+with id==213, from nInternalActivities==120
+
+Trying to place activity number added_act==29
+with id==226, from nInternalActivities==120
+
+Trying to place activity number added_act==30
+with id==147, from nInternalActivities==120
+
+Trying to place activity number added_act==31
+with id==253, from nInternalActivities==120
+
+Trying to place activity number added_act==32
+with id==172, from nInternalActivities==120
+
+Trying to place activity number added_act==33
+with id==323, from nInternalActivities==120
+
+Trying to place activity number added_act==34
+with id==273, from nInternalActivities==120
+
+Trying to place activity number added_act==35
+with id==208, from nInternalActivities==120
+
+Trying to place activity number added_act==36
+with id==83, from nInternalActivities==120
+
+Trying to place activity number added_act==37
+with id==115, from nInternalActivities==120
+
+Trying to place activity number added_act==38
+with id==229, from nInternalActivities==120
+
+Trying to place activity number added_act==39
+with id==231, from nInternalActivities==120
+
+Trying to place activity number added_act==40
+with id==251, from nInternalActivities==120
+
+Trying to place activity number added_act==41
+with id==324, from nInternalActivities==120
+
+Trying to place activity number added_act==42
+with id==322, from nInternalActivities==120
+
+Trying to place activity number added_act==43
+with id==99, from nInternalActivities==120
+
+Trying to place activity number added_act==44
+with id==85, from nInternalActivities==120
+
+Trying to place activity number added_act==45
+with id==293, from nInternalActivities==120
+
+Trying to place activity number added_act==46
+with id==190, from nInternalActivities==120
+
+Trying to place activity number added_act==47
+with id==195, from nInternalActivities==120
+
+Trying to place activity number added_act==48
+with id==25, from nInternalActivities==120
+
+Trying to place activity number added_act==49
+with id==291, from nInternalActivities==120
+
+Trying to place activity number added_act==50
+with id==141, from nInternalActivities==120
+
+Trying to place activity number added_act==51
+with id==40, from nInternalActivities==120
+
+Trying to place activity number added_act==52
+with id==160, from nInternalActivities==120
+
+Trying to place activity number added_act==53
+with id==158, from nInternalActivities==120
+
+Trying to place activity number added_act==54
+with id==55, from nInternalActivities==120
+
+Trying to place activity number added_act==55
+with id==58, from nInternalActivities==120
+
+Trying to place activity number added_act==56
+with id==71, from nInternalActivities==120
+
+Trying to place activity number added_act==57
+with id==117, from nInternalActivities==120
+
+Trying to place activity number added_act==58
+with id==175, from nInternalActivities==120
+
+Trying to place activity number added_act==59
+with id==176, from nInternalActivities==120
+
+Trying to place activity number added_act==60
+with id==325, from nInternalActivities==120
+
+Trying to place activity number added_act==61
+with id==174, from nInternalActivities==120
+
+Trying to place activity number added_act==62
+with id==270, from nInternalActivities==120
+
+Trying to place activity number added_act==63
+with id==156, from nInternalActivities==120
+
+Trying to place activity number added_act==64
+with id==210, from nInternalActivities==120
+
+Trying to place activity number added_act==65
+with id==211, from nInternalActivities==120
+
+Trying to place activity number added_act==66
+with id==212, from nInternalActivities==120
+
+Trying to place activity number added_act==67
+with id==271, from nInternalActivities==120
+
+Trying to place activity number added_act==68
+with id==250, from nInternalActivities==120
+
+Trying to place activity number added_act==69
+with id==41, from nInternalActivities==120
+
+Trying to place activity number added_act==70
+with id==54, from nInternalActivities==120
+
+Trying to place activity number added_act==71
+with id==67, from nInternalActivities==120
+
+Trying to place activity number added_act==72
+with id==148, from nInternalActivities==120
+
+Trying to place activity number added_act==73
+with id==228, from nInternalActivities==120
+
+Trying to place activity number added_act==74
+with id==26, from nInternalActivities==120
+
+Trying to place activity number added_act==75
+with id==146, from nInternalActivities==120
+
+Trying to place activity number added_act==76
+with id==87, from nInternalActivities==120
+
+Trying to place activity number added_act==77
+with id==118, from nInternalActivities==120
+
+Trying to place activity number added_act==78
+with id==145, from nInternalActivities==120
+
+Trying to place activity number added_act==79
+with id==68, from nInternalActivities==120
+
+Trying to place activity number added_act==80
+with id==112, from nInternalActivities==120
+
+Trying to place activity number added_act==81
+with id==157, from nInternalActivities==120
+
+Trying to place activity number added_act==82
+with id==252, from nInternalActivities==120
+
+Trying to place activity number added_act==83
+with id==321, from nInternalActivities==120
+
+Trying to place activity number added_act==84
+with id==27, from nInternalActivities==120
+
+Trying to place activity number added_act==85
+with id==31, from nInternalActivities==120
+nDifficultActivities==86
+conflActivitiesTimeSlot.count()==1
+Confl activity id:28 time of this activity:5 room of this activity:BF44A
+timeSlot==0
+roomSlot==BS50
+id of permutation[j==84]==31
+conflicting:
+id of permutation[j==85]==28
+tmp represents activity with id==31 initial time: 2100 final time: 0
+
+Trying to place activity number added_act==85
+with id==28, from nInternalActivities==120
+
+Trying to place activity number added_act==86
+with id==101, from nInternalActivities==120
+
+Trying to place activity number added_act==87
+with id==159, from nInternalActivities==120
+
+Trying to place activity number added_act==88
+with id==192, from nInternalActivities==120
+nDifficultActivities==89
+conflActivitiesTimeSlot.count()==1
+Confl activity id:210 time of this activity:22 room of this activity:BF45A
+timeSlot==22
+roomSlot==H1.04A
+id of permutation[j==87]==192
+conflicting:
+id of permutation[j==88]==210
+tmp represents activity with id==192 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==88
+with id==210, from nInternalActivities==120
+nDifficultActivities==89
+conflActivitiesTimeSlot.count()==1
+Confl activity id:213 time of this activity:23 room of this activity:BS54
+timeSlot==33
+roomSlot==BS54
+id of permutation[j==87]==210
+conflicting:
+id of permutation[j==88]==213
+tmp represents activity with id==210 initial time: 2100 final time: 33
+
+Trying to place activity number added_act==88
+with id==213, from nInternalActivities==120
+
+Trying to place activity number added_act==89
+with id==272, from nInternalActivities==120
+
+Trying to place activity number added_act==90
+with id==144, from nInternalActivities==120
+
+Trying to place activity number added_act==91
+with id==193, from nInternalActivities==120
+
+Trying to place activity number added_act==92
+with id==194, from nInternalActivities==120
+
+Trying to place activity number added_act==93
+with id==42, from nInternalActivities==120
+nDifficultActivities==94
+conflActivitiesTimeSlot.count()==1
+Confl activity id:161 time of this activity:3 room of this activity:BS54
+timeSlot==13
+roomSlot==BF45
+id of permutation[j==92]==42
+conflicting:
+id of permutation[j==93]==161
+tmp represents activity with id==42 initial time: 2100 final time: 13
+
+Trying to place activity number added_act==93
+with id==161, from nInternalActivities==120
+nDifficultActivities==94
+conflActivitiesTimeSlot.count()==1
+Confl activity id:42 time of this activity:13 room of this activity:BF45
+timeSlot==3
+roomSlot==BS54
+id of permutation[j==92]==161
+conflicting:
+id of permutation[j==93]==42
+tmp represents activity with id==161 initial time: 2100 final time: 3
+
+Trying to place activity number added_act==93
+with id==42, from nInternalActivities==120
+
+Trying to place activity number added_act==94
+with id==46, from nInternalActivities==120
+
+Trying to place activity number added_act==95
+with id==102, from nInternalActivities==120
+
+Trying to place activity number added_act==96
+with id==86, from nInternalActivities==120
+
+Trying to place activity number added_act==97
+with id==103, from nInternalActivities==120
+
+Trying to place activity number added_act==98
+with id==114, from nInternalActivities==120
+nDifficultActivities==99
+conflActivitiesTimeSlot.count()==1
+Confl activity id:113 time of this activity:24 room of this activity:BF47
+timeSlot==34
+roomSlot==BF47
+id of permutation[j==97]==114
+conflicting:
+id of permutation[j==98]==113
+tmp represents activity with id==114 initial time: 2100 final time: 34
+
+Trying to place activity number added_act==98
+with id==113, from nInternalActivities==120
+
+Trying to place activity number added_act==99
+with id==290, from nInternalActivities==120
+
+Trying to place activity number added_act==100
+with id==292, from nInternalActivities==120
+
+Trying to place activity number added_act==101
+with id==310, from nInternalActivities==120
+
+Trying to place activity number added_act==102
+with id==311, from nInternalActivities==120
+
+Trying to place activity number added_act==103
+with id==312, from nInternalActivities==120
+nDifficultActivities==104
+conflActivitiesTimeSlot.count()==1
+Confl activity id:293 time of this activity:1 room of this activity:H1.04A
+timeSlot==1
+roomSlot==H1.04A
+id of permutation[j==102]==312
+conflicting:
+id of permutation[j==103]==293
+tmp represents activity with id==312 initial time: 2100 final time: 1
+
+Trying to place activity number added_act==103
+with id==293, from nInternalActivities==120
+nDifficultActivities==104
+conflActivitiesTimeSlot.count()==1
+Confl activity id:312 time of this activity:1 room of this activity:H1.04A
+timeSlot==1
+roomSlot==H1.04A
+id of permutation[j==102]==293
+conflicting:
+id of permutation[j==103]==312
+tmp represents activity with id==293 initial time: 2100 final time: 1
+
+Trying to place activity number added_act==103
+with id==312, from nInternalActivities==120
+nDifficultActivities==104
+conflActivitiesTimeSlot.count()==1
+Confl activity id:195 time of this activity:28 room of this activity:H1.04A
+timeSlot==33
+roomSlot==H1.04A
+id of permutation[j==102]==312
+conflicting:
+id of permutation[j==103]==195
+tmp represents activity with id==312 initial time: 2100 final time: 33
+
+Trying to place activity number added_act==103
+with id==195, from nInternalActivities==120
+
+Trying to place activity number added_act==104
+with id==143, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==1
+Confl activity id:25 time of this activity:13 room of this activity:BF44A
+timeSlot==18
+roomSlot==BF44A
+id of permutation[j==103]==143
+conflicting:
+id of permutation[j==104]==25
+tmp represents activity with id==143 initial time: 2100 final time: 18
+
+Trying to place activity number added_act==104
+with id==25, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==1
+Confl activity id:143 time of this activity:18 room of this activity:BF44A
+timeSlot==13
+roomSlot==BF44A
+id of permutation[j==103]==25
+conflicting:
+id of permutation[j==104]==143
+tmp represents activity with id==25 initial time: 2100 final time: 13
+
+Trying to place activity number added_act==104
+with id==143, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==1
+Confl activity id:141 time of this activity:3 room of this activity:BF44A
+timeSlot==8
+roomSlot==BF44A
+id of permutation[j==103]==143
+conflicting:
+id of permutation[j==104]==141
+tmp represents activity with id==143 initial time: 2100 final time: 8
+
+Trying to place activity number added_act==104
+with id==141, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==1
+Confl activity id:143 time of this activity:8 room of this activity:BF44A
+timeSlot==3
+roomSlot==BF44A
+id of permutation[j==103]==141
+conflicting:
+id of permutation[j==104]==143
+tmp represents activity with id==141 initial time: 2100 final time: 3
+
+Trying to place activity number added_act==104
+with id==143, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==1
+Confl activity id:146 time of this activity:2 room of this activity:BS54
+timeSlot==2
+roomSlot==BF44A
+id of permutation[j==103]==143
+conflicting:
+id of permutation[j==104]==146
+tmp represents activity with id==143 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==104
+with id==146, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==1
+Confl activity id:143 time of this activity:2 room of this activity:BF44A
+timeSlot==2
+roomSlot==BS54
+id of permutation[j==103]==146
+conflicting:
+id of permutation[j==104]==143
+tmp represents activity with id==146 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==104
+with id==143, from nInternalActivities==120
+nDifficultActivities==105
+conflActivitiesTimeSlot.count()==2
+Confl activity id:72 time of this activity:1 room of this activity:BF44A
+Confl activity id:147 time of this activity:28 room of this activity:BF45A
+timeSlot==11
+roomSlot==BF44A
+id of permutation[j==102]==143
+conflicting:
+id of permutation[j==103]==72
+id of permutation[j==104]==147
+tmp represents activity with id==143 initial time: 2100 final time: 11
+
+Trying to place activity number added_act==103
+with id==72, from nInternalActivities==120
+
+Trying to place activity number added_act==104
+with id==147, from nInternalActivities==120
+
+Trying to place activity number added_act==105
+with id==57, from nInternalActivities==120
+
+Trying to place activity number added_act==106
+with id==70, from nInternalActivities==120
+
+Trying to place activity number added_act==107
+with id==98, from nInternalActivities==120
+nDifficultActivities==108
+conflActivitiesTimeSlot.count()==1
+Confl activity id:104 time of this activity:3 room of this activity:BF45
+timeSlot==3
+roomSlot==BF45
+id of permutation[j==106]==98
+conflicting:
+id of permutation[j==107]==104
+tmp represents activity with id==98 initial time: 2100 final time: 3
+
+Trying to place activity number added_act==107
+with id==104, from nInternalActivities==120
+
+Trying to place activity number added_act==108
+with id==179, from nInternalActivities==120
+
+Trying to place activity number added_act==109
+with id==265, from nInternalActivities==120
+
+Trying to place activity number added_act==110
+with id==267, from nInternalActivities==120
+
+Trying to place activity number added_act==111
+with id==233, from nInternalActivities==120
+nDifficultActivities==112
+conflActivitiesTimeSlot.count()==1
+Confl activity id:229 time of this activity:4 room of this activity:S3.12
+timeSlot==14
+roomSlot==S3.12
+id of permutation[j==110]==233
+conflicting:
+id of permutation[j==111]==229
+tmp represents activity with id==233 initial time: 2100 final time: 14
+
+Trying to place activity number added_act==111
+with id==229, from nInternalActivities==120
+
+Trying to place activity number added_act==112
+with id==247, from nInternalActivities==120
+
+Trying to place activity number added_act==113
+with id==82, from nInternalActivities==120
+
+Trying to place activity number added_act==114
+with id==245, from nInternalActivities==120
+
+Trying to place activity number added_act==115
+with id==285, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:26 time of this activity:23 room of this activity:BF47
+timeSlot==13
+roomSlot==H1.04A
+id of permutation[j==114]==285
+conflicting:
+id of permutation[j==115]==26
+tmp represents activity with id==285 initial time: 2100 final time: 13
+
+Trying to place activity number added_act==115
+with id==26, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:31 time of this activity:2 room of this activity:BF45
+timeSlot==22
+roomSlot==BS50
+id of permutation[j==114]==26
+conflicting:
+id of permutation[j==115]==31
+tmp represents activity with id==26 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==115
+with id==31, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:27 time of this activity:3 room of this activity:BS50
+timeSlot==3
+roomSlot==BF47
+id of permutation[j==114]==31
+conflicting:
+id of permutation[j==115]==27
+tmp represents activity with id==31 initial time: 2100 final time: 3
+
+Trying to place activity number added_act==115
+with id==27, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:25 time of this activity:12 room of this activity:BF44A
+timeSlot==7
+roomSlot==BF45
+id of permutation[j==114]==27
+conflicting:
+id of permutation[j==115]==25
+tmp represents activity with id==27 initial time: 2100 final time: 7
+
+Trying to place activity number added_act==115
+with id==25, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:72 time of this activity:3 room of this activity:BF44A
+timeSlot==13
+roomSlot==BF44A
+id of permutation[j==114]==25
+conflicting:
+id of permutation[j==115]==72
+tmp represents activity with id==25 initial time: 2100 final time: 13
+
+Trying to place activity number added_act==115
+with id==72, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==2
+Confl activity id:59 time of this activity:1 room of this activity:BF44A
+Confl activity id:68 time of this activity:33 room of this activity:BS54
+timeSlot==1
+roomSlot==BF44A
+id of permutation[j==113]==72
+conflicting:
+id of permutation[j==114]==59
+id of permutation[j==115]==68
+tmp represents activity with id==72 initial time: 2100 final time: 1
+
+Trying to place activity number added_act==114
+with id==59, from nInternalActivities==120
+nDifficultActivities==115
+conflActivitiesTimeSlot.count()==2
+Confl activity id:141 time of this activity:2 room of this activity:BF44A
+Confl activity id:54 time of this activity:12 room of this activity:BF45A
+timeSlot==2
+roomSlot==BF44A
+id of permutation[j==112]==59
+conflicting:
+id of permutation[j==113]==54
+id of permutation[j==114]==141
+tmp represents activity with id==59 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==113
+with id==54, from nInternalActivities==120
+nDifficultActivities==114
+conflActivitiesTimeSlot.count()==1
+Confl activity id:55 time of this activity:29 room of this activity:BS54
+timeSlot==29
+roomSlot==BS54
+id of permutation[j==112]==54
+conflicting:
+id of permutation[j==113]==55
+tmp represents activity with id==54 initial time: 2100 final time: 29
+
+Trying to place activity number added_act==113
+with id==55, from nInternalActivities==120
+nDifficultActivities==114
+conflActivitiesTimeSlot.count()==1
+Confl activity id:40 time of this activity:21 room of this activity:BF44A
+timeSlot==21
+roomSlot==BF44A
+id of permutation[j==112]==55
+conflicting:
+id of permutation[j==113]==40
+tmp represents activity with id==55 initial time: 2100 final time: 21
+
+Trying to place activity number added_act==113
+with id==40, from nInternalActivities==120
+
+Trying to place activity number added_act==114
+with id==141, from nInternalActivities==120
+
+Trying to place activity number added_act==115
+with id==68, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==287, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:291 time of this activity:23 room of this activity:H1.08
+timeSlot==28
+roomSlot==H1.08
+id of permutation[j==115]==287
+conflicting:
+id of permutation[j==116]==291
+tmp represents activity with id==287 initial time: 2100 final time: 28
+
+Trying to place activity number added_act==116
+with id==291, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:290 time of this activity:21 room of this activity:H1.04A
+timeSlot==21
+roomSlot==H1.04A
+id of permutation[j==115]==291
+conflicting:
+id of permutation[j==116]==290
+tmp represents activity with id==291 initial time: 2100 final time: 21
+
+Trying to place activity number added_act==116
+with id==290, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:291 time of this activity:21 room of this activity:H1.04A
+timeSlot==26
+roomSlot==H1.04A
+id of permutation[j==115]==290
+conflicting:
+id of permutation[j==116]==291
+tmp represents activity with id==290 initial time: 2100 final time: 26
+
+Trying to place activity number added_act==116
+with id==291, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:287 time of this activity:28 room of this activity:H1.08
+timeSlot==23
+roomSlot==H1.08
+id of permutation[j==115]==291
+conflicting:
+id of permutation[j==116]==287
+tmp represents activity with id==291 initial time: 2100 final time: 23
+
+Trying to place activity number added_act==116
+with id==287, from nInternalActivities==120
+
+Trying to place activity number added_act==117
+with id==197, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:190 time of this activity:0 room of this activity:H1.08
+timeSlot==0
+roomSlot==H1.08
+id of permutation[j==116]==197
+conflicting:
+id of permutation[j==117]==190
+tmp represents activity with id==197 initial time: 2100 final time: 0
+
+Trying to place activity number added_act==117
+with id==190, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:197 time of this activity:0 room of this activity:H1.08
+timeSlot==0
+roomSlot==H1.08
+id of permutation[j==116]==190
+conflicting:
+id of permutation[j==117]==197
+tmp represents activity with id==190 initial time: 2100 final time: 0
+
+Trying to place activity number added_act==117
+with id==197, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:192 time of this activity:3 room of this activity:H1.04A
+timeSlot==8
+roomSlot==H1.08
+id of permutation[j==116]==197
+conflicting:
+id of permutation[j==117]==192
+tmp represents activity with id==197 initial time: 2100 final time: 8
+
+Trying to place activity number added_act==117
+with id==192, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:197 time of this activity:8 room of this activity:H1.08
+timeSlot==3
+roomSlot==H1.04A
+id of permutation[j==116]==192
+conflicting:
+id of permutation[j==117]==197
+tmp represents activity with id==192 initial time: 2100 final time: 3
+
+Trying to place activity number added_act==117
+with id==197, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:193 time of this activity:30 room of this activity:H1.08
+timeSlot==18
+roomSlot==H1.08
+id of permutation[j==116]==197
+conflicting:
+id of permutation[j==117]==193
+tmp represents activity with id==197 initial time: 2100 final time: 18
+
+Trying to place activity number added_act==117
+with id==193, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:194 time of this activity:20 room of this activity:H1.08
+timeSlot==25
+roomSlot==H1.08
+id of permutation[j==116]==193
+conflicting:
+id of permutation[j==117]==194
+tmp represents activity with id==193 initial time: 2100 final time: 25
+
+Trying to place activity number added_act==117
+with id==194, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:193 time of this activity:25 room of this activity:H1.08
+timeSlot==22
+roomSlot==H1.04A
+id of permutation[j==116]==194
+conflicting:
+id of permutation[j==117]==193
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==117
+with id==193, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:194 time of this activity:22 room of this activity:H1.04A
+timeSlot==20
+roomSlot==H1.08
+id of permutation[j==116]==193
+conflicting:
+id of permutation[j==117]==194
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==117
+with id==194, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:193 time of this activity:20 room of this activity:H1.08
+timeSlot==25
+roomSlot==H1.08
+id of permutation[j==116]==194
+conflicting:
+id of permutation[j==117]==193
+tmp represents activity with id==194 initial time: 2100 final time: 25
+
+Trying to place activity number added_act==117
+with id==193, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:194 time of this activity:25 room of this activity:H1.08
+timeSlot==20
+roomSlot==H1.08
+id of permutation[j==116]==193
+conflicting:
+id of permutation[j==117]==194
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==117
+with id==194, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==2
+Confl activity id:211 time of this activity:28 room of this activity:BF45
+Confl activity id:212 time of this activity:8 room of this activity:BF45A
+timeSlot==22
+roomSlot==H1.08
+id of permutation[j==115]==194
+conflicting:
+id of permutation[j==116]==211
+id of permutation[j==117]==212
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:193 time of this activity:20 room of this activity:H1.08
+Confl activity id:56 time of this activity:29 room of this activity:BF44A
+timeSlot==29
+roomSlot==BF44A
+Warning - explored removal: id==193, time==20, times==1
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==56
+id of permutation[j==116]==193
+tmp represents activity with id==211 initial time: 2100 final time: 29
+
+Trying to place activity number added_act==115
+with id==56, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==193, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:6 room of this activity:BF44
+timeSlot==20
+roomSlot==H1.08
+id of permutation[j==115]==193
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:194 time of this activity:22 room of this activity:H1.08
+Confl activity id:177 time of this activity:26 room of this activity:BS54
+timeSlot==26
+roomSlot==BS54
+Warning - explored removal: id==194, time==22, times==1
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==177
+id of permutation[j==116]==194
+tmp represents activity with id==211 initial time: 2100 final time: 26
+
+Trying to place activity number added_act==115
+with id==177, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==194, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:3 room of this activity:BF45A
+timeSlot==22
+roomSlot==H1.08
+id of permutation[j==115]==194
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:193 time of this activity:20 room of this activity:H1.08
+Confl activity id:253 time of this activity:24 room of this activity:BF45A
+timeSlot==29
+roomSlot==BF45A
+Warning - explored removal: id==193, time==20, times==2
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==253
+id of permutation[j==116]==193
+tmp represents activity with id==211 initial time: 2100 final time: 29
+
+Trying to place activity number added_act==115
+with id==253, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==193, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:0 room of this activity:BF47
+timeSlot==20
+roomSlot==H1.08
+id of permutation[j==115]==193
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:194 time of this activity:22 room of this activity:H1.08
+Confl activity id:43 time of this activity:9 room of this activity:BF44A
+timeSlot==9
+roomSlot==BF44A
+Warning - explored removal: id==194, time==22, times==2
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==43
+id of permutation[j==116]==194
+tmp represents activity with id==211 initial time: 2100 final time: 9
+
+Trying to place activity number added_act==115
+with id==43, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==194, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:4 room of this activity:BF45A
+timeSlot==22
+roomSlot==H1.04A
+id of permutation[j==115]==194
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:88 time of this activity:0 room of this activity:BF45
+Confl activity id:193 time of this activity:20 room of this activity:H1.08
+timeSlot==0
+roomSlot==BF45
+Warning - explored removal: id==193, time==20, times==3
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==88
+id of permutation[j==116]==193
+tmp represents activity with id==211 initial time: 2100 final time: 0
+
+Trying to place activity number added_act==115
+with id==88, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==193, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:290 time of this activity:20 room of this activity:H1.04A
+Confl activity id:211 time of this activity:0 room of this activity:BF45
+timeSlot==20
+roomSlot==H1.04A
+Warning - explored removal: id==211, time==0, times==1
+id of permutation[j==114]==193
+conflicting:
+id of permutation[j==115]==290
+id of permutation[j==116]==211
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==115
+with id==290, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:208 time of this activity:29 room of this activity:BF45A
+Confl activity id:194 time of this activity:22 room of this activity:H1.04A
+timeSlot==29
+roomSlot==BF45A
+Warning - explored removal: id==194, time==22, times==3
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==208
+id of permutation[j==116]==194
+tmp represents activity with id==211 initial time: 2100 final time: 29
+
+Trying to place activity number added_act==115
+with id==208, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==194, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:29 room of this activity:BF45A
+timeSlot==22
+roomSlot==H1.08
+id of permutation[j==115]==194
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:193 time of this activity:20 room of this activity:H1.04A
+Confl activity id:323 time of this activity:21 room of this activity:BS50
+timeSlot==21
+roomSlot==BS50
+Warning - explored removal: id==193, time==20, times==4
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==323
+id of permutation[j==116]==193
+tmp represents activity with id==211 initial time: 2100 final time: 21
+
+Trying to place activity number added_act==115
+with id==323, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:273 time of this activity:26 room of this activity:BS54
+timeSlot==26
+roomSlot==BS54
+id of permutation[j==114]==323
+conflicting:
+id of permutation[j==115]==273
+tmp represents activity with id==323 initial time: 2100 final time: 26
+
+Trying to place activity number added_act==115
+with id==273, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==193, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:21 room of this activity:BS50
+timeSlot==20
+roomSlot==H1.04A
+id of permutation[j==115]==193
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:194 time of this activity:22 room of this activity:H1.08
+Confl activity id:115 time of this activity:26 room of this activity:BF45
+timeSlot==26
+roomSlot==BF45
+Warning - explored removal: id==194, time==22, times==4
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==115
+id of permutation[j==116]==194
+tmp represents activity with id==211 initial time: 2100 final time: 26
+
+Trying to place activity number added_act==115
+with id==115, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==194, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:26 room of this activity:BF45
+timeSlot==22
+roomSlot==H1.04A
+id of permutation[j==115]==194
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:270 time of this activity:2 room of this activity:BF44
+Confl activity id:194 time of this activity:22 room of this activity:H1.04A
+timeSlot==2
+roomSlot==BF44
+Warning - explored removal: id==194, time==22, times==5
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==270
+id of permutation[j==116]==194
+tmp represents activity with id==211 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==115
+with id==270, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==194, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:2 room of this activity:BF44
+timeSlot==22
+roomSlot==H1.08
+id of permutation[j==115]==194
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==194 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:193 time of this activity:20 room of this activity:H1.04A
+Confl activity id:58 time of this activity:31 room of this activity:BF44A
+timeSlot==31
+roomSlot==BF44A
+Warning - explored removal: id==193, time==20, times==5
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==58
+id of permutation[j==116]==193
+tmp represents activity with id==211 initial time: 2100 final time: 31
+
+Trying to place activity number added_act==115
+with id==58, from nInternalActivities==120
+nDifficultActivities==116
+conflActivitiesTimeSlot.count()==1
+Confl activity id:67 time of this activity:31 room of this activity:BF44
+timeSlot==31
+roomSlot==BF44
+id of permutation[j==114]==58
+conflicting:
+id of permutation[j==115]==67
+tmp represents activity with id==58 initial time: 2100 final time: 31
+
+Trying to place activity number added_act==115
+with id==67, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==193, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:31 room of this activity:BF44A
+timeSlot==20
+roomSlot==H1.04A
+id of permutation[j==115]==193
+conflicting:
+id of permutation[j==116]==211
+tmp represents activity with id==193 initial time: 2100 final time: 20
+
+Trying to place activity number added_act==116
+with id==211, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:87 time of this activity:2 room of this activity:BS50
+Confl activity id:194 time of this activity:22 room of this activity:H1.08
+timeSlot==2
+roomSlot==BS50
+Warning - explored removal: id==194, time==22, times==6
+id of permutation[j==114]==211
+conflicting:
+id of permutation[j==115]==87
+id of permutation[j==116]==194
+tmp represents activity with id==211 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==115
+with id==87, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==194, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:195 time of this activity:28 room of this activity:H1.04A
+Confl activity id:312 time of this activity:30 room of this activity:H1.04A
+timeSlot==30
+roomSlot==H1.04A
+Warning - explored removal: id==195, time==28, times==1
+id of permutation[j==114]==194
+conflicting:
+id of permutation[j==115]==312
+id of permutation[j==116]==195
+tmp represents activity with id==194 initial time: 2100 final time: 30
+
+Trying to place activity number added_act==115
+with id==312, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==195, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==2
+Confl activity id:312 time of this activity:28 room of this activity:H1.04A
+Confl activity id:194 time of this activity:30 room of this activity:H1.04A
+timeSlot==28
+roomSlot==H1.04A
+id of permutation[j==114]==195
+conflicting:
+id of permutation[j==115]==194
+id of permutation[j==116]==312
+tmp represents activity with id==195 initial time: 2100 final time: 28
+
+Trying to place activity number added_act==115
+with id==194, from nInternalActivities==120
+
+Trying to place activity number added_act==116
+with id==312, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:191 time of this activity:2 room of this activity:H1.04A
+timeSlot==2
+roomSlot==H1.04A
+id of permutation[j==115]==312
+conflicting:
+id of permutation[j==116]==191
+tmp represents activity with id==312 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==116
+with id==191, from nInternalActivities==120
+
+Trying to place activity number added_act==117
+with id==212, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==2
+Confl activity id:210 time of this activity:1 room of this activity:BS54
+Confl activity id:211 time of this activity:2 room of this activity:BS50
+timeSlot==3
+roomSlot==BF44
+Warning - explored removal: id==211, time==2, times==1
+id of permutation[j==115]==212
+conflicting:
+id of permutation[j==116]==210
+id of permutation[j==117]==211
+tmp represents activity with id==212 initial time: 2100 final time: 3
+
+Trying to place activity number added_act==116
+with id==210, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:213 time of this activity:25 room of this activity:BF44
+timeSlot==30
+roomSlot==BF44
+id of permutation[j==115]==210
+conflicting:
+id of permutation[j==116]==213
+tmp represents activity with id==210 initial time: 2100 final time: 30
+
+Trying to place activity number added_act==116
+with id==213, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:210 time of this activity:30 room of this activity:BF44
+timeSlot==25
+roomSlot==BF44
+id of permutation[j==115]==213
+conflicting:
+id of permutation[j==116]==210
+tmp represents activity with id==213 initial time: 2100 final time: 25
+
+Trying to place activity number added_act==116
+with id==210, from nInternalActivities==120
+nDifficultActivities==117
+conflActivitiesTimeSlot.count()==1
+Confl activity id:265 time of this activity:27 room of this activity:BS50
+timeSlot==22
+roomSlot==BS54
+id of permutation[j==115]==210
+conflicting:
+id of permutation[j==116]==265
+tmp represents activity with id==210 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==265, from nInternalActivities==120
+
+Trying to place activity number added_act==117
+with id==211, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:212 time of this activity:2 room of this activity:BF44
+timeSlot==2
+roomSlot==BF44
+id of permutation[j==116]==211
+conflicting:
+id of permutation[j==117]==212
+tmp represents activity with id==211 initial time: 2100 final time: 2
+
+Trying to place activity number added_act==117
+with id==212, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==2
+Confl activity id:208 time of this activity:0 room of this activity:BF45
+Confl activity id:211 time of this activity:2 room of this activity:BF44
+timeSlot==22
+roomSlot==BS54
+Warning - explored removal: id==211, time==2, times==2
+id of permutation[j==115]==212
+conflicting:
+id of permutation[j==116]==208
+id of permutation[j==117]==211
+tmp represents activity with id==212 initial time: 2100 final time: 22
+
+Trying to place activity number added_act==116
+with id==208, from nInternalActivities==120
+
+Trying to place activity number added_act==117
+with id==211, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:212 time of this activity:22 room of this activity:BS54
+timeSlot==1
+roomSlot==BS54
+id of permutation[j==116]==211
+conflicting:
+id of permutation[j==117]==212
+tmp represents activity with id==211 initial time: 2100 final time: 1
+
+Trying to place activity number added_act==117
+with id==212, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:213 time of this activity:26 room of this activity:BS54
+timeSlot==26
+roomSlot==BS54
+id of permutation[j==116]==212
+conflicting:
+id of permutation[j==117]==213
+tmp represents activity with id==212 initial time: 2100 final time: 26
+
+Trying to place activity number added_act==117
+with id==213, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:212 time of this activity:26 room of this activity:BS54
+timeSlot==21
+roomSlot==BS54
+id of permutation[j==116]==213
+conflicting:
+id of permutation[j==117]==212
+tmp represents activity with id==213 initial time: 2100 final time: 21
+
+Trying to place activity number added_act==117
+with id==212, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:211 time of this activity:1 room of this activity:BS54
+timeSlot==1
+roomSlot==BF47
+id of permutation[j==116]==212
+conflicting:
+id of permutation[j==117]==211
+tmp represents activity with id==212 initial time: 2100 final time: 1
+
+Trying to place activity number added_act==117
+with id==211, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:213 time of this activity:21 room of this activity:BS54
+timeSlot==26
+roomSlot==BS54
+id of permutation[j==116]==211
+conflicting:
+id of permutation[j==117]==213
+tmp represents activity with id==211 initial time: 2100 final time: 26
+
+Trying to place activity number added_act==117
+with id==213, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==2
+Confl activity id:212 time of this activity:1 room of this activity:BF47
+Confl activity id:83 time of this activity:6 room of this activity:BF44
+timeSlot==1
+roomSlot==BF44
+id of permutation[j==115]==213
+conflicting:
+id of permutation[j==116]==83
+id of permutation[j==117]==212
+tmp represents activity with id==213 initial time: 2100 final time: 1
+
+Trying to place activity number added_act==116
+with id==83, from nInternalActivities==120
+
+Trying to place activity number added_act==117
+with id==212, from nInternalActivities==120
+nDifficultActivities==118
+conflActivitiesTimeSlot.count()==1
+Confl activity id:213 time of this activity:1 room of this activity:BF44
+timeSlot==6
+roomSlot==BF47
+id of permutation[j==116]==212
+conflicting:
+id of permutation[j==117]==213
+tmp represents activity with id==212 initial time: 2100 final time: 6
+
+Trying to place activity number added_act==117
+with id==213, from nInternalActivities==120
+
+Trying to place activity number added_act==118
+with id==305, from nInternalActivities==120
+
+Trying to place activity number added_act==119
+with id==307, from nInternalActivities==120
+Total searching time (seconds): 1
+Simulation successful
+Since simulation is complete, FET will write also the timetable data file

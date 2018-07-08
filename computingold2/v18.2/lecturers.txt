@@ -1,0 +1,36 @@
++--------------+----------+------------+
+| lecturer     | semester | SUM(hours) |
++--------------+----------+------------+
+| ANO6         | 1        |          8 |
+| ANO6         | 2        |          8 |
+| ANOCYBNET    | 1        |         14 |
+| ANOCYBNET    | 2        |         11 |
+| ANOSOFTDEV   | 1        |         14 |
+| ANOSOFTDEV   | 2        |         11 |
+| Pele10       | 1        |         16 |
+| Pele10       | 2        |         23 |
+| Maradona     | 1        |         24 |
+| Maradona     | 2        |         22 |
+| Becks        | 1        |         24 |
+| Becks        | 2        |         24 |
+| Cruyff8      | 1        |         22 |
+| Cruyff8      | 2        |         23 |
+| Bob          | 1        |         17 |
+| Bob          | 2        |         17 |
+| Pirlo        | 1        |          8 |
+| Pirlo        | 2        |          6 |
+| Liz Rathbone | 2        |          4 |
+| Kaka7        | 1        |         22 |
+| Kaka7        | 2        |         23 |
+| John         | 1        |         23 |
+| John         | 2        |         23 |
+| NLR          | 1        |         11 |
+| NLR          | 2        |         16 |
+| Zidane       | 1        |         21 |
+| Zidane       | 2        |         21 |
+| Ronal        | 1        |         16 |
+| Ronal        | 2        |         17 |
+| Neymar9      | 1        |         12 |
+| Neymar9      | 2        |         12 |
+| Neymar9      | ALL      |          8 |
++--------------+----------+------------+

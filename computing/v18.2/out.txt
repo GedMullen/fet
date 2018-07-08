@@ -20,126 +20,126 @@ Progress label: Precomputing ... please wait
 Progress range: 0..36
 Progress setModal(true)
 The order of activities (id-s):
-No: 1, id=3, teachers: Pele10, subject: CMP391CloudComputing+Virtualisati, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 2, id=4, teachers: ANOCYBNET, subject: CMP392ComputerForensics, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 3, id=5, teachers: Ronal, subject: CMP393ComputerNetworkGroupProject, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 4, id=15, teachers: Neymar9, subject: F1VV34+H1F734+H17W34InteractiveMedia:UserInterf, activity tags: EASTERN A, students: HCCPT7_SD217A, nIncompatible[permutation[i]]=2000000002
-No: 5, id=16, teachers: Neymar9, subject: H17834+H1J834+H16W35TeamWorkinginComputing+Comp, activity tags: EASTERN A, students: HCCPT7_SD217A, nIncompatible[permutation[i]]=2000000002
-No: 6, id=29, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=2000000002
-No: 7, id=44, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=2000000002
-No: 8, id=10, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000001
-No: 9, id=11, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB BF45A, students: BSAPN_BF117A, nIncompatible[permutation[i]]=2000000001
-No: 10, id=227, teachers: , subject: F3GF11Numeracy, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=2000000001
-No: 11, id=248, teachers: LizRathbone, subject: F3GF12Numeracy, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=1500000002
-No: 12, id=268, teachers: LizRathbone, subject: F3GF12Numeracy, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=1500000002
-No: 13, id=173, teachers: , subject: F3GF11Numeracy, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=1500000001
-No: 14, id=191, teachers: , subject: F3GF11Numeracy, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=1500000001
+No: 1, id=3, teachers: Pele10, subject: CMP391CloudComputing+Virtualisati, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 2, id=4, teachers: ANOCYBNET, subject: CMP392ComputerForensics, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 3, id=5, teachers: Ronal, subject: CMP393ComputerNetworkGroupProject, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 4, id=15, teachers: Neymar9, subject: F1VV34+H1F734+H17W34InteractiveMedia:UserInterf, activity tags: EASTERN A, students: TAPST7_SD217A, nIncompatible[permutation[i]]=2000000002
+No: 5, id=16, teachers: Neymar9, subject: H17834+H1J834+H16W35TeamWorkinginComputing+Comp, activity tags: EASTERN A, students: TAPST7_SD217A, nIncompatible[permutation[i]]=2000000002
+No: 6, id=29, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000002
+No: 7, id=44, teachers: John, subject: FR2435+H17S34RoutingTechnology+NetworkCon, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=2000000002
+No: 8, id=10, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000001
+No: 9, id=11, teachers: , subject: CMPIL2IndependentLearningS2, activity tags: STB XY45A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=2000000001
+No: 10, id=227, teachers: , subject: F3GF11Numeracy, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=2000000001
+No: 11, id=248, teachers: LizRathbone, subject: F3GF12Numeracy, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=1500000002
+No: 12, id=268, teachers: LizRathbone, subject: F3GF12Numeracy, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=1500000002
+No: 13, id=173, teachers: , subject: F3GF11Numeracy, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=1500000001
+No: 14, id=191, teachers: , subject: F3GF11Numeracy, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=1500000001
 No: 15, id=209, teachers: , subject: F3GF11Numeracy, students: NCCDM5_HF117B, nIncompatible[permutation[i]]=1500000001
-No: 16, id=288, teachers: , subject: F3GF12Numeracy, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=1500000001
-No: 17, id=308, teachers: , subject: F3GF12Numeracy, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=1500000001
-No: 18, id=59, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=524
-No: 19, id=72, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=524
-No: 20, id=161, teachers: Pele10, subject: H48X35Computing:TechnicalSupport:, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=456
-No: 21, id=104, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=416
-No: 22, id=88, teachers: Ronal, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=396
-No: 23, id=56, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=381
-No: 24, id=69, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=381
-No: 25, id=113, teachers: Neymar9, subject: H48W35Computing:SoftwareDevelopmen, activity tags: STB BF47, students: HDCSD_BF217A, nIncompatible[permutation[i]]=380
-No: 26, id=28, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=372
-No: 27, id=43, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=372
-No: 28, id=177, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=324
-No: 29, id=147, teachers: Cruyff8, subject: H1EM34ClientOperatingSystems, activity tags: STB V, students: HDCTS_BF117A, nIncompatible[permutation[i]]=321
-No: 30, id=253, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=318
+No: 16, id=288, teachers: , subject: F3GF12Numeracy, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=1500000001
+No: 17, id=308, teachers: , subject: F3GF12Numeracy, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=1500000001
+No: 18, id=59, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: TAPSN_BF217A, nIncompatible[permutation[i]]=524
+No: 19, id=72, teachers: Zidane, subject: H48V35Computing:Networking:Graded, activity tags: STB CISCO, students: TAPSN_BF217B, nIncompatible[permutation[i]]=524
+No: 20, id=161, teachers: Pele10, subject: H48X35Computing:TechnicalSupport:, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=456
+No: 21, id=104, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=416
+No: 22, id=88, teachers: Ronal, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=396
+No: 23, id=56, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: TAPSN_BF217A, nIncompatible[permutation[i]]=381
+No: 24, id=69, teachers: John, subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: TAPSN_BF217B, nIncompatible[permutation[i]]=381
+No: 25, id=113, teachers: Neymar9, subject: H48W35Computing:SoftwareDevelopmen, activity tags: STB XY47, students: TAPSD_BF217A, nIncompatible[permutation[i]]=380
+No: 26, id=28, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=372
+No: 27, id=43, teachers: John, subject: FR2435+H17S34+FR2235NetworkConcepts+NetworkingTe, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=372
+No: 28, id=177, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: STB V, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=324
+No: 29, id=147, teachers: Cruyff8, subject: H1EM34ClientOperatingSystems, activity tags: STB V, students: TAPSS_BF117A, nIncompatible[permutation[i]]=321
+No: 30, id=253, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+, activity tags: STB V, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=318
 No: 31, id=213, teachers: Kaka7, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: WESTWING V, students: NCCDM5_HF117B, nIncompatible[permutation[i]]=309
-No: 32, id=273, teachers: Bob, subject: H6S746+F3GD12              Computing:Project(Networking, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=303
-No: 33, id=115, teachers: Becks, subject: F6C235+HL9W35WebDevelopment:DynamicallyG, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=297
-No: 34, id=293, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+P, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=297
-No: 35, id=324, teachers: Cruyff8, subject: H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=297
-No: 36, id=195, teachers: Bob, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: WESTWING V, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=294
-No: 37, id=251, teachers: Becks, subject: H22376SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=294
-No: 38, id=83, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=291
-No: 39, id=322, teachers: John, subject: F1K210+H7EA44Computing:ComputerHardware+, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=291
-No: 40, id=99, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=288
-No: 41, id=190, teachers: Maradona, subject: H22375SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=285
+No: 32, id=273, teachers: Bob, subject: H6S746+F3GD12              Computing:Project(Networking, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=303
+No: 33, id=115, teachers: Becks, subject: F6C235+HL9W35WebDevelopment:DynamicallyG, activity tags: STB A, students: TAPSD_BF217A, nIncompatible[permutation[i]]=297
+No: 34, id=293, teachers: Maradona, subject: H6S746+F3GD12             Computing:Project(Software)+P, activity tags: WESTWING V, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=297
+No: 35, id=324, teachers: Cruyff8, subject: H6S744+SENHC4+F3GD10ComputingProject/EnhanceCurr, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=297
+No: 36, id=195, teachers: Bob, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: WESTWING V, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=294
+No: 37, id=251, teachers: Becks, subject: H22376SoftwareDesignandDevelopmen, activity tags: STB A, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=294
+No: 38, id=83, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=291
+No: 39, id=322, teachers: John, subject: F1K210+H7EA44Computing:ComputerHardware+, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=291
+No: 40, id=99, teachers: Becks, subject: H17834+H17W34TeamWorkinginComputing+Soft, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=288
+No: 41, id=190, teachers: Maradona, subject: H22375SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=285
 No: 42, id=208, teachers: Becks, subject: H22375SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM5_HF117B, nIncompatible[permutation[i]]=285
-No: 43, id=85, teachers: Ronal, subject: H17X34+H1J834SoftwareDevelopment:Programm, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=279
-No: 44, id=231, teachers: Cruyff8, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=270
-No: 45, id=172, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=267
-No: 46, id=291, teachers: Maradona, subject: H22376SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=267
-No: 47, id=323, teachers: ANOSOFTDEV, subject: F1JM10+H61345Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=261
-No: 48, id=25, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCON_BF117A, nIncompatible[permutation[i]]=250
-No: 49, id=226, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=249
-No: 50, id=141, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCTS_BF117A, nIncompatible[permutation[i]]=244
-No: 51, id=40, teachers: Pele10, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: HDCON_BF117B, nIncompatible[permutation[i]]=236
-No: 52, id=160, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=208
-No: 53, id=55, teachers: Pele10, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=202
-No: 54, id=175, teachers: Pirlo, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=202
-No: 55, id=176, teachers: Pirlo, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=202
-No: 56, id=325, teachers: Pirlo, subject: H1T010MobileTechnologySystems, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=202
-No: 57, id=58, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=200
-No: 58, id=71, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=200
-No: 59, id=158, teachers: Ronal, subject: H18C35OpenSourceOperatingSystems:, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=200
-No: 60, id=270, teachers: Cruyff8, subject: H2N612NetworkFundamentals, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=200
-No: 61, id=117, teachers: Ronal, subject: HL9V35SoftwareDevelopment:Programm, activity tags: STB V, students: HDCSD_BF217A, nIncompatible[permutation[i]]=198
-No: 62, id=156, teachers: Cruyff8, subject: DM2X35ComputerOperatingSystems2, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=198
-No: 63, id=174, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=198
-No: 64, id=192, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: WESTWING V, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=198
-No: 65, id=271, teachers: John, subject: H2N712ServerAdministrationFundamen, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=196
-No: 66, id=250, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=194
-No: 67, id=54, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCON_BF217A, nIncompatible[permutation[i]]=190
-No: 68, id=67, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=190
-No: 69, id=148, teachers: Bob, subject: H1EP34EthicalHackingFundamentals, activity tags: STB V, students: HDCTS_BF117A, nIncompatible[permutation[i]]=190
+No: 43, id=85, teachers: Ronal, subject: H17X34+H1J834SoftwareDevelopment:Programm, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=279
+No: 44, id=231, teachers: Cruyff8, subject: H6S745+F3GD11Computing:Project+ProblemSol, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=270
+No: 45, id=172, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=267
+No: 46, id=291, teachers: Maradona, subject: H22376SoftwareDesignandDevelopmen, activity tags: WESTWING A, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=267
+No: 47, id=323, teachers: ANOSOFTDEV, subject: F1JM10+H61345Computing:DigitalMediaEleme, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=261
+No: 48, id=25, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: TAPSN_BF117A, nIncompatible[permutation[i]]=250
+No: 49, id=226, teachers: ANOSOFTDEV, subject: H22375SoftwareDesignandDevelopmen, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=249
+No: 50, id=141, teachers: Zidane, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: TAPSS_BF117A, nIncompatible[permutation[i]]=244
+No: 51, id=40, teachers: Pele10, subject: H17F34Computing:PCHardwareandOpe, activity tags: STB CISCO, students: TAPSN_BF117B, nIncompatible[permutation[i]]=236
+No: 52, id=160, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=208
+No: 53, id=55, teachers: Pele10, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: TAPSN_BF217A, nIncompatible[permutation[i]]=202
+No: 54, id=175, teachers: Pirlo, subject: F18211Computing:WebsiteDesignand, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=202
+No: 55, id=176, teachers: Pirlo, subject: F1KS11Computing:DigitalMediaEleme, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=202
+No: 56, id=325, teachers: Pirlo, subject: H1T010MobileTechnologySystems, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=202
+No: 57, id=58, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: TAPSN_BF217A, nIncompatible[permutation[i]]=200
+No: 58, id=71, teachers: Zidane, subject: H17V34SecurityConcepts, activity tags: STB V, students: TAPSN_BF217B, nIncompatible[permutation[i]]=200
+No: 59, id=158, teachers: Ronal, subject: H18C35OpenSourceOperatingSystems:, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=200
+No: 60, id=270, teachers: Cruyff8, subject: H2N612NetworkFundamentals, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=200
+No: 61, id=117, teachers: Ronal, subject: HL9V35SoftwareDevelopment:Programm, activity tags: STB V, students: TAPSD_BF217A, nIncompatible[permutation[i]]=198
+No: 62, id=156, teachers: Cruyff8, subject: DM2X35ComputerOperatingSystems2, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=198
+No: 63, id=174, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: STB V, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=198
+No: 64, id=192, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: WESTWING V, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=198
+No: 65, id=271, teachers: John, subject: H2N712ServerAdministrationFundamen, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=196
+No: 66, id=250, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: STB V, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=194
+No: 67, id=54, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: TAPSN_BF217A, nIncompatible[permutation[i]]=190
+No: 68, id=67, teachers: Bob, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: TAPSN_BF217B, nIncompatible[permutation[i]]=190
+No: 69, id=148, teachers: Bob, subject: H1EP34EthicalHackingFundamentals, activity tags: STB V, students: TAPSS_BF117A, nIncompatible[permutation[i]]=190
 No: 70, id=210, teachers: Kaka7, subject: F1KH11Computing:ComputerNetworking, activity tags: WESTWING V, students: NCCDM5_HF117B, nIncompatible[permutation[i]]=190
-No: 71, id=26, teachers: Kaka7, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=184
-No: 72, id=145, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=184
-No: 73, id=146, teachers: Zidane, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=184
-No: 74, id=292, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=184
-No: 75, id=112, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=182
-No: 76, id=290, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: WESTWING V, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=182
-No: 77, id=27, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=180
-No: 78, id=31, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCON_BF117A, nIncompatible[permutation[i]]=180
-No: 79, id=118, teachers: Ronal, subject: HL9T35SoftwareDevelopment:DataStr, activity tags: STB A, students: HDCSD_BF217A, nIncompatible[permutation[i]]=180
-No: 80, id=159, teachers: Cruyff8, subject: H3LN35ProvidingTechnicalSupportto, activity tags: STB A, students: HDCTS_BF217A, nIncompatible[permutation[i]]=180
-No: 81, id=310, teachers: Kaka7, subject: H2N612NetworkFundamentals, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=180
-No: 82, id=311, teachers: Kaka7, subject: H2N712ServerAdministrationFundamen, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=180
-No: 83, id=321, teachers: Neymar9, subject: H6S844Computing:Creating+Evaluati, activity tags: STB A, students: NCCDM4_BF118A, nIncompatible[permutation[i]]=180
-No: 84, id=68, teachers: ANOCYBNET, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: HDCON_BF217B, nIncompatible[permutation[i]]=178
-No: 85, id=87, teachers: Maradona, subject: H16W35RelationalDatabaseManagement, activity tags: STB A, students: HDCSD_BF117A, nIncompatible[permutation[i]]=178
-No: 86, id=101, teachers: Neymar9, subject: H17X34SoftwareDevelopment:Programm, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=178
-No: 87, id=144, teachers: Cruyff8, subject: H17834+H1F734TeamWorkinginComputing+Prof, activity tags: STB A, students: HDCTS_BF117A, nIncompatible[permutation[i]]=178
-No: 88, id=157, teachers: ANOCYBNET, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: HDCTS_BF217A, nIncompatible[permutation[i]]=178
-No: 89, id=252, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=178
-No: 90, id=42, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=176
-No: 91, id=46, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=176
-No: 92, id=228, teachers: Pele10, subject: F1KH11Computing:ComputerNetworking, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=176
-No: 93, id=272, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=176
-No: 94, id=312, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=176
-No: 95, id=102, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB BF47, students: HDCSD_BF117B, nIncompatible[permutation[i]]=170
-No: 96, id=86, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB BF47, students: HDCSD_BF117A, nIncompatible[permutation[i]]=166
-No: 97, id=103, teachers: Neymar9, subject: H16W35RelationalDatabaseManagement, activity tags: STB BF47, students: HDCSD_BF117B, nIncompatible[permutation[i]]=166
-No: 98, id=114, teachers: Neymar9, subject: H17R35MobileTechnology, activity tags: STB BF47, students: HDCSD_BF217A, nIncompatible[permutation[i]]=164
-No: 99, id=229, teachers: Cruyff8, subject: F18211Computing:WebsiteDesignand, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=164
-No: 100, id=230, teachers: Cruyff8, subject: F1KS11Computing:DigitalMediaEleme, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=164
-No: 101, id=41, teachers: ANOSOFTDEV, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: HDCON_BF117B, nIncompatible[permutation[i]]=160
-No: 102, id=193, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=142
-No: 103, id=194, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=142
+No: 71, id=26, teachers: Kaka7, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=184
+No: 72, id=145, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: TAPSS_BF117A, nIncompatible[permutation[i]]=184
+No: 73, id=146, teachers: Zidane, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSS_BF117A, nIncompatible[permutation[i]]=184
+No: 74, id=292, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=184
+No: 75, id=112, teachers: Becks, subject: H16Y35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF217A, nIncompatible[permutation[i]]=182
+No: 76, id=290, teachers: Maradona, subject: H2TM12ProgrammingforMobileDevices, activity tags: WESTWING V, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=182
+No: 77, id=27, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=180
+No: 78, id=31, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSN_BF117A, nIncompatible[permutation[i]]=180
+No: 79, id=118, teachers: Ronal, subject: HL9T35SoftwareDevelopment:DataStr, activity tags: STB A, students: TAPSD_BF217A, nIncompatible[permutation[i]]=180
+No: 80, id=159, teachers: Cruyff8, subject: H3LN35ProvidingTechnicalSupportto, activity tags: STB A, students: TAPSS_BF217A, nIncompatible[permutation[i]]=180
+No: 81, id=310, teachers: Kaka7, subject: H2N612NetworkFundamentals, activity tags: WESTWING V, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=180
+No: 82, id=311, teachers: Kaka7, subject: H2N712ServerAdministrationFundamen, activity tags: WESTWING V, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=180
+No: 83, id=321, teachers: Neymar9, subject: H6S844Computing:Creating+Evaluati, activity tags: STB A, students: TAPSM4_BF118A, nIncompatible[permutation[i]]=180
+No: 84, id=68, teachers: ANOCYBNET, subject: H8N535PrivateCloudVirtualisation, activity tags: STB V, students: TAPSN_BF217B, nIncompatible[permutation[i]]=178
+No: 85, id=87, teachers: Maradona, subject: H16W35RelationalDatabaseManagement, activity tags: STB A, students: TAPSD_BF117A, nIncompatible[permutation[i]]=178
+No: 86, id=101, teachers: Neymar9, subject: H17X34SoftwareDevelopment:Programm, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=178
+No: 87, id=144, teachers: Cruyff8, subject: H17834+H1F734TeamWorkinginComputing+Prof, activity tags: STB A, students: TAPSS_BF117A, nIncompatible[permutation[i]]=178
+No: 88, id=157, teachers: ANOCYBNET, subject: H17M34IntrusionPreventionSystems, activity tags: STB V, students: TAPSS_BF217A, nIncompatible[permutation[i]]=178
+No: 89, id=252, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=178
+No: 90, id=42, teachers: Pele10, subject: H17934CloudComputing, activity tags: STB A, students: TAPSN_BF117B, nIncompatible[permutation[i]]=176
+No: 91, id=46, teachers: Pele10, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSN_BF117B, nIncompatible[permutation[i]]=176
+No: 92, id=228, teachers: Pele10, subject: F1KH11Computing:ComputerNetworking, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=176
+No: 93, id=272, teachers: ANOCYBNET, subject: H9J046DigitalForensics, activity tags: STB V, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=176
+No: 94, id=312, teachers: Bob, subject: H9J046DigitalForensics, activity tags: WESTWING V, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=176
+No: 95, id=102, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB XY47, students: TAPSD_BF117B, nIncompatible[permutation[i]]=170
+No: 96, id=86, teachers: Maradona, subject: H17934CloudComputing, activity tags: STB XY47, students: TAPSD_BF117A, nIncompatible[permutation[i]]=166
+No: 97, id=103, teachers: Neymar9, subject: H16W35RelationalDatabaseManagement, activity tags: STB XY47, students: TAPSD_BF117B, nIncompatible[permutation[i]]=166
+No: 98, id=114, teachers: Neymar9, subject: H17R35MobileTechnology, activity tags: STB XY47, students: TAPSD_BF217A, nIncompatible[permutation[i]]=164
+No: 99, id=229, teachers: Cruyff8, subject: F18211Computing:WebsiteDesignand, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=164
+No: 100, id=230, teachers: Cruyff8, subject: F1KS11Computing:DigitalMediaEleme, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=164
+No: 101, id=41, teachers: ANOSOFTDEV, subject: H17834TeamWorkinginComputing, activity tags: STB A, students: TAPSN_BF117B, nIncompatible[permutation[i]]=160
+No: 102, id=193, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=142
+No: 103, id=194, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=142
 No: 104, id=211, teachers: ANO6, subject: F18211Computing:WebsiteDesignand, activity tags: WESTWING A, students: NCCDM5_HF117B, nIncompatible[permutation[i]]=140
 No: 105, id=212, teachers: ANO6, subject: F1KS11Computing:DigitalMediaEleme, activity tags: WESTWING A, students: NCCDM5_HF117B, nIncompatible[permutation[i]]=140
-No: 106, id=143, teachers: Zidane, subject: H17C35ComputerNetworks:BuildingLo, activity tags: STB CISCO, students: HDCTS_BF117A, nIncompatible[permutation[i]]=116
-No: 107, id=57, teachers: , subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217A, nIncompatible[permutation[i]]=86
-No: 108, id=70, teachers: , subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: HDCON_BF217B, nIncompatible[permutation[i]]=86
-No: 109, id=98, teachers: Ronal, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: HDCSD_BF117B, nIncompatible[permutation[i]]=85
-No: 110, id=179, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: NCCDM5_BF117A, nIncompatible[permutation[i]]=85
-No: 111, id=267, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=84
-No: 112, id=265, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: STB A, students: NCCDM6_BF117B, nIncompatible[permutation[i]]=83
-No: 113, id=245, teachers: Becks, subject: SAPPFGAppsforGood, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=81
-No: 114, id=247, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: NCCDM6_BF117A, nIncompatible[permutation[i]]=81
-No: 115, id=285, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=79
-No: 116, id=287, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: NCCDM6_HF117A, nIncompatible[permutation[i]]=79
-No: 117, id=233, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: EASTERN S3.12, students: NCCDM5_SF117A, nIncompatible[permutation[i]]=74
-No: 118, id=197, teachers: Bob, subject: SENHC5EnhancedCurriculumLevel5, activity tags: WESTWING A, students: NCCDM5_HF117A, nIncompatible[permutation[i]]=72
-No: 119, id=305, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=71
-No: 120, id=307, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: NCCDM6_HF117B, nIncompatible[permutation[i]]=71
+No: 106, id=143, teachers: Zidane, subject: H17C35ComputerNetworks:BuildingLo, activity tags: STB CISCO, students: TAPSS_BF117A, nIncompatible[permutation[i]]=116
+No: 107, id=57, teachers: , subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: TAPSN_BF217A, nIncompatible[permutation[i]]=86
+No: 108, id=70, teachers: , subject: FR2535InternetworkingTechnology, activity tags: STB CISCO, students: TAPSN_BF217B, nIncompatible[permutation[i]]=86
+No: 109, id=98, teachers: Ronal, subject: H1J834Computing:GradedUnit1, activity tags: STB A, students: TAPSD_BF117B, nIncompatible[permutation[i]]=85
+No: 110, id=179, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: STB A, students: TAPSM5_BF117A, nIncompatible[permutation[i]]=85
+No: 111, id=267, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=84
+No: 112, id=265, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: STB A, students: TAPSM6_BF117B, nIncompatible[permutation[i]]=83
+No: 113, id=245, teachers: Becks, subject: SAPPFGAppsforGood, activity tags: STB A, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=81
+No: 114, id=247, teachers: Becks, subject: SENCH6EnhancedCurriculumLevel6, activity tags: STB A, students: TAPSM6_BF117A, nIncompatible[permutation[i]]=81
+No: 115, id=285, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=79
+No: 116, id=287, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: TAPSM6_HF117A, nIncompatible[permutation[i]]=79
+No: 117, id=233, teachers: Cruyff8, subject: SENCH5EnhancedCurriculumLevel5, activity tags: EASTERN A3.12, students: TAPSM5_SF117A, nIncompatible[permutation[i]]=74
+No: 118, id=197, teachers: Bob, subject: SENHC5EnhancedCurriculumLevel5, activity tags: WESTWING A, students: TAPSM5_HF117A, nIncompatible[permutation[i]]=72
+No: 119, id=305, teachers: Kaka7, subject: SAPPFGAppsforGood, activity tags: WESTWING A, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=71
+No: 120, id=307, teachers: Kaka7, subject: SENCH6EnhancedCurriculumLevel6, activity tags: WESTWING A, students: TAPSM6_HF117B, nIncompatible[permutation[i]]=71
 End - the order of activities (id-s):
 Title: FET warning
 Message: Your data contains constraints students max gaps per day and/or activity tag max hours daily.
@@ -433,9 +433,9 @@ Trying to place activity number added_act==87
 with id==157, from nInternalActivities==120
 nDifficultActivities==88
 conflActivitiesTimeSlot.count()==1
-Confl activity id:161 time of this activity:4 room of this activity:BS54
+Confl activity id:161 time of this activity:4 room of this activity:XY54
 timeSlot==4
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==86]==157
 conflicting:
 id of permutation[j==87]==161
@@ -460,9 +460,9 @@ Trying to place activity number added_act==92
 with id==272, from nInternalActivities==120
 nDifficultActivities==93
 conflActivitiesTimeSlot.count()==1
-Confl activity id:72 time of this activity:1 room of this activity:BF44A
+Confl activity id:72 time of this activity:1 room of this activity:XY44A
 timeSlot==1
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==91]==272
 conflicting:
 id of permutation[j==92]==72
@@ -511,9 +511,9 @@ Trying to place activity number added_act==105
 with id==143, from nInternalActivities==120
 nDifficultActivities==106
 conflActivitiesTimeSlot.count()==1
-Confl activity id:141 time of this activity:4 room of this activity:BF44A
+Confl activity id:141 time of this activity:4 room of this activity:XY44A
 timeSlot==9
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==104]==143
 conflicting:
 id of permutation[j==105]==141
@@ -523,9 +523,9 @@ Trying to place activity number added_act==105
 with id==141, from nInternalActivities==120
 nDifficultActivities==106
 conflActivitiesTimeSlot.count()==1
-Confl activity id:143 time of this activity:9 room of this activity:BF44A
+Confl activity id:143 time of this activity:9 room of this activity:XY44A
 timeSlot==4
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==104]==141
 conflicting:
 id of permutation[j==105]==143
@@ -535,10 +535,10 @@ Trying to place activity number added_act==105
 with id==143, from nInternalActivities==120
 nDifficultActivities==106
 conflActivitiesTimeSlot.count()==2
-Confl activity id:59 time of this activity:2 room of this activity:BF44A
-Confl activity id:147 time of this activity:25 room of this activity:BF45A
+Confl activity id:59 time of this activity:2 room of this activity:XY44A
+Confl activity id:147 time of this activity:25 room of this activity:XY45A
 timeSlot==7
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==103]==143
 conflicting:
 id of permutation[j==104]==59
@@ -549,9 +549,9 @@ Trying to place activity number added_act==104
 with id==59, from nInternalActivities==120
 nDifficultActivities==105
 conflActivitiesTimeSlot.count()==1
-Confl activity id:143 time of this activity:7 room of this activity:BF44A
+Confl activity id:143 time of this activity:7 room of this activity:XY44A
 timeSlot==2
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==103]==59
 conflicting:
 id of permutation[j==104]==143
@@ -561,9 +561,9 @@ Trying to place activity number added_act==104
 with id==143, from nInternalActivities==120
 nDifficultActivities==105
 conflActivitiesTimeSlot.count()==1
-Confl activity id:28 time of this activity:29 room of this activity:BF44A
+Confl activity id:28 time of this activity:29 room of this activity:XY44A
 timeSlot==39
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==103]==143
 conflicting:
 id of permutation[j==104]==28
@@ -573,9 +573,9 @@ Trying to place activity number added_act==104
 with id==28, from nInternalActivities==120
 nDifficultActivities==105
 conflActivitiesTimeSlot.count()==1
-Confl activity id:143 time of this activity:39 room of this activity:BF44A
+Confl activity id:143 time of this activity:39 room of this activity:XY44A
 timeSlot==29
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==103]==28
 conflicting:
 id of permutation[j==104]==143
@@ -585,10 +585,10 @@ Trying to place activity number added_act==104
 with id==143, from nInternalActivities==120
 nDifficultActivities==105
 conflActivitiesTimeSlot.count()==2
-Confl activity id:144 time of this activity:22 room of this activity:BS54
-Confl activity id:56 time of this activity:27 room of this activity:BF44A
+Confl activity id:144 time of this activity:22 room of this activity:XY54
+Confl activity id:56 time of this activity:27 room of this activity:XY44A
 timeSlot==27
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==102]==143
 conflicting:
 id of permutation[j==103]==56
@@ -599,9 +599,9 @@ Trying to place activity number added_act==103
 with id==56, from nInternalActivities==120
 nDifficultActivities==104
 conflActivitiesTimeSlot.count()==1
-Confl activity id:143 time of this activity:27 room of this activity:BF44A
+Confl activity id:143 time of this activity:27 room of this activity:XY44A
 timeSlot==27
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==102]==56
 conflicting:
 id of permutation[j==103]==143
@@ -611,9 +611,9 @@ Trying to place activity number added_act==103
 with id==143, from nInternalActivities==120
 nDifficultActivities==104
 conflActivitiesTimeSlot.count()==1
-Confl activity id:43 time of this activity:3 room of this activity:BF44A
+Confl activity id:43 time of this activity:3 room of this activity:XY44A
 timeSlot==8
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==102]==143
 conflicting:
 id of permutation[j==103]==43
@@ -629,9 +629,9 @@ Trying to place activity number added_act==105
 with id==147, from nInternalActivities==120
 nDifficultActivities==106
 conflActivitiesTimeSlot.count()==1
-Confl activity id:273 time of this activity:26 room of this activity:BS54
+Confl activity id:273 time of this activity:26 room of this activity:XY54
 timeSlot==21
-roomSlot==BS54
+roomSlot==XY54
 id of permutation[j==104]==147
 conflicting:
 id of permutation[j==105]==273
@@ -644,9 +644,9 @@ Trying to place activity number added_act==106
 with id==57, from nInternalActivities==120
 nDifficultActivities==107
 conflActivitiesTimeSlot.count()==1
-Confl activity id:58 time of this activity:28 room of this activity:BF45A
+Confl activity id:58 time of this activity:28 room of this activity:XY45A
 timeSlot==18
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==105]==57
 conflicting:
 id of permutation[j==106]==58
@@ -656,9 +656,9 @@ Trying to place activity number added_act==106
 with id==58, from nInternalActivities==120
 nDifficultActivities==107
 conflActivitiesTimeSlot.count()==1
-Confl activity id:25 time of this activity:14 room of this activity:BF44A
+Confl activity id:25 time of this activity:14 room of this activity:XY44A
 timeSlot==14
-roomSlot==BF44A
+roomSlot==XY44A
 id of permutation[j==105]==58
 conflicting:
 id of permutation[j==106]==25
@@ -698,9 +698,9 @@ Trying to place activity number added_act==116
 with id==233, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:231 time of this activity:4 room of this activity:S3.12
+Confl activity id:231 time of this activity:4 room of this activity:A3.12
 timeSlot==4
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==233
 conflicting:
 id of permutation[j==116]==231
@@ -710,9 +710,9 @@ Trying to place activity number added_act==116
 with id==231, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:4 room of this activity:S3.12
+Confl activity id:233 time of this activity:4 room of this activity:A3.12
 timeSlot==4
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==231
 conflicting:
 id of permutation[j==116]==233
@@ -722,9 +722,9 @@ Trying to place activity number added_act==116
 with id==233, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:229 time of this activity:24 room of this activity:S3.12
+Confl activity id:229 time of this activity:24 room of this activity:A3.12
 timeSlot==29
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==233
 conflicting:
 id of permutation[j==116]==229
@@ -734,9 +734,9 @@ Trying to place activity number added_act==116
 with id==229, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:230 time of this activity:34 room of this activity:S3.12
+Confl activity id:230 time of this activity:34 room of this activity:A3.12
 timeSlot==34
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==229
 conflicting:
 id of permutation[j==116]==230
@@ -746,9 +746,9 @@ Trying to place activity number added_act==116
 with id==230, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:233 time of this activity:29 room of this activity:S3.12
+Confl activity id:233 time of this activity:29 room of this activity:A3.12
 timeSlot==24
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==230
 conflicting:
 id of permutation[j==116]==233
@@ -758,9 +758,9 @@ Trying to place activity number added_act==116
 with id==233, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:226 time of this activity:0 room of this activity:S3.12
+Confl activity id:226 time of this activity:0 room of this activity:A3.12
 timeSlot==11
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==233
 conflicting:
 id of permutation[j==116]==226
@@ -770,9 +770,9 @@ Trying to place activity number added_act==116
 with id==226, from nInternalActivities==120
 nDifficultActivities==117
 conflActivitiesTimeSlot.count()==1
-Confl activity id:228 time of this activity:30 room of this activity:S3.12
+Confl activity id:228 time of this activity:30 room of this activity:A3.12
 timeSlot==3
-roomSlot==S3.12
+roomSlot==A3.12
 id of permutation[j==115]==226
 conflicting:
 id of permutation[j==116]==228
@@ -788,9 +788,9 @@ Trying to place activity number added_act==118
 with id==305, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:213 time of this activity:1 room of this activity:H1.04A
+Confl activity id:213 time of this activity:1 room of this activity:B1.04A
 timeSlot==11
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==305
 conflicting:
 id of permutation[j==118]==213
@@ -800,9 +800,9 @@ Trying to place activity number added_act==118
 with id==213, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:305 time of this activity:11 room of this activity:H1.04A
+Confl activity id:305 time of this activity:11 room of this activity:B1.04A
 timeSlot==1
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==213
 conflicting:
 id of permutation[j==118]==305
@@ -812,9 +812,9 @@ Trying to place activity number added_act==118
 with id==305, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:192 time of this activity:22 room of this activity:H1.04A
+Confl activity id:192 time of this activity:22 room of this activity:B1.04A
 timeSlot==27
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==305
 conflicting:
 id of permutation[j==118]==192
@@ -824,9 +824,9 @@ Trying to place activity number added_act==118
 with id==192, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:305 time of this activity:27 room of this activity:H1.04A
+Confl activity id:305 time of this activity:27 room of this activity:B1.04A
 timeSlot==22
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==192
 conflicting:
 id of permutation[j==118]==305
@@ -836,9 +836,9 @@ Trying to place activity number added_act==118
 with id==305, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:210 time of this activity:21 room of this activity:H1.04A
+Confl activity id:210 time of this activity:21 room of this activity:B1.04A
 timeSlot==26
-roomSlot==H1.08
+roomSlot==B1.08
 id of permutation[j==117]==305
 conflicting:
 id of permutation[j==118]==210
@@ -851,9 +851,9 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:310 time of this activity:28 room of this activity:H1.04A
+Confl activity id:310 time of this activity:28 room of this activity:B1.04A
 timeSlot==28
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==307
 conflicting:
 id of permutation[j==119]==310
@@ -863,9 +863,9 @@ Trying to place activity number added_act==119
 with id==310, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:311 time of this activity:31 room of this activity:H1.04A
+Confl activity id:311 time of this activity:31 room of this activity:B1.04A
 timeSlot==31
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==310
 conflicting:
 id of permutation[j==119]==311
@@ -875,9 +875,9 @@ Trying to place activity number added_act==119
 with id==311, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:312 time of this activity:29 room of this activity:H1.04A
+Confl activity id:312 time of this activity:29 room of this activity:B1.04A
 timeSlot==33
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==311
 conflicting:
 id of permutation[j==119]==312
@@ -887,10 +887,10 @@ Trying to place activity number added_act==119
 with id==312, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:195 time of this activity:4 room of this activity:H1.04A
-Confl activity id:311 time of this activity:33 room of this activity:H1.04A
+Confl activity id:195 time of this activity:4 room of this activity:B1.04A
+Confl activity id:311 time of this activity:33 room of this activity:B1.04A
 timeSlot==9
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==312
 conflicting:
 id of permutation[j==118]==195
@@ -904,9 +904,9 @@ Trying to place activity number added_act==119
 with id==311, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:28 room of this activity:H1.04A
+Confl activity id:307 time of this activity:28 room of this activity:B1.04A
 timeSlot==28
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==311
 conflicting:
 id of permutation[j==119]==307
@@ -916,9 +916,9 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:310 time of this activity:31 room of this activity:H1.04A
+Confl activity id:310 time of this activity:31 room of this activity:B1.04A
 timeSlot==36
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==307
 conflicting:
 id of permutation[j==119]==310
@@ -928,9 +928,9 @@ Trying to place activity number added_act==119
 with id==310, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:311 time of this activity:28 room of this activity:H1.04A
+Confl activity id:311 time of this activity:28 room of this activity:B1.04A
 timeSlot==28
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==310
 conflicting:
 id of permutation[j==119]==311
@@ -940,9 +940,9 @@ Trying to place activity number added_act==119
 with id==311, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:36 room of this activity:H1.04A
+Confl activity id:307 time of this activity:36 room of this activity:B1.04A
 timeSlot==31
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==311
 conflicting:
 id of permutation[j==119]==307
@@ -952,10 +952,10 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:312 time of this activity:29 room of this activity:H1.04A
-Confl activity id:290 time of this activity:2 room of this activity:H1.04A
+Confl activity id:312 time of this activity:29 room of this activity:B1.04A
+Confl activity id:290 time of this activity:2 room of this activity:B1.04A
 timeSlot==7
-roomSlot==H1.04A
+roomSlot==B1.04A
 Warning - explored removal: id==312, time==29, times==1
 id of permutation[j==117]==307
 conflicting:
@@ -967,9 +967,9 @@ Trying to place activity number added_act==118
 with id==290, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:293 time of this activity:20 room of this activity:H1.04A
+Confl activity id:293 time of this activity:20 room of this activity:B1.04A
 timeSlot==25
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==290
 conflicting:
 id of permutation[j==118]==293
@@ -979,9 +979,9 @@ Trying to place activity number added_act==118
 with id==293, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:291 time of this activity:0 room of this activity:H1.08
+Confl activity id:291 time of this activity:0 room of this activity:B1.08
 timeSlot==0
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==293
 conflicting:
 id of permutation[j==118]==291
@@ -991,9 +991,9 @@ Trying to place activity number added_act==118
 with id==291, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:290 time of this activity:25 room of this activity:H1.04A
+Confl activity id:290 time of this activity:25 room of this activity:B1.04A
 timeSlot==25
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==291
 conflicting:
 id of permutation[j==118]==290
@@ -1003,9 +1003,9 @@ Trying to place activity number added_act==118
 with id==290, from nInternalActivities==120
 nDifficultActivities==119
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:7 room of this activity:H1.04A
+Confl activity id:307 time of this activity:7 room of this activity:B1.04A
 timeSlot==2
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==290
 conflicting:
 id of permutation[j==118]==307
@@ -1018,9 +1018,9 @@ Trying to place activity number added_act==119
 with id==312, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:12 room of this activity:H1.08
+Confl activity id:307 time of this activity:12 room of this activity:B1.08
 timeSlot==29
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==312
 conflicting:
 id of permutation[j==119]==307
@@ -1030,10 +1030,10 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:213 time of this activity:3 room of this activity:H1.04A
-Confl activity id:310 time of this activity:28 room of this activity:H1.04A
+Confl activity id:213 time of this activity:3 room of this activity:B1.04A
+Confl activity id:310 time of this activity:28 room of this activity:B1.04A
 timeSlot==3
-roomSlot==H1.08
+roomSlot==B1.08
 Warning - explored removal: id==310, time==28, times==1
 id of permutation[j==117]==307
 conflicting:
@@ -1048,9 +1048,9 @@ Trying to place activity number added_act==119
 with id==310, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:33 room of this activity:H1.04A
+Confl activity id:307 time of this activity:33 room of this activity:B1.04A
 timeSlot==33
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==310
 conflicting:
 id of permutation[j==119]==307
@@ -1060,9 +1060,9 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:310 time of this activity:33 room of this activity:H1.04A
+Confl activity id:310 time of this activity:33 room of this activity:B1.04A
 timeSlot==28
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==307
 conflicting:
 id of permutation[j==119]==310
@@ -1072,10 +1072,10 @@ Trying to place activity number added_act==119
 with id==310, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:287 time of this activity:23 room of this activity:H1.04A
-Confl activity id:307 time of this activity:28 room of this activity:H1.04A
+Confl activity id:287 time of this activity:23 room of this activity:B1.04A
+Confl activity id:307 time of this activity:28 room of this activity:B1.04A
 timeSlot==23
-roomSlot==H1.04A
+roomSlot==B1.04A
 Warning - explored removal: id==307, time==28, times==1
 id of permutation[j==117]==310
 conflicting:
@@ -1090,9 +1090,9 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:310 time of this activity:3 room of this activity:H1.04A
+Confl activity id:310 time of this activity:3 room of this activity:B1.04A
 timeSlot==23
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==307
 conflicting:
 id of permutation[j==119]==310
@@ -1102,9 +1102,9 @@ Trying to place activity number added_act==119
 with id==310, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==1
-Confl activity id:307 time of this activity:23 room of this activity:H1.04A
+Confl activity id:307 time of this activity:23 room of this activity:B1.04A
 timeSlot==3
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==118]==310
 conflicting:
 id of permutation[j==119]==307
@@ -1114,10 +1114,10 @@ Trying to place activity number added_act==119
 with id==307, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:192 time of this activity:21 room of this activity:H1.04A
-Confl activity id:311 time of this activity:31 room of this activity:H1.04A
+Confl activity id:192 time of this activity:21 room of this activity:B1.04A
+Confl activity id:311 time of this activity:31 room of this activity:B1.04A
 timeSlot==21
-roomSlot==H1.04A
+roomSlot==B1.04A
 Warning - explored removal: id==311, time==31, times==1
 id of permutation[j==117]==307
 conflicting:
@@ -1132,10 +1132,10 @@ Trying to place activity number added_act==119
 with id==311, from nInternalActivities==120
 nDifficultActivities==120
 conflActivitiesTimeSlot.count()==2
-Confl activity id:210 time of this activity:1 room of this activity:H1.04A
-Confl activity id:307 time of this activity:21 room of this activity:H1.04A
+Confl activity id:210 time of this activity:1 room of this activity:B1.04A
+Confl activity id:307 time of this activity:21 room of this activity:B1.04A
 timeSlot==1
-roomSlot==H1.04A
+roomSlot==B1.04A
 id of permutation[j==117]==311
 conflicting:
 id of permutation[j==118]==210

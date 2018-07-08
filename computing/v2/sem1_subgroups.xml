@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Students_Timetable>
-  <Subgroup name="BSAPN_BF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSN_BF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -18,13 +18,13 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Ronal"></Teacher><Subject name="CMP395"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="CMP395"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Ronal"></Teacher><Subject name="CMP395"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="CMP395"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Ronal"></Teacher><Subject name="CMP395"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="CMP395"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -81,13 +81,13 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="Pele10"></Teacher><Subject name="CMP396"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="CMP396"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pele10"></Teacher><Subject name="CMP396"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="CMP396"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Pele10"></Teacher><Subject name="CMP396"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="CMP396"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -122,17 +122,17 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Pele10"></Teacher><Subject name="CMP394"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="CMP394"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Pele10"></Teacher><Subject name="CMP394"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="CMP394"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Pele10"></Teacher><Subject name="CMP394"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="CMP394"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCON_BF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSN_BF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -193,10 +193,10 @@
       <Teacher name="John"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BFS54"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -213,10 +213,10 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -225,46 +225,46 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="NLR"></Teacher><Subject name="FR2436"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="NLR"></Teacher><Subject name="FR2436"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="John"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="John"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="John"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="John"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="John"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="John"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="16:00">
      
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCON_BF117B Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSN_BF117B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -299,22 +299,22 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="John"></Teacher><Subject name="FR2434"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="John"></Teacher><Subject name="FR2434"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="John"></Teacher><Subject name="FR2434"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="John"></Teacher><Subject name="FR2434"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="John"></Teacher><Subject name="FR2434"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="John"></Teacher><Subject name="FR2434"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -331,24 +331,24 @@
       <Teacher name="Neymar9"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BFS54"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="NLR"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="NLR"></Teacher><Subject name="FR2435"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="14:00">
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -357,16 +357,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="John"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="John"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="John"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="John"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -396,7 +396,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCON_BF217A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSN_BF217A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -425,16 +425,16 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="Gullit"></Teacher><Subject name="FR2335"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Gullit"></Teacher><Subject name="FR2335"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Gullit"></Teacher><Subject name="FR2335"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Gullit"></Teacher><Subject name="FR2335"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Gullit"></Teacher><Subject name="FR2335"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Gullit"></Teacher><Subject name="FR2335"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="NLR"></Teacher><Subject name="FR2336"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="NLR"></Teacher><Subject name="FR2336"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -451,10 +451,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="Bob"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Bob"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -528,28 +528,28 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCSD_BF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSD_BF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -583,16 +583,16 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -609,10 +609,10 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -624,13 +624,13 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="VPG"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -660,7 +660,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCSD_BF117B Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSD_BF117B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -689,13 +689,13 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="Bob"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Bob"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Ronal"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Ronal"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -759,24 +759,24 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="VPG"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="VPG"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H16W35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="Becks"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Becks"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H18134"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17W34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -785,14 +785,14 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCSD_BF217A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSD_BF217A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
       <Teacher name="Neymar9"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BFS54"></Room>
@@ -810,13 +810,13 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="VPG"></Teacher><Subject name="WEBSC"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="WEBSC"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="VPG"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="VPG"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -899,16 +899,16 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Neymar9"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -927,10 +927,10 @@
   <Subgroup name="HDCSD_BF217B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="VPG"></Teacher><Subject name="OOADV"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="OOADV"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="VPG"></Teacher><Subject name="OOADV"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="OOADV"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -945,10 +945,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Neymar9"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Neymar9"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Neymar9"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Neymar9"></Teacher><Subject name="F6C235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -991,30 +991,30 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17235"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="BF47"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="VPG"></Teacher><Subject name="H17135"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="XY47"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1056,13 +1056,13 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCTS_BF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSS_BF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1085,42 +1085,42 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Bob"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Bob"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1191,16 +1191,16 @@
   <Subgroup name="HDCTS_BF117B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17E34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Pele10"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="BF44A"></Room>
+      <Teacher name="Pele10"></Teacher><Subject name="H17C34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="CISCO"></Activity_Tag><Room name="XY44A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1209,10 +1209,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="HG1K34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -1249,10 +1249,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H17334"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1261,10 +1261,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Bob"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Bob"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H1F734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -1275,16 +1275,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H1J834"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Zidane"></Teacher><Subject name="H17534"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="15:00">
       <Teacher name="Pele10"></Teacher><Subject name="H17734"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BFDUMMY"></Room>
@@ -1320,7 +1320,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="HDCTS_BF217A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSS_BF217A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -1329,16 +1329,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="DM2X35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="DM2X35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="DM2X35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="DM2X35"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1W034"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1367,10 +1367,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Messi"></Teacher><Subject name="H1EN34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H1EN34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Messi"></Teacher><Subject name="H1EN34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H1EN34"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -1452,7 +1452,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM5_BF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM5_BF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -1519,16 +1519,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -1539,16 +1539,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1559,41 +1559,41 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="10:00">
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM5_BF117B Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM5_BF117B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -1602,7 +1602,7 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="15:00">
       <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BFS54"></Room>
@@ -1619,16 +1619,16 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1691,10 +1691,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1703,10 +1703,10 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1716,7 +1716,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM5_HF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM5_HF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -1745,10 +1745,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1760,21 +1760,21 @@
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -1783,10 +1783,10 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -1829,22 +1829,22 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Bob"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="12:00">
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
    </Day>
   </Subgroup>
@@ -1857,10 +1857,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Becks"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Becks"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1929,16 +1929,16 @@
    </Day>
    <Day name="Thursday">
     <Hour name="09:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="SHTML5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="F1KR11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1947,24 +1947,24 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F1KB11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="Bob"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="SENCH5"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Julie"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Julie"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Julie"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H22675"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -1973,14 +1973,14 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="F1FC11"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM5_SF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM5_SF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
       <Teacher name="PSG1"></Teacher><Subject name="H6S945"></Subject><Activity_Tag name="EASTERN"></Activity_Tag><Activity_Tag name="S2.12"></Activity_Tag><Room name="S2.12"></Room>
@@ -2112,7 +2112,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM6_BF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM6_BF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -2141,10 +2141,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -2153,16 +2153,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -2179,13 +2179,13 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Becks"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="16:00">
      
@@ -2211,10 +2211,10 @@
       <Teacher name="Becks"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BFS54"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Becks"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Becks"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -2244,7 +2244,7 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM6_BF117B Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM6_BF117B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
      
@@ -2285,24 +2285,24 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="09:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF47"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY47"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -2311,16 +2311,16 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Pirlo"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45A"></Room>
+      <Teacher name="Pirlo"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45A"></Room>
     </Hour>
     <Hour name="15:00">
      
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Becks"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF45"></Room>
+      <Teacher name="Becks"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY45"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -2354,10 +2354,10 @@
      
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="12:00">
      
@@ -2369,20 +2369,20 @@
       <Teacher name="John"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="BFS54"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="BF44"></Room>
+      <Teacher name="Cruyff8"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="STB"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="XY44"></Room>
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM6_HF117A Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM6_HF117A Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -2391,10 +2391,10 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -2405,28 +2405,28 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="09:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -2483,10 +2483,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="09:00">
-      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="11:00">
      
@@ -2495,10 +2495,10 @@
      
     </Hour>
     <Hour name="13:00">
-      <Teacher name="Bob"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Bob"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="15:00">
      
@@ -2508,19 +2508,19 @@
     </Hour>
    </Day>
   </Subgroup>
-  <Subgroup name="NCCDM6_HF117B Automatic Group Automatic Subgroup">
+  <Subgroup name="TAPSM6_HF117B Automatic Group Automatic Subgroup">
    <Day name="Monday">
     <Hour name="09:00">
-      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="10:00">
-      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Bob"></Teacher><Subject name="F3SY12"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="V"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="SAPPFG"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -2529,10 +2529,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Kaka7"></Teacher><Subject name="H7EA46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -2569,10 +2569,10 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Julie"></Teacher><Subject name="H60C46"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="13:00">
      
@@ -2581,10 +2581,10 @@
      
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Maradona"></Teacher><Subject name="H6S946"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -2595,22 +2595,22 @@
      
     </Hour>
     <Hour name="11:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="12:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="F3T212"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="13:00">
      
     </Hour>
     <Hour name="14:00">
-      <Teacher name="Xavi9"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.08"></Room>
+      <Teacher name="Xavi9"></Teacher><Subject name="SENCH6"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.08"></Room>
     </Hour>
     <Hour name="15:00">
-      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
     <Hour name="16:00">
-      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="H1.04A"></Room>
+      <Teacher name="Messi"></Teacher><Subject name="H9E246"></Subject><Activity_Tag name="WESTWING"></Activity_Tag><Activity_Tag name="A"></Activity_Tag><Room name="B1.04A"></Room>
     </Hour>
    </Day>
    <Day name="Friday">

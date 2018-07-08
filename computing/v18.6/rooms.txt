@@ -10,11 +10,11 @@
 | NRR      | NRR   | 2        |         10 |
 | STB      | A     | 1        |         94 |
 | STB      | A     | 2        |         90 |
-| STB      | BF45A | 1        |         11 |
-| STB      | BF45A | 2        |         11 |
-| STB      | BF47  | 1        |         12 |
-| STB      | BF47  | 2        |         12 |
-| STB      | BS50  | 1        |         16 |
+| STB      | XY45A | 1        |         11 |
+| STB      | XY45A | 2        |         11 |
+| STB      | XY47  | 1        |         12 |
+| STB      | XY47  | 2        |         12 |
+| STB      | XY50  | 1        |         16 |
 | STB      | CISCO | 1        |         22 |
 | STB      | CISCO | 2        |         35 |
 | STB      | NRR   | 1        |          2 |
@@ -22,6 +22,6 @@
 | STB      | V     | 1        |         54 |
 | STB      | V     | 2        |         69 |
 | EASTERN  | A     | ALL      |          8 |
-| EASTERN  | S3.12 | 1        |         15 |
-| EASTERN  | S3.12 | 2        |         14 |
+| EASTERN  | A3.12 | 1        |         15 |
+| EASTERN  | A3.12 | 2        |         14 |
 +----------+-------+----------+------------+

@@ -1,0 +1,42 @@
++-------------+----------+------------+
+| lecturer    | semester | SUM(hours) |
++-------------+----------+------------+
+| PSG1        | 1        |          2 |
+| PSG1        | 2        |          3 |
+| ANO1        | 1        |         11 |
+| ANO2        | 1        |          2 |
+| Pele10      | 1        |         20 |
+| Pele10      | 2        |         22 |
+| Maradona    | 1        |         24 |
+| Maradona    | 2        |         24 |
+| DUMMY       | 2        |          3 |
+| Becks       | 1        |         18 |
+| Becks       | 2        |         17 |
+| VPG         | 1        |         16 |
+| VPG         | 2        |         13 |
+| Cruyff8     | 1        |         21 |
+| Cruyff8     | 2        |         26 |
+| Bob         | 1        |         14 |
+| Bob         | 2        |         19 |
+| Pirlo       | 1        |          6 |
+| Pirlo       | 2        |          8 |
+| Kaka7       | 1        |         19 |
+| Kaka7       | 2        |         24 |
+| John        | 1        |         20 |
+| John        | 2        |         22 |
+| NLR         | 1        |         24 |
+| NLR         | 2        |         27 |
+| Zidane      | 1        |         19 |
+| Zidane      | 2        |         20 |
+| Xavi9       | 1        |         20 |
+| Xavi9       | 2        |         21 |
+| Ronal       | 1        |         16 |
+| Ronal       | 2        |         14 |
+| Ronal+Becks | 2        |          4 |
+| Gullit      | 1        |          3 |
+| Gullit      | 2        |          5 |
+| Neymar9     | 1        |         13 |
+| Neymar9     | 2        |         13 |
+| Messi       | 1        |         16 |
+| Messi       | 2        |          9 |
++-------------+----------+------------+
